@@ -1,0 +1,48 @@
+name: GSA batch analysis
+
+# GSA is a licensed Windows desktop engine, so this must run on a self-hosted
+# Windows runner that has Oasys GSA installed, licensed, and on PATH.
+on:
+  workflow_dispatch:
+    inputs:
+      input_dir:
+        description: Folder (in repo) containing .gwb models
+        default: gsa-lifecycle/models
+      gsa_version:
+        description: Installed GSA version
+        default: "10.2"
+  push:
+    paths:
+      - gsa-lifecycle/models/**
+      - gsa-lifecycle/gsa_batch/**
+
+jobs:
+  analyse:
+    runs-on: [self-hosted, windows, gsa]
+    defaults:
+      run:
+        working-directory: gsa-lifecycle
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run batch analysis
+        run: >-
+          python -m gsa_batch.cli
+          --input "${{ github.event.inputs.input_dir || 'models' }}"
+          --out out
+          --gsa-version "${{ github.event.inputs.gsa_version || '10.2' }}"
+          --verbose
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gsa-results
+          path: gsa-lifecycle/out/**

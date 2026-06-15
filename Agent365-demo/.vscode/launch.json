@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Construction Agent (.NET)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "src/ConstructionCompliance.Agent/ConstructionCompliance.Agent.csproj",
+        "--urls",
+        "http://localhost:5099"
+      ],
+      "cwd": "${workspaceFolder}/Agent365-demo",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
+    }
+  ]
+}

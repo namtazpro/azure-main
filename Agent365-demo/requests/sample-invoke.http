@@ -1,0 +1,23 @@
+### Health check
+GET http://localhost:5099/health
+
+### Agent365 registration payload
+GET http://localhost:5099/api/agent365/registration
+
+### Constraint identification sample
+POST http://localhost:5099/api/agent/invoke
+Content-Type: application/json
+
+{
+  "country": "Canada",
+  "stateOrProvince": "Ontario",
+  "cityOrMunicipality": "Toronto",
+  "buildingType": "Mixed-use",
+  "occupancyClass": "Residential and retail",
+  "designStage": "Schematic",
+  "query": "What fire and accessibility constraints apply for this design?",
+  "designParameters": {
+    "floors": "14",
+    "heightMeters": "52"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "$schema": "https://example.agent365.schemas/agent-manifest.v1.json",
+  "manifestVersion": "1.0.0",
+  "agent": {
+    "id": "construction-compliance-intelligence-agent",
+    "displayName": "Construction Compliance Intelligence Agent",
+    "description": "Assists engineers and architects with jurisdiction-aware building regulation constraints and early compliance risk checks.",
+    "domain": "construction",
+    "owner": "Architecture and Engineering Enablement",
+    "version": "0.1.0",
+    "defaultLocale": "en-US",
+    "supportedLocales": [
+      "en-US"
+    ]
+  },
+  "runtime": {
+    "framework": "microsoft-agent-framework",
+    "language": "dotnet",
+    "entryPoint": "src/ConstructionCompliance.Agent/Program.cs",
+    "healthEndpoint": "/health",
+    "invokeEndpoint": "/api/agent/invoke"
+  },
+  "agent365Sdk": {
+    "sdkName": "agent365-sdk",
+    "registrationMode": "manual",
+    "capabilities": [
+      "jurisdiction-resolution",
+      "regulation-retrieval",
+      "constraint-extraction",
+      "design-risk-screening",
+      "cross-country-comparison"
+    ]
+  },
+  "skills": [
+    {
+      "name": "jurisdictionResolver",
+      "description": "Resolves country and municipality to authoritative regulation set and version.",
+      "required": true
+    },
+    {
+      "name": "regulationRetrieval",
+      "description": "Retrieves applicable code clauses and official references.",
+      "required": true
+    },
+    {
+      "name": "constraintEngine",
+      "description": "Transforms legal text into normalized design constraints.",
+      "required": true
+    },
+    {
+      "name": "designChecker",
+      "description": "Evaluates supplied design parameters against extracted constraints.",
+      "required": true
+    },
+    {
+      "name": "citationAudit",
+      "description": "Ensures responses include traceable references and version metadata.",
+      "required": true
+    }
+  ],
+  "security": {
+    "requiresAuthentication": true,
+    "authorizationModel": "rbac",
+    "piiRedaction": true,
+    "auditLogging": true
+  },
+  "policy": {
+    "mustCiteSources": true,
+    "mustIncludeRegulationVersion": true,
+    "allowUncitedResponses": false,
+    "unsupportedJurisdictionBehavior": "return_unknown_with_guidance",
+    "advisoryOnlyDisclaimer": true
+  },
+  "inputContract": {
+    "required": [
+      "country",
+      "buildingType",
+      "occupancyClass",
+      "designStage"
+    ],
+    "optional": [
+      "stateOrProvince",
+      "cityOrMunicipality",
+      "targetSubmissionDate",
+      "floors",
+      "heightMeters",
+      "grossFloorAreaM2",
+      "constructionType",
+      "specialRiskAreas"
+    ]
+  },
+  "outputContract": {
+    "required": [
+      "applicableRegulations",
+      "constraints",
+      "riskFindings",
+      "citations",
+      "coverageStatus"
+    ],
+    "optional": [
+      "clarificationRequests",
+      "assumptions",
+      "confidence"
+    ]
+  },
+  "observability": {
+    "emitTraceId": true,
+    "emitSkillTimings": true,
+    "emitCoverageMetrics": true
+  }
+}

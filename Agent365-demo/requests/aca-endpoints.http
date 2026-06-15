@@ -1,0 +1,50 @@
+@baseUrl = https://cca-eng-agent.ashyglacier-2ee2d10d.northeurope.azurecontainerapps.io
+
+### Health
+GET {{baseUrl}}/health
+
+### Agent365 registration metadata
+GET {{baseUrl}}/api/agent365/registration
+
+### Invoke - supported jurisdiction with risk check
+POST {{baseUrl}}/api/agent/invoke
+Content-Type: application/json
+
+{
+  "country": "Canada",
+  "stateOrProvince": "Ontario",
+  "cityOrMunicipality": "Toronto",
+  "buildingType": "Mixed-use",
+  "occupancyClass": "Residential and retail",
+  "designStage": "Schematic",
+  "query": "Check pre-permit risk for this concept",
+  "designParameters": {
+    "floors": "14",
+    "heightMeters": "52"
+  }
+}
+
+### Invoke - unsupported jurisdiction
+POST {{baseUrl}}/api/agent/invoke
+Content-Type: application/json
+
+{
+  "country": "Brazil",
+  "buildingType": "Hospital",
+  "occupancyClass": "Healthcare",
+  "designStage": "Concept",
+  "query": "What constraints apply?",
+  "designParameters": {}
+}
+
+### Invoke - missing required fields
+POST {{baseUrl}}/api/agent/invoke
+Content-Type: application/json
+
+{
+  "country": "",
+  "buildingType": "",
+  "occupancyClass": "Residential",
+  "designStage": "",
+  "query": ""
+}

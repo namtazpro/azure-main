@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConstructionCompliance.Agent/1.0.0": {
+        "runtime": {
+          "ConstructionCompliance.Agent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstructionCompliance.Agent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

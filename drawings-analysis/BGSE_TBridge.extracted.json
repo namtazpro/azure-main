@@ -1,0 +1,737 @@
+{
+  "source_file": "BGSE_TBridge.pdf",
+  "document": {
+    "title": "Peters Creek Bridge",
+    "project_no": "TBRDG",
+    "page_count": 8,
+    "drawn_by": "TBQ",
+    "firm": "Quimby & Associates, Consulting Engineers",
+    "revision_date": "8/23/07",
+    "cad_producer": "Acrobat PDFMaker 8.1 for AutoCAD",
+    "pdf_created": "D:20080103141542-09'00'",
+    "is_vector": true
+  },
+  "general_notes": [
+    "All member and connection design is to be in accordance with latest version of the American Institute of Steel Construction (AISC) Specification for Structural Steel Buildings and the AISC Specification for Structural Joints using ASTM A325 or A490 bolts as found in the AISC Steel Construction Manual (SCM).",
+    "All steel is the preferred type for each shape as indicated in the Steel Construction Manual unless otherwise noted or specified in problem statements.",
+    "All bolts are 3 4\" dia. A325-N unless otherwise noted or specificed in problem statements.",
+    "Concrete 28-day strength, f'c, is 4,000 psi",
+    "The drawings presented here are schematic in nature. Actual member and bolt types and sizes and connection configurations are subject to change during problem completition.",
+    "These drawings are intended for use in teaching structural steel design and are not intended for actual construction."
+  ],
+  "sheet_index": [
+    {
+      "sheet": "S1",
+      "description": "Isometric"
+    },
+    {
+      "sheet": "S2",
+      "description": "Plan, Profile, & Section"
+    },
+    {
+      "sheet": "S3-S7",
+      "description": "Connection Details"
+    }
+  ],
+  "sheets": [
+    {
+      "page": 1,
+      "sheet_id": "COV",
+      "discipline_title": "COVER SHEET",
+      "scales": [],
+      "dimensions": [],
+      "components": {
+        "Bolt": 3
+      },
+      "view_callouts": [],
+      "cross_references": []
+    },
+    {
+      "page": 2,
+      "sheet_id": "S1",
+      "discipline_title": "ISOMETRIC & NOTES",
+      "scales": [
+        "1/8\" = 1'-0\""
+      ],
+      "dimensions": [
+        "1'-0\""
+      ],
+      "components": {
+        "Top Chord": 1,
+        "Bottom Chord": 1,
+        "Diagonal": 1,
+        "Vertical": 1,
+        "End Girder": 1,
+        "Girder": 2,
+        "Deck Beam": 1
+      },
+      "view_callouts": [
+        {
+          "sheet": "S1",
+          "view_no": "1",
+          "title": "BRIDGE ISOMETRIC VIEW",
+          "scale": "1/8\" = 1'-0\"",
+          "view_type": "Isometric"
+        }
+      ],
+      "cross_references": []
+    },
+    {
+      "page": 3,
+      "sheet_id": "S2",
+      "discipline_title": "PLAN, PROFILE & SECTION",
+      "scales": [
+        "1/8\" = 1'-0\""
+      ],
+      "dimensions": [
+        "1'-0\"",
+        "12'-9\"",
+        "16'-9\"",
+        "2'-0\"",
+        "25'-4\"",
+        "27'-2\"",
+        "4'-0\"",
+        "6'-0\"",
+        "7'-6\""
+      ],
+      "components": {
+        "End Girder": 1,
+        "Girder": 3,
+        "Deck Beam": 2,
+        "Conc. Deck": 1,
+        "Truss": 1
+      },
+      "view_callouts": [
+        {
+          "sheet": "S2",
+          "view_no": "2",
+          "title": "BRIDGE PROFILE",
+          "scale": "1/8\" = 1'-0\"",
+          "view_type": "Profile"
+        },
+        {
+          "sheet": "S2",
+          "view_no": "3",
+          "title": "BRIDGE SECTION",
+          "scale": "1/8\" = 1'-0\"",
+          "view_type": "Section"
+        },
+        {
+          "sheet": "S2",
+          "view_no": "1",
+          "title": "BRIDGE PLAN",
+          "scale": "1/8\" = 1'-0\"",
+          "view_type": "Plan"
+        }
+      ],
+      "cross_references": [
+        {
+          "from_sheet": "S2",
+          "detail_no": "6",
+          "to_sheet": "S3"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "3",
+          "to_sheet": "S6"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "6",
+          "to_sheet": "S4"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "4",
+          "to_sheet": "S6"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "2",
+          "to_sheet": "S3"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "3",
+          "to_sheet": "S5"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "3",
+          "to_sheet": "S7"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "2",
+          "to_sheet": "S7"
+        },
+        {
+          "from_sheet": "S2",
+          "detail_no": "5",
+          "to_sheet": "S4"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "sheet_id": "S3",
+      "discipline_title": "CONNECTION DETAILS",
+      "scales": [
+        "1\" = 1'-0\"",
+        "1/2\" = 1'-0\"",
+        "3/4\" = 1'-0\""
+      ],
+      "dimensions": [
+        "1'-0\""
+      ],
+      "components": {
+        "Top Chord": 5,
+        "Btm Chord": 3,
+        "Vertical": 2,
+        "End Girder": 3,
+        "Girder": 3,
+        "Deck Beam": 3,
+        "Gusset Plate": 2,
+        "Connection Angle": 2,
+        "Foundation Pin": 3,
+        "Lattice Plate": 2,
+        "Channel": 2
+      },
+      "view_callouts": [
+        {
+          "sheet": "S3",
+          "view_no": "1",
+          "title": "JOINT A ISOMETRIC VIEW",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Isometric"
+        },
+        {
+          "sheet": "S3",
+          "view_no": "2",
+          "title": "TOP CHORD SECTION",
+          "scale": "1\" = 1'-0\"",
+          "view_type": "Section"
+        },
+        {
+          "sheet": "S3",
+          "view_no": "5",
+          "title": "JOINT A SECTION",
+          "scale": "3/4\" = 1'-0\"",
+          "view_type": "Section"
+        },
+        {
+          "sheet": "S3",
+          "view_no": "6",
+          "title": "JOINT A FRONT VIEW",
+          "scale": "3/4\" = 1'-0\"",
+          "view_type": "Front View"
+        },
+        {
+          "sheet": "S3",
+          "view_no": null,
+          "title": "JOINT A FRONT VIEW",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Front View"
+        },
+        {
+          "sheet": "S3",
+          "view_no": "3",
+          "title": "TOP CHORD BTM VIEW",
+          "scale": "1\" = 1'-0\"",
+          "view_type": "Btm View"
+        }
+      ],
+      "cross_references": []
+    },
+    {
+      "page": 5,
+      "sheet_id": "S4",
+      "discipline_title": "CONNECTION DETAILS",
+      "scales": [
+        "1/2\" = 1'-0\"",
+        "3/4\" = 1'-0\""
+      ],
+      "dimensions": [
+        "1'-0\""
+      ],
+      "components": {
+        "Btm Chord": 3,
+        "Vertical": 3,
+        "Girder": 5,
+        "Deck Beam": 5,
+        "Gusset Plate": 4,
+        "Connection Angle": 4,
+        "Conc. Deck": 1
+      },
+      "view_callouts": [
+        {
+          "sheet": "S4",
+          "view_no": "1",
+          "title": "JOINT B ISOMETRIC VIEW",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Isometric"
+        },
+        {
+          "sheet": "S4",
+          "view_no": "3",
+          "title": "JOINT B TOP VIEW",
+          "scale": "3/4\" = 1'-0\"",
+          "view_type": "Top View"
+        },
+        {
+          "sheet": "S4",
+          "view_no": "5",
+          "title": "JOINT B SECTION",
+          "scale": "3/4\" = 1'-0\"",
+          "view_type": "Section"
+        },
+        {
+          "sheet": "S4",
+          "view_no": "6",
+          "title": "JOINT B FRONT VIEW",
+          "scale": "3/4\" = 1'-0\"",
+          "view_type": "Front View"
+        },
+        {
+          "sheet": "S4",
+          "view_no": "7",
+          "title": "JOINT B FRONT VIEW",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Front View"
+        },
+        {
+          "sheet": "S4",
+          "view_no": "2",
+          "title": "ALTERNATE GIRDER CONN.",
+          "scale": null,
+          "view_type": "Other"
+        }
+      ],
+      "cross_references": []
+    },
+    {
+      "page": 6,
+      "sheet_id": "S5",
+      "discipline_title": "CONNECTION DETAILS",
+      "scales": [
+        "1\" = 1'-0\"",
+        "1/2\" = 1'-0\""
+      ],
+      "dimensions": [
+        "1'-0\""
+      ],
+      "components": {
+        "Btm Chord": 4,
+        "Diagonal": 6,
+        "Vertical": 3,
+        "Girder": 2,
+        "Deck Beam": 3,
+        "Gusset Plate": 3,
+        "Connection Angle": 1
+      },
+      "view_callouts": [
+        {
+          "sheet": "S5",
+          "view_no": "1",
+          "title": "JOINT C ISOMETRIC VIEW",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Isometric"
+        },
+        {
+          "sheet": "S5",
+          "view_no": null,
+          "title": "JOINT C ISOMETRIC VIEW",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Isometric"
+        },
+        {
+          "sheet": "S5",
+          "view_no": "3",
+          "title": "JOINT C FRONT VIEW",
+          "scale": "1\" = 1'-0\"",
+          "view_type": "Front View"
+        }
+      ],
+      "cross_references": [
+        {
+          "from_sheet": "S5",
+          "detail_no": "5",
+          "to_sheet": "S4"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "sheet_id": "S6",
+      "discipline_title": "CONNECTION DETAILS",
+      "scales": [
+        "1\" = 1'-0\"",
+        "1/2\" = 1'-0\""
+      ],
+      "dimensions": [
+        "1'-0\""
+      ],
+      "components": {
+        "Top Chord": 5,
+        "Diagonal": 2,
+        "Vertical": 4,
+        "Gusset Plate": 2,
+        "Channel": 1
+      },
+      "view_callouts": [
+        {
+          "sheet": "S6",
+          "view_no": "1",
+          "title": "JOINT D ISOMETRIC",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Isometric"
+        },
+        {
+          "sheet": "S6",
+          "view_no": null,
+          "title": "JOINT D DETAIL",
+          "scale": "1\" = 1'-0\"",
+          "view_type": "Detail"
+        },
+        {
+          "sheet": "S6",
+          "view_no": "4",
+          "title": "JOINT E DETAIL",
+          "scale": "1\" = 1'-0\"",
+          "view_type": "Detail"
+        },
+        {
+          "sheet": "S6",
+          "view_no": "2",
+          "title": "JOINT E ISOMETRIC",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Isometric"
+        }
+      ],
+      "cross_references": [
+        {
+          "from_sheet": "S6",
+          "detail_no": "2",
+          "to_sheet": "S3"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "sheet_id": "S7",
+      "discipline_title": "CONNECTION DETAILS",
+      "scales": [
+        "1\" = 1'-0\"",
+        "1/2\" = 1'-0\""
+      ],
+      "dimensions": [
+        "1'-0\""
+      ],
+      "components": {
+        "Top Chord": 2,
+        "Diagonal": 4,
+        "Vertical": 2,
+        "Girder": 1,
+        "Deck Beam": 1,
+        "Gusset Plate": 2,
+        "Connection Angle": 1,
+        "Conc. Slab": 1
+      },
+      "view_callouts": [
+        {
+          "sheet": "S7",
+          "view_no": "1",
+          "title": "JOINT F ISOMETRIC",
+          "scale": "1/2\" = 1'-0\"",
+          "view_type": "Isometric"
+        },
+        {
+          "sheet": "S7",
+          "view_no": null,
+          "title": "JOINT F DETAIL",
+          "scale": "1\" = 1'-0\"",
+          "view_type": "Detail"
+        },
+        {
+          "sheet": "S7",
+          "view_no": "2",
+          "title": "BEAM-BEAM CONNECTION DETAIL",
+          "scale": "1\" = 1'-0\"",
+          "view_type": "Detail"
+        }
+      ],
+      "cross_references": [
+        {
+          "from_sheet": "S7",
+          "detail_no": "2",
+          "to_sheet": "S3"
+        }
+      ]
+    }
+  ],
+  "cross_reference_graph": [
+    {
+      "from_sheet": "S2",
+      "detail_no": "6",
+      "to_sheet": "S3"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "3",
+      "to_sheet": "S6"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "6",
+      "to_sheet": "S4"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "4",
+      "to_sheet": "S6"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "2",
+      "to_sheet": "S3"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "3",
+      "to_sheet": "S5"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "3",
+      "to_sheet": "S7"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "2",
+      "to_sheet": "S7"
+    },
+    {
+      "from_sheet": "S2",
+      "detail_no": "5",
+      "to_sheet": "S4"
+    },
+    {
+      "from_sheet": "S5",
+      "detail_no": "5",
+      "to_sheet": "S4"
+    },
+    {
+      "from_sheet": "S6",
+      "detail_no": "2",
+      "to_sheet": "S3"
+    },
+    {
+      "from_sheet": "S7",
+      "detail_no": "2",
+      "to_sheet": "S3"
+    }
+  ],
+  "view_callouts": [
+    {
+      "sheet": "S1",
+      "view_no": "1",
+      "title": "BRIDGE ISOMETRIC VIEW",
+      "scale": "1/8\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S2",
+      "view_no": "2",
+      "title": "BRIDGE PROFILE",
+      "scale": "1/8\" = 1'-0\"",
+      "view_type": "Profile"
+    },
+    {
+      "sheet": "S2",
+      "view_no": "3",
+      "title": "BRIDGE SECTION",
+      "scale": "1/8\" = 1'-0\"",
+      "view_type": "Section"
+    },
+    {
+      "sheet": "S2",
+      "view_no": "1",
+      "title": "BRIDGE PLAN",
+      "scale": "1/8\" = 1'-0\"",
+      "view_type": "Plan"
+    },
+    {
+      "sheet": "S3",
+      "view_no": "1",
+      "title": "JOINT A ISOMETRIC VIEW",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S3",
+      "view_no": "2",
+      "title": "TOP CHORD SECTION",
+      "scale": "1\" = 1'-0\"",
+      "view_type": "Section"
+    },
+    {
+      "sheet": "S3",
+      "view_no": "5",
+      "title": "JOINT A SECTION",
+      "scale": "3/4\" = 1'-0\"",
+      "view_type": "Section"
+    },
+    {
+      "sheet": "S3",
+      "view_no": "6",
+      "title": "JOINT A FRONT VIEW",
+      "scale": "3/4\" = 1'-0\"",
+      "view_type": "Front View"
+    },
+    {
+      "sheet": "S3",
+      "view_no": null,
+      "title": "JOINT A FRONT VIEW",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Front View"
+    },
+    {
+      "sheet": "S3",
+      "view_no": "3",
+      "title": "TOP CHORD BTM VIEW",
+      "scale": "1\" = 1'-0\"",
+      "view_type": "Btm View"
+    },
+    {
+      "sheet": "S4",
+      "view_no": "1",
+      "title": "JOINT B ISOMETRIC VIEW",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S4",
+      "view_no": "3",
+      "title": "JOINT B TOP VIEW",
+      "scale": "3/4\" = 1'-0\"",
+      "view_type": "Top View"
+    },
+    {
+      "sheet": "S4",
+      "view_no": "5",
+      "title": "JOINT B SECTION",
+      "scale": "3/4\" = 1'-0\"",
+      "view_type": "Section"
+    },
+    {
+      "sheet": "S4",
+      "view_no": "6",
+      "title": "JOINT B FRONT VIEW",
+      "scale": "3/4\" = 1'-0\"",
+      "view_type": "Front View"
+    },
+    {
+      "sheet": "S4",
+      "view_no": "7",
+      "title": "JOINT B FRONT VIEW",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Front View"
+    },
+    {
+      "sheet": "S4",
+      "view_no": "2",
+      "title": "ALTERNATE GIRDER CONN.",
+      "scale": null,
+      "view_type": "Other"
+    },
+    {
+      "sheet": "S5",
+      "view_no": "1",
+      "title": "JOINT C ISOMETRIC VIEW",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S5",
+      "view_no": null,
+      "title": "JOINT C ISOMETRIC VIEW",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S5",
+      "view_no": "3",
+      "title": "JOINT C FRONT VIEW",
+      "scale": "1\" = 1'-0\"",
+      "view_type": "Front View"
+    },
+    {
+      "sheet": "S6",
+      "view_no": "1",
+      "title": "JOINT D ISOMETRIC",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S6",
+      "view_no": null,
+      "title": "JOINT D DETAIL",
+      "scale": "1\" = 1'-0\"",
+      "view_type": "Detail"
+    },
+    {
+      "sheet": "S6",
+      "view_no": "4",
+      "title": "JOINT E DETAIL",
+      "scale": "1\" = 1'-0\"",
+      "view_type": "Detail"
+    },
+    {
+      "sheet": "S6",
+      "view_no": "2",
+      "title": "JOINT E ISOMETRIC",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S7",
+      "view_no": "1",
+      "title": "JOINT F ISOMETRIC",
+      "scale": "1/2\" = 1'-0\"",
+      "view_type": "Isometric"
+    },
+    {
+      "sheet": "S7",
+      "view_no": null,
+      "title": "JOINT F DETAIL",
+      "scale": "1\" = 1'-0\"",
+      "view_type": "Detail"
+    },
+    {
+      "sheet": "S7",
+      "view_no": "2",
+      "title": "BEAM-BEAM CONNECTION DETAIL",
+      "scale": "1\" = 1'-0\"",
+      "view_type": "Detail"
+    }
+  ],
+  "component_index": {
+    "Bolt": 3,
+    "Bottom Chord": 1,
+    "Btm Chord": 4,
+    "Channel": 1,
+    "Conc. Deck": 1,
+    "Conc. Slab": 1,
+    "Connection Angle": 1,
+    "Deck Beam": 1,
+    "Diagonal": 4,
+    "End Girder": 3,
+    "Foundation Pin": 3,
+    "Girder": 1,
+    "Gusset Plate": 2,
+    "Lattice Plate": 2,
+    "Top Chord": 2,
+    "Truss": 1,
+    "Vertical": 2
+  }
+}
