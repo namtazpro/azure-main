@@ -1,0 +1,2 @@
+A rapid prototyping solution as part of innovation hub session to demonstrate what a solution could look like.
+Valid approach with the inno hub session is brainstorming on a use-case part of a business process and we need to help the customer articulate what they are looking for. Going visual with a mocked UI help bring the two parties MS and cx into the same understanding.

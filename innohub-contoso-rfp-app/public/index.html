@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contoso Construction — RFP Response Builder</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet" />
+</head>
+<body>
+  <!-- ===== Top Navigation Bar ===== -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <div class="logo">
+        <i class="fas fa-hard-hat"></i>
+        <span class="logo-text">Contoso <strong>Construction</strong></span>
+      </div>
+      <span class="app-name">RFP Response Builder</span>
+    </div>
+    <div class="topbar-right">
+      <span class="topbar-env">SmartBids™ Connected</span>
+      <div class="topbar-user">
+        <i class="fas fa-user-circle"></i>
+        <span>Sarah Mitchell</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== Main Content ===== -->
+  <main class="main-content">
+    <!-- ===== Screen 1 — Project Selector & Details ===== -->
+    <section id="screen-project" class="screen active">
+      <!-- Project Selector -->
+      <div class="section-bar">
+        <h2><i class="fas fa-folder-open"></i> Select a CRM Project</h2>
+      </div>
+      <div class="project-selector">
+        <div class="select-wrapper">
+          <select id="project-dropdown">
+            <option value="">— Choose a project from the CRM —</option>
+          </select>
+          <i class="fas fa-chevron-down select-icon"></i>
+        </div>
+      </div>
+
+      <!-- Project Details (hidden until selection) -->
+      <div id="project-details" class="hidden">
+        <!-- Project Header Card -->
+        <div class="project-header-card">
+          <div class="project-header-left">
+            <h1 id="detail-name"></h1>
+            <p id="detail-description" class="project-desc"></p>
+          </div>
+          <div class="project-header-right">
+            <div class="meta-grid">
+              <div class="meta-item">
+                <span class="meta-label">Project ID</span>
+                <span class="meta-value" id="detail-id"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">Client</span>
+                <span class="meta-value" id="detail-client"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">Location</span>
+                <span class="meta-value" id="detail-location"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">Sector</span>
+                <span class="meta-value" id="detail-sector"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">Estimated Value</span>
+                <span class="meta-value highlight" id="detail-value"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">RFP Deadline</span>
+                <span class="meta-value deadline" id="detail-deadline"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">Date Created</span>
+                <span class="meta-value" id="detail-created"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">Bid Manager</span>
+                <span class="meta-value" id="detail-bidmanager"></span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-label">Status</span>
+                <span class="meta-value" id="detail-status"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Two-column: Documents + Past Projects -->
+        <div class="two-col">
+          <!-- Documents Panel -->
+          <div class="panel">
+            <div class="panel-header">
+              <h3><i class="fas fa-file-alt"></i> RFP Documents</h3>
+              <label class="upload-btn">
+                <i class="fas fa-cloud-upload-alt"></i> Upload Document
+                <input type="file" id="file-upload" hidden />
+              </label>
+            </div>
+            <div class="panel-body">
+              <table class="doc-table">
+                <thead>
+                  <tr>
+                    <th>Document Name</th>
+                    <th>Type</th>
+                    <th>Size</th>
+                    <th>Uploaded</th>
+                    <th>By</th>
+                  </tr>
+                </thead>
+                <tbody id="doc-table-body"></tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Past Projects Panel -->
+          <div class="panel">
+            <div class="panel-header">
+              <h3><i class="fas fa-history"></i> SmartBids™ — Matched Past Projects</h3>
+            </div>
+            <div class="panel-body">
+              <div id="past-projects-list"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Navigate to Staffing -->
+        <div class="nav-actions">
+          <button id="btn-go-staffing" class="btn-primary">
+            <i class="fas fa-users"></i> View Recommended Staffing
+            <i class="fas fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Screen 2 — Staffing ===== -->
+    <section id="screen-staffing" class="screen">
+      <div class="section-bar">
+        <div class="section-bar-left">
+          <button id="btn-back-project" class="btn-ghost">
+            <i class="fas fa-arrow-left"></i> Back to Project
+          </button>
+          <h2><i class="fas fa-users-cog"></i> Staffing Recommendations</h2>
+        </div>
+        <div class="section-bar-right">
+          <span class="project-tag" id="staffing-project-name"></span>
+        </div>
+      </div>
+
+      <div id="staffing-roles-container"></div>
+
+      <!-- Chat Panel -->
+      <div class="chat-panel">
+        <div class="chat-header">
+          <h3><i class="fas fa-comment-dots"></i> RFP Assistant — Chat with Your Data</h3>
+        </div>
+        <div class="chat-body" id="chat-body">
+          <div class="chat-message assistant">
+            <div class="chat-avatar"><i class="fas fa-robot"></i></div>
+            <div class="chat-bubble">
+              Hello! I can help you explore candidates, roles, documents, and past projects. Try asking:<br />
+              <em>"Who are the top candidates?"</em> or <em>"Show me locked resources"</em> or type <strong>help</strong>.
+            </div>
+          </div>
+        </div>
+        <div class="chat-input-row">
+          <input type="text" id="chat-input" placeholder="Ask about candidates, roles, documents…" />
+          <button id="chat-send"><i class="fas fa-paper-plane"></i></button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== Candidate Detail Modal ===== -->
+  <div id="modal-overlay" class="modal-overlay hidden" onclick="closeModal(event)">
+    <div class="modal" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeModal()"><i class="fas fa-times"></i></button>
+      <div class="modal-header">
+        <div class="modal-score" id="modal-score"></div>
+        <div>
+          <h2 id="modal-name"></h2>
+          <div class="modal-sub" id="modal-role"></div>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="modal-section">
+          <h4><i class="fas fa-user"></i> Profile</h4>
+          <div class="modal-meta" id="modal-meta"></div>
+        </div>
+        <div class="modal-section">
+          <h4><i class="fas fa-chart-bar"></i> Match Score Breakdown</h4>
+          <p class="modal-match-intro" id="modal-match-intro"></p>
+          <div id="modal-score-bars"></div>
+        </div>
+        <div class="modal-section">
+          <h4><i class="fas fa-tools"></i> Skills &amp; Expertise</h4>
+          <p id="modal-skills"></p>
+        </div>
+        <div class="modal-section">
+          <h4><i class="fas fa-building"></i> Key Projects</h4>
+          <div id="modal-projects" class="modal-chips"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
