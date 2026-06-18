@@ -1,0 +1,339 @@
+﻿@page
+@using ProcurementTenderingApp.Models
+@model IndexModel
+@{
+    ViewData["Title"] = "Tender Management";
+}
+
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h2 class="mb-1">Procurement Tendering Process</h2>
+                    <p class="text-muted">Kingdom Street Council</p>
+                </div>
+                <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#newTenderModal">
+                    <i class="bi bi-plus-circle me-2"></i>New Tender
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Tender List Section -->
+        <div class="col-md-@(Model.SelectedTender != null ? "5" : "12")">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0"><i class="bi bi-folder2-open me-2"></i>Submitted Tenders</h5>
+                </div>
+                <div class="card-body p-0">
+                    @if (Model.Tenders.Any())
+                    {
+                        <div class="list-group list-group-flush">
+                            @foreach (var tender in Model.Tenders)
+                            {
+                                <a href="/?tenderId=@tender.Id" class="list-group-item list-group-item-action @(Model.SelectedTenderId == tender.Id ? "active" : "")">
+                                    <div class="d-flex w-100 justify-content-between align-items-start">
+                                        <div class="flex-grow-1">
+                                            <h6 class="mb-1">@tender.Name</h6>
+                                            <p class="mb-1 small">
+                                                <i class="bi bi-person me-1"></i>@tender.SubmittedBy
+                                                <span class="ms-3"><i class="bi bi-calendar me-1"></i>@tender.SubmissionDate.ToString("dd MMM yyyy")</span>
+                                            </p>
+                                        </div>
+                                        <div class="text-end ms-3">
+                                            @if (tender.Status == TenderStatus.New)
+                                            {
+                                                <span class="badge bg-secondary">New</span>
+                                            }
+                                            else if (tender.Status == TenderStatus.InProgress)
+                                            {
+                                                <span class="badge bg-warning text-dark">In Progress</span>
+                                                @if (tender.Score.HasValue)
+                                                {
+                                                    <div class="mt-1">
+                                                        <span class="badge bg-info">@tender.Score/@tender.MaxScore</span>
+                                                    </div>
+                                                }
+                                            }
+                                            else if (tender.Status == TenderStatus.Completed)
+                                            {
+                                                <span class="badge bg-success">Completed</span>
+                                                @if (tender.Score.HasValue)
+                                                {
+                                                    <div class="mt-1">
+                                                        <span class="badge bg-info">@tender.Score/@tender.MaxScore</span>
+                                                    </div>
+                                                }
+                                            }
+                                            else if (tender.Status == TenderStatus.Blocked)
+                                            {
+                                                <span class="badge bg-danger">Blocked</span>
+                                            }
+                                        </div>
+                                    </div>
+                                    @if (!string.IsNullOrEmpty(tender.Comments))
+                                    {
+                                        <p class="mb-0 small text-muted mt-2">
+                                            <i class="bi bi-chat-left-text me-1"></i>@tender.Comments
+                                        </p>
+                                    }
+                                </a>
+                            }
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="p-4 text-center text-muted">
+                            <i class="bi bi-inbox display-4"></i>
+                            <p class="mt-2">No tenders submitted yet</p>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Document List Section -->
+        @if (Model.SelectedTender != null)
+        {
+            <div class="col-md-7">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-secondary text-white">
+                        <h5 class="mb-0"><i class="bi bi-file-earmark-text me-2"></i>Documents in Pack</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <button type="button" class="btn btn-success" onclick="assessTender(@Model.SelectedTender.Id)">
+                                <i class="bi bi-clipboard-check me-2"></i>Score Pack
+                            </button>
+                            @if (Model.SelectedTender.Status == TenderStatus.InProgress)
+                            {
+                                <button type="button" class="btn btn-primary ms-2" onclick="markComplete(@Model.SelectedTender.Id)">
+                                    <i class="bi bi-check-circle me-2"></i>Mark as Completed
+                                </button>
+                            }
+                        </div>
+
+                        <div class="list-group">
+                            @foreach (var doc in Model.SelectedTender.Documents)
+                            {
+                                <div class="list-group-item @(doc.IsQuestionsAndAnswers ? "list-group-item-warning" : "")">
+                                    <div class="d-flex w-100 justify-content-between align-items-center">
+                                        <div>
+                                            <h6 class="mb-1">
+                                                @if (doc.DocumentType == "PDF")
+                                                {
+                                                    <i class="bi bi-file-pdf text-danger me-2"></i>
+                                                }
+                                                else if (doc.DocumentType == "Word")
+                                                {
+                                                    <i class="bi bi-file-word text-primary me-2"></i>
+                                                }
+                                                else if (doc.DocumentType == "Excel")
+                                                {
+                                                    <i class="bi bi-file-excel text-success me-2"></i>
+                                                }
+                                                @doc.DocumentName
+                                            </h6>
+                                            <p class="mb-0 small text-muted">@((doc.FileSize / 1024.0 / 1024.0).ToString("F2")) MB</p>
+                                        </div>
+                                        <div>
+                                            @if (doc.IsQuestionsAndAnswers)
+                                            {
+                                                <button type="button" class="btn btn-sm btn-warning" onclick="showQuestionsAndAnswers()">
+                                                    <i class="bi bi-question-circle me-1"></i>View Q&A
+                                                </button>
+                                            }
+                                        </div>
+                                    </div>
+                                    @if (doc.IsQuestionsAndAnswers)
+                                    {
+                                        <div class="mt-2">
+                                            <span class="badge bg-warning text-dark">
+                                                <i class="bi bi-star-fill me-1"></i>Questions & Answers Document
+                                            </span>
+                                        </div>
+                                    }
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<!-- New Tender Modal -->
+<div class="modal fade" id="newTenderModal" tabindex="-1" aria-labelledby="newTenderModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <form method="post" asp-page-handler="CreateTender" enctype="multipart/form-data">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title" id="newTenderModalLabel">
+                        <i class="bi bi-plus-circle me-2"></i>Create New Tender
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="tenderName" class="form-label">Tender Name *</label>
+                        <input type="text" class="form-control" id="tenderName" name="tenderName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="submittedBy" class="form-label">Submitted By *</label>
+                        <input type="text" class="form-control" id="submittedBy" name="submittedBy" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="submissionDate" class="form-label">Submission Date</label>
+                        <input type="date" class="form-control" id="submissionDate" name="submissionDate" value="@DateTime.Now.ToString("yyyy-MM-dd")" readonly>
+                    </div>
+                    <div class="mb-3">
+                        <label for="zipFile" class="form-label">Upload ZIP File *</label>
+                        <input type="file" class="form-control" id="zipFile" name="zipFile" accept=".zip" required>
+                        <div class="form-text">Please upload a ZIP file containing all tender documents</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="comments" class="form-label">Comments</label>
+                        <textarea class="form-control" id="comments" name="comments" rows="3"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-upload me-2"></i>Upload Tender
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Questions & Answers Modal -->
+<div class="modal fade" id="qaModal" tabindex="-1" aria-labelledby="qaModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header bg-warning">
+                <h5 class="modal-title" id="qaModalLabel">
+                    <i class="bi bi-question-circle me-2"></i>Questions & Answers
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" id="qaContent">
+                <div class="text-center">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Assessment Progress Modal -->
+<div class="modal fade" id="assessmentModal" tabindex="-1" aria-labelledby="assessmentModalLabel" aria-hidden="true" data-bs-backdrop="static">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body text-center p-5">
+                <div class="spinner-border text-success mb-3" role="status" style="width: 3rem; height: 3rem;">
+                    <span class="visually-hidden">Assessing...</span>
+                </div>
+                <h5>Assessing Tender Pack...</h5>
+                <p class="text-muted">Please wait while we evaluate the documents</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function showQuestionsAndAnswers() {
+            const modal = new bootstrap.Modal(document.getElementById('qaModal'));
+            modal.show();
+
+            fetch('/?handler=QuestionsAndAnswers')
+                .then(response => response.json())
+                .then(data => {
+                    let html = '<div class="accordion" id="qaAccordion">';
+                    data.forEach((qa, index) => {
+                        html += `
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="heading${index}">
+                                    <button class="accordion-button ${index > 0 ? 'collapsed' : ''}" type="button" data-bs-toggle="collapse" data-bs-target="#collapse${index}" aria-expanded="${index === 0}" aria-controls="collapse${index}">
+                                        <strong>Q${qa.id}:</strong>&nbsp;${qa.question}
+                                    </button>
+                                </h2>
+                                <div id="collapse${index}" class="accordion-collapse collapse ${index === 0 ? 'show' : ''}" aria-labelledby="heading${index}" data-bs-parent="#qaAccordion">
+                                    <div class="accordion-body">
+                                        <div class="mb-3">
+                                            <h6 class="text-primary"><i class="bi bi-chat-left-text me-2"></i>Answer:</h6>
+                                            <p>${qa.answer}</p>
+                                        </div>
+                                        <div class="alert alert-info mb-0">
+                                            <h6 class="alert-heading"><i class="bi bi-clipboard-check me-2"></i>Evaluation Criteria:</h6>
+                                            <p class="mb-0">${qa.evaluationCriteria}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        `;
+                    });
+                    html += '</div>';
+                    document.getElementById('qaContent').innerHTML = html;
+                });
+        }
+
+        async function assessTender(tenderId) {
+            const modal = new bootstrap.Modal(document.getElementById('assessmentModal'));
+            modal.show();
+
+            try {
+                const response = await fetch(`/?handler=AssessTender&tenderId=${tenderId}`, {
+                    method: 'POST',
+                    headers: {
+                        'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                    }
+                });
+
+                const result = await response.json();
+                
+                if (result.success) {
+                    modal.hide();
+                    alert(`Assessment completed! Score: ${result.score}/10`);
+                    window.location.reload();
+                }
+            } catch (error) {
+                console.error('Error assessing tender:', error);
+                alert('An error occurred during assessment');
+                modal.hide();
+            }
+        }
+
+        async function markComplete(tenderId) {
+            if (confirm('Mark this tender as completed?')) {
+                try {
+                    const response = await fetch(`/?handler=MarkComplete&tenderId=${tenderId}`, {
+                        method: 'POST',
+                        headers: {
+                            'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                        }
+                    });
+
+                    const result = await response.json();
+                    
+                    if (result.success) {
+                        alert('Tender marked as completed!');
+                        window.location.reload();
+                    }
+                } catch (error) {
+                    console.error('Error marking complete:', error);
+                    alert('An error occurred');
+                }
+            }
+        }
+    </script>
+}

@@ -1,0 +1,52 @@
+"""Hosted agent: your own code + HTTP server, packaged into a container.
+
+Foundry deploys this container into a per-session sandbox and routes traffic to
+the Responses endpoint exposed by ResponsesHostServer.
+"""
+
+import asyncio
+import os
+from random import randint
+from typing import Annotated
+
+from agent_framework import Agent, tool
+from agent_framework.foundry import FoundryChatClient
+from agent_framework_foundry_hosting import ResponsesHostServer
+from azure.identity import DefaultAzureCredential
+from dotenv import load_dotenv
+from pydantic import Field
+
+load_dotenv()
+
+
+@tool(approval_mode="never_require")
+def get_weather(
+    location: Annotated[str, Field(description="The location to get the weather for.")],
+) -> str:
+    """Get the weather for a given location."""
+    conditions = ["sunny", "cloudy", "rainy", "stormy"]
+    return f"The weather in {location} is {conditions[randint(0, 3)]} with a high of {randint(10, 30)}°C."
+
+
+async def main() -> None:
+    client = FoundryChatClient(
+        project_endpoint=os.environ["FOUNDRY_PROJECT_ENDPOINT"],
+        model=os.environ["AZURE_AI_MODEL_DEPLOYMENT_NAME"],
+        credential=DefaultAzureCredential(),
+    )
+
+    agent = Agent(
+        client=client,
+        instructions="You are a friendly assistant. Keep your answers brief.",
+        tools=[get_weather],
+        # History is managed by the hosting infrastructure, so we don't ask
+        # the model service to store it again.
+        default_options={"store": False},
+    )
+
+    server = ResponsesHostServer(agent)
+    await server.run_async()
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
