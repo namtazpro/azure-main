@@ -74,26 +74,30 @@ Enforce Entra auth, disable local auth
 
 #### SE recommendation
 
-> _Add recommended Microsoft position, reference architecture pattern, or mitigation approach._
+Disable local/API key authentication for Foundry model consumption and require Entra ID authentication with role-based access control. Foundry models should only be consumed by an authenticated user or workload identity with explicitly assigned RBAC permissions.
 
 #### Pros
 
-- _Add benefit._
+- Provides per-user or per-workload traceability for audit evidence.
+- Removes the shared-secret exposure path if an API key is leaked.
+- Aligns with the source mitigation to enforce Entra auth and disable local auth.
 
 #### Cons / trade-offs
 
-- _Add trade-off, residual risk, cost, or dependency._
+- Requires all consuming applications, agents, and pipelines to use managed identity, workload identity, or user authentication rather than static keys.
+- Existing integrations using keys must be remediated before local auth is disabled.
 
 #### Decision made
 
-- **Decision**: _TBD_
-- **Owner**: _TBD_
-- **Date**: _TBD_
-- **Status**: _Open_
+- **Decision**: Disable keys for Foundry models and use Entra ID/RBAC-based access only.
+- **Owner**: Vincent Rouet / Microsoft SE team
+- **Date**: 18 June 2026, 05:01 PM GMT+1
+- **Status**: Decided
+- **Why**: The transcript confirms the decision was clear because shared Foundry API keys break unique-user auditability and create a broad exposure path if leaked. Enforcing authenticated identities provides auditable, role-scoped access.
 
 #### Next actions
 
-- [ ] _Add next action, owner, and due date._
+- [ ] Confirm Foundry local authentication can be disabled across all relevant environments and identify any key-based consumers that need migration.
 
 ---
 
@@ -123,26 +127,30 @@ Tighten identity scoping beyond standard least-privilege
 
 #### SE recommendation
 
-> _Add recommended Microsoft position, reference architecture pattern, or mitigation approach._
+Do not create a separate Foundry-specific risk action for this item. Treat agent tool and data access as an application SDLC control: only approved tools should be deployed, tool endpoints should be checked during CI/CD, and runtime tool access should be limited to registered MCP tools exposed through API Management and authorized through user authentication.
 
 #### Pros
 
-- _Add benefit._
+- Reuses the same control model already applied to traditional application development.
+- Keeps the compliance focus on code review, CI/CD validation, approved tool registration, and authenticated access.
+- Provides a practical control point by checking that tool URLs are approved MCP tools registered in API Management.
 
 #### Cons / trade-offs
 
-- _Add trade-off, residual risk, cost, or dependency._
+- Depends on CI/CD controls and review gates being consistently implemented.
+- Residual risk remains if developers add unapproved tools and those changes bypass review or deployment checks.
 
 #### Decision made
 
-- **Decision**: _TBD_
-- **Owner**: _TBD_
-- **Date**: _TBD_
-- **Status**: _Open_
+- **Decision**: No additional bespoke action is required for R2 beyond standard SDLC controls, CI/CD checks, approved MCP tool registration in API Management, and user-authorized access.
+- **Owner**: Vincent Rouet / Microsoft SE team
+- **Date**: 18 June 2026, 05:01 PM GMT+1
+- **Status**: Decided
+- **Why**: The transcript states that an agent can only access internal data through tools that have been coded, so this is equivalent to controlling backend data access in a traditional application. The agreed control is to validate during deployment that only approved MCP tools registered in API Management are used and that access is authorized by the user.
 
 #### Next actions
 
-- [ ] _Add next action, owner, and due date._
+- [ ] Define the CI/CD validation rule that checks tool endpoints against the approved MCP tool list in API Management.
 
 ---
 
