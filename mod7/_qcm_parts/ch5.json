@@ -1,0 +1,121 @@
+{
+  "questions": [
+    {
+      "question": "Quel type de dessin technique représente, en perspective, l'ensemble des pièces séparées pour situer chaque pièce par rapport aux autres et se retrouve également dans un IPC (Illustrated Part Catalog) ?",
+      "options": {
+        "A": "Le dessin éclaté (ou vue éclatée).",
+        "B": "Le dessin de définition.",
+        "C": "Le schéma de principe."
+      },
+      "correct": "A",
+      "explication": "Selon le § 1.2.4, la vue éclatée représente une pièce intégrée dans son ensemble afin de situer une pièce vis-à-vis des autres ; généralement en perspective, le détail des pièces se retrouve également dans une IPC : Illustrated Part Catalog.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans la convention européenne de projection, la vue de dessus est placée :",
+      "options": {
+        "A": "au-dessus de la vue de face.",
+        "B": "sous la vue de face.",
+        "C": "à droite de la vue de face."
+      },
+      "correct": "B",
+      "explication": "Le § 1.3 précise que dans la convention européenne, la vue de dessus est placée sous la vue de face et la vue de droite à gauche de la vue de face, ce qui revient à faire « rouler » la pièce au-dessus du plan sur lequel elle est posée.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la spécification ATA 100, à quel chapitre ATA correspond la rubrique « Trains d'atterrissage » (Landing Gear) ?",
+      "options": {
+        "A": "ATA 28.",
+        "B": "ATA 30.",
+        "C": "ATA 32."
+      },
+      "correct": "C",
+      "explication": "Le tableau ATA 100 du chapitre 4.2 indique que l'ATA 32 (LANDING GEAR) correspond aux trains d'atterrissage ; l'ATA 28 désigne le carburant et l'ATA 30 la protection givre et pluie.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle norme européenne s'applique aux matériels utilisables en atmosphères explosibles, notamment pour les opérations d'avitaillement ou d'inspection de réservoir ?",
+      "options": {
+        "A": "La norme ATEX.",
+        "B": "La norme ISO.",
+        "C": "La norme NAS."
+      },
+      "correct": "A",
+      "explication": "Le § 5.3 précise que la norme européenne ATEX (ATmosphères EXplosives) s'applique en aéronautique aux travaux en atelier, opérations d'avitaillement et interventions de maintenance en atmosphères explosives.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans une vue en coupe, les hachures symbolisent les traits de la scie et sont représentées en :",
+      "options": {
+        "A": "traits forts.",
+        "B": "traits fins.",
+        "C": "traits mixtes."
+      },
+      "correct": "B",
+      "explication": "Le § 1.5 (Les hachures) indique qu'elles symbolisent les traits de la scie et se représentent en traits fins ; pour une même pièce, elles sont identiques.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une perspective cavalière, les valeurs normalisées de l'angle des fuyantes et du rapport de réduction k sont :",
+      "options": {
+        "A": "a = 30° et k = 0,816.",
+        "B": "a = 45° et k = 0,5.",
+        "C": "a = 60° et k = 1."
+      },
+      "correct": "B",
+      "explication": "Le § 1.8.3 « Perspective cavalière » indique : les arêtes de bout sont inclinées d'un même angle a et réduites d'un même rapport k, avec valeurs normalisées a = 45° et k = 0,5.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans une perspective isométrique, quel angle sépare les axes principaux ?",
+      "options": {
+        "A": "60°.",
+        "B": "90°.",
+        "C": "120°."
+      },
+      "correct": "C",
+      "explication": "Le § 1.8.3 (perspectives axonométriques) précise pour la projection isométrique : « Angle à 120° », avec des fuyantes inclinées de 30° par rapport à l'horizontale.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la spécification ATA 100, le chapitre dédié au système « Fuel » (Carburant) est :",
+      "options": {
+        "A": "ATA 21.",
+        "B": "ATA 24.",
+        "C": "ATA 28."
+      },
+      "correct": "C",
+      "explication": "Le tableau ATA 100 du chapitre 4.2 attribue ATA 28 (FUEL) au carburant. ATA 21 correspond à l'air conditionné/pressurisation et ATA 24 à la génération électrique.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une cote portée sur un dessin sous la forme chiffrée « 15 -0,2 / +0,1 » exprime :",
+      "options": {
+        "A": "une dimension nominale assortie d'un écart inférieur et d'un écart supérieur (intervalle de tolérance).",
+        "B": "une cotation à l'échelle 1:1.",
+        "C": "une cote exprimée en pouces avec sa rugosité associée."
+      },
+      "correct": "A",
+      "explication": "Le § 1.7 (Tolérances) présente l'inscription chiffrée des tolérances : dimension nominale accompagnée d'un écart inférieur et d'un écart supérieur (ex. : 15 -0,2 +0,1), définissant l'intervalle de conformité.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la formule de base du calcul de la position du centre de gravité (CG) d'un aéronef ?",
+      "options": {
+        "A": "CG = Σ Masses / Σ Moments.",
+        "B": "CG = Σ Moments / Σ Masses.",
+        "C": "CG = Masse × Bras de levier."
+      },
+      "correct": "B",
+      "explication": "Le § 1.1.2 énonce la formule fondamentale : « CG = Σ Moments / Σ Masses », où Σ Moments est la somme de tous les moments (masse × bras de levier) et Σ Masses la somme de toutes les masses.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le moment d'un élément, utilisé dans le calcul de centrage, se calcule par :",
+      "options": {
+        "A": "masse × bras de levier.",
+        "B": "masse / bras de levier.",
+        "C": "bras de levier × surface portante."
+      },
+      "correct": "A",
+      "explication": "Le § 1.1.2 définit le moment : « Produit de la masse par son bras de levier (M = masse × bras) », exprimé en kg·m ou lb·in.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La MTOM (Maximum Take Off Mass) désigne :",
+      "options": {
+        "A": "la masse à vide équipée de l'aéronef au sortir d'usine.",
+        "B": "la masse maximale autorisée au contact avec le sol lors de l'atterrissage.",
+        "C": "la masse maximale autorisée au début du roulage pour le décollage, définie par le constructeur et certifiée par l'autorité."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2 définit la MTOM comme la masse maximale autorisée au début du roulage pour le décollage, définie par le constructeur et certifiée par l'autorité. La masse maximale à l'atterrissage est la MLM (Maximum Landing Mass).",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel effet typique est associé à un centre de gravité trop en avant (Forward) ?",
+      "options": {
+        "A": "Une diminution de la stabilité longitudinale et un avion très nerveux.",
+        "B": "Un risque de départ en vrille irrécouvrable.",
+        "C": "Une vitesse de décrochage augmentée et une difficulté à cabrer au décollage, avec danger principal d'impossibilité de lever le nez."
+      },
+      "correct": "C",
+      "explication": "Le § 1.2.3 liste pour un CG trop en avant : augmentation de la stabilité longitudinale, difficulté à cabrer au décollage, vitesse de décrochage augmentée, distance de décollage augmentée, avec danger principal d'impossibilité de lever le nez au décollage. La diminution de stabilité et le risque de vrille sont au contraire associés au CG trop arrière.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le centrage exprimé en pourcentage de la corde aérodynamique moyenne (% MAC) se calcule selon la formule :",
+      "options": {
+        "A": "% MAC = [(CG − LEMAC) / MAC] × 100.",
+        "B": "% MAC = (LEMAC × CG) / MAC.",
+        "C": "% MAC = (MAC / CG) × 100."
+      },
+      "correct": "A",
+      "explication": "Le § « Calcul du centrage en % MAC » donne explicitement : % MAC = [(CG − LEMAC) / MAC] × 100, où CG est la position du centre de gravité depuis le point de référence, LEMAC la position du bord d'attaque de la MAC depuis ce point, et MAC la longueur de la corde aérodynamique moyenne.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur le diagramme masse-centrage, la masse de l'aéronef est portée :",
+      "options": {
+        "A": "en abscisse.",
+        "B": "en diagonale.",
+        "C": "en ordonnée."
+      },
+      "correct": "C",
+      "explication": "Le § 1.2.2 « Représentation graphique » indique : « En abscisse : Position du CG (en m, in ou % MAC) ; En ordonnée : Masse de l'avion (en kg ou lb) ». La zone délimitée correspond à l'enveloppe ou plage autorisée.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans le manuel de maintenance (AMM), à quel chapitre ATA est rattachée la procédure « Weight and Balance » (pesée et centrage) ?",
+      "options": {
+        "A": "ATA 05.",
+        "B": "ATA 08.",
+        "C": "ATA 32."
+      },
+      "correct": "B",
+      "explication": "Le § 1.3.1 (Aircraft Maintenance Manual) précise que la pesée et le centrage sont traités au chapitre « Weight and Balance » ATA 08, avec 08-00 (Généralités), 08-10 (Pesée) et 08-20 (Calculs et documents).",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    }
+  ]
+}

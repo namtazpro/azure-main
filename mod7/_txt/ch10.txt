@@ -1,0 +1,254 @@
+===== PAGE 1 =====
+Module 7.10 V06   Page 1 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Module 7.10 
+ 
+RESSORTS 
+Licence B1 
+
+===== PAGE 2 =====
+Module 7.10 V06   Page 2 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées 
+à des tiers non habilités. 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 11/05/2016 
+Page de garde et page 
+1  
+ 
+ 
+Page de garde et page 1 : adresse, signatures 
+et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 01/06/17 Toutes Nouvelle édition 
+V06 13/02/2026 Toutes Mise à jour du contenu 
+ 
+  
+Visa Rédacteur / Visa Responsable 
+Module 
+Laurent VINGADASSALOM 
+Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+   
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.10 V06   Page 3 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7.10 : LES RESSORTS  
+ 
+Catégorie B1 : 80 questions à choix multiples, temps alloué 100 minutes.  
+ 2 questions à développement temps alloué 20 minutes/QD. 
+ 
+Catégorie B2 : 60 questions à choix multiples, temps alloué 75 minutes.  
+ 2 questions à développement temps alloué 20 minutes/QD. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+MODULE 7.10 LES RESSORTS Niveau 
+A B1 
+Inspections et tests des ressorts 1 2 
+ 
+  
+===== PAGE 4 =====
+Module 7.10 V06   Page 4 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.10 V06   Page 5 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1 INSPECTIONS ET TESTS DES RESSORTS ................................ ................................ ..........6 
+1.1 INSPECTIONS DES RESSORTS ................................ ................................ .................6 
+1.1.1 Inspections visuelles ; .............................................................................................. 7 
+1.1.2 Contrôle de dimension ; ........................................................................................... 8 
+1.2 TESTS DES RESSORTS ................................ ................................ ................................ ..8 
+ 
+  
+===== PAGE 6 =====
+Module 7.10 V06   Page 6 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1 INSPECTIONS ET TESTS DES RESSORTS 
+ 
+ 
+Rappel des objectifs  : Une connaissance générale des aspects théoriques et 
+pratiques des inspections et des tests sur les ressorts. Capacité à appliquer cette 
+connaissance. [Niveau 2] 
+ 
+1.1 INSPECTIONS DES RESSORTS 
+ 
+Les ressorts (compression, traction, torsion) sont considérés comme des pièces mécaniques 
+critiques lorsqu’ils interviennent dans des fonctions de verrouillage, de rappel, de sécurité ou de 
+commande. 
+Les contrôles sont réalisés conformément aux données approuvées et peuvent inclure : 
+ 
+Inspection visuelle 
+• Recherche de fissures, criques, corrosion, piqûres, déformations, 
+• Vérification de l’alignement, du pas, de la rectitude, 
+• Absence de spires jointives anormales, 
+• État des extrémités (crochets, pattes, surfaces d’appui) 
+ 
+Contrôle dimensionnel 
+• Longueur libre, 
+• Diamètre extérieur/intérieur, 
+• Nombre de spires actives, 
+• Comparaison avec les limites données par le constructeur.  
+ 
+Contrôle fonctionnel 
+• Effort ou raideur (le cas échéant), 
+• Capacité de rappel (retour à position neutre), 
+• Vérification de la tension ou compression sous charge spécifiée. 
+ 
+ 
+Exemple d'un contrôle de ressort de compression avec utilisation du CMM (Component 
+Maintenance Manuel) et de l'outillage spécifique d'une metering valve d'un A 320, présentation en 
+coupe de l'élément et la situation des ressorts avec le fonctionnement de la valve  et le rôle des 
+ressorts suivant l'AMM (Aircraft Maintenance Manuel).  
+
+===== PAGE 7 =====
+Module 7.10 V06   Page 7 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Quel que soit le type, un ressort convenablement conçu doit :  
+- Résister aux charges maximales qui lui seront appliquées. 
+- Se déformer selon les besoins et donc posséder une raideur bien définie (condition de 
+déformation).  
+1.1.1 Inspections visuelles ; 
+ 
+Voici un récapitulatif des principaux défauts rencontrés lors de l’inspection des ressorts : 
+ 
+Déformation (spires jointives pour un ressort de 
+compression, spires non jointives pour un ressort de 
+traction). 
+ 
+ 
+Flambage sous charge (inspection visuelle ressort en 
+place). 
+ 
+ 
+Corrosion. 
+ 
+ 
+Criques (en cas de doute effectuer un contrôle par 
+ressuage coloré). 
+ 
+ 
+Usure (interférence ou mauvais cheminement). 
+ 
+ 
+Couleur (traces de brûlures ou autres). 
+ 
+ 
+TOUTE ANOMALIE NECESSITE LE REMPLACEMENT DU RESSORT.  
+
+===== PAGE 8 =====
+Module 7.10 V06   Page 8 sur 8 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.2 Contrôle de dimension ;  
+ 
+Contrôle dimensionnel (avec pied à coulisse ou autres instruments de mesure). 
+- La hauteur du ressort détendu (Ho). 
+- Le pas (P). 
+- Le diamètre des spires (d). 
+Toute dimension hors tolérance nécessite le remplacement du ressort. 
+Certains contrôles nécessitant un outillage spécifique pourront être réalisés en atelier ou sur place. 
+ 
+ 
+1.2 TESTS DES RESSORTS 
+ 
+Les ressorts assurant des actions de précision (dosage, équilibrage…) seront essayés avant 
+montage afin de vérifier les caractéristiques de raideur. 
+- Mesure de la variation de la flèche en fonction de diverses charges. 
+- Comparaison des valeurs trouvées aux caractéristiques de référence du ressort. 
+- Possibilité de procéder à des tests de vie dynamique. 
+ 
+ 
+(Source Mecmesin) 

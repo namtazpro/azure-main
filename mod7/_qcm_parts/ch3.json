@@ -1,0 +1,186 @@
+{
+  "questions": [
+    {
+      "question": "Pour un pied à coulisse muni d'un vernier à 50 divisions, la précision de lecture est :",
+      "options": {
+        "A": "0,1 mm",
+        "B": "0,05 mm",
+        "C": "0,02 mm"
+      },
+      "correct": "C",
+      "explication": "Le module donne le calcul de précision pour les verniers : 10 divisions = 0,1 mm, 20 divisions = 0,05 mm, 50 divisions = 1/50 = 0,02 mm.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'une opération nécessitant une frappe à proximité immédiate d'un roulement ou d'une pièce trempée, la règle critique imposée par le module est :",
+      "options": {
+        "A": "utiliser un marteau acier directement, avec une frappe légère",
+        "B": "utiliser un jet intermédiaire en bronze, laiton ou aluminium pour absorber et répartir le choc",
+        "C": "chauffer la pièce avant la frappe afin d'éviter les microfissures"
+      },
+      "correct": "B",
+      "explication": "Le module interdit de frapper directement les roulements, filetages ou pièces trempées. Il faut toujours utiliser un jet intermédiaire (bronze, laiton, aluminium) qui absorbe l'énergie du choc, la répartit sur une surface plus large et protège la bague du roulement.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La spécification matériau imposée pour le fil à freiner aéronautique courant (référence MS20995C) est :",
+      "options": {
+        "A": "acier inoxydable A286 résistant à la corrosion et à la température",
+        "B": "cuivre étamé monobrin",
+        "C": "alliage cuivre-béryllium recuit"
+      },
+      "correct": "A",
+      "explication": "Le module précise comme matériau l'acier inoxydable A286 (résistant à la corrosion et à la température), avec les diamètres courants 0,51 mm, 0,81 mm et 1,04 mm sous spécification MS20995C.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après dénudage d'un conducteur électrique aéronautique, quel critère de refus impose le rebut du fil selon le module ?",
+      "options": {
+        "A": "plus de 10 % de brins sectionnés",
+        "B": "présence de tout brin entaillé, sans seuil de tolérance",
+        "C": "plus de 30 % de brins sectionnés"
+      },
+      "correct": "A",
+      "explication": "Le module fixe explicitement le critère de refus : tout conducteur présentant plus de 10 % de brins sectionnés doit être rebuté. Il faut alors recouper le fil et reposer une nouvelle cosse.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du choix d'un tournevis plat pour une vis à fente, la règle de sélection imposée par le module est :",
+      "options": {
+        "A": "lame légèrement plus large que la fente pour assurer un meilleur appui",
+        "B": "lame légèrement plus étroite que la fente pour ne pas marquer la tête",
+        "C": "largeur de la lame égale exactement à la largeur de la fente"
+      },
+      "correct": "C",
+      "explication": "Le module impose : largeur de la lame égale EXACTEMENT à la largeur de la fente. Une lame trop petite endommage le fond de la fente et provoque un dérapage ; une lame trop large déforme les bords de la tête.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une clé dynamométrique doit être utilisée dans sa plage recommandée d'utilisation, soit :",
+      "options": {
+        "A": "50 à 100 % de sa capacité maximale",
+        "B": "20 à 80 % de sa capacité maximale",
+        "C": "5 à 95 % de sa capacité maximale"
+      },
+      "correct": "B",
+      "explication": "Le module donne comme spécification d'usage la plage 20 à 80 % de la capacité maximale de la clé dynamométrique, afin de garantir la précision du couple appliqué.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une vis à six pans creux de diamètre M8, la taille de clé Allen correspondante donnée par le module est :",
+      "options": {
+        "A": "5 mm",
+        "B": "8 mm",
+        "C": "6 mm"
+      },
+      "correct": "C",
+      "explication": "Le tableau de correspondance vis/clé du module donne : M3 → 2,5 mm, M4 → 3 mm, M5 → 4 mm, M6 → 5 mm, M8 → 6 mm, M10 → 8 mm, M12 → 10 mm.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les classes de précision (NF E 11-010) données par le module, la tolérance d'une cale étalon de classe 00 est :",
+      "options": {
+        "A": "±0,0005 mm",
+        "B": "±0,0001 mm",
+        "C": "±0,001 mm"
+      },
+      "correct": "B",
+      "explication": "Le tableau des classes du module indique : classe 00 = ±0,0001 mm (étalon primaire), classe 0 = ±0,0002 mm (haute précision), classe 1 = ±0,0005 mm (réglage machines), classe 2 = ±0,001 mm (contrôle atelier).",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une cale étalon acier de 100 mm est utilisée avec un écart de température de 5 °C par rapport à 20 °C de référence (α = 0,000012/°C). L'erreur thermique calculée selon la formule du module est :",
+      "options": {
+        "A": "0,006 mm",
+        "B": "0,06 mm",
+        "C": "0,0006 mm"
+      },
+      "correct": "A",
+      "explication": "Application directe de la formule ΔL = α × L × ΔT donnée dans le module : 0,000012 × 100 × 5 = 0,006 mm. C'est l'exemple précis fourni dans la section consacrée aux cales étalon.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un contrôle par calibre à limites, si le tampon GO ne passe PAS et le tampon NO GO ne passe pas non plus, la pièce est :",
+      "options": {
+        "A": "conforme dans la tolérance",
+        "B": "trop petite → rebut",
+        "C": "trop grande → rebut"
+      },
+      "correct": "B",
+      "explication": "Le tableau d'interprétation du module donne : GO passe + NO GO ne passe pas = pièce OK ; GO ne passe pas + NO GO ne passe pas = trop petit → rebut ; GO passe + NO GO passe = trop grand → rebut.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour tester l'isolation d'un câble 115 VAC selon les valeurs typiques données par le module, le mégohmmètre s'utilise avec :",
+      "options": {
+        "A": "une tension de test de 1000 VDC, seuil minimal supérieur à 50 MΩ",
+        "B": "une tension de test de 250 VDC, seuil minimal supérieur à 10 MΩ",
+        "C": "une tension de test de 500 VDC, seuil minimal supérieur à 20 MΩ"
+      },
+      "correct": "A",
+      "explication": "Le tableau du module indique : câble 28 VDC → test 500 VDC, R mini > 20 MΩ ; câble 115 VAC → test 1000 VDC, R mini > 50 MΩ ; câble 200 VDC HT → test 1000 VDC, R mini > 100 MΩ.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour mesurer l'intensité dans un circuit avec un multimètre, le branchement et la procédure imposés par le module sont :",
+      "options": {
+        "A": "en parallèle du composant, circuit maintenu sous tension",
+        "B": "en série dans le circuit, après avoir impérativement coupé l'alimentation puis ouvert le circuit",
+        "C": "indifféremment en série ou en parallèle selon la lecture souhaitée"
+      },
+      "correct": "B",
+      "explication": "Le module impose pour la mesure d'intensité un montage en SÉRIE avec procédure : couper l'alimentation (impératif), ouvrir le circuit, sélectionner le calibre 10 A, connecter COM en amont et 10 A en aval, puis remettre sous tension pour lire. La mesure de tension, elle, se fait en parallèle.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En ambiance sèche, les tensions limites de sécurité mentionnées dans le module sont :",
+      "options": {
+        "A": "12 VAC / 30 VDC",
+        "B": "50 VAC / 120 VDC",
+        "C": "25 VAC / 60 VDC"
+      },
+      "correct": "C",
+      "explication": "Le module donne comme tensions limites de sécurité : ambiance sèche 25 VAC / 60 VDC ; ambiance humide 12 VAC / 30 VDC. Au-delà de 50 V, le port d'EPI isolants est obligatoire.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un pied à coulisse, la périodicité d'étalonnage exigée selon le module (certificat COFRAC obligatoire) est :",
+      "options": {
+        "A": "12 mois",
+        "B": "6 mois",
+        "C": "24 mois"
+      },
+      "correct": "A",
+      "explication": "Le module précise que l'étalonnage du pied à coulisse dure 12 mois avec certificat COFRAC obligatoire, et insiste plus généralement sur l'étalonnage périodique obligatoire des instruments de mesure de précision.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    }
+  ]
+}

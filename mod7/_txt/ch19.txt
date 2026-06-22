@@ -1,0 +1,1337 @@
+===== PAGE 1 =====
+Module 7.19 V07   Page 1 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Module 7.19 
+ 
+Evènement 
+anormaux 
+ 
+Licence B1 / B2 
+===== PAGE 2 =====
+Module 7.19 V07   Page 2 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins que celles pour 
+lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à des tiers non habilités.  
+ 
+ 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèse des modifications  
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 12/05/2016 Page de garde et page 1 
+Page de garde et page 1 : adresse, signatures 
+et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 29/05/2017 Toutes Nouvelle édition 
+V06 28/05/2024 Toutes Nouvelle édition  
+V07  15/01/2026 Toutes Ajout de contenu et mises à jour  
+  
+Visa Rédacteur  
+Damien SCHIMTZ 
+Responsable module / Responsable Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Deborah CALAC 
+  
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, elle ne doit pas 
+être considérée comme une référence technique. 
+===== PAGE 3 =====
+Module 7.19 V07   Page 3 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : Procédures d’entretien 
+ 
+Catégorie B1 :  80 questions à choix multiples, temps alloué 100 minutes  
+2 questions à développement temps alloué 20 minutes par QD.  
+ 
+Catégorie B2 :  60 questions à choix multiples temps alloué 75 minutes.  
+2 questions à développement temps alloué 20 minutes par QD. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE  
+ 
+7.19 Événements anormaux Niveau 
+A B1 B2 
+a) Inspections à la suite de foudroiement et de 
+pénétration de champ de radiations haute intensité. 2 2 2 
+b) Inspections à la suite d'événements anormaux tels 
+qu’atterrissages lourds et vol en turbulence 2 2 - 
+  
+===== PAGE 4 =====
+Module 7.19 V07   Page 4 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.19 V07   Page 5 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+Introduction ................................ ................................ ................................ ...........................7 
+Généralités sur les évènements anormaux ................................ ................................ .........7 
+1. INSPECTION SUITE A UN FOUDROIEMENT ................................ ........................... 10 
+1.1. Introduction ................................ ................................ ................................ ............... 10 
+1.2. Effets de la foudre sur un avion ................................ ................................ ............... 11 
+1.3. Effets directs et indirects ................................ ................................ ......................... 13 
+1.3.1. Structures métalliques ................................ ................................ ............................. 13 
+1.3.2. Structures composites ................................ ................................ ............................. 14 
+1.4. Dégâts occasionnés par la foudre ................................ ................................ ........... 15 
+1.5. Conditions d’inspection ................................ ................................ ........................... 15 
+1.6. Cas des avions à hélices ................................ ................................ .......................... 16 
+1.7. Rappel sur la mise à la terre ................................ ................................ .................... 16 
+2. INSPECTION SUITE A PENETARATION DE CHAMP DE RADIATION HAUTE INTENSITE
+ 17 
+2.1. Définition et sources HIRF ................................ ................................ ....................... 17 
+2.2. Principe physique et fréquences ................................ ................................ ............. 18 
+2.3. Effets sur les systèmes avioniques ................................ ................................ ......... 19 
+2.4. Zones sensibles de l’aéronef ................................ ................................ ................... 20 
+2.5. Dispositifs de protection ................................ ................................ .......................... 21 
+2.6. Conditions d’inspection ................................ ................................ ........................... 22 
+2.7. Procédures d’inspection détaillées ................................ ................................ ......... 23 
+2.8. Tests fonctionnels ................................ ................................ ................................ .... 24 
+2.9. Actions correctives................................ ................................ ................................ ... 25 
+3. INSPECTION SUITE A UN ATTERRISSAGE LOURD OU EN SURCHARGE ........... 26 
+3.1. Introduction ................................ ................................ ................................ ............... 26 
+3.2. Généralités ................................ ................................ ................................ ................ 28 
+3.3. Inspection ................................ ................................ ................................ .................. 28 
+3.3.1. Inspection premier niveau ................................ ................................ ........................ 29 
+3.3.2. Inspection deuxième niveau ................................ ................................ .................... 31 
+4. INSPECTION SUITE A UN VOL EN TURBULENCE ................................ ................. 33 
+4.1. Introduction ................................ ................................ ................................ ............... 33 
+4.2. Généralités ................................ ................................ ................................ ................ 34 
+4.3. Conditions d’inspection ................................ ................................ ........................... 35 
+4.4. Inspections ................................ ................................ ................................ ................ 36 
+===== PAGE 6 =====
+Module 7.19 V07   Page 6 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.4.1. Inspection premier niveau ................................ ................................ ........................ 36 
+Inspection premier niveau ............................................................................................... 36 
+4.4.2. Inspection deuxième niveau ................................ ................................ .................... 38 
+ 
+  
+===== PAGE 7 =====
+Module 7.19 V07   Page 7 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Introduction 
+Généralités sur les évènements anormaux 
+Sont considérés comme des événements anormaux (liste non exhaustive) 
+      
+ 
+ 
+Dans les manuels de maintenance (type AMM) il existe un chapitre traitant de la maintenance non 
+programmée lors d’évènements anormaux (ATA 05).  
+Les inspections sont déclenchées à l'issue d’un compte rendu de l'équipage notifié dans le TLB 
+(Technical Log Book) ou CRM (Compte Rendu Matériel d’aéronef) 
+ 
+ 
+ 
+Il est impossible de couvrir avec précision l'ensemble des incidents avions compte tenu de la grande 
+possibilité de variation des paramètres : 
+- La masse. 
+- La vitesse. 
+- La nature et la direction des charges soumises. 
+- Les conditions climatiques. 
+- La configuration des éléments en défaut. 
+Cependant, un recueil des inspections les plus courantes est édité par les constructeurs, il couvre le 
+plus grand nombre de situations anormales possibles. 
+Afin d'obtenir des indications précises sur la gravité de l'incident et la localisation des dommages, il est 
+important avant de débuter une inspection d'obtenir de l'équipage un rapport détaillé. 
+ 
+Listes d’exemples d’évènements anormaux :  
+  
+
+===== PAGE 8 =====
+Module 7.19 V07   Page 8 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Title Titre 
+Brake seizure Grippage frein 
+Mercury spillage Pollution par le mercure 
+Cabin overpressurization Surpressurisation cabine 
+Lightning strike Foudroiement 
+Exceeding design speed (vmo) Dépassement vitesse maxi 
+opérationnelle 
+Bird or hail strike Impact d'oiseau ou de grêle 
+Landing gear down overspeed (vle) Dépassement vitesse maxi trains sortis 
+Exceeding flap down speed (vfe) Dépassement vitesse maxi volet 
+Hard /overweight landing Atterrissage dur ou en surcharge 
+Tire tread loss or tire burst Déchapage ou éclatement d'un 
+pneumatique 
+Brake emergency application or 
+over heat 
+Freinage d'urgence ou surchauffe 
+Tail runway impact Impact du fuselage arrière avec la 
+piste 
+Leaving runway or taxiway Sortie de piste 
+Flight through volcanic ash Vol à travers un nuage volcanique 
+Engine failure Panne moteur 
+Engine windmilling (in flight shut 
+down) 
+Coupure moteur en vol (moulinet) 
+===== PAGE 9 =====
+Module 7.19 V07   Page 9 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Séquence d’une inspection 
+Afin de permettre une inspection simultanée de plusieurs zones, les inspections sont divisées en 
+plusieurs groupes (zones majeures). 
+Une inspection suite à un atterrissage dur nécessite en premier lieu : 
+ 
+- Un contrôle complet de la structure extérieure de l'aéronef. 
+o La structure est alors divisée en « zones majeures » : 
+▪ Le fuselage. 
+▪ La voilure. 
+▪ Les mâts moteurs. 
+▪ Les empennages. 
+ 
+ 
+ 
+ 
+ 
+ 
+Les «zones majeures» sont, elles aussi, divisées en «sous 
+zones» ou «sous ensembles».  
+Chacune de ces « sous zones » fera l'objet d'une inspection individuelle divisée en   « phases » : 
+- Phase 1 : inspection générale pour des dommages primaires principalement extérieurs. 
+- Phase 2 : inspection plus détaillée pour des dommages principalement internes nécessitant 
+l'ouverture d'accès ou la dépose d'éléments. 
+- Phase 3 : inspection très détaillée exigeant la dépose d'organes majeurs (moteurs, trains,...). 
+Remarque : 
+- Si une inspection de phase 1 ne révèle aucun défaut, les phases 2 et 3 ne sont pas 
+nécessaires. 
+- Si une inspection de phase 1 révèle un défaut, il est impératif d'effectuer la phase 2. 
+- Si une inspection de phase 2 révèle un défaut, il est impératif d'effectuer la phase 3.  
+ 
+ 
+  
+
+===== PAGE 10 =====
+Module 7.19 V07   Page 10 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1. INSPECTION SUITE A UN FOUDROIEMENT 
+ 
+Rappel des objectifs : connaissance générale des inspections suite à un foudroiement 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+1.1. Introduction 
+La configuration des aéronefs modernes tient compte de tous les systèmes de protection connus contre 
+la foudre.  
+➔ C'est principalement la structure métallique extérieure et son assemblage qui procure aux 
+avions une protection de base.  
+Cette surface métallique agit comme un bouclier protégeant les compartiments (poste, cabine, soutes) 
+contre la foudre.  
+ 
+ Pour mieux comprendre l’effet de la foudre sur un avion 
+ 
+ 
+  
+
+===== PAGE 11 =====
+Module 7.19 V07   Page 11 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2. Effets de la foudre sur un avion 
+La foudre touche, en général, les aéronefs en 2 points : 
+- La première zone d'impact de la foudre. 
+- La seconde zone est située à l'endroit par lequel la foudre s'évacue. 
+Il peut arriver qu'un aéronef soit soumis à des champs électrostatiques importants sans pour autant 
+avoir été foudroyé. 
+ 
+ Pour visualiser un exemple d’atmosphère électrique en vol 
+ 
+ 
+ 
+ 
+Lorsqu’un avion vole à proximité d’une zone orageuse, il peut se trouver sur le tracé d’une décharge 
+électrique se produisant entre 2 nuages ou entre un nuage et le sol. 
+Généralement la décharge touche l’avion et en ressort à ses extrémités ou à ses protubérances. 
+ 
+L’avion est divisé en plusieurs zones ayant chacune une relation propre avec les décharges. 
+ 
+Zone 1 : Régions d’impact où généralement les décharges entrent dans l’avion et quittent celui-ci. 
+ 
+Zone 2 : Surfaces de l’avion où les décharges s’écoulent et pouvant aussi parfois être des régions 
+d’impacts. 
+ 
+Zone 3 : Surfaces de transfert conduisant les courants entre les zones où les décharges atteignent 
+l'avion et le quittent.  
+  
+
+===== PAGE 12 =====
+Module 7.19 V07   Page 12 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+Les zones 1 et 2 comportent : 
+- Le radôme,  
+- Les nacelles,  
+- Les extrémités d’ailes, de stabilisateurs horizontaux et verticaux, des élévateurs,  
+- Les extrémités des volets de bords d’attaque et de fuite des ailes,  
+- Le fuselage ainsi que ses protubérances, 
+- Trains d’atterrissage (si sortis),  
+- Tubes Pitot, antennes, waste water drain masts. 
+ Pour voir des exemples de foudroiement 
+  
+
+===== PAGE 13 =====
+Module 7.19 V07   Page 13 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3. Effets directs et indirects 
+1.3.1. Structures métalliques 
+Les dégâts causés aux structures métalliques sont couramment mis en évidence par des points de 
+soudure ou des perforations, voire plus, lors d'un foudroiement important.  
+D'autres signes résultant de l'impact sont des revêtements (peau) ou fixations brûlés ou encore 
+décolorés.  
+Les effets indirects :  bien que les câblages soient protégés d'un foudroiement direct par la mise à la 
+masse des blindages, une haute intensité peut produire un champ électromagnétique important en 
+zone non pressurisée ce qui peut provoquer une défaillance transitoire ou permanente : 
+- D’organes électriques. 
+- De transmission des signaux électroniques (perturbation ou dégradation). 
+Exemple : Variation ou données erronées des instruments de bord, coupure d'écran au poste de 
+pilotage.  
+===== PAGE 14 =====
+Module 7.19 V07   Page 14 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.2. Structures composites 
+Les structures composites (carbon fiber reinforced plastic) sont traitées pour permettre la conductivité 
+électrique en intégrant des éléments conducteurs dans leur structure.  
+ 
+ 
+ 
+Attention : les impacts de la foudre ne sont pas toujours visibles , ils peuvent engendrer des 
+dommages internes. Des signes d'arc ou d'échauffement peuvent aussi atteindre les fixations et 
+supports des structures composites. 
+ 
+Remarque : Les départiteurs statiques installés à l'extrémité et aux bords de fuites des surfaces, les 
+tresses de métallisation n'empêchent ni ne protègent les avions contre la foudre. Leur fonction est 
+d'évacuer l'électricité statique générée par la friction de l'air en vol (high intensity radiated field). Le 
+but est d'éviter les interférences radio (VHF comm, ADF, VOR, etc.). Et en second lieu de limiter les 
+dommages causés par la foudre.  
+ 
+ 
+  
+
+===== PAGE 15 =====
+Module 7.19 V07   Page 15 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.4. Dégâts occasionnés par la foudre 
+En plus des traces visibles sur la surface de la structure, il est possible de constater une détérioration 
+de points de pivotements de gouvernes (roulements brûlés, gouverne bloquée).  
+En effet, l'absence d’une bonne masse entre fuselage et gouverne oblige une éventuelle décharge à 
+passer par l’articulation qui présente une résistance électrique. Cette résistance, parcourue par un 
+courant élevé, peut engendrer un échauffement suffisant pour bloquer l’articulation. 
+ 
+Exemple d’autre cas possibles : 
+- Les générateurs AC, le ciblage principal de distribution, les contacteurs principaux, les valves 
+carburant peuvent être endommagés ou brûlés par des décharges particulièrement fortes. 
+- Mise hors service de certains composants placés sur des lignes d’antennes. 
+- Magnétisation de certaines parties de la structure par des courants de décharge élevés.  
+- Ces champs magnétiques induits peuvent perturber le fonctionnement de certaines 
+installations de navigation, de communication ou d’indication de quantité. 
+1.5. Conditions d’inspection 
+Les inspections à la suite d’un foudroiement sont déclenchées par le rapport de l'équipage technique 
+consigné dans le livre de bord, ceci à condition que l’équipage ai détecté le foudroiement. D’où 
+l’importance des visites avant et après vol. 
+  
+
+===== PAGE 16 =====
+Module 7.19 V07   Page 16 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.6. Cas des avions à hélices 
+Attention : les hélices doivent subir une révision générale ou être remplacées après foudroiement. 
+ 
+Sur les avions à hélices, le point d’entrée est le plus souvent une hélice.  
+Une zone noircie à l’extrémité d’une pale d’hélice voire une détérioration plus importante peut être 
+observée après un foudroiement. 
+Les dommages sur l’hélice doivent être corrigés selon la procédure de l’hélicier par des spécialistes 
+qualifiés. 
+Lorsqu’une hélice a été frappée par la foudre, les régulateurs hélice concernés doivent être remplacés 
+ou révisés. 
+Pour aller plus loin voici le rapport d’enquête du BEA concernant le foudroiement en vol d’un PC12 : 
+ 
+1.7. Rappel sur la mise à la terre 
+Elle est nécessaire pour : 
+- Permettre l'écoulement des charges d'électricité statique engendrées sur les masses 
+métalliques par les phénomènes atmosphériques. 
+- Protéger le personnel, utilisant du matériel électrique sous tension, contre les défauts 
+d'isolement. 
+ 
+Elle est obligatoire pour :  
+- Toute opération de maintenance ou de mise en œuvre en particulier l’avitaillement. 
+ 
+Le câble de liaison sera d'abord fixé au point sol avant d’être relié à l'aéronef. 
+ 
+  
+
+===== PAGE 17 =====
+Module 7.19 V07   Page 17 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2. INSPECTION SUITE A PENETARATION DE CHAMP DE 
+RADIATION HAUTE INTENSITE 
+Rappel des objectifs  : connaissance générale des inspections suite à pénétration de 
+champ de radiation haute intensité. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+ 
+ 
+2.1. Définition et sources HIRF 
+Les champs rayonnés à haute intensité (HIRF - High Intensity Radiated Fields) sont des ondes 
+électromagnétiques de forte puissance produites par des systèmes de transmission situés au sol ou à 
+bord d'autres aéronefs.  
+ 
+Sources principales :  
+ 
+Sources terrestres :  
+- Radars civils et militaires (surveillance aérienne, météorologiques)  
+- Émetteurs radio FM/AM de forte puissance (stations de radiodiffusion)  
+- Stations de télécommunication (relais GSM, 4G, 5G)  
+- Installations radar d'approche et de tour de contrôle  
+- Systèmes radar de défense aérienne  
+ 
+Sources embarquées :  
+- Radars météo d'autres aéronefs à proximité  
+- Systèmes de communication militaires  
+- Équipements de guerre électronique  
+ 
+Situations à risque élevé :  
+- Approche finale et décollage près des aéroports équipés de radars puissants  
+- Survol de bases militaires  
+- Vol à proximité de stations de radiodiffusion haute puissance  
+- Parking avion près d'installations radar ou antennes relais  
+ 
+Remarque :  
+Contrairement au foudroiement qui est un événement violent et ponctuel, l'exposition HIRF peut être 
+continue et progressive sans signe extérieur visible. 
+ 
+ 
+  
+
+===== PAGE 18 =====
+Module 7.19 V07   Page 18 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2. Principe physique et fréquences 
+Principe de couplage électromagnétique :  
+ 
+Les ondes électromagnétiques se propagent dans l'espace et peuvent induire des courants parasites 
+dans les câblages et structures métalliques de l'aéronef par couplage inductif ou capacitif.  
+ 
+L'intensité du champ électrique reçu par l'aéronef dépend de :  
+- La puissance émise par la source (P en watts)  
+- La distance source-aéronef (d en mètres)  
+- Le gain de l'antenne émettrice (G, sans unité)  
+ 
+Formule simplifiée du champ électrique :  
+ 
+E (V/m) = √(30 × P × G) / d  
+ 
+Exemple :  
+Un radar d'approche de 100 kW (P = 100 000 W) avec un gain de 1000 à une distance de 500 m 
+produit :  
+E = √(30 × 100 000 × 1000) / 500 ≈ 346 V/m  
+ 
+Bandes de fréquences critiques en aéronautique :  
+ 
+Bande Fréquence Application Niveau typique 
+VHF 30-300 Mhz Communication 
+aériennes,FM 
+10-100 V/m 
+UHF 300 Mhz-3 Ghz Radar, télécoms, GSM 50-200 V/m 
+Micro-ondes 3-30 Ghz Radar météo, satellite 100-600 V/m 
+ 
+Seuils de certification HIRF (DO-160 Section 20) :  
+Les aéronefs sont certifiés pour résister à des champs électromagnétiques jusqu'à :  
+ 
+- 200 V/m pour les bandes VHF/UHF (usage général)  
+- 400 V/m pour environnements sévères (militaire, zones à forte densité radar)  
+ 
+Loi de propagation :  
+L'intensité du champ électromagnétique diminue avec le carré de la distance selon la loi de l'inverse 
+du carré :  
+E₂ = E₁ × (d₁ / d₂)²  
+ 
+Exemple :  
+Si le champ est de 400 V/m à 200 m, il sera de 100 V/m à 400 m. 
+ 
+  
+===== PAGE 19 =====
+Module 7.19 V07   Page 19 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3. Effets sur les systèmes avioniques 
+Types de perturbations :  
+ 
+Perturbations transitoires (temporaires) :  
+- Perte momentanée d'affichage écran  
+- Déconnexion brève du pilote automatique  
+- Parasites communications radio  
+- Messages d'erreur sans défaut réel  
+ 
+Perturbations permanentes (dégradation) :  
+- Défaillance de composants électroniques  
+- Corruption de mémoires  
+- Destruction de circuits par surtension  
+ 
+Systèmes sensibles (par ordre de criticité) :  
+ 
+Critiques :  
+- FMS : erreurs navigation, perte plan de vol  
+- EFIS : affichages erronés PFD/ND  
+- Pilote automatique : déconnexions intempestives  
+- TCAS : fausses alarmes  
+ 
+ 
+ 
+Importants :  
+- Communications VHF/HF : brouillage  
+- Transpondeur : réponses erronées  
+- GPS : dégradation précision Exemples de dysfonctionnements :  
+ 
+Cas n°1 : A320 en approche ILS subit exposition HIRF d'un radar. Pilote automatique se déconnecte. 
+Reprise manuelle, aucun dégât matériel.  
+ 
+Cas n°2 : B737 stationné près d'antenne relais présente messages FMC récurrents. Après 
+déplacement, systèmes normaux. 
+  
+
+===== PAGE 20 =====
+Module 7.19 V07   Page 20 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.4. Zones sensibles de l’aéronef 
+Zones critiques (haute sensibilité) :  
+ 
+ Radôme :  
+- Structure composite perméable aux ondes  
+- Zone d'entrée privilégiée des HIRF  
+ 
+ Cockpit et baie avionique :  
+- Concentration maximale d'équipements électroniques  
+- Câblages denses et interconnectés  
+ 
+ Soutes avionique :  
+- Accès direct aux ondes par dessous  
+ 
+ Antennes externes :  
+- VHF/HF, GPS, TCAS vulnérables  
+ 
+ 
+Zones modérées :  
+ 
+ Fuselage et voilure :  
+- Structure métallique fait cage de Faraday partielle  
+ 
+ Empennages et moteurs :  
+- Moins sensibles mais pas immunisés 
+ 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.19 V07   Page 21 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.5. Dispositifs de protection 
+Protection des câblages :  
+ 
+Blindage par tresse métallique :  
+- Couverture minimale 85%  
+- Connexion 360° aux connecteurs  
+ 
+Blindage par feuillard :  
+- Protection > 95%  
+- Utilisé pour câbles critiques  
+ 
+Principe : Le blindage capte les ondes et les évacue à la masse, empêchant leur pénétration dans le 
+signal utile.  
+ 
+Filtres électromagnétiques :  
+ 
+Filtres EMI/RFI :  
+- Bloquent fréquences parasites (> 1 MHz)  
+- Laissent passer signaux utiles (< 1 kHz)  
+- Montés à l'entrée des équipements  
+ 
+    
+Mise à la masse (Bonding) :  
+ 
+Connexion électrique de toutes les masses pour créer un potentiel uniforme.  
+ 
+Résistance maximale autorisée :  
+- Entre structures : < 0,005 Ω  
+- Blindage vers structure : < 0,01 Ω  
+ 
+Normes :  
+ 
+DO-160 Section 20 : Standard de certification équipements  
+CS-25 / FAR Part 25 : Certification avions de transport 
+  
+
+===== PAGE 22 =====
+Module 7.19 V07   Page 22 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.6. Conditions d’inspection 
+Déclenchement :  
+ 
+Inspection déclenchée suite à rapport équipage (TLB/CRM) faisant état de :  
+- Déconnexion(s) pilote automatique  
+- Messages d'erreur sans défaut confirmé  
+- Affichages erronés instruments  
+- Parasites radio importants  
+ 
+Informations à recueillir :  
+ 
+Auprès de l'équipage :  
+- Moment d'apparition (phase de vol)  
+- Position géographique  
+- Symptômes permanents ou intermittents  
+- Corrélation avec éloignement d'une zone  
+- Systèmes affectés simultanément  
+ 
+Enregistreur de vol :  
+- Horodatage événements 
+- Déconnexions AP  
+- Position GPS  
+ 
+Distinction HIRF vs. défaut système :  
+ 
+Indices HIRF Indices défaut réel 
+✓ Symptômes en approche/décollage ✗ Symptômes permanents 
+✓ Disparition après éloignement ✗ Un seul système affecté 
+✓ Plusieurs systèmes affectés ✗ Codes défauts cohérents 
+✓ Aucun code défaut mémorisé ✗ Tests révèlent anomalie 
+✓ Tests au sol tous OK  
+  
+===== PAGE 23 =====
+Module 7.19 V07   Page 23 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.7. Procédures d’inspection détaillées 
+Équipements nécessaires :  
+- Ohmmètre basse impédance  
+- Multimètre numérique  
+- Mégohmmètre 500 VDC  
+- Outillage standard  
+ 
+Phase 1 : Vérification blindages  
+ 
+Cockpit et baie avionique :  
+ 
+      Inspecter connecteurs pour :  
+            - Traces de surchauffe  
+            - Broches déformées/corrodées  
+            - Visserie desserrée  
+ 
+      Vérifier continuité blindages :  
+            - Mesurer résistance blindage-masse  
+            - Critère : R < 0,01 Ω  
+            - Si hors tolérance → corriger  
+ 
+ 
+ 
+Radôme :  
+   Inspecter connecteur antenne radar  
+   Vérifier continuité câble coaxial  
+   Mesurer isolation âme/blindage : R > 10 MΩ  
+ 
+Soutes avionique :  
+   Inspecter équipements pour traces choc thermique  
+   Vérifier serrage connecteurs  
+  
+
+===== PAGE 24 =====
+Module 7.19 V07   Page 24 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Phase 2 : Inspection connecteurs  
+ 
+Critères de rejet :  
+✗ Broches tordues, cassées  
+✗ Traces de surchauffe  
+✗ Corrosion visible  
+✗ Fissures corps  
+✗ Verrouillage défectueux  
+ 
+Action si défaut :  
+→ Remplacer connecteur  
+→ Vérifier câblage associé  
+ 
+Phase 3 : Contrôle mise à la masse  
+ 
+Points de mesure prioritaires :  
+- Entre panneaux fuselage adjacents  
+- Entre portes et structure  
+- Entre blindages câbles et connecteurs  
+ 
+Méthode :  
+1. Nettoyer points de mesure  
+2. Mesurer résistance  
+3. Critère : R < 0,005 Ω  
+4. Si hors tolérance → nettoyer, resserrer, remplacer tresses  
+ 
+Traçabilité : Consigner tous résultats dans rapport détaillé. 
+2.8. Tests fonctionnels 
+Tests BITE (Built-In Test Equipment) : 
+ 
+Systèmes à tester :  
+ 
+FMS 
+→Test BITE complet 
+→Vérifier base de données 
+→Test plan de vol fictif 
+EFIS →Test PFD/ND 
+→Vérifier symbologie 
+Pilote automatique →Test BITE AP/FD 
+→Vérification servo-commandes 
+Radios, Transpondeur, TCAS, GPS →Test BITE respectifs 
+→Vérifications fonctionnelles 
+ 
+  
+===== PAGE 25 =====
+Module 7.19 V07   Page 25 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Tests électriques :  
+ 
+Continuité :  
+- Mesurer résistance bout à bout : R < 1 Ω  
+ 
+Isolation :  
+- Mesurer avec mégohmmètre 500 VDC  
+- Critère : R > 10 MΩ  
+ 
+Test fonctionnel global :  
+ 
+→Vol test ou essai statique 30 minutes  
+→Tous systèmes en fonctionnement  
+→Observation anomalies  
+ 
+Critères remise en service :  
+✓ Tous BITE : PASS  
+✓ Aucun message d'erreur  
+✓ Affichages normaux  
+✓ Mesures dans tolérances 
+2.9. Actions correctives 
+Défauts mineurs :  
+ 
+Connecteur corrodé :  
+1. Nettoyer avec contact cleaner  
+2. Sécher à l'air comprimé  
+3. Reconnecter et tester  
+4. Documenter  
+ 
+Tresse de masse dégradée :  
+1. Remplacer tresse  
+2. Nettoyer surfaces contact  
+3. Mesurer résistance : < 0,005 Ω  
+4. Documenter  
+ 
+Défauts majeurs :  
+ 
+Câble coaxial endommagé :  
+1. Commander câble neuf  
+2. Déposer ancien  
+3. Installer neuf (respecter routing)  
+4. Tester continuité, isolation  
+5. Documenter  
+ 
+Équipement électronique défaillant :  
+1. Confirmer défaut par BITE  
+2. Déposer équipement  
+3. Installer équipement neuf/révisé  
+4. Programmer selon AMM  
+5. Test BITE complet  
+6. Documenter avec n° série  
+  
+===== PAGE 26 =====
+Module 7.19 V07   Page 26 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3. INSPECTION SUITE A UN ATTERRISSAGE LOURD OU 
+EN SURCHARGE 
+Rappel des objectifs  : connaissance générale des inspections suite à un atterrissage 
+lourd ou en surcharge. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+ 
+ 
+3.1. Introduction 
+Il est difficile de donner avec précision les détails d'une inspection « atterrissage dur ou en surcharge 
+» devant être appliquée après chaque incident ceci du fait de la grande variation de facteurs tels que : 
+- La masse avion,  
+- La vitesse,  
+- La direction de la charge induite.  
+Il est donc recommandé avant d'appliquer la procédure du « maintenance manuel », d'obtenir  
+quelques informations préalables : 
+ 
+1. De l'équipage au sujet des conditions d'atterrissage : par exemple, déterminer : 
+- Si l'atterrissage fut lourd, en ligne droite, en dérapage. 
+- Si les pilotes ont entendu un bruit suspect provenant de la structure. 
+Important : toutes informations, relevé de paramètres doivent faire l'objet d'un rapport consigné dans 
+le carnet de bord (log book). 
+ 
+2. De l'enregistreur de vol pour les paramètres suivants : 
+- Accélération verticale (g). 
+- Vitesse verticale (v/s en ft/min). 
+- Masse avion (tonnes). 
+  
+
+===== PAGE 27 =====
+Module 7.19 V07   Page 27 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Paramètres physiques et limites :  
+ 
+Facteur de charge (n) :  
+ 
+Le facteur de charge représente la contrainte en multiple de la gravité.  
+Formule : n = a / g  
+ 
+Où :  
+- n = facteur de charge (sans unité)  
+- a = accélération verticale (m/s²)  
+- g = 9,81 m/s²  
+ 
+Exemple : Accélération mesurée 19,62 m/s² → n = 19,62 / 9,81 = 2,0 g 
+ 
+Limites opérationnelles : 
+ 
+Type avion n max atterrissage n limite structurale 
+Avion ligne (B737, A320) 2,0 - 2,5 g 3,75 - 4,0 g 
+Avion régional 2,0 - 2,2 g 3,5 - 3,8 g 
+ 
+  
+===== PAGE 28 =====
+Module 7.19 V07   Page 28 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2. Généralités 
+Une inspection « atterrissage dur ou en surcharge » est principalement visuelle. Dans le cas contraire, 
+il faut se reporter au manuel de contrôle non destructif (ndtm) afin d'appliquer les procédures 
+appropriées. 
+ 
+Lors de l'ouverture d'accès ou de la dépose de portes, il est important de constater si ces éléments : 
+ 
+- Sont correctement alignés. 
+- Ne sont ni voilés ni criques. 
+- Que la peinture n'est pas endommagée (signe d'efforts structuraux). 
+- Que toutes les fixations (visseries, rivets ...) sont en état.  
+ 
+ 
+Lorsque les informations ci-dessus sont réunies, il est alors possible de déterminer si les paramètres 
+sont dans les tolérances admises. 
+3.3. Inspection 
+➔ Cette inspection doit être effectuée avant remise en vol de l’avion.  
+Il y a deux niveaux d’inspection : 
+Dans le cas d’un train rentrant, et lorsqu’un avion a subi un quelconque incident au niveau du train 
+d’atterrissage, pour des raisons de sécurité il est recommandé de mettre l’avion sur vérins avant de 
+procéder à toute inspection ou opération d’entretien.  
+Vérifier que les trois trains sont sortis et verrouillés avant de remettre l’avion sur ses roues. 
+ 
+Remarque : 
+La mise sur vérins d’un avion pour la réalisation d’un essai de trains, d’inspection, de servicing ou 
+d’entretien doit être effectuée dans un hangar ou dans un endroit fermé.  
+ 
+Dans un but de sécurité, s’il est nécessaire de mettre l’avion sur vérins à l’extérieur, la vitesse du vent 
+dans n’importe quelle direction, ainsi que les variations de terrain, doivent être compensées avant la 
+mise sur vérins. 
+- Premier niveau : 
+Cette inspection consiste à déterminer s’il y a eu dommage visible extérieurement et à inspecter pour 
+évidence de défaillance de structure. 
+- Deuxième niveau : 
+Cette inspection plus détaillée des zones endommagées n’est à effectuer que si des dommages sont 
+découverts lors de l’inspection du 1er niveau, 
+  
+
+===== PAGE 29 =====
+Module 7.19 V07   Page 29 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.3.1. Inspection premier niveau 
+Attention : les déformations des revêtements du fuselage ou des voilures jugées négligeables de 
+l’extérieur peuvent révéler un dommage interne important. 
+Exemple d’inspection : 
+ 
+Au niveau des trains : 
+ 
+- Examiner les pneus pour usure exagérée, déchirure des toiles, écrasement ou pliures de 
+flancs.  
+- Inspecter les roues pour jantes criquées ou usure anormale. 
+- Inspecter les amortisseurs et leurs fixations sur la cellule (criques). 
+- Inspecter les tuyauteries de freins (fuites). 
+- Inspecter les verrous de position basse, les contrefiches et le mécanisme de rétraction des 
+portes pour dommage. 
+- Inspecter les supports de vérins de train. 
+- Inspecter les supports entre longerons avant et arrière dans les puits de train (partie 
+supérieure) et l’attache de contrefiche sur le longeron principal, pour déformations, criques, 
+etc. 
+- Inspecter la zone autour des attaches de trains. 
+- Inspecter la structure d’attache de la contrefiche comme suit : 
+ 
+o Mettre l'avion sur vérins. 
+o Débrancher la contrefiche de la structure de l’avion à gauche et à droite 
+o Avec une lampe et un miroir, inspecter le support de contrefiche pour criques, 
+particulièrement dans le rayon inférieur du support en « u » où se fait sa fixation sur 
+le longeron. 
+o S’il y a doute de criques, procéder à un dye check. 
+o Si des criques sont trouvées, contacter le constructeur ou son représentant. 
+o Si l’inspection est satisfaisante, reposer la contrefiche. 
+Au niveau des nacelles : 
+- Inspecter les revêtements extérieurs pour déformation, rivets manquants ou desserrés. 
+- Inspecter les supports de capotage pour alignement et dommage. 
+- Inspecter les commandes moteur pour douceur de fonctionnement  ; vérifier les câblages et 
+tuyauteries pour état et fixation. 
+- Inspecter les silents-blocs moteur pour criques ou défaillance de structure. 
+- Inspecter les bouts de pales d’hélices pour dommage. 
+- Inspecter le cône d’hélice et sa flasque arrière pour interférence avec le capotage. 
+- Inspecter les structures des puits de trains pour dommage ou criques. 
+- Inspecter la zone autour des points d’attache de trains. 
+  
+===== PAGE 30 =====
+Module 7.19 V07   Page 30 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Au niveau de la section centrale de voilure : 
+- Inspecter le revêtement extérieur intrados et extrados pour criques, pliures anormales, rivets 
+desserrés ou manquants. 
+- Inspecter les tuyauteries, câblages et vérins pour dommage et fixation. 
+- Inspecter le caisson de voilure, les longerons de voilure avant et arrière par l’intrados pour 
+dommage et alignement. 
+Au niveau des voilures extérieures : 
+- Inspecter le revêtement des voilures extérieures pour criques, pliures anormales, rivets 
+desserrés ou manquants. 
+- Inspecter la structure interne et les caissons de réservoirs par les portes de visite. 
+- Inspecter les tuyauteries et câblages pour état et fixation. 
+Au niveau du fuselage avant : 
+- Inspecter le revêtement extérieur pour criques, pliures anormales, rivets desserrés ou 
+manquants. 
+- Inspecter la structure du logement de train et les zones de fixation du train pour dommage. 
+- Inspecter l’équipement électronique, l’antenne radar, les câblages et les tuyauteries pour état 
+et fixation. 
+Au niveau de la Section centrale du fuselage : 
+- Inspecter le revêtement extérieur du fuselage pour criques, déformation et rivets desserrés ou 
+manquants. 
+- Inspecter l’entourage des hublots cabine pour criques de structure. 
+Au niveau du fuselage arrière : 
+- Inspecter le revêtement extérieur et l’empennage sur toute sa longueur pour criques, pliures 
+anormales, rivets desserrés on manquants. 
+- Inspecter les gouvernes arrière pour libre débattement. 
+Essais : 
+- Faire un essai de trains. 
+  
+===== PAGE 31 =====
+Module 7.19 V07   Page 31 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.3.2. Inspection deuxième niveau 
+Comme le choc peut être transmis d’un élément de structure à l’autre, inspecter soigneusement la 
+structure environnante et la structure support des zones endommagées découvertes lors de l’inspection 
+de premier niveau.  
+ 
+Exemple d’inspection : 
+Au niveau des trains d’atterrissage : 
+- Avion sur vérins, vérifier les amortisseurs pour libre déplacement de comprimé à détendu 
+ 
+ 
+ 
+- Déposer les pneus. Inspecter l’intérieur pour coupures ou déchirures. 
+- Désassembler les jantes et les examiner pour criques. 
+- Inspecter l’axe de roue avec une loupe grossissement 10. En cas de doute  : dye check ou 
+magnétoscopie. 
+- Déposer et remplacer ou magnétoscoper les boulons d’attache des trains. Inspecter les 
+alésages sur la cellule pour criques ou élongation. 
+- Déposer et remplacer ou magnétoscoper les boulons et supports des contrefiches de train. 
+- Effectuer un essai de train. 
+Au niveau des nacelles : 
+- Si les bouts de pales de l’hélice ont été endommagés, se référer à l’engine maintenance 
+manual pour inspection du moteur. 
+- Inspecter les zones de fixation des supports moteurs. 
+- Inspecter la structure interne du puits de train pour crique ou dommage. 
+- Essayer tous circuits fluides ou électriques. 
+Au niveau de la section centrale : 
+- Déposer les planchers et les portes d’accès nécessaires. 
+- Inspecter les longerons avant et arrière, la structure du caisson pour évidence de déformation 
+ou défaillance de la structure. 
+- Essayer les circuits, câblages, volets, commande de vol et tous les systèmes de cette zone. 
+Au niveau des voilures extérieures : 
+- Essayer les circuits et câblages pour fonctionnement correct. 
+- Inspecter les réservoirs carburant pour fuite et dommages. 
+  
+
+===== PAGE 32 =====
+Module 7.19 V07   Page 32 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Au niveau du fuselage avant : 
+- Déposer les planchers du compartiment de soute à bagages ou électronique et inspecter la 
+structure du caisson pour dommage. 
+- Inspecter la structure du logement de roue et la structure environnante pour signe de 
+défaillance.  
+- Essayer l’électronique, l’antenne radar, les circuits et tester les câblages. 
+Au niveau du fuselage sections centrale et arrière : 
+- Inspecter les renforts couples et parois latérales pour déformation ou défaillance de structure.  
+- Essayer les circuits à câblages pour fonctionnement correct. 
+- Inspecter les conduits d’air chaud ou froid pour dommage. 
+- Inspecter les câbles de commande, poulies et supports de poulies pour jeu correct des câbles 
+avec la structure.  
+- S’assurer du bon fonctionnement des commandes. 
+Réparation : 
+- Etant donné la variété des dommages pouvant être subis par un aéronef après un atterrissage 
+dur, la procédure de réparation sera adaptée aux défauts découverts. 
+Renseignements des documents de bord : 
+- Les documents seront renseignés des dommages découverts et des suites données. 
+  
+===== PAGE 33 =====
+Module 7.19 V07   Page 33 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4. INSPECTION SUITE A UN VOL EN TURBULENCE 
+Rappel des objectifs  : connaissance générale des inspections suite à un vol en 
+turbulence. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+ 
+ 
+4.1. Introduction 
+Cette inspection concerne principalement l'examen de la structure à l'issue d'un vol turbulent qui a 
+engendré : 
+ 
+- Des facteurs de charge excessifs. 
+- Des manœuvres hors limites. 
+- Un dépassement des limites de vitesses. 
+- Un décrochage (stall). 
+ 
+Limites opérationnelles : 
+ 
+Turbulence n min n max 
+Légère +0,5 g +1,5 g 
+Modérée 0 g +2,0 g 
+Sévère -1,0 g +2,5 g 
+Limite structurale -1,0 g +3,75 g 
+ 
+Classification turbulence (OACI) :  
+Légère : Tension légère ceintures  
+Modérée : Occupants fermement pressés, marche difficile  
+Sévère : Violemment projetés, avion hors contrôle, variations altitude > 100 ft 
+  
+
+===== PAGE 34 =====
+Module 7.19 V07   Page 34 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.2. Généralités 
+Une turbulence sévère est identifiée lors d'une variation brutale d'attitude, d'altitude hors tolérance. 
+L'aéronef peut être momentanément hors de contrôle.  
+Durant la turbulence les passagers et l'équipage sont violemment projetés contre leurs ceintures de 
+sécurité, des objets peuvent être projetés dans le poste de pilotage ou dans la cabine. 
+ 
+ Pour voir des exemples de conditions turbulentes 
+ 
+ 
+ 
+  
+
+===== PAGE 35 =====
+Module 7.19 V07   Page 35 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.3. Conditions d’inspection 
+Les conditions d'inspection sont semblables à celles décrites dans le cas d'un atterrissage dur. Il est 
+donc recommandé avant d'appliquer la procédure du manuel de maintenance d'obtenir quelques 
+informations préalables : 
+ 
+1. De l'équipage au sujet des conditions de la turbulence : par exemple, déterminer si les limites 
+opérationnelles d'évolution de l'aéronef ont été respectées en terme de : 
+- Facteur de charge (g). 
+- Vitesse maxi opérationnelle (alarme vmo ou mmo). 
+- Les pilotes ont entendu un bruit suspect provenant de la structure. 
+- Ont-ils ressenti de fortes vibrations (buffeting) ? 
+ 
+2. De l'enregistreur de vol pour les paramètres suivants : 
+- Accélération verticale (g). 
+- Vitesse verticale (v/s en ft/min). 
+- Vitesse maxi opérationnelle (vmo et mmo). 
+- Masse avion (tonnes). 
+Lorsque les informations ci-dessus sont réunies, il est alors possible de déterminer si les paramètres 
+sont dans les tolérances admises. 
+Remarque : 
+En cas de doute sur le rapport équipage, il est important, compte tenu des contraintes d'une inspection 
+« événements anormaux » de recouper les informations via l'enregistreur de vol. 
+ 
+Exemples de tolérances pour un Boeing 777 :  facteur de charge compris entre 2.5g et -1.0g 
+vitesse maxi opérationnelle + 20 nœuds (vmo) ou 0.05 mach (mmo). 
+ 
+ 
+  
+
+===== PAGE 36 =====
+Module 7.19 V07   Page 36 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.4. Inspections 
+Une inspection doit être effectuée avant remise en vol d’un l’avion s’il a été soumis à des accélérations 
+importantes lors d’un vol en turbulences sévères. 
+ 
+- Premier niveau : 
+Cette inspection consiste à déterminer s’il y a eu dommage visible extérieurement et à inspecter pour 
+évidence de défaillance de structure. 
+ 
+- Deuxième niveau : 
+Cette inspection plus détaillée des zones endommagées n’est à effectuer que si des dommages sont 
+découverts lors de l’inspection du 1er niveau. 
+4.4.1. Inspection premier niveau 
+Inspection premier niveau 
+Attention : les déformations des revêtements du fuselage ou des voilures jugées négligeables de 
+l’extérieur peuvent révéler un dommage interne important. 
+ 
+Déterminer si l’avion a son attitude normale et si les composants majeurs (nacelles, ailes et fuselage) 
+sont dans leur configuration normale. 
+ 
+Exemple d’inspection : 
+ 
+Au niveau de la section centrale de voilure : 
+- Inspecter le revêtement extérieur extrados et intrados pour criques, déformations anormales 
+causées par des tensions, rivets desserrés ou manquants.  
+- Inspecter les circuits, câblages, vérins pour dommage et bonne fixation.  
+- Inspecter le caisson de voilure, les longerons avant et arrière à l’intrados pour dommage et 
+alignement. 
+Au niveau des nacelles : 
+- Inspecter le revêtement extérieur pour pliures anormales causées par des tensions, rivets 
+desserrés ou manquants. 
+- Inspecter les attaches de capots moteur pour alignement et dommage. 
+- Inspecter les supports moteurs pour criques, déformations ou défaillance de structure. 
+- Vérifier les commandes moteur pour fonctionnement correct. 
+- Vérifier les circuits et câblages pour état et fixations. 
+- Inspecter la structure du puits de train pour dommage ou criques. 
+Au niveau des voilures extérieures : 
+- Inspecter l’extrados et l’intrados de la voilure pour criques du revêtement, pliures anormales, 
+rivets desserrés ou manquants. 
+- Inspecter les ailerons, leurs tabs et les volets pour pliures anormales ou criques. 
+- Inspecter la structure interne et les logements de réservoirs par les portes d’accès. 
+- Vérifier les circuits et câblages pour bonne fixation. 
+  
+===== PAGE 37 =====
+Module 7.19 V07   Page 37 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+Au niveau du fuselage avant : 
+- Inspecter le revêtement pour criques, pliures anormales, rivets desserrés ou manquants. 
+- Inspecter la zone en avant du pare-brise pour déformation de la structure ou défaillance. 
+- Vérifier l’équipement électronique, les antennes et composants pour état et fixation. 
+ 
+Au niveau de la section centrale fuselage : 
+- Inspecter le revêtement pour criques, pliures anormales, rivets desserrés ou manquants. 
+Au niveau du fuselage arrière : 
+- Inspecter la zone entière pour criques et déformation du revêtement causées par des efforts 
+anormaux, rivets desserrés au manquants. 
+- Inspecter les gouvernes arrière pour dommage et libre mouvement. 
+- Inspecter pour pliures anormales ou rivets desserrés à la jonction du plan horizontal et du plan 
+vertical. 
+- Vérifier le libre débattement des gouvernes. 
+  
+
+===== PAGE 38 =====
+Module 7.19 V07   Page 38 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.4.2. Inspection deuxième niveau 
+Comme les charges peuvent être transmises d’un élément à l’autre, inspecter soigneusement la 
+structure environnante et la structure adjacente aux zones découvertes endommagées lors de 
+l’inspection du 1er niveau. 
+ 
+Exemple d’inspection : 
+ 
+Section centrale :  
+- Déposer les planchers et portes d’accès nécessaires, inspecter les longerons avant et arrière 
+et la structure du caisson pour évidence de déformation ou défaillance de la structure. 
+- Essayer les circuits, câblages, volets, commande de vol et tous les systèmes dans cette zone. 
+Nacelle : 
+- Inspecter les zones voisines des attaches moteur. 
+- Inspecter la structure interne pour criques et dommage. 
+- Essai de fonctionnement des circuits et câblages. 
+Voilures extérieures : 
+- Si un dommage est constaté sur les réservoirs ou tuyauteries carburant, les déposer et les 
+inspecter ainsi que leurs caissons. 
+- Essai de fonctionnement des circuits et câblages, vérins de volets, câbles de commande 
+ailerons et tabs. 
+ 
+Fuselage avant : 
+- Déposer les planchers, inspecter la structure de poutre et les éléments de maintien pour 
+dommage.  
+- Examiner les équipements pour fixation cassée ou criquée.  
+- Essai de fonctionnement des appareils électroniques, antenne radar, circuits et câblages. 
+Section centrale fuselage : 
+- Inspecter les renforts, couples et flancs pour déformation ou défaillance de structure. 
+- Examiner les conduits de conditionnement d’air pour dommage. 
+- Essai de fonctionnement des circuits et câblages. 
+- Examiner les câbles de commande de vol, les supports de poulies, les jeux des câbles aux 
+passages des cloisons.  
+- S’assurer du fonctionnement de toutes les commandes de vol. 
+  
+
+===== PAGE 39 =====
+Module 7.19 V07   Page 39 sur 39 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Empennage : 
+- Inspection des bielles, des tubes de torsion, et des secteurs de commande de la profondeur.  
+- Inspection de l’attache des longerons de l’empennage vertical sur le fuselage. 
+- Inspection du revêtement pour absence de rivets manquants. 
+- Inspecter la structure pour criques, rivets desserrés ou manquants, dommages cachés.  
+- Inspection des gouvernes pour débattement correct. 
+- Inspection de la structure pour absence de rivets manquants ou desserrés. 
+- Inspection des vérins de trim pour douceur de fonctionnement et fixation correcte. Vérifier le 
+câblage électrique, les connecteurs et le débattement correct. 
+ 
+Réparation : 
+- Etant donné la variété des dommages pouvant être subis par un aéronef lors d’un vol en 
+importante turbulences, la procédure de réparation sera adaptée aux défauts découverts. 
+Renseignements des documents de bord : 
+- Les documents seront renseignés des dommages découverts et des suites données. 
+ 

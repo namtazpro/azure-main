@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "question": "Selon les critères de refus définis dans le livret, à partir de quel pourcentage d'usure de la dimension nominale des parties actives d'un outil celui-ci doit-il être écarté immédiatement et mis hors service ?",
+      "options": {
+        "A": "10 %",
+        "B": "5 %",
+        "C": "20 %"
+      },
+      "correct": "A",
+      "explication": "Le livret classe parmi les défauts critiques entraînant un refus systématique toute usure excédant 10 % de la dimension nominale des parties actives.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du contrôle préalable d'un outil, si une non-conformité est détectée, quelle couleur d'étiquette doit être apposée pour la mise hors service ?",
+      "options": {
+        "A": "Jaune",
+        "B": "Orange",
+        "C": "Rouge"
+      },
+      "correct": "C",
+      "explication": "La procédure en cas de détection de non-conformité impose d'apposer une étiquette rouge « HORS SERVICE - NE PAS UTILISER » de manière visible sur l'outil.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon le livret, quelle est la périodicité d'étalonnage à respecter pour une clé dynamométrique ?",
+      "options": {
+        "A": "Maximum 12 mois ou 5 000 cycles",
+        "B": "Maximum 6 mois ou 2 500 cycles",
+        "C": "Maximum 24 mois ou 10 000 cycles"
+      },
+      "correct": "A",
+      "explication": "Le contrôle de la date de dernier étalonnage des clés dynamométriques doit respecter un maximum de 12 mois ou 5 000 cycles d'utilisation.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'une opération de sablage en atelier, quelle distance entre la buse et la surface décapée doit être maintenue constante ?",
+      "options": {
+        "A": "50 à 100 mm",
+        "B": "400 à 600 mm",
+        "C": "150 à 300 mm"
+      },
+      "correct": "C",
+      "explication": "Le principe d'exécution du décapage impose de maintenir une distance buse-surface constante comprise entre 150 et 300 mm.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour assurer un décapage homogène lors d'une opération de sablage, quel taux de recouvrement entre passes successives faut-il appliquer ?",
+      "options": {
+        "A": "25 %",
+        "B": "50 %",
+        "C": "75 %"
+      },
+      "correct": "B",
+      "explication": "Le livret précise que la surface doit être balayée par passes régulières avec un recouvrement de 50 %.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les consignes de sécurité du livret, on ne doit jamais frapper avec un marteau directement sur une pièce dont la dureté est supérieure à :",
+      "options": {
+        "A": "30 HRc",
+        "B": "46 HRc",
+        "C": "60 HRc"
+      },
+      "correct": "B",
+      "explication": "La règle « jamais dur sur dur » interdit de frapper avec un marteau sur une pièce d'une dureté supérieure à 46 HRc ; au-delà, il faut utiliser une massette.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après serrage au couple nominal d'un assemblage à goupiller, si le trou de l'écrou n'est pas aligné avec celui de la vis, quelle action est autorisée ?",
+      "options": {
+        "A": "Serrer dans le sens du vissage jusqu'à alignement, dans la limite angulaire prévue (généralement 30° à 60°)",
+        "B": "Desserrer légèrement jusqu'à alignement du trou",
+        "C": "Frapper la goupille au marteau pour la forcer à traverser"
+      },
+      "correct": "A",
+      "explication": "Un serrage supplémentaire est autorisé uniquement dans le sens du vissage, dans la limite angulaire (généralement 30° à 60° selon documentation constructeur) ; il est interdit de desserrer pour aligner, sous peine de perte de précharge.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En quoi consiste la procédure de contre-couple appliquée à certains assemblages critiques (biellettes de commande de vol, fixations train) ?",
+      "options": {
+        "A": "Serrer au couple nominal puis appliquer un couple supplémentaire de 20 % pour sécuriser",
+        "B": "Appliquer le couple en deux étapes croissantes sans jamais desserrer",
+        "C": "Serrer au couple nominal, desserrer légèrement de 10 à 20°, puis resserrer au couple nominal"
+      },
+      "correct": "C",
+      "explication": "Le contre-couple consiste à serrer au couple nominal, desserrer légèrement de 10 à 20°, puis resserrer au couple nominal afin d'éliminer les frottements parasites et d'homogénéiser la précharge.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur un alésage contrôlé par calibre à limites (calibres « GO » et « NO GO »), la pièce est dans la tolérance si :",
+      "options": {
+        "A": "Les deux calibres « GO » et « NO GO » pénètrent dans l'alésage",
+        "B": "Le calibre « GO » pénètre et le calibre « NO GO » ne pénètre pas",
+        "C": "Aucun des deux calibres ne pénètre dans l'alésage"
+      },
+      "correct": "B",
+      "explication": "La grandeur est dans la tolérance lorsque le calibre « entre » (GO) pénètre et que le calibre « n'entre pas » (NO GO) ne pénètre pas ; si le NO GO passe, la pièce est usée et rejetée.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la conversion d'unités d'un manuel constructeur américain, quelle est la valeur d'un pouce (inch) en millimètres ?",
+      "options": {
+        "A": "30,48 mm",
+        "B": "24,5 mm",
+        "C": "25,4 mm"
+      },
+      "correct": "C",
+      "explication": "Le tableau de conversion du livret indique 1 inch = 25,4 mm (1 ft valant pour sa part 304,8 mm).",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle précision angulaire le livret indique-t-il pour une plieuse à presse utilisée en atelier aéronautique ?",
+      "options": {
+        "A": "± 0,5°",
+        "B": "± 0,1°",
+        "C": "± 2°"
+      },
+      "correct": "A",
+      "explication": "Les caractéristiques des plieuses à presse données dans le livret précisent une précision angulaire de ± 0,5°.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "D'après la règle du 1/10ème, pour contrôler une tolérance de ± 0,1 mm, la résolution de l'instrument de mesure doit être :",
+      "options": {
+        "A": "Au moins égale à 0,1 mm",
+        "B": "Inférieure ou égale à 0,01 mm",
+        "C": "Inférieure ou égale à 0,05 mm"
+      },
+      "correct": "B",
+      "explication": "La règle du 1/10ème exige que l'instrument ait une précision au moins 10 fois supérieure à la tolérance à vérifier ; pour ± 0,1 mm, un palmer de résolution ≤ 0,01 mm est nécessaire.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    }
+  ]
+}

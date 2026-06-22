@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la pression maximale supportée par une tuyauterie souple aéronautique en acier inoxydable tressé ?",
+      "options": {
+        "A": "Jusqu'à 1 000 PSI environ.",
+        "B": "Jusqu'à 5 000 PSI environ.",
+        "C": "Jusqu'à 12 000 PSI environ."
+      },
+      "correct": "B",
+      "explication": "Le tableau comparatif rigides/souples (§ « RAPPELS ») indique que les flexibles en acier tressé supportent une pression modérée à élevée, jusqu'à 5 000 PSI ; les tuyauteries rigides en acier inoxydable peuvent atteindre 8 000 PSI.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le cintrage par enroulement (avec mandrin interne) permet d'obtenir un rayon de courbure minimal de l'ordre de :",
+      "options": {
+        "A": "1 × le diamètre du tube.",
+        "B": "5 × le diamètre du tube.",
+        "C": "10 × le diamètre du tube."
+      },
+      "correct": "A",
+      "explication": "Le § 1.1.3 indique parmi les avantages du cintrage par enroulement : haute précision du rayon et de l'angle, permettant des rayons très courts (jusqu'à 1 × diamètre) avec faible risque de plis ou d'aplatissement (avec mandrin).",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de l'essai hydraulique d'une tuyauterie rigide en conception, quelle pression d'épreuve est appliquée par rapport à la pression nominale ?",
+      "options": {
+        "A": "Une pression 1,2 à 1,5 fois supérieure à la pression nominale.",
+        "B": "Une pression 2 à 3 fois supérieure à la pression nominale.",
+        "C": "Une pression égale à 5 à 10 fois la pression nominale."
+      },
+      "correct": "A",
+      "explication": "Le tableau de l'annexe 2.2.2 (Essai de pression hydraulique) précise : application d'une pression 1,2 à 1,5 fois supérieure à la pression nominale, conformément aux normes EASA CS-25/23, FAA 14 CFR Part 25/23, ISO 6802 et SAE AS 5440.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du cintrage d'un tube, le comportement de l'extrados (face extérieure du cintre) est :",
+      "options": {
+        "A": "il s'épaissit par compression de la matière.",
+        "B": "il reste de même épaisseur que la zone droite.",
+        "C": "il s'amincit car la matière s'allonge et perd de l'épaisseur."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1 précise : « Lorsque l'on cintre un tube, l'extrados s'amincit, la matière s'allonge et perd de l'épaisseur. Au contraire, l'intrados s'épaissit par compression. »",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la péremption généralement appliquée aux tuyauteries souples en aéronautique ?",
+      "options": {
+        "A": "2 ans.",
+        "B": "5 ans.",
+        "C": "10 ans."
+      },
+      "correct": "C",
+      "explication": "Le § 3.3.1 précise : « Contrairement à la plupart des tuyauteries rigides, les tuyauteries souples sont soumises à péremption, généralement 10 ans, et devront être contrôlées en ce sens. »",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour les essais des tuyauteries de carburant, le fluide ou le média utilisé est habituellement :",
+      "options": {
+        "A": "Du Skydrol (fluide hydraulique).",
+        "B": "Un gaz inerte (azote ou mélange air-hélium) ou du carburant.",
+        "C": "De l'eau additionnée de chlore."
+      },
+      "correct": "B",
+      "explication": "Le § 2.2.1.2 précise : « Les tuyauteries carburant sont testées avec des gaz inertes (azote / mélange air-hélium) ou du carburant », alors que les essais hydrauliques utilisent du fluide type Skydrol.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "L'évasement double (double flare) en aéronautique est obtenu en :",
+      "options": {
+        "A": "réalisant un simple cône à l'extrémité du tube avec un outil conique.",
+        "B": "créant un bourrelet en relief (perle) sur la paroi du tube.",
+        "C": "repliant d'abord l'extrémité du tube vers l'intérieur sur elle-même, puis en l'évasant pour former un collet conique à double épaisseur."
+      },
+      "correct": "C",
+      "explication": "Le § 1.2.2 décrit l'évasement double en deux étapes : repli du matériau vers l'intérieur, puis évasement conique du tube replié, créant une double épaisseur au collet qui renforce mécaniquement la connexion.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du serrage au couple d'un raccord sur une tuyauterie souple, la contre-clé doit être appliquée sur :",
+      "options": {
+        "A": "l'extrémité de la tuyauterie souple elle-même, puis sur la partie mâle du raccord, avant l'application du couple définitif.",
+        "B": "uniquement la partie femelle du raccord pour éviter d'endommager le filetage.",
+        "C": "uniquement la tuyauterie souple, maintenue à la main, sans contre-clé sur le raccord."
+      },
+      "correct": "A",
+      "explication": "Le § 3.4 (cas des tuyauteries souples) impose : 1) contrer sur l'extrémité de la tuyauterie souple, 2) serrage non définitif (contact + 1/4 de tour) pour verrouiller la position, 3) contrer sur la partie mâle du raccord, 4) appliquer le couple définitif. Le maintien à la main n'est pas compatible avec un assemblage conforme.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    }
+  ]
+}

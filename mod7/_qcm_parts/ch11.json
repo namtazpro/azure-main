@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "Lors de la démagnétisation d'un roulement, quelle est la valeur maximale admissible de magnétisme résiduel mesurée au gaussmètre ?",
+      "options": {
+        "A": "Inférieure à 5 Gauss (ou 400 A/m)",
+        "B": "Inférieure à 50 Gauss (ou 4 000 A/m)",
+        "C": "Inférieure à 0,5 Gauss (ou 40 A/m)"
+      },
+      "correct": "A",
+      "explication": "Après démagnétisation, le champ magnétique résiduel doit être inférieur à 5 Gauss ou 400 A/m, vérifié au gaussmètre étalonné. Si la valeur est dépassée, l'opération doit être recommencée.",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle vitesse maximale de passage au démagnétiseur est prescrite pour un roulement ou les pièces qui le composent ?",
+      "options": {
+        "A": "0,6 cm/s (≈ 0,37 m/min)",
+        "B": "60 cm/s (≈ 37 m/min)",
+        "C": "6 cm/s (≈ 3,7 m/min)"
+      },
+      "correct": "C",
+      "explication": "Les roulements et leurs pièces sont passés au démagnétiseur à une vitesse ne devant pas excéder 3,7 m/min, soit environ 6 cm/s. Les parties démontables sont démagnétisées individuellement.",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du graissage d'un roulement, quelle quantité de graisse doit-on viser par défaut dans les espaces libres du logement et du roulement ?",
+      "options": {
+        "A": "Remplir complètement les espaces libres pour maximiser la protection contre la contamination",
+        "B": "Ne remplir que 1/3 à 1/2 des espaces libres du logement et du roulement",
+        "C": "Limiter le remplissage à 1/10 maximum pour éviter tout échauffement"
+      },
+      "correct": "B",
+      "explication": "Il faut ne remplir que 1/3 à 1/2 des espaces libres du logement et du roulement ; un graissage excessif donne lieu à une augmentation de température pouvant provoquer la détérioration du roulement. À faible vitesse, on peut garnir complètement pour améliorer l'étanchéité.",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Parmi les causes principales de défaillance prématurée des roulements, laquelle représente la part la plus importante des échecs selon le module ?",
+      "options": {
+        "A": "Une lubrification inadéquate",
+        "B": "Un défaut de montage ou d'alignement",
+        "C": "La contamination par des particules extérieures"
+      },
+      "correct": "A",
+      "explication": "Le tableau des causes d'échec prématuré place la lubrification inadéquate en tête (~36 % à ~80 % selon les critères), devant la fatigue/surcharge (~30-34 %), la contamination (~14-25 %) et le montage/alignement (~10-16 %).",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    }
+  ]
+}

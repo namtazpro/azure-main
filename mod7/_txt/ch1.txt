@@ -1,0 +1,1909 @@
+===== PAGE 1 =====
+Module 7.1 V08   Page 1 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+ 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2025 
+Module 7.1 
+ 
+Mesure de 
+sécurité aéronefs 
+et ateliers 
+ 
+Licence B1 / B2 
+
+===== PAGE 2 =====
+Module 7.1 V08   Page 2 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+Ce document a été édité par air formation. Il ne doit en aucun cas être utilisé à d'autres fins que 
+celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+Garants des livrets 
+ 
+ 
+Glossaire 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+Tableau d'évolution 
+ 
+Révision Date Pages 
+modifiées Synthèse des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 11/05/2016 
+Page de 
+garde et 
+page 1  
+  
+Adresse, signatures et noms modifiés + 
+édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 23/05/2017 Toutes Nouvelle édition 
+V06 30/05/2024 Toutes UE 2023 / 989 
+V07 06/03/2025 Toutes Syllabus, Mise en pages, § oxygène, § travail 
+en hauteur  
+V08 13/01/2025 Toutes  Ajout de contenu et mises à jour  
+ 
+  
+Visa Rédacteur / Responsable 
+Module 
+Laurent VINGADASSALOM 
+Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+   
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, elle ne 
+doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.1 V08   Page 3 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+SUJET MODULE 7 : Procédures d’entretien 
+ 
+Catégorie B1 :  80 questions à choix multiples temps alloué 100 minutes.  
+2 questions à développement temps alloué 20 minutes par QD. 
+ 
+Catégorie B2 :  60 questions à choix multiples temps alloué 75 minutes + 
+2 questions à développement temps alloué 20 minutes par QD. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+7.1. Mesures de sécurité – Aéronefs et Atelier Niveau 
+A B1 B2 
+ 
+Aspects des pratiques de travail sûres, y compris les précautions à prendre 
+pour travailler avec l'électricité, les gaz (en particulier l'oxygène), les huiles 
+et les produits chimiques.  
+ 
+Sécurité des réservoirs de carburant et procédures et précautions d'entrée 
+dans les réservoirs de carburant.  
+ 
+Sensibilisation et précautions concernant les aéronefs équipés de systèmes 
+de récupération balistique. 
+ 
+Des instructions sur les mesures à prendre en cas d'incendie ou d'autre 
+accident présentant un ou plusieurs de ces risques, y compris des 
+informations sur les agents extincteurs. 
+1 3 3 
+ 
+  
+===== PAGE 4 =====
+Module 7.1 V08   Page 4 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.1 V08   Page 5 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+TABLE DES MATIERES 
+ 
+1. GENERALITES ................................ ................................ ................................ ............7 
+1.1. Principales causes d’accidents ................................ ................................ .................8 
+1.2. L’environnement de l’aéronef ................................ ................................ ....................9 
+1.3. Travail sur aéronef ................................ ................................ ................................ .... 11 
+1.4. A la fin du travail ................................ ................................ ................................ ....... 12 
+1.5. Mise en place d’étiquettes DANGER ................................ ................................ ....... 12 
+2. PRATIQUES DE TRAVAIL SURES ................................ ................................ ........... 13 
+2.1. Sécurité électricité ................................ ................................ ................................ .... 13 
+2.1.1. Génération électrique ................................ ................................ ...............................  13 
+2.1.2. Tension et dangers ................................ ................................ ................................ ... 14 
+2.1.3. Procédures d’isolement ................................ ................................ ........................... 14 
+2.1.4. Protection lors des interventions ................................ ................................ ............ 15 
+2.2. Sécurité gaz-oxygène ................................ ................................ ...............................  15 
+2.3. Sécurité huiles ................................ ................................ ................................ .......... 17 
+2.3.1. Circuit hydraulique ................................ ................................ ................................ ... 17 
+2.3.2. Le skydrol ................................ ................................ ................................ .................. 18 
+2.4. Sécurité produits chimiques ................................ ................................ .................... 20 
+3. SECURITE RESERVOIRS CARBURANT ................................ ................................ .. 21 
+3.1. Circuit carburant ................................ ................................ ................................ ....... 21 
+3.1.1. Les risques pour la santé ................................ ................................ ......................... 21 
+3.1.2. Les risques de feu ou d’explosion ................................ ................................ .......... 22 
+3.1.3. Aéronef dans le hangar ................................ ................................ ............................ 22 
+3.1.4. Intervention sur les circuits carburants ................................ ................................ .. 22 
+3.1.5. Travaux dans les réservoirs ................................ ................................ ..................... 23 
+3.1.6. Le plein carburant ................................ ................................ ................................ ..... 25 
+4. SYSTEMES DE RECUPERATION BALISTIQUE ................................ ....................... 26 
+4.1. Systèmes de récupération balistique ................................ ................................ ...... 26 
+4.1.1. Définition et fonction ................................ ................................ ................................  26 
+4.1.2. Composants du système................................ ................................ .......................... 27 
+4.1.3. Dangers lors de la maintenance ................................ ................................ .............. 28 
+4.1.4. Zones d'exclusion ................................ ................................ ................................ ..... 29 
+4.1.5. Précautions obligatoires ................................ ................................ .......................... 30 
+4.1.6. Interventions spécifiques ................................ ................................ ......................... 32 
+4.1.7. Consignes d'urgence................................ ................................ ................................  33 
+===== PAGE 6 =====
+Module 7.1 V08   Page 6 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4.1.8. Réglementation ................................ ................................ ................................ ......... 34 
+5. PROTECTION INCENDIE ................................ ................................ .......................... 35 
+5.1. Protection incendie................................ ................................ ................................ ... 35 
+5.1.1. Les classes de feux ................................ ................................ ................................ .. 35 
+5.1.2. Les agents extincteurs ................................ ................................ ............................. 36 
+6. COMPLEMENTS SECURITE ................................ ................................ ..................... 38 
+6.1. Sécurité sur les commandes de volets et gouvernes ................................ ............ 38 
+6.2. Sécurité sur les trains d’atterrissage ................................ ................................ ...... 39 
+6.2.1. Les trappes de train ................................ ................................ ................................ .. 41 
+6.2.2. Les freins ................................ ................................ ................................ ................... 42 
+6.3. Les moteurs ................................ ................................ ................................ .............. 43 
+6.3.1. Le turboréacteur ................................ ................................ ................................ ....... 43 
+6.3.2. La ventilation sèche ................................ .............................. Erreur ! Signet non défini. 
+6.3.3. La ventilation humide ................................ ...........................Erreur ! Signet non défini. 
+6.3.4. Inverseur de poussée ................................ ................................ ...............................  44 
+6.3.5. Allumeurs ................................ ................................ ................................ .................. 44 
+6.3.6. Le turbogénérateur (APU) ................................ ................................ ........................ 45 
+6.3.7. Le turbopropulseur ................................ ................................ ................................ ... 46 
+6.3.8. Essais de ventilation sur turbopropulseur................................ ..............................  46 
+6.4. Autres circuits ................................ ................................ ................................ ........... 47 
+6.4.1. Conditionnement d’air ................................ ................................ ..............................  47 
+6.4.2. Le radar météo ................................ ................................ ................................ .......... 48 
+6.4.3. Le Pilote Automatique (PA) ................................ ..................Erreur ! Signet non défini. 
+6.4.4. La Radiocommunication ................................ ................................ .......................... 49 
+6.4.5. Les Sondes ................................ ................................ ................................ ............... 50 
+6.5. Le bruit ................................ ................................ ................................ ...................... 51 
+6.6. Le travail en hauteur ................................ ................................ ................................ . 52 
+6.7. Périmètre de sécurité ................................ ................................ ...............................  54 
+6.8. Appareil de levage ................................ ................................ ................................ .... 55 
+6.9. Point fixe ................................ ................................ ................................ ................... 56 
+ 
+  
+===== PAGE 7 =====
+Module 7.1 V08   Page 7 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1. GENERALITES 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques des 
+outils pour la maintenance des aéronefs.  Une capacité à combiner et appliquer des 
+éléments de connaissances séparés d'une manière logique et compréhensible. Capacité à 
+appliquer cette connaissance. [Niveau 3] 
+ 
+ 
+Les activités de maintenance doivent répondre à des critères définis par : 
+- Les documents constructeurs, 
+- Le manuel d'entretien, 
+- Le manuel d'exploitation, 
+- Les arrêtés définissant la maintenance et la navigabilité des aéronefs, 
+- Les textes législatifs en vigueur. 
+ 
+ 
+ 
+Les dangers relatifs à la maintenance présentent des risques réels. 
+Les enseignements du passé doivent nous permettre d'éviter la reproduction d’erreurs ayant entraîné 
+des accidents parfois très graves : 
+- Ne jamais sous-estimer les forces engendrées par les circuits de l’Aéronefs, 
+- Les parties mobiles sont conçues pour résister à des charges aérodynamiques pendant le vol, 
+beaucoup plus importantes que la résistance du corps humain, 
+- Les intervenants en maintenance sont nombreux sur un aéronef, 
+- Les accidents sont très souvent dus à l'incompréhension ou au manque de communication 
+entre les intervenants. 
+ 
+Des items au début des cartes de travail dans la documentation aéronautique tel que l’AMM / 
+CMM permet aux techniciens de prendre les dispositions nécessaires pour réaliser sa 
+procédure de maintenance.  
+ 
+ 
+  
+
+===== PAGE 8 =====
+Module 7.1 V08   Page 8 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+WARNING : Indique une situation présentant des risques susceptibles de provoquer la mort, 
+des blessures graves ou des dommages matériels. 
+ 
+CAUTION : Indique une situation potentiellement dangereuse et susceptibles d’entrainer des 
+lésions corporelles ou des dommages matériels. 
+ 
+NOTE : Indique des explications en plus qui aident à la compréhension de la tâche ou du système. 
+ 
+1.1. Principales causes d’accidents 
+Non-respect des consignes de sécurité et des procédures, 
+La routine qui nous fait côtoyer le danger, sans le voir parfois, 
+La tension nerveuse due parfois aux changements de rythme dans le cycle de travail, 
+La négligence par méconnaissance des règles et procédures, 
+Le bruit perturbant les réactions de l'individu, 
+ 
+Le résultat de l'application de la loi de Murphy.       
+o « Tout ce qui est susceptible de mal tourner tournera nécessairement mal  
+ 
+o « S'il existe au moins deux façons de faire quelque chose et qu'au moins l'une de ces 
+façons peut entraîner une catastrophe, il se trouvera forcément quelqu'un quelque part 
+pour emprunter cette voie. »  
+ 
+                                                      
+  
+Loi de MURPHY 
+===== PAGE 9 =====
+Module 7.1 V08   Page 9 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2. L’environnement de l’aéronef 
+Lors des opérations de maintenance et des essais fonctionnels, le technicien doit faire preuve d’une 
+vigilance accrue à proximité des parties mobiles d’un aéronef, notamment les gouvernes, volets, 
+trappes, trains d’atterrissage et autres systèmes articulés. Toute activation non maîtrisée peut 
+entraîner des risques de blessures graves ou de dommages matériels. 
+ 
+ 
+ 
+Consignes de sécurité essentielles : 
+ 
+- Surveillance et prévention des accès 
+Interdire l’approche de toute personne non autorisée dans le champ de déplacement ou de 
+débattement des parties mobiles pendant les essais. 
+Établir un périmètre de sécurité clair et visible autour des zones à risque. 
+ 
+- Prévention des fausses manœuvres 
+ 
+Vérifier que toutes les sécurités sont en place avant toute intervention (butoirs, cales, goupilles de 
+verrouillage, drapeaux « REMOVE BEFORE FLIGHT »). 
+Communiquer avec l’ensemble de l’équipe avant toute activation de commande. 
+ 
+- Gestion des objets et outils à proximité des gouvernes 
+ 
+Ne jamais déposer d’objets, d’outils ou de composants à proximité immédiate des commandes de vol 
+et des gouvernes. 
+Effectuer un contrôle visuel minutieux avant et après toute opération pour s’assurer qu’aucun objet 
+étranger (FOD – Foreign Object Debris) ne puisse compromettre le fonctionnement des systèmes. 
+- Respect des procédures de travail au sol 
+ 
+Appliquer scrupuleusement les consignes définies dans les procédures « opérations au sol sur 
+aéronef » fournies par le constructeur et l’opérateur. 
+Utiliser des moyens de signalisation adaptés (cônes, barrières, panneaux d’avertissement) pour 
+informer de la présence de zones dangereuses. 
+  
+
+===== PAGE 10 =====
+Module 7.1 V08   Page 10 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+- Maîtrise des interventions et sécurisation 
+ 
+S’assurer que les systèmes sont sous contrôle et sécurisés avant d’engager une action sur une partie 
+mobile. 
+Vérifier que toutes les personnes impliquées sont informées des manœuvres en cours et disposent 
+d’un moyen de communication efficace (talkie-walkie, signaux visuels ou sonores). 
+ 
+- Gestion des situations à risque 
+ 
+En cas de doute sur une procédure ou une configuration, interrompre immédiatement l’intervention et 
+consulter les documents techniques appropriés ou un supérieur. 
+Ne jamais engager une action si un élément de sécurité ou de verrouillage est manquant ou 
+défectueux. 
+Ces mesures garantissent la sécurité des techniciens et la préservation de l’intégrité de l’aéronef lors 
+des essais et manipulations des systèmes mobiles. 
+  
+===== PAGE 11 =====
+Module 7.1 V08   Page 11 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.3. Travail sur aéronef 
+Avant tout travail sur aéronef, il est obligatoire : 
+- De procéder avec ordre en respectant la méthodologie des fiches de travaux, 
+- De ne rien laisser traîner sur le sol, sur les docks, escabeaux, etc., 
+- De choisir l'outillage le mieux adapté, 
+- De mettre en place les sécurités ou protections existantes, en ayant vérifié leur état. 
+ 
+Exemple : toute broche doit être munie d'une flamme.  
+ 
+ 
+  
+
+===== PAGE 12 =====
+Module 7.1 V08   Page 12 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.4. A la fin du travail 
+Faire l'inventaire pour s'assurer de la présence de tout l'outillage, 
+Vérifier visuellement la zone de travail, pour s'assurer que rien n'a été oublié. 
+ 
+     
+ 
+1.5. Mise en place d’étiquettes DANGER 
+La mise place d’une signalétique codifiée lors des interventions sur les systèmes Aéronefs est impératif. 
+ 
+Plusieurs accidents provoqués à distance ont fait ressortir que fréquemment ils auraient pu être évités 
+si les intéressés avaient signalé leur présence. 
+ 
+Elle n'exclut pas la mise en place de tous outillages de blocage  ou de protection normalement 
+prévus. 
+ 
+Cette étiquette, placée dans un endroit bien déterminé, devra renseigner toute personne pénétrant 
+dans le poste de pilotage d'un aéronef qu'il peut être dangereux de manipuler une commande,  
+un interrupteur, tant que des travaux sont en cours sur l’aéronef. 
+ 
+Cette étiquette devra être détruite dès la fin des travaux et uniquement par le responsable de l'opération 
+ 
+ 
+ 
+Une étiquette bien placée et correctement remplie sera la meilleure sécurité 
+  
+
+===== PAGE 13 =====
+Module 7.1 V08   Page 13 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2. PRATIQUES DE TRAVAIL SURES 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques 
+des outils pour la maintenance des aéronefs.  Une capacité à combiner et appliquer des 
+éléments de connaissances séparés d'une manière logique et compréhensible. Capacité 
+à appliquer cette connaissance. [Niveau 3] 
+2.1. Sécurité électricité 
+2.1.1. Génération électrique 
+ 
+Sur les aéronefs, les tensions électriques rencontrées 
+sont de l'ordre de : 
+- 115 Volts triphasé 400 Hz (standard) 
+- 230 Volts triphasé 400 / 800 Hz A380 et 
+A350 
+- 28 Volts 400 Hz. 
+- 28 Volts continu avec des intensités de 
+plusieurs ampères. 
+Ces tensions sont fournies à partir : 
+- des génératrices ou alternateurs montés sur 
+les moteurs. 
+- du groupe de parc. 
+- de l'APU. 
+- de la batterie de bord. 
+ 
+ 
+ 
+Loi d'Ohm : U = R × I (tension = résistance × intensité) 
+Puissance électrique : P = U × I (watts) 
+ 
+Exemple : Un court-circuit sur un circuit 28V DC avec 200A disponibles : P = U × I = 28V × 
+200A = 5 600 Watts → Risque de brûlures graves instantanées et d'arc électrique 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.1 V08   Page 14 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.1.2. Tension et dangers 
+Toutes ces tensions utilisées peuvent être mortelles. Elles sont présentes partout en fonction de 
+leur utilisation. 
+2.1.3. Procédures d’isolement 
+- Isoler le circuit sur lequel vous travaillez en tirant les "Breakers" de protection et 
+n'oubliez pas la mise en place de l'étiquette "danger" et éventuellement les clips de 
+blocage. 
+- Utilisez les fiches analytiques et respectez l'ordre des opérations prévu. 
+- Respectez les consignes et procédures de la documentation applicable. 
+- Effectuez les dépannages avec des outillages en bon état et prévus à cet effet. 
+ 
+ 
+  
+
+===== PAGE 15 =====
+Module 7.1 V08   Page 15 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.1.4. Protection lors des interventions 
+Pour tous travaux à proximité d'une zone avec tension (panneaux disjoncteurs, boîtes de jonction, 
+barrettes à bornes, etc.)  : couper l'alimentation générale de l' aéronef (APU, groupe de parc, 
+batterie). 
+ 
+ 
+ 
+Ne jamais effectuer une mise sous tension sans avoir consulté la fiche analytique,  sans avoir 
+vérifié la conformité des circuits et l'absence de personnel travaillant sur un circuit électrique. 
+Ne jamais laisser un aéronef sous tension sans surveillance. Couper toute alimentation y 
+compris le circuit batterie. 
+2.2. Sécurité gaz-oxygène 
+Les travaux sur les circuits oxygène et les manipulations de bouteilles comportent des risques 
+graves d'incendie et d'explosion.  
+ 
+Les consignes de sécurité doivent IMPERATIVEMENT être respectées pour tous travaux sur 
+l'oxygène. 
+ 
+- Interdiction formelle de fumer. 
+- Proscrire l'emploi de produits de nettoyage inflammables. 
+- Éliminer toute présence de corps gras, les chiffons, outils, vêtements et mains souillés par 
+les corps gras provoque une inflammation spontanée avec l'oxygène. 
+- Ouvrir ou fermer lentement les robinets à la main pour éviter les dangers dus à 
+l'échauffement de l'oxygène dans les tuyauteries.  
+- Respecter les consignes de sécurité de la documentation applicable 
+- Utiliser les outils préconisés dans la documentation applicable 
+- Manipuler avec précautions les équipements composés de cartouches d’oxygène 
+chimique (En cas de chocs, l’amorce de la cartouche peut déclencher la production 
+d’oxygène) 
+ 
+Pour tous travaux de longue durée, veiller à la propreté des vêtements de travail afin d'éviter les 
+souillures par corps gras. 
+ 
+Les consignes de sécurité applicables aux manipulations des bouteilles de gaz comprimés sont 
+applicables aux bouteilles d'oxygène, en ce qui concerne les dangers d'explosion provenant de chocs 
+ou éraflures entraînant des amorces de criques. 
+  
+
+===== PAGE 16 =====
+Module 7.1 V08   Page 16 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+Remarque :  
+Ne jamais vidanger totalement une bouteille d'oxygène afin d'éviter des opérations onéreuses de 
+rinçage et d'assèchement.  
+ 
+La pression minimum à respecter est de l'ordre de 50 PSI. 
+ 
+Ces consignes s'appliquent sur les aéronefs munis de bouteilles d'oxygène pour les circuits équipage 
+et passagers, certains aéronefs ont pour les passagers un autre système d'alimentation en oxygène. 
+                                                          
+ 
+  
+OXYGÈNE 
+===== PAGE 17 =====
+Module 7.1 V08   Page 17 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.3. Sécurité huiles 
+2.3.1. Circuit hydraulique 
+DANGERS hydraulique :  
+ 
+- Liquide sous haute pression  
+- Risque d'injection sous-cutanée = MORTEL  
+- Projections dans les yeux  
+- Contact avec parties chaudes = vapeurs TOXIQUES 
+ 
+ATTENTION POUR LES MANIPULATIONS de LIQUIDE HYDRAULIQUE : 
+ 
+- Protégez-vous les mains avec de la pâte ou des gants. 
+- Protégez-vous les yeux avec des lunettes spéciales. 
+- Protégez les vêtements avec un tablier. 
+ 
+ 
+ 
+Dans le cas de projection de liquide dans les yeux, utilisez les dispositifs mis à disposition dans les 
+hangars et consultez un médecin. 
+ 
+Tout contact de liquide hydraulique sur des parties chaudes (freins, réacteurs) produit des vapeurs 
+extrêmement toxiques. 
+ 
+En cas de déversement de liquide hydraulique sur le sol, recouvrez de Produit absorbant les traces 
+de liquide afin d'éviter les glissades. 
+ 
+ 
+  
+
+===== PAGE 18 =====
+Module 7.1 V08   Page 18 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.3.2. Le skydrol 
+       
+ 
+Avec les aéronefs modernes sont apparus de nouveaux liquides hydrauliques présentant des 
+propriétés toxiques pour l'individu.  
+ 
+Sous la forme liquide : le contact prolongé et répété sur la peau peut provoquer une sensibilisation 
+et des allergies. 
+ 
+Sous forme de brouillard : provoque une irritation des yeux et des voies respiratoires supérieures. 
+ 
+➔ En cas d'exposition prolongée, l'irritation pulmonaire s'accompagne de toux et 
+d'éternuements. Sous forme de vapeur peuvent se décomposer et donner naissance à des 
+émanations toxiques. 
+ 
+Par précaution, il suffit d'appliquer certaines règles de protection : 
+- Se laver les mains et les avant-bras avant de commencer à travailler. Il doit en être de même 
+avant les repas ou les pauses, 
+- Avant le travail, passer une crème de protection sur les mains, les poignets et les avant-bras 
+en massant bien pour faire pénétrer le produit, 
+- Porter des gants en coton sous les gants résistant au liquide hydraulique, 
+- Porter des lunettes ou écrans afin que les projections de liquide n'atteignent pas les yeux, 
+- Porter une blouse ou une combinaison coton ainsi qu'un calot de coton, 
+- En cas d'aspersion, prendre, le plus vite possible, une douche et mettre des vêtements 
+propres, 
+- Si du liquide atteint les yeux, laver immédiatement et abondamment à l'eau pendant 10 
+minutes (lave-visage ou lavabo) et consulter un médecin pour d'autres soins oculaires. 
+- Ne pas respirer les émanations provenant de fuites sur les tuyauteries hautes pression. 
+- Quitter l'endroit jusqu'à ce que le brouillard soit dissipé, 
+- Ne jamais réemployer des vêtements ou protections souillés par le liquide sans les avoir lavés 
+ou nettoyés.  
+
+===== PAGE 19 =====
+Module 7.1 V08   Page 19 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+  
+
+===== PAGE 20 =====
+Module 7.1 V08   Page 20 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4. Sécurité produits chimiques 
+Dans les opérations de maintenance, on 
+utilise des ingrédients et autres produits qui 
+sont : 
+ 
+Toxiques dans le cas d'ingestion, 
+irritants dans le cas de contact. 
+Chaque année, des accidents se 
+produisent par ingestion de produits 
+dangereux transvasés dans des récipients 
+à usage alimentaire. 
+ 
+ 
+ 
+Afin de prévenir ce type d'accident, il faut : 
+ 
+- Interdire l'usage des récipients destinés à des boissons ou denrées alimentaires, 
+- Conserver les produits dangereux dans leur emballage d'origine bien étiquetés ou dans des 
+emballages de sécurité homologués prévus à cet usage et étiquetés, 
+- Suivre les recommandations prescrites d'emploi, 
+- Ranger immédiatement les récipients après usage dans un lieu de stockage prévu à cet effet, 
+- Détruire les emballages d'origine vides. 
+ 
+En cas d'ingestion accidentelle :  
+- Identifier rapidement le produit en cause, 
+- Éviter l'affolement, 
+- Alerter immédiatement le médecin ou l'organisme de premier secours, 
+- Si nécessaire, téléphoner d'urgence au Centre anti-poisons, 
+- Ne rien faire avaler en attendant les instructions précises. 
+ 
+ 
+Beaucoup de produits étant nocifs, il convient de les identifier 
+correctement pour pouvoir s'en protéger. Dans un but d'efficacité, 
+la mise en place d'une fiche de sécurité (FDS) des ingrédients 
+permettra aux utilisateurs de connaître les protections concernant 
+les produits ainsi que les mesures à prendre. 
+  
+
+===== PAGE 21 =====
+Module 7.1 V08   Page 21 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3. SECURITE RESERVOIRS CARBURANT 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques 
+des outils pour la maintenance des aéronefs.  Une capacité à combiner et appliquer des 
+éléments de connaissances séparés d'une manière logique et compréhensible. Capacité 
+à appliquer cette connaissance. [Niveau 3] 
+ 
+3.1. Circuit carburant 
+3.1.1. Les risques pour la santé 
+Le contact prolongé ou répété avec les mains ou la peau peut provoquer des dermatoses de 
+gravité variable avec risque d'allergie secondaire, la projection de carburant dans les yeux 
+peut entraîner des irritations. Les carburants produisent des vapeurs inflammables et toxiques. 
+Ces vapeurs associées à un certain pourcentage d'air forment des mélanges explosifs d'où risque 
+d'incendie. 
+ 
+ATTENTION : Quel que soit le dosage, ces vapeurs sont nocives pour la santé. 
+ 
+- Les vapeurs toxiques peuvent causer : 
+o Des maux de tête,  
+o Un état de somnolence, 
+o Des syncopes, 
+ 
+- Les vapeurs toxiques engendrent 
+o L’irritation des yeux, du nez et de la gorge. 
+ 
+- L'inhalation prolongée ou répétée des vapeurs peut entraîner des 
+troubles sanguins. 
+- L'accoutumance est telle que l'on ne remarque plus leur présence. 
+- L'ingestion des hydrocarbures peut causer des troubles hépato-digestifs 
+graves et parfois des troubles nerveux (coma, incidents respiratoires...). 
+ 
+ 
+Dans le cas d'ingestion, consulter le service médical. 
+Les constituants toxiques peuvent passer dans le sang par l'intermédiaire de la peau, des poumons 
+ou du tube digestif. 
+  
+
+===== PAGE 22 =====
+Module 7.1 V08   Page 22 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.1.2. Les risques de feu ou d’explosion 
+Si les vêtements sont en feu, procéder à leur extinction en utilisant l'un des moyens suivants : 
+ 
+- Couvertures, 
+- Chiffons secs, 
+- Extincteur Co2 en protégeant la peau, 
+- Eau, 
+- Extincteur à eau.  
+- NE PAS UTILISER D'EXTINCTEUR A MOUSSE 
+- Demander IMMEDIATEMENT l'intervention des POMPIERS et du 
+service médical. 
+- Ne pas essayer de déshabiller la personne brûlée. 
+ 
+3.1.3. Aéronef dans le hangar 
+Les avitaillements et reprises de carburant sont interdits dans le hangar , à l'exception des 
+opérations nécessitées par la vérification des réservoirs et des circuits carburants 
+ 
+3.1.4. Intervention sur les circuits carburants 
+       
+ 
+- Avant l'exécution de travaux sur le ou les circuit(s) carburants, s'assurer que toutes 
+leurs servitudes au poste sont sur "arrêt". 
+- Placer les étiquettes "Danger ". 
+- Prévoir des bacs de récupération pour recevoir le carburant dans le cas d'un 
+remplacement d'équipement. 
+- Veiller à la mise à la masse de l'aeronef. 
+- Renforcer les consignes de sécurité. 
+o Extincteur à proximité. 
+o Éviter l'épandage de carburant au sol. 
+o Si peu important, le recouvrir de produit absorbant pour éviter les glissades. 
+o Si important, nécessité d'appeler les pompiers. 
+o Éviter de manœuvrer les manches de vide-vite réservoirs sans nécessité. 
+- Pour vérifications et essais jaugeurs, utiliser les moyens d'essais précisés sur les 
+documents techniques afin d'éviter les risques d'explosion. 
+  
+
+===== PAGE 23 =====
+Module 7.1 V08   Page 23 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.1.5. Travaux dans les réservoirs 
+Ceux-ci sont soumis à la réglementation (Code du travail Art. R 232.2 et R 232.3). 
+Suivre les consignes de sécurité en vigueur concernant : 
+ 
+- La ventilation des réservoirs. 
+- Matériels zone ATmosphère EXplosive (ATEX) 
+- Le contrôle à l'explosimètre. 
+- La vérification de la toxicité.   
+ 
+                
+ 
+      
+ 
+ 
+ 
+Quand le contrôle à l'explosimètre se révèle satisfaisant, pénétrer dans le réservoir équipé d'un 
+masque à adduction d'air. 
+Pendant cette opération, l'adduction d'air s'effectuera à partir d'un réseau d'air comprimé. Ne pas 
+utiliser de bouteilles.  
+Utiliser les habits spéciaux à l'usage des travaux dans les réservoirs (habits antistatiques en coton). 
+Ne jamais pénétrer dans un réservoir sans qu'une surveillance extérieure soit mise en place. 
+  
+Zone ATEX 
+
+===== PAGE 24 =====
+Module 7.1 V08   Page 24 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+   
+    
+ 
+ 
+  
+Explosimètre 
+
+===== PAGE 25 =====
+Module 7.1 V08   Page 25 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.1.6. Le plein carburant 
+Vérifier les mises à la masse des prises de remplissage. 
+Pendant les pleins, éviter le fonctionnement des servitudes électriques. 
+Remarque : Sur certains aéronefs, les panneaux de remplissage sont situés dans la zone de 
+débattement des volets de bords d'attaque - Nécessité de ne pas les faire fonctionner pendant le plein 
+- DANGER GRAVE. 
+ 
+        
+ 
+ 
+ 
+  
+AVITAILLEMENT 
+===== PAGE 26 =====
+Module 7.1 V08   Page 26 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4. SYSTEMES DE RECUPERATION BALISTIQUE 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques 
+des outils pour la maintenance des aéronefs.  Une capacité à combiner et appliquer des 
+éléments de connaissances séparés d'une manière logique et compréhensible. Capacité 
+à appliquer cette connaissance. [Niveau 3] 
+4.1. Systèmes de récupération balistique 
+4.1.1. Définition et fonction 
+Un système de récupération balistique (BRS - Ballistic Recovery System) est un dispositif de sécurité 
+pyrotechnique conçu pour déployer un parachute de secours en cas d'urgence critique pendant le vol. 
+Ce système permet de ralentir la descente de l'aéronef complet et de ses occupants vers le sol, 
+réduisant considérablement les risques de blessures graves ou mortelles. 
+ 
+ 
+ 
+Le BRS est principalement installé sur : 
+ 
+• Les aéronefs légers de l'aviation générale (Cirrus SR20, SR22, SF50) 
+• Certains avions Diamond (DA42, DA62) 
+• Des ULM et avions ultra-légers 
+• Certains hélicoptères légers 
+ 
+Principe de fonctionnement : 
+ 
+En cas d'urgence (panne moteur, perte de contrôle, collision en vol, incapacité du pilote), le pilote ou 
+un passager actionne la poignée d'activation située dans le cockpit. Cette action déclenche une 
+charge pyrotechnique qui propulse une fusée-roquette. La fusée extrait rapidement le parachute hors 
+de son conteneur et le déploie en quelques secondes. L'aéronef entier descend alors sous voile 
+jusqu'au sol à une vitesse réduite. 
+ 
+  
+
+===== PAGE 27 =====
+Module 7.1 V08   Page 27 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4.1.2. Composants du système 
+Le système BRS se compose des éléments suivants : 
+Conteneur du parachute :  
+Généralement installé dans le fuselage arrière ou derrière les sièges, il abrite le parachute principal 
+plié et compacté. 
+Fusée de propulsion :  
+Dispositif pyrotechnique qui génère la poussée nécessaire pour extraire le parachute à grande 
+vitesse. La fusée contient une charge explosive calibrée. 
+Parachute balistique :  
+Voile de grande surface (typiquement 40 à 80 m²) conçue pour supporter le poids total de l'aéronef. 
+Matériaux haute résistance (nylon, Kevlar). 
+Harnais et sangles d'attache :  
+Système de sangles reliant le parachute aux points d'ancrage structuraux renforcés de l'aéronef 
+(longerons, cadres principaux). 
+Poignée d'activation cockpit :  
+Poignée rouge facilement accessible, souvent placée au plafond central entre les sièges pilote et 
+copilote. L'activation nécessite une traction franche (force de 15 à 30 kg). 
+Circuit d'armement :  
+Câbles, goupilles de sécurité et détonateur électrique ou mécanique qui relient la poignée au système 
+pyrotechnique. 
+Goupilles et dispositifs de sécurité :  
+Goupilles mécaniques type "Remove Before Flight" qui empêchent toute activation accidentelle au sol 
+ou pendant la maintenance. 
+ 
+  
+
+===== PAGE 28 =====
+Module 7.1 V08   Page 28 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4.1.3. Dangers lors de la maintenance 
+ATTENTION : Les systèmes BRS présentent des dangers MORTELS pendant la maintenance. 
+ 
+ 
+Les principaux risques sont : 
+ 
+• Activation accidentelle de la fusée :  
+Le déclenchement intempestif du système pyrotechnique peut projeter la fusée à plus de 30 m/s, 
+causant des blessures gravissimes (traumatismes crâniens, fractures, décès). La zone de danger 
+s'étend jusqu'à 15 mètres dans l'axe de tir. 
+ 
+ 
+ 
+• Charge pyrotechnique sensible :  
+La charge explosive peut être déclenchée par des chocs mécaniques violents, une chaleur excessive 
+(>60°C), de l'électricité statique ou des courants parasites lors d'interventions électriques. 
+ 
+• Déflagration et surpression :  
+L'explosion pyrotechnique génère une onde de choc, du bruit intense (>140 dB) et des gaz toxiques 
+dans un espace confiné. 
+ 
+• Déploiement du parachute :  
+Le parachute se déploie avec une force considérable (plusieurs tonnes). Toute personne ou objet 
+dans la trajectoire peut être happé, écrasé ou éjecté. 
+ 
+ 
+ 
+• Manipulation d'explosifs :  
+Le système contient des matières explosives classées "marchandises dangereuses" (classe 1.4S). 
+Risque d'incendie si manipulation incorrecte. 
+ 
+  
+
+===== PAGE 29 =====
+Module 7.1 V08   Page 29 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4.1.4. Zones d'exclusion 
+IMPÉRATIF : Ne JAMAIS se placer dans l'axe de tir de la fusée. 
+Avant toute intervention sur un aéronef équipé BRS : 
+Identifier la trajectoire de la fusée :  
+La fusée est généralement orientée vers le haut et l'arrière de l'aéronef. Consulter les plans 
+d'installation dans le manuel de maintenance (AMM/CMM). 
+ 
+ 
+Délimiter la zone dangereuse :  
+Établir un périmètre d'exclusion de 15 mètres minimum autour de l'axe de sortie de la fusée. Baliser 
+cette zone avec des cônes ou barrières. 
+ 
+ 
+ 
+Interdire l'accès :  
+Aucun personnel ne doit pénétrer dans cette zone pendant toute la durée des travaux, même si le 
+système est "désarmé". Une défaillance reste toujours possible. 
+ 
+ 
+Positionner les échafaudages et équipements :  
+Les nacelles, plateformes et outillages doivent être placés EN DEHORS de la trajectoire potentielle. 
+Ne jamais travailler directement au-dessus ou en arrière du conteneur BRS. 
+  
+
+===== PAGE 30 =====
+Module 7.1 V08   Page 30 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4.1.5. Précautions obligatoires 
+Avant toute intervention sur aéronef équipé BRS : 
+ 
+• Identifier la présence du système : Vérifier la plaque signalétique "BRS INSTALLED" ou 
+"PARACHUTE SYSTEM" sur le fuselage. Consulter la configuration exacte dans le carnet de 
+route (Type Certificate Data Sheet). 
+ 
+• Étudier le manuel de maintenance : Lire le chapitre spécifique BRS (Aircraft Maintenance 
+Manual chapitre 25 généralement). Noter l'emplacement du conteneur, de la fusée, des points 
+d'ancrage et du circuit d'armement. 
+ 
+• Repérer les marquages de danger : Les zones contenant les composants pyrotechniques 
+sont marquées de panneaux "EXPLOSIVE" ou "FIRE/EXPLOSION HAZARD". Respecter 
+scrupuleusement ces avertissements. 
+ 
+• Vérifier l'état des goupilles de sécurité : S'assurer que les goupilles "Remove Before Flight" 
+sont en place et en bon état. Elles doivent être solidement insérées et munies de leur flamme 
+rouge. 
+ 
+• Briefing sécurité obligatoire : Réunir tous les intervenants et expliquer les dangers, les 
+zones d'exclusion et les procédures d'urgence. Désigner un responsable sécurité. 
+ 
+Pendant la maintenance : 
+ 
+• Désarmer le système si possible : Suivre la procédure constructeur pour neutraliser le 
+circuit d'armement (déconnexion électrique, retrait de composants, blocage mécanique). Cette 
+opération est RÉSERVÉE au personnel habilité. 
+ 
+• Poser des étiquettes DANGER : Fixer des étiquettes rouges bien visibles sur la poignée 
+d'activation cockpit et sur tous les accès au système : "DANGER - SYSTÈME 
+PYROTECHNIQUE - NE PAS MANIPULER - MAINTENANCE EN COURS". 
+ 
+• Interdire les sources de chaleur : Aucun chalumeau, décapeur thermique, lampe à souder 
+ou toute autre source de chaleur intense ne doit être utilisé à moins de 3 mètres du système 
+BRS. Risque de déclenchement de la charge explosive. 
+ 
+• Éviter les chocs sur la zone BRS : Manipuler avec précaution tous les panneaux d'accès, 
+capots et composants situés près du conteneur. Un choc violent peut déclencher la fusée. 
+ 
+• Précautions électriques : Lors d'interventions sur le circuit électrique de l'aéronef, isoler 
+complètement le circuit BRS (breakers tirés, connecteurs débranchés, étiquettes posées). Les 
+courants de fuite ou l'électricité statique peuvent activer le détonateur. 
+ 
+• Porter un EPI adapté : Gants antistatiques si manipulation de composants pyrotechniques. 
+Chaussures de sécurité. Protections auditives à proximité immédiate (en cas d'activation). 
+ 
+• Communication continue : Maintenir une liaison interphone ou radio entre tous les 
+intervenants. Toute anomalie détectée doit être signalée immédiatement et les travaux 
+arrêtés. 
+  
+===== PAGE 31 =====
+Module 7.1 V08   Page 31 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Après intervention : 
+ 
+• Réarmer le système : Suivre scrupuleusement la procédure de réarmement définie par le 
+constructeur. Reconnecter les circuits, retirer les goupilles de neutralisation si applicable. 
+ 
+• Test fonctionnel : Effectuer les vérifications prévues dans le manuel (continuité électrique, 
+verrouillages mécaniques) SANS activation réelle. Utiliser un testeur prévu à cet effet. 
+ 
+• Vérification visuelle complète : Inspecter l'état du conteneur, des sangles, de la poignée 
+d'activation et de tous les connecteurs. S'assurer qu'aucun outil ou objet étranger n'a été 
+oublié à proximité. 
+ 
+• Retirer toutes les étiquettes DANGER : Une fois les travaux terminés et le système vérifié, 
+retirer les étiquettes de danger pour remettre le système en service. 
+ 
+Mise à jour du carnet de route : Enregistrer toutes les interventions effectuées (date, nature, 
+résultats des tests). Signature du technicien habilité et APRS (Attestation de Remise en Service). 
+  
+===== PAGE 32 =====
+Module 7.1 V08   Page 32 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4.1.6. Interventions spécifiques 
+Inspection périodique : 
+ 
+• Fréquence : Inspection visuelle à chaque visite pré-vol ou visite 50h. Inspection approfondie 
+tous les 12 mois ou 100 heures de vol (selon constructeur). 
+ 
+ 
+• Points de contrôle : État du conteneur (fissures, déformations, corrosion), état des sangles 
+et harnais (usure, coupures, effilochage), présence et bon état des goupilles de sécurité, 
+absence de fuite ou d'humidité dans le conteneur, date de péremption de la charge 
+pyrotechnique. 
+• Vérification date limite : Les systèmes pyrotechniques ont une durée de vie limitée 
+(généralement 10 à 15 ans). Au-delà, remplacement obligatoire par le constructeur ou un 
+organisme agréé. 
+ 
+ 
+Remplacement du système BRS : 
+ 
+• Habilitation requise : Cette opération est RÉSERVÉE au personnel spécialement formé et 
+habilité par le constructeur (Cirrus, BRS Aerospace, etc.). Formation spécifique obligatoire. 
+• Procédure constructeur stricte : Suivre impérativement la procédure de remplacement 
+détaillée dans le Service Manual. Toute déviation est interdite et dangereuse. 
+• Outillage spécifique : Utiliser uniquement les outils prescrits (clés dynamométriques 
+calibrées, extracteurs spéciaux, dispositifs de maintien). L'outillage standard est insuffisant et 
+dangereux. 
+• Manipulation de l'ancien système : Le système déposé reste ACTIF et dangereux. Le 
+transporter avec précaution dans son emballage de protection vers un lieu de stockage 
+sécurisé. Ne jamais le jeter aux ordures. 
+ 
+Stockage des composants BRS : 
+ 
+• Local dédié : Stocker dans un local sécurisé, ventilé, à l'abri de la chaleur (température 
+<30°C), de l'humidité et des vibrations. Accès restreint au personnel habilité. 
+• Signalisation : Apposer des panneaux "MATIÈRES EXPLOSIVES - ACCÈS INTERDIT" sur 
+les portes du local. 
+• Conditions de stockage : Maintenir les composants dans leur emballage d'origine 
+hermétique. Éviter tout contact avec des produits chimiques, carburants ou solvants. 
+  
+
+===== PAGE 33 =====
+Module 7.1 V08   Page 33 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Transport des composants BRS : 
+ 
+• Réglementation TMD/ADR : Les systèmes pyrotechniques sont classés "marchandises 
+dangereuses classe 1.4S". Le transport est soumis à la réglementation sur le Transport de 
+Matières Dangereuses (TMD routier, ADR pour l'Europe, IATA pour l'aérien). 
+• Emballage homologué : Utiliser uniquement des emballages UN homologués pour explosifs. 
+Ne jamais improviser. 
+• Documents obligatoires : Document de transport TMD, fiche de sécurité (FDS), certificat 
+d'emballage. Déclaration préalable au transporteur. 
+• Formation du chauffeur : Le conducteur du véhicule doit être titulaire d'un certificat ADR 
+pour le transport de matières explosives. 
+ 
+4.1.7. Consignes d'urgence 
+EN CAS D'ACTIVATION ACCIDENTELLE DU SYSTÈME BRS : 
+ 
+• Évacuation immédiate : Dès le déclenchement ou le moindre signe suspect (fumée, 
+sifflement, odeur de poudre), ÉVACUER IMMÉDIATEMENT la zone dans un rayon de 50 
+mètres. Donner l'alerte générale. 
+ 
+• Ne pas approcher : Ne JAMAIS revenir sur les lieux tant que le système n'a pas été 
+complètement sécurisé par les équipes d'intervention spécialisées (pompiers, artificiers, 
+équipe technique BRS). 
+ 
+• Alerte équipe de sécurité : Appeler immédiatement les pompiers (18 ou 112), le responsable 
+sécurité de l'aérodrome et le responsable maintenance. Préciser qu'il s'agit d'un système 
+pyrotechnique aéronautique. 
+ 
+• Balisage de la zone : Si possible sans danger, établir un périmètre de sécurité avec des 
+cônes, barrières et panneaux "DANGER - EXPLOSIF - ACCÈS INTERDIT". Interdire tout 
+accès. 
+ 
+• Éteindre les sources d'ignition : Couper toute alimentation électrique de l'aéronef et des 
+équipements à proximité. Interdire de fumer dans un rayon de 100 mètres. 
+ 
+• Compte-rendu d'incident : Rédiger un rapport détaillé de l'incident (date, heure, 
+circonstances, déroulement, témoins). Conserver tous les éléments de preuve (photos, vidéos 
+si prises à distance sécurisée). 
+ 
+• Déclaration obligatoire : Déclarer l'incident/accident aux autorités compétentes : Direction 
+Générale de l'Aviation Civile (DGAC), Bureau d'Enquêtes et d'Analyses (BEA), constructeur 
+de l'aéronef et fabricant du système BRS. 
+ 
+• Enquête technique : Une enquête approfondie sera menée pour déterminer les causes 
+(défaillance technique, erreur humaine, procédure inadaptée) et éviter la reproduction de 
+l'incident. 
+  
+===== PAGE 34 =====
+Module 7.1 V08   Page 34 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4.1.8. Réglementation 
+Cadre réglementaire applicable : 
+ 
+• Code du travail : Articles relatifs à la prévention des risques liés aux agents chimiques 
+dangereux (ACD) et aux substances explosives. L'employeur doit assurer la formation et la 
+protection des travailleurs exposés. 
+ 
+• Réglementation EASA Part-66 et Part-145 : Les interventions sur systèmes pyrotechniques 
+nécessitent une habilitation spécifique. Seuls les techniciens titulaires d'une licence Part-66 
+avec qualification appropriée ET ayant suivi la formation constructeur peuvent intervenir. 
+ 
+• Habilitation spécifique requise : Formation constructeur obligatoire (BRS Aerospace, Cirrus 
+Aircraft) avec délivrance d'un certificat de formation. Durée : généralement 2 à 3 jours. 
+Renouvellement tous les 3 à 5 ans. 
+ 
+• Compétences requises : Connaissance approfondie des systèmes pyrotechniques, maîtrise 
+des procédures de désarmement/réarmement, compréhension des risques et mesures de 
+prévention, capacité à réagir en situation d'urgence. 
+ 
+• Réglementation pyrotechnique : Les systèmes BRS sont soumis à la réglementation sur les 
+produits explosifs. Détention, stockage et manipulation encadrés par la préfecture et les 
+services de déminage. 
+ 
+• Transport de matières dangereuses (TMD) : Respect strict de l'ADR (route), RID (rail), IATA 
+(aérien) pour le transport de composants pyrotechniques. Certificat ADR obligatoire pour le 
+chauffeur. 
+ 
+• Traçabilité complète : Toutes les interventions (inspections, tests, remplacements) doivent 
+être enregistrées dans le carnet de route de l'aéronef (CRS - Compte Rendu de Servitudes) 
+avec numéro de série du composant, date, nom du technicien habilité et APRS. 
+ 
+• Organisme de maintenance agréé : Les interventions sur BRS doivent être réalisées par un 
+organisme Part-145 agréé par l'autorité (EASA, FAA) avec approbation spécifique pour 
+travaux sur systèmes pyrotechniques. 
+ 
+• Consignes de navigabilité : Suivre toutes les Airworthiness Directives (AD), Service 
+Bulletins (SB) et Mandatory Service Bulletins (MSB) émis par le constructeur concernant le 
+système BRS. Non-respect = interdiction de vol. 
+ 
+RAPPEL FINAL : Les systèmes de récupération balistique sauvent des vies mais présentent 
+des dangers mortels pendant la maintenance. Le respect SCRUPULEUX des procédures 
+constructeur, des zones d'exclusion et des habilitations est IMPÉRATIF. En cas de doute, 
+ARRÊTER les travaux et consulter un responsable ou le constructeur. 
+ 
+Exemple : 
+Fusée BRS typique (Cirrus SR22) :  
+Force extraction : 2 500 kg (24 500 N)  
+Vitesse sortie fusée : 30 m/s (108 km/h)  
+Temps déploiement parachute : 4-6 secondes  
+Surface voile : 65 m² (SR22)  
+Charge pyrotechnique : ~150 g (classe 1.4S)  
+Pression extraction : > 100 bars  
+→ Énergie cinétique fusée : E = ½mv² (calcul danger) 
+  
+===== PAGE 35 =====
+Module 7.1 V08   Page 35 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+5. PROTECTION INCENDIE 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques 
+des outils pour la maintenance des aéronefs.  Une capacité à combiner et appliquer des 
+éléments de connaissances séparés d'une manière logique et compréhensible. Capacité 
+à appliquer cette connaissance. [Niveau 3] 
+ 
+5.1. Protection incendie 
+            
+5.1.1. Les classes de feux 
+ 
+- Classe B : Kérosène, Skydrol, huiles moteur  
+- Classe C : Circuits électriques 115V/28V  
+- Classe D : Magnésium (roues freinées), lithium (batteries) 
+  
+Le départ de 
+feu 
+
+===== PAGE 36 =====
+Module 7.1 V08   Page 36 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+5.1.2. Les agents extincteurs 
+      
+Il s’agit de produits ou de simples actions qui éteignent le feu. Il faut éliminer au moins un des quatre 
+facteurs déclencheurs d’incendies que nous avons développés au début de l’article. 
+Retirer ou diviser le matériel combustible : Lorsque nous sommes face à un incendie nous 
+oublions parfois ce geste qui parait si élémentaire. Quand nous localisons un incendie, il faut regarder 
+les combustibles présents près du feu qui pourraient alimenter la réaction en chaîne. Si nous 
+parvenons à les éloigner, il est probable que le feu se retrouve sans matériel combustible et s’éteigne 
+tout seul. C’est la technique employée pour former des coupe-feux dans les forêts qui sont divisées 
+en zone pour limiter la progression des incendies. 
+Étouffer l’incendie : Enlever le comburant du feu, c’est-à-dire enlever l’oxygène. Les flammes 
+disparaitront automatiquement. L’exemple le plus courant est lorsque l’on met un couvercle sur une 
+poêle en feu. Il peut y avoir autant de matériel combustible qu’on veut, sans oxygène le feu ne pourra 
+pas survivre. Un autre exemple sont les cuisines industrielles ou les salles informatiques dans 
+lesquelles est installé un dispositif qui libère du gaz dans l’air pour éliminer tout l’oxygène de la zone 
+en question et donc éteindre le feu. 
+Refroidir le foyer de l’incendie : Si nous parvenons à baisser la température, nous brisons la 
+réaction en chaîne qui permet au matériel combustible de rester au-delà de sa température 
+d’activation et donc de poursuivre sa combustion. L’eau, par exemple, attaque le feu de deux façons : 
+elle baisse la température et, en s’évaporant, elle éloigne l’oxygène et étouffe le feu. 
+- Catégorie 1-3 (petit avion) : 1 extincteur 6kg min  
+- Catégorie 7-9 (moyen/long courrier) : 2 × 50 kg Halon + mousse 
+  
+
+===== PAGE 37 =====
+Module 7.1 V08   Page 37 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+ 
+ 
+Systèmes avion :  
+- Détecteurs thermiques / optiques  
+- Bouteilles Halon 1301 nacelles (kg selon moteur)  
+- Bouteilles CO₂ APU  
+- Poignées coupe-feu (fuel + hydraulique + électrique) 
+ 
+Procédures AMM :  
+- Chapitre 26 (Fire Protection)  
+- Tests périodicité détecteurs  
+- Vérification pression bouteilles  
+- Continuité circuits squibs (détonateurs) 
+  
+
+===== PAGE 38 =====
+Module 7.1 V08   Page 38 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6. COMPLEMENTS SECURITE 
+6.1. Sécurité sur les commandes de volets et gouvernes 
+ 
+ 
+Prévenir toutes les personnes travaillant ou susceptibles de travailler à proximité des commandes de 
+vol, de la mise en pression imminente des circuits hydrauliques, 
+ 
+S'assurer de la libre trajectoire des gouvernes : becs, volets, spoilers, ailerons, direction, profondeur, 
+plan horizontal réglable,  
+ 
+Les zones de débattement doivent être dégagées de tout personnel et matériel, les goupilles et broches 
+de sécurités enlevées, 
+ 
+Dès la mise en pression hydraulique, il y a possibilité de déplacement des gouvernes 
+S'assurer de la concordance entre la position des gouvernes, becs, volets, spoilers et leurs manettes 
+de commande au poste, 
+Avant la mise en pression du collecteur pneumatique, s'assurer de la concordance entre la position des 
+volets de bord d'attaque et celle des volets de bord de fuite, 
+ 
+Toute manœuvre des commandes de vol doit être effectuée avec la liaison interphone entre le poste 
+et le sol 
+Installer des étiquettes "danger" sur les commandes des circuits gouvernes. 
+Mise en place des sécurités ou blocages prévus 
+En cas d'intervention dans la zone des spoilers, neutraliser la commande de sortie ou rentrée 
+automatique en déclenchant le disjoncteur auto-spoilers. 
+  
+
+===== PAGE 39 =====
+Module 7.1 V08   Page 39 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+     
+ 
+ATTENTION : Pas de mise en pression hydraulique sans prendre les précautions précédentes. 
+Dans le cas où le fonctionnement des commandes de vol s'effectue avec les circuits hydrauliques mis 
+en pression par les A.D.P. (Air Drivers Pump's) ou les bancs hydrauliques, respecter les consignes 
+d'utilisation et de sécurité. 
+ 
+6.2. Sécurité sur les trains d’atterrissage 
+ 
+ 
+Des sécurités immobilisant les trains sur "sortie", doivent être mises en place au sol, et enlevées 
+avant chaque vol.  
+Une broche sur chaque train (éventuellement deux sur le train avant suivant le type d’aéronef) permet 
+au sol de bloquer chaque mécanisme de verrouillage train sorti. 
+ 
+ATTENTION : Pour tout aéronef au hangar ou en déplacement, s'assurer de la présence des 
+sécurités sur tous les trains. 
+- Mettre en place aux endroits nécessaires et de façon visible les étiquettes "Danger" sur les 
+commandes et équipements des circuits trains correspondant à votre intervention. 
+- Utiliser correctement les outillages prévus pour les travaux sur les trains, définis sur la 
+documentation. 
+- Respecter l'ordre des opérations portées sur la documentation. 
+- Dans le cas où la commande de train est un interrupteur, la manipuler avec précaution. 
+  
+
+===== PAGE 40 =====
+Module 7.1 V08   Page 40 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Remarque : Pour manœuvrer les trains, deux générations sont nécessaires hydraulique et électrique. 
+En tenir compte lors de toutes interventions. 
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 41 =====
+Module 7.1 V08   Page 41 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.2.1. Les trappes de train 
+ 
+ 
+Avant l'ouverture des portes au sol, s'assurer que la zone de débattement est dégagée et que les 
+sécurités de trains sont en place. 
+Ouverture des portes de trains au sol 
+S'effectue en tirant la poignée de chaque porte de trains et en la plaçant dans son cran de sécurité. 
+Remarque : Respectez la spécificité de chaque aéronef pour cette manœuvre. 
+ 
+Avant toute intervention, les portes étant ouvertes, s'assurer du positionnement sur "ouvert" de la 
+poignée de commande du sélecteur hydraulique des portes. 
+ 
+Ne pas pénétrer dans un logement de train si la poignée correspondante n'est pas au cran de 
+sécurité. 
+ 
+ 
+    
+ 
+La fermeture des portes s'effectue en utilisant le ou les circuits hydrauliques et en plaçant la 
+poignée sur la position "fermée". 
+ 
+➔ Si la poignée est placée sur fermeture, les portes de trains correspondantes se refermeront 
+automatiquement dès que les circuits hydrauliques seront en pression. 
+ 
+Si une poignée est mise en position fermée, le circuit hydraulique mis en pression sans 
+avertissement, la porte se refermera rapidement et pourra occasionner des accidents très 
+graves. 
+ 
+Impératif : 
+La manœuvre des trains et portes de trains au sol doit s'effectuer avec un agent en vigie, (en liaison 
+interphone avec le poste si l'aéronef est équipé). 
+  
+
+===== PAGE 42 =====
+Module 7.1 V08   Page 42 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.2.2. Les freins 
+ 
+ 
+Pour toute intervention, s'assurer que les sécurités trains et portes sont en place, ainsi que les cales. 
+Placer des étiquettes "danger" bien en vue aux emplacements nécessaires (pédales et frein de 
+parc). 
+ 
+Respecter les procédures en vigueur. 
+Se protéger des projections de liquide hydraulique avec : 
+- Des lunettes de sécurité. 
+- De la pâte protectrice et gants. 
+- Un tablier. 
+Utiliser correctement les outillages prévus pour les travaux sur les freins, tels que définis sur la 
+documentation. 
+ 
+Éviter toutes projections de liquide ou corps gras sur les disques de freins (risque de feux) 
+ 
+Attention : 
+Lors de la manutention : le poids d'une partie fixe est important et dangereux pour les pieds, les 
+mains, les parties lombaires, utiliser l'outillage et les équipements appropries. 
+ 
+En cas de projection de liquide hydraulique dans les yeux ou sur le corps, utiliser : 
+- Les dispositifs rince-œil ou lave visage et douche automatique, mis à disposition dans les 
+hangars, 
+- Aller à l'infirmerie. 
+ 
+Afin d'éviter les glissades, recouvrir de produit absorbant les traces de liquide hydraulique sur le sol. 
+  
+
+===== PAGE 43 =====
+Module 7.1 V08   Page 43 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.3. Les moteurs 
+6.3.1. Le turboréacteur 
+Respecter les consignes et les procédures, 
+ 
+ 
+   
+ 
+- Placer les étiquettes "danger" aux endroits nécessaires avant de procéder aux travaux 
+sur réacteur, 
+- Effectuer les opérations dans l'ordre défini par la documentation 
+- Avant toute intervention sur le circuit carburant réacteur, mettre en place au poste sur les 
+commandes, les étiquettes dûment renseignées, 
+- Ne jamais intervenir sur le circuit haute énergie pendant son fonctionnement (tension 
+élevée pouvant être mortelle).  
+ 
+Attendre au moins 10 minutes après tout essai sur le circuit allumage avant tous travaux 
+(ionisation). 
+ 
+Lors de l'ouverture des capots, mettre les sécurités afin de les immobiliser : risque de traumatisme 
+important pour l'intervenant si chute de ceux-ci. 
+ 
+Prévoir un bac de récupération pour les écoulements carburant.  
+ 
+En cas d'écoulement de carburant, d'huile hydraulique ou huile moteur, essuyez ou recouvrez de 
+produit absorbant afin d'éviter les glissades. 
+ 
+ 
+ 
+  
+
+===== PAGE 44 =====
+Module 7.1 V08   Page 44 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.3.2. Inverseur de poussée 
+    
+ 
+En cas d'intervention ou essai de fonctionnement sur un inverseur de poussée, il est indispensable de  
+placer une étiquette "danger" sur la manette d'inversion correspondante. 
+ 
+Avoir impérativement une liaison interphone entre le sol et le poste.  
+ 
+Éviter de mettre les mains dans les coquilles pendant la manœuvre d'inverseur : risque d'écrasement. 
+ 
+La mise en inversion ou le retour d'inversion se fait en 2 secondes maximums.  
+ 
+6.3.3. Allumeurs 
+N'alimentez jamais le circuit d'allumage tant que l'allumeur n'est pas branché sur le câble haute tension 
+"danger mortel". 
+ 
+Tenir l'allumeur uniquement par son connecteur, 
+Ne pas toucher aux électrodes (béryllium), 
+Les allumeurs démontés doivent être placés dans un sac en plastique fermé. 
+ 
+  
+
+===== PAGE 45 =====
+Module 7.1 V08   Page 45 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.3.4. Le turbogénérateur (APU) 
+              
+APU : Auxiliary Power Unit (Groupe Auxiliaire de Puissance) 
+Turbomoteur installé dans le cône de queue pour la plupart des aéronef modernes, donc en hauteur.  
+Il permet : 
+- L'alimentation électrique de l’aéronef au sol. 
+- La mise en pression du collecteur pneumatique pour le conditionnement d'air pendant les 
+escales ainsi que le démarrage des réacteurs. 
+Il permet donc à l’aéronef d'être autonome au sol mais peut être utilisé en secours lors du vol.  
+ 
+Si des travaux sont effectués sur l'APU : 
+- Mettre l'interrupteur batterie sur coupé et y fixer une étiquette "danger ". 
+- Isoler électriquement le circuit de démarrage. 
+- Appliquer les consignes de sécurité. 
+ 
+Pour un remplacement APU : 
+- Utilisez l'outillage prévu à cet effet. 
+- Débranchez le connecteur de sécurité et y fixer une étiquette "danger". 
+- Ne pas intervenir sur le circuit allumage pendant son fonctionnement et attendre 3 minutes 
+après son arrêt. 
+- N'alimenter jamais le circuit tant que l'allumeur n'est pas branché sur le câble Haute 
+Tension. 
+- La tension très élevée fournie par la boîte haute énergie peut être mortelle. 
+ 
+Remarque : En cas d'alarme incendie ou incendie, tirer la poignée coupe-feu APU. 
+  
+
+===== PAGE 46 =====
+Module 7.1 V08   Page 46 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.3.5. Le turbopropulseur 
+     
+ 
+Les pales des hélices sont : 
+ 
+Peu visibles pendant leur rotation. 
+Silencieuses lorsqu'elles continuent de tourner après l'arrêt du moteur (tournent pendant 90 secondes 
+environ). 
+Ne pas pénétrer à l’intérieur du périmètre de sécurité tant que les hélices ne sont pas complètement 
+arrêtées. 
+ 
+Veiller à ne pas passer dans le champ des hélices, contournez toujours celles -ci même s'il n'y 
+a aucun danger, ceci doit devenir un réflexe conditionné qui vous évitera de perdre la vie. 
+ 
+6.3.6. Essais de ventilation sur turbopropulseur 
+La mise en rotation d'un moteur pour essai de ventilation est très dangereuse. 
+ 
+Afin d'éviter tout accident : 
+ 
+- Baliser sur toute la zone dangereuse du moteur à essayer à l'aide du matériel de 
+sécurité adéquat, 
+- Signaler l'opération en plaçant les panneaux prévus à cet effet : 
+- "DANGER ROTATION HELICE" 
+- Placer une vigie afin d'interdire l'accès dans le périmètre de protection à toute 
+personne pendant toute la durée de l'opération, 
+- Utilisation IMPERATIVE de l'interphone sol/poste, 
+- Ne pas utiliser de groupe thermique dans le hangar, pour éviter les émanations de 
+fumées et oxyde de carbone. 
+  
+
+===== PAGE 47 =====
+Module 7.1 V08   Page 47 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.4. Autres circuits 
+6.4.1. Conditionnement d’air 
+Attention aux brûlures par contact avec les tuyauteries, lors d'essais de conditionnement d'air 
+avec Réacteur ou APU en route (plage de T° pouvant varier jusqu'à 200 °C). 
+Respecter les consignes de sécurité lors de toute intervention sur le circuit conditionnement d'air ou la 
+vanne de pressurisation sur certains aéronefs. 
+ 
+➔ Toute approche ou accès sur un aéronef en essai de pressurisation représente un danger 
+d'accident. 
+ 
+Respectez les zones de sécurité aéronef ainsi que les consignes mentionnées sur les documents de 
+travail. 
+ 
+Attention au fonctionnement intempestif de la vanne de régulation lors d'un essai de 
+pressurisation avec aéronef en position vol (déclenchement du relais air/sol) : risque d'éclatement 
+des tympans et perte de connaissance. 
+ 
+Lors de mise sous tension, s'assurer du bon fonctionnement de la ventilation, en cas de 
+branchement d'un groupe de climatisation, maintenir une ouverture (soute électronique, entrée,...). 
+ 
+ 
+ 
+           
+  
+PRESSURISATION 
+
+===== PAGE 48 =====
+Module 7.1 V08   Page 48 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.4.2. Le radar météo 
+Le radar peut présenter certains dangers, tels que : 
+- Inflammation des matériaux combustibles par l'énergie du rayonnement développé, 
+- Des effets thermiques sur le corps humain. 
+ 
+C'est un équipement dangereux (T.H.T.) car il engendre des puissances de plusieurs dizaines de 
+Kilowatts. 
+ 
+Lors de visite : 
+ 
+- Ne jamais démonter un équipement sans en avoir préalablement coupé l'alimentation par les 
+disjoncteurs et mis la boîte de commande sur "OFF". 
+- Tout essai radar doit être effectué hors du hangar au moins à 100 mètres de tout obstacle et 
+aucune personne ne doit stationner dans le champ du faisceau. 
+- La présence d'une vigie est nécessaire toute la durée des essais. 
+- L'émission radar est interdite pendant les pleins carburants. 
+ 
+      
+ 
+                                                       
+  
+Le RADAR météo 
+
+===== PAGE 49 =====
+Module 7.1 V08   Page 49 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.4.3. La Radiocommunication 
+ 
+ 
+L'alimentation radio des aéronefs modernes ne met pas en danger la vie des personnes (sauf cas 
+particulier pour certains cardiaques) mais peut causer des brûlures graves. 
+ 
+Les fréquences utilisées étant élevées, elles peuvent agir comme une source de chaleur. 
+Ne pas toucher aux antennes lorsque l'alimentation des émetteurs/récepteurs est en service, 
+Interdire la mise en route des ensembles émission réception si l'on doit travailler sur l'un des organes 
+de la chaîne d'émission, 
+ 
+Utiliser l'étiquette "danger" après avoir tiré les breakers correspondants. 
+ 
+Ne jamais émettre en haute fréquence pendant des pleins carburants 
+ 
+Les équipements radio possédant des antennes extérieures plus ou moins saillantes et tranchantes, 
+peuvent être dangereux et provoquer des traumatismes en cas de heurt. 
+ 
+ 
+  
+
+===== PAGE 50 =====
+Module 7.1 V08   Page 50 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.4.4. Les Sondes 
+Attention aux brûlures causées par les tubes Pitot lors d'essai de dégivrage au sol 
+Avertir l'entourage que l'on effectue un essai de dégivrage Pitot et respecter les consignes. 
+ 
+Attention, le relais sol/air à une influence sur le régime de chauffe. 
+ 
+ 
+ 
+  
+
+===== PAGE 51 =====
+Module 7.1 V08   Page 51 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.5. Le bruit 
+Le bruit constitue une nuisance majeure dans le milieu professionnel. Il peut provoquer des surdités 
+mais aussi gêne fatigue cognitive et stress qui, à la longue, ont des conséquences sur la santé du 
+salarié et la qualité de son travail. 
+ 
+On considère que l’ouïe est en danger à partir d’un niveau de 80 décibels durant une journée de 
+travail de 8 heures. Par ailleurs, si le niveau instantané est extrêmement élevé (supérieur à 135 
+décibels), toute exposition, même de très courte durée, est dangereuse. Le dépassement de ces 
+valeurs peut conduire à de la fatigue auditive (phénomène réversible) et à une  surdité (phénomène 
+irréversible). Les surdités peuvent être reconnues comme maladies professionnelles.  
+Le bruit est également cause de  gêne, de fatigue cognitive, de  stress ainsi que de  troubles 
+cardiovasculaires et du sommeil . De plus, il n’affecte pas seulement la santé :en empêchant de se 
+concentrer, il nuit également à la qualité du travail et peut même être à l’origine d’accidents. 
+ 
+         
+ 
+Échelle décibels (dB) :  
+- 70 dB : Conversation normale  
+- 85 dB : Aspirateur, trafic dense → EPI recommandé  
+- 100 dB : Marteau-piqueur → EPI obligatoire  
+- 120 dB : Réacteur au ralenti (25m) → Douleur  
+- 140 dB : Décollage avion (50m) → Lésions immédiates  
+ 
+Formule atténuation distance :  
+Diminution 6 dB quand distance double  
+Exemple : 120 dB à 10m → 114 dB à 20m → 108 dB à 40m 
+  
+Le BRUIT 
+
+===== PAGE 52 =====
+Module 7.1 V08   Page 52 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.6. Le travail en hauteur 
+Pour les aéronefs moyen-courrier et long courrier la partie inférieure du fuselage, la voilure, les 
+nacelles moteurs, l'APU, le radar, l'accès à la cabine et l'accès aux soutes sont à des hauteurs de 1 à 
+3 mètres. 
+ 
+Pour les aéronefs de l’aviation générale et les aéronefs de taille plus petite certaine tache de 
+maintenance et d’entretiens ne peuvent être faite depuis le sol. Le technicien est alors en situation de 
+travail en hauteur.  
+ 
+Dans les ateliers et hangar, le travail en hauteur s’effectue généralement depuis un plan sécurisé, 
+équipé d’un garde-corps permanent assurant une protection collective contre les chutes de hauteur, 
+conformément au Code du travail. Cette protection est indépendante de toute action volontaire des 
+intervenants. 
+ 
+L’accès à ces zones peut inclure des circulations horizontales interconnectant les espaces de travail, 
+ainsi que des équipements de changement de niveau tels que rampes, escaliers, échelles à marches 
+et échelles fixes. Ces dispositifs sont eux-mêmes protégés latéralement par des garde-corps 
+permanents ou d’autres moyens de prévention contre les chutes.  
+ 
+ 
+ 
+Les plates-formes sont des équipements qui permettent de répondre à l’obligation réglementaire 
+d’opérer à partir d’un plan de travail sécurisé. Les exigences minimales à respecter pour leur 
+conception et leur mise en œuvre sont précisées dans les normes NF E85 014 (installations 
+industrielles) et NF EN ISO 14122-2 (machines). 
+ 
+Les escaliers et échelles à marches sont des équipements qui permettent de répondre à l’obligation 
+réglementaire d’utiliser un accès sécurisé. Les exigences minimales à respecter pour leur conception 
+et leur mise en œuvre sont précisées dans les normes NF E85-015 (installations industrielles) et NF 
+EN ISO 14122-3 (machines). 
+ 
+Les garde-corps constituent le dispositif de protection collective le plus utilisé. Ils sont destinés à 
+éviter les chutes de hauteur et à délimiter une zone dangereuse. 
+ 
+Les garde-corps sont rigides et fixés solidement. Ils sont conçus pour résister aux efforts statiques et 
+dynamiques normalement engendrés par le déplacement horizontal d’une personne et leurs 
+dimensions sont telles qu’ils constituent un obstacle physique. 
+  
+
+===== PAGE 53 =====
+Module 7.1 V08   Page 53 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Les nacelles et plates-formes élévatrices sont des équipements de levage utilisés pour l'exécution de 
+travaux en hauteur dans le cadre de la maintenance aéronautique. Elles constituent une solution 
+temporaire d'accès aux aéronefs pour les opérations de maintenance, d'inspection, de réparation ou 
+de nettoyage, en l'absence d'installations permanentes adaptées ou en ligne. Conçues pour accueillir 
+un ou plusieurs techniciens, elles sont équipées d'une protection collective contre les chutes de 
+hauteur. 
+ 
+Différents types de nacelles sont utilisées en aéronautique : 
+- Nacelles automotrices (PEMP type 3B) : utilisées pour l’accès aux empennages, pylônes 
+moteurs ou surfaces supérieures du fuselage en hangar ou sur piste. 
+ 
+- Nacelles sur porteur : installées sur véhicules, elles permettent des interventions sur des 
+aéronefs stationnés en extérieur, notamment pour la maintenance des antennes, feux de 
+navigation ou radômes. 
+ 
+L'utilisation de ces équipements est strictement réservée aux techniciens formés et habilités, dans le 
+respect des procédures de sécurité et des règles d’exploitation spécifiques à la maintenance 
+aéronautique. 
+ 
+Les plates-formes élévatrices mobiles de personnel (PEMP) sont utilisées en maintenance 
+aéronautique pour permettre l'élévation sécurisée d’un ou plusieurs techniciens à un poste de travail 
+en hauteur. Elles facilitent l’accès aux parties supérieures des aéronefs, comme les empennages, les 
+pylônes moteurs ou les antennes. 
+ 
+Ces équipements sont constitués d’un porteur assurant leur déplacement au sol, tandis que 
+l’élévation peut être uniquement verticale ou multidirectionnelle. La protection contre la chute est 
+assurée par une nacelle équipée de garde-corps périphériques. Il est strictement interdit de quitter la 
+nacelle lorsqu’elle est en position élevée. 
+ 
+La conformité de ces équipements aux exigences de solidité, de stabilité et de sécurité peut être 
+évaluée en référence à la norme NF EN 280-1. 
+ 
+Pour une utilisation en toute sécurité, les consignes du manuel d’instructions doivent être respectées, 
+en tenant compte des règles de prévention suivantes : 
+- Conditions météorologiques, notamment la vitesse du vent en extérieur, 
+- Résistance et planéité du sol sur lequel l’équipement est utilisé, 
+- Risque d’impact avec un aéronef, une structure de hangar ou un autre véhicule, 
+- Risque d’éjection du conducteur hors de l’habitacle, nécessitant le port d’un harnais de 
+sécurité selon l’évaluation des risques. 
+La norme NF EN 280-1 classe les PEMP en fonction de leur mode d’élévation (groupe) et de leur 
+capacité de translation (type). 
+    
+  
+
+===== PAGE 54 =====
+Module 7.1 V08   Page 54 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.7. Périmètre de sécurité 
+Certaines opérations telles que :  
+- Ouverture de trappes au sol,  
+- Utilisation d'engins particuliers (grues, bras élévateurs),  
+- Manutention de charges volumineuses,  
+- Emploi de sources de rayonnements ionisants (gammagraphie),  
+- Essais d'éléments mobiles d'aéronef (trains, volets,...)  
+ 
+Impliquent que soit neutralisée la zone où elles s'effectuent. 
+ 
+Ne pas oublier de mettre en œuvre les moyens, tels que : 
+- Barrières, 
+- Balises, 
+- Panneaux de signalisation, 
+- Feux fixes ou clignotants, 
+- Vigie.  
+ 
+ 
+  
+
+===== PAGE 55 =====
+Module 7.1 V08   Page 55 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.8. Appareil de levage 
+ 
+ 
+Pour certains travaux de maintenance, tels que changement réacteur, remplacement ou démontage 
+volets, etc., l'usage d'appareils de levage est nécessaire.  
+ 
+Il est impératif que :  
+ 
+- Les élingues utilisées soient visuellement vérifiées pour leur bon état, 
+- Les élingues n'ayant pas été contrôlées depuis plus d'un an ne soient pas utilisées, 
+- Les personnels devant utiliser les ponts roulants ou treuils doivent être formés en 
+conséquence, 
+- L'agent préposé à la conduite depuis le sol du pont roulant ou du treuil est utilisé uniquement 
+dans cette fonction pendant la durée de la manœuvre, 
+- La direction et la sécurité de la manœuvre seront confiées à 1'agent investi de la fonction 
+"chef de manœuvre", 
+- Soit intercalé un dynamomètre afin de contrôler la charge, 
+- Soit balisé un périmètre de sécurité correspondant au déplacement de la charge, 
+- Soit respecté ce périmètre de sécurité et les consignes d'utilisation des appareils, 
+- Les élingues respectent bien les normes officielles. 
+  
+
+===== PAGE 56 =====
+Module 7.1 V08   Page 56 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+6.9. Point fixe 
+ 
+ 
+      
+ 
+Les points fixes doivent avoir lieu sur des aires bétonnées prévues à cet effet. 
+Si le point fixe doit avoir un régime moteur < 80%, il peut être effectué sur le parking aéronef suivant 
+certaines conditions (absence de personnel non qualifié à proximité, cales de roues en place...). 
+L'aéronef doit être placé face au vent. 
+Une autorisation de la tour de contrôle peut être obligatoire. (Paramètres météo) 
+Tout le matériel approprié pour combattre l'incendie doit être placé en avant des entrées d'air et 
+rapidement disponible.  
+ 
+ 
+          
+  
+Point fixe aéronef 
+
+===== PAGE 57 =====
+Module 7.1 V08   Page 57 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Risques : 
+ 
+- Aspiration. 
+- Souffle. 
+- Bruit. 
+- Vibrations. 
+ 
+ 
+Les zones situées en avant des entrées d'air et en arrière des moteurs doivent être dégagées. Le sol 
+propre et net. 
+ 
+Le personnel doit porter des vêtements adaptés (risque aspiration FOD) et ses protections 
+individuelles (ceinture anti-vibrations, casque antibruit...) 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 58 =====
+Module 7.1 V08   Page 58 sur 58 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Point particulier pour les Turbopropulseurs, 
+ 
+Les pales d'hélices sont peu visibles pendant leur rotation, 
+ 
+ 
+Silencieuses lorsqu'elles continuent de tourner après l'arrêt des moteurs (rotation pendant 90 
+secondes environ) donc entraîner un danger mortel. 
+ 
+L'aspiration se produit devant les hélices dans une zone pouvant atteindre les 4 mètres environ en 
+fonction du régime moteur, 
+ 
+Le souffle à l'arrière est également fonction du régime moteur, inversion de traction ou de poussée 
+dans le cas de moteur pouvant fonctionner en inversion de pas, souffle violent vers l'avant de 
+l'appareil. 
+ 

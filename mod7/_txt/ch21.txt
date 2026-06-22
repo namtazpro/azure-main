@@ -1,0 +1,872 @@
+===== PAGE 1 =====
+Module 7.21 V02   Page 1 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module 7.21 
+ 
+Documentation 
+&  
+Communication 
+ 
+Licence B1 et B2  
+Livret destiné aux stagiaires 
+ 
+Édition 2026  
+AIR FORMATION 
+ 
+Centre de Formation Aéronautique 
+Agréé EASA PART 147 
+ 
+14 Avenue Escadrille Normandie Niémen 
+31700 BLAGNAC - FRANCE 
+
+===== PAGE 2 =====
+Module 7.21 V02   Page 2 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins que 
+celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à des 
+tiers non habilités. 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V01 28/05/2024 Toutes  Nouvelle édition 
+V02 18/02/2026 Toutes 
+Mise à jour et conformité du livret avec ED 
+Decision 2023/019/R (Part 66 AMC1 Appendix 
+I) 
+    
+    
+    
+ 
+  
+Visa Rédacteur/ Visa Rédacteur 
+et responsable du livret  
+ 
+Thomas LURO 
+ 
+/ Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+ 
+  
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.21 V02   Page 3 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+Catégorie B1 : 80 questions à choix multiples, Temps alloué 100 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+Catégorie B2 :  60 questions à choix multiples, Temps alloué 75 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+MODULE 7.21 Documentation et communication 
+Niveau 
+B1 
+Niveau 
+B2 
+Documentation : éléments et critères de rédaction des rapports de 
+travaux, dépannage, rapports et instructions de transfert de cartes de 
+travail. 2 2 
+Communication : claire, complète et concise 
+ 
+Objectif du module : le stagiaire doit être capable de : 
+✓ Rédiger un rapport de maintenance conforme. 
+✓ Documenter un dépannage de manière structurée. 
+✓ Assurer une passation de consignes efficace. 
+✓ Communiquer de façon claire, complète et concise. 
+ 
+ 
+  
+===== PAGE 4 =====
+Module 7.21 V02   Page 4 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.21 V02   Page 5 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1 DOCUMENTATION ................................................................................................................................................... 6 
+1.1 PRINCIPES DE GESTION DE LA DOCUMENTATION AERONAUTIQUE .......................................................................................... 6 
+1.2 STRUCTURE ATA 100 ................................................................................................................................................. 7 
+1.3 LA DOCUMENTATION AERONAUTIQUE ............................................................................................................................. 9 
+1.4 WARNING, CAUTION, NOTE ........................................................................................................................................ 10 
+1.5 LEXIQUE ANGLAIS – TERMES TECHNIQUES UTILISES DANS LES RAPPORTS DE DOMMAGES ......................................................... 11 
+1.5.1 Types de dommages structurels...................................................................................................................... 11 
+1.5.2 Termes de description dimensionnelle ............................................................................................................ 11 
+1.5.3 Types de zones ou éléments structurels .......................................................................................................... 11 
+1.5.4 Actions correctives (vocabulaire SRM) ............................................................................................................ 12 
+1.5.5 Formulations typiques dans un rapport .......................................................................................................... 12 
+1.6 RAPPORTS DE TRAVAUX.............................................................................................................................................. 13 
+1.6.1 Éléments obligatoires : .................................................................................................................................... 13 
+1.6.2 Critères de qualité : ......................................................................................................................................... 13 
+1.7 RAPPORTS DE DEPANNAGE (TROUBLESHOOTING) ............................................................................................................ 14 
+1.7.1 Description du défaut constaté ....................................................................................................................... 14 
+1.7.2 Investigations réalisées ................................................................................................................................... 14 
+1.7.3 Analyse technique ........................................................................................................................................... 15 
+1.7.4 Action corrective ou décision technique .......................................................................................................... 15 
+1.7.5 Principe fondamental ...................................................................................................................................... 15 
+1.8 PASSATION DE CONSIGNES (SHIFT HANDOVER) ............................................................................................................... 16 
+2 COMMUNICATION ................................................................................................................................................. 17 
+2.1 INFORMATION VS COMMUNICATION ............................................................................................................................ 17 
+2.2 REGLE DES 3 V ......................................................................................................................................................... 18 
+2.3 LES PRINCIPES CLES DE COMMUNICATION : .................................................................................................................... 18 
+ 
+  
+===== PAGE 6 =====
+Module 7.21 V02   Page 6 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1 DOCUMENTATION 
+Une connaissance générale des aspects théoriques et pratiques des document et une 
+capacité à appliquer cette connaissance. Le stagiaire doit être capable de : 
+✓ Rédiger un rapport de maintenance conforme. 
+✓ Documenter un dépannage de manière structurée. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+1.1 Principes de gestion de la documentation aéronautique 
+La documentation aéronautique doit être mise à jour pour garantir la sécurité et la conformité 
+réglementaire en reflétant les modifications apportées aux aéronefs, aux procédures, aux 
+réglementations et aux technologies. Cela comprend les modifications de conception, les améliorations 
+de sécurité, les mises à jour réglementaires, les révisions des manuels de maintenance, les bulletins 
+de services des fabricants etc…. 
+Une fois mise à jour, la documentation doit être distribuée à toutes les parties concernées, les 
+techniciens de maintenance, opérateurs aériens etc…. 
+Un système de contrôle de la documentation garantit que les versions les plus récentes sont utilisées. 
+Un système de repérage permet également aux utilisateurs de la documentation d’identifier le point 
+modifier ou créer dans le document. 
+ 
+  
+Barre de révision 
+
+===== PAGE 7 =====
+Module 7.21 V02   Page 7 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2 Structure ATA 100 
+ 
+L'ATA 100 (Air Transport Association) est un système de codification standardisé utilisé dans 
+l'industrie aéronautique pour organiser et classer la documentation technique des aéronefs. 
+ 
+Objectif principal : 
+✓ Uniformiser la présentation des manuels techniques et opérationnels 
+✓ Faciliter la localisation rapide des informations 
+✓ Permettre une communication universelle entre constructeurs, compagnies aériennes et 
+organismes de maintenance. 
+ 
+L'ATA 100 divise l’aéronef en chapitres numérotés tel que défini ci-dessous : 
+ 
+Général 
+ 
+Chapitre ATA 
+  
+ 
+Dénomination 
+ 
+Dénomination en français 
+ATA 05 TIME LIMITS/MAINTENANCE 
+CHECKS 
+Limites de potentiel/vérifications de 
+maintenance 
+ATA 06 DIMENSIONS AND AREAS Dimensions/surfaces 
+ATA 07 LIFTING AND SHORING Levage et mise sur vérins 
+ATA 08 LEVELING AND WEIGHING Centrage/masse 
+ATA 09 TOWING AND TAXIING Remorquage et circulation au sol 
+ATA 10 PARKING, MOORING, STORAGE 
+AND RETURN TO SERVICE 
+Stationnement et amarrage 
+ATA 11 PLACARDS AND MARKINGS Plaquettes et inscriptions 
+ATA 12 SERVICING - ROUTINE 
+MAINTENANCE 
+Maintenance courante 
+ATA 14 HARDWARE Matériel 
+ATA 18 HELICOPTER VIBRATION Analyse des vibrations et du bruit 
+ATA 89 FLIGHT TEST INSTALLATION Installation d'essais en vol 
+Systèmes de l'aéronef 
+ 
+Chapitre ATA 
+  
+ 
+Dénomination 
+ 
+Dénomination en français 
+ATA 20 STANDARD PRACTICES – AIRFRAME 
+ 
+ATA 21 AIR CONDITIONING AND 
+PRESSURIZATION 
+Air conditionné et pressurisation 
+ATA 22 AUTOFLIGHT Pilote automatique 
+ATA 23 COMMUNICATIONS Communications 
+ATA 24 ELECTRICAL POWER Génération électrique 
+ATA 25 EQUIPMENT/FURNISHINGS Équipements / Aménagements 
+ATA 26 FIRE PROTECTION Protection incendie 
+ATA 27 FLIGHT CONTROLS Commandes de vol 
+ATA 28 FUEL Carburant 
+ATA 29 HYDRAULIC POWER Génération hydraulique 
+ATA 30 ICE AND RAIN PROTECTION Protection givre et pluie 
+ATA 31 INDICATING / RECORDING SYSTEM Système d'indication / 
+d'enregistrement 
+ATA 32 LANDING GEAR Trains d'atterrissage 
+===== PAGE 8 =====
+Module 7.21 V02   Page 8 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ATA 33 LIGHTS Éclairage 
+ATA 34 NAVIGATION Navigation 
+ATA 35 OXYGEN Oxygène 
+ATA 36 PNEUMATIC Pneumatique 
+ATA 37 VACUUM Dépression 
+ATA 38 WATER/WASTE Eau et toilettes 
+ATA 42 INTEGRATED MODULAR AVIONICS Avionique Modulaire Intégrée 
+ATA 44 CABIN SYSTEM Systèmes de la cabine 
+ATA 45 DIAGNOSTIC AND MAINTENANCE 
+SYSTEM 
+Système de diagnostic et de 
+maintenance 
+ATA 46 INFORMATION SYSTEMS Système d'information 
+ATA 47 NITROGEN GENERATION SYSTEM Système de génération d'Azote 
+ATA 48 IN FLIGHT FUEL DISPENSING Ravitaillement en vol 
+ATA 49 AIRBORNE AUXILIARY POWER Turbine de génération électrique 
+ATA 50 CARGO AND ACCESSORY 
+COMPARTMENTS 
+Compartiment cargo et accessoires 
+ 
+Structure 
+ 
+Chapitre ATA 
+  
+ 
+Dénomination 
+ 
+Dénomination en français 
+ATA 51 STANDARD PRACTICES AND 
+STRUCTURES - GENERAL 
+Structure générale 
+ATA 52 DOORS Portes 
+ATA 53 FUSELAGE Fuselage 
+ATA 54 NACELLES/PYLONS Nacelles et mâts 
+ATA 55 STABILIZERS Empennage 
+ATA 56 WINDOWS Fenêtres 
+ATA 57 WINGS Ailes 
+Moteurs 
+ 
+Chapitre ATA 
+  
+Dénomination Dénomination en français 
+ATA 60 STANDARD PRACTICES Techniques courantes 
+ATA 61 PROPELLERS Hélices 
+ATA 62 ROTORS Rotors 
+ATA 63 ROTOR DRIVE SYSTEM Système d'entraînement rotor 
+ATA 64 TAIL ROTOR Rotor de queue 
+ATA 65 TAIL ROTOR DRIVE SYSTEM Système d'entraînement rotor de 
+queue 
+ATA 66 BLADES & PYLONS FOLDING DEVICE Dispositif de repliage des pales et 
+pylônes 
+ATA 67 ROTOR FLIGHT CONTROLS Commandes de vol rotor 
+ATA 70 STANDARD PRACTICES -ENGINES Techniques courantes - moteurs 
+ATA 71 POWER PLANT Groupe propulseur 
+ATA 72 ENGINE Moteur 
+ATA 73 ENGINE - FUEL AND CONTROL Carburant moteur et régulation 
+ATA 74 IGNITION Allumage 
+ATA 75 AIR Air 
+ATA 76 ENGINE CONTROLS Commandes moteur 
+===== PAGE 9 =====
+Module 7.21 V02   Page 9 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ATA 77 ENGINE INDICATING Indications moteur 
+ATA 78 EXHAUST & THRUST REVERSER Echappement & inverseur de 
+poussée 
+ATA 79 OIL Huile 
+ATA 80 STARTING Démarrage 
+ATA 81 TURBINES (RECIPROCATING 
+ENGINES) 
+Moteur à Pistons 
+ATA 82 ENGINE WATER INJECTION Injection d'eau 
+ATA 83 ACCESSORY GEARBOXES Boite à accessoires 
+ATA 84 PROPULSION AUGMENTATION Dispositif d'augmentation de 
+propulsion 
+ATA 91 CHARTS Cartes/diagrammes/schémas 
+ATA 92 Electrical and Electronic Common 
+Installation 
+Installations électriques et 
+électroniques communes 
+ 
+ 
+ATA 103 : Contrôle de la qualité des carburants pour réacteurs dans les aéroports. 
+ATA 104 : Guide de la formation des mécaniciens. 
+ATA 105 : Guide pour les qualifications des personnels des contrôles C.N.D. 
+ATA 113 : Guide du programme de la formation aux F.H. du personnel de maintenance. 
+ 
+ 
+1.3 La documentation aéronautique 
+Se référer au Module 10 chapitre 7. 
+ 
+✓ Consignes de navigabilité (AD) 
+✓ Service bulletin (SB) 
+✓ Les manuels de maintenance : AMM / CMM / EMM ; IPC ; SRM ; TSM ; WDM 
+✓ Les certificat libératoires autorisés : EASA F1 / FAA 8130-3 / TCCA F1 
+✓ Certificat de Remise en Service (CRS) 
+✓ Compte-Rendu Matériel 
+ 
+  
+===== PAGE 10 =====
+Module 7.21 V02   Page 10 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.4 Warning, Caution, note 
+ 
+La documentation contient également des informations liées aux limitations d’utilisation, aux 
+restrictions de maintenance et des avertissements de sécurité à prendre en compte lors de la 
+réalisation de certaines tâches de maintenance. 
+ 
+ 
+ 
+ 
+Exemple : 
+ 
+  
+WARNING : Indique une situation présentant des risques susceptibles de 
+provoquer la mort, des blessures graves ou des dommages matériels. 
+ 
+CAUTION : Indique une situation potentiellement dangereuse  et susceptibles 
+d’entrainer des lésions corporelles ou des dommages matériels. 
+ 
+NOTE : Indique des explications en plus qui aident à la compréhension de la tâche 
+ou du système  
+ 
+===== PAGE 11 =====
+Module 7.21 V02   Page 11 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.5 Lexique anglais – Termes techniques utilisés dans les rapports de 
+dommages 
+ 
+Voici les termes professionnels couramment utilisés dans un SRM (Structural Repair Manual) 
+et dans les rapports de dommages rédigés par un B1. 
+ 
+1.5.1 Types de dommages structurels 
+ 
+Dent → Enfoncement  
+Crack → Fissure  
+Fracture → Rupture  
+Scratch → Rayure  
+Gouge → Entaille profonde  
+Nick → Petite entaille / impact localisé  
+Score mark / Scoring → Marquage par frottement  
+Chafing → Usure par frottement  
+Abrasion → Usure superficielle  
+Corrosion → Corrosion  
+Pitting → Piqûres de corrosion  
+Delamination → Décollement (composite)  
+Disbonding → Décollement d’adhésif  
+Buckling → Flambage  
+Wrinkling → Plissement (souvent composite)  
+Tear → Déchirure  
+Hole elongation → Ovalisation de trou 
+ 
+1.5.2 Termes de description dimensionnelle 
+Length → Longueur  
+Depth → Profondeur  
+Width → Largeur  
+Diameter → Diamètre  
+Maximum allowable limit → Limite maximale admissible  
+Within limits → Dans les tolérances  
+Out of limits → Hors tolérances  
+Blend out → Ébavurer / adoucir  
+Trim and drill → Découper et percer 
+ 
+1.5.3 Types de zones ou éléments structurels 
+Skin → Revêtement  
+Frame → Cadre  
+Stringer → Lisse  
+Longeron → Longerons  
+Rib → Nervure  
+Bulkhead → Cloison  
+Panel → Panneau  
+Leading edge → Bord d’attaque  
+Trailing edge → Bord de fuite  
+Fairing → Carénage 
+ 
+===== PAGE 12 =====
+Module 7.21 V02   Page 12 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.5.4 Actions correctives (vocabulaire SRM) 
+Repair → Réparation  
+Temporary repair → Réparation provisoire  
+Permanent repair → Réparation définitive  
+Install doubler → Installer un renfort  
+Replace → Remplacer  
+Stop drill → Perçage d’arrêt de fissure  
+Cold work → Traitement par expansion à froid  
+Apply sealant → Appliquer un mastic  
+Rework → Retoucher / retravailler  
+Restore corrosion protection → Restaurer la protection anticorrosion 
+ 
+1.5.5 Formulations typiques dans un rapport 
+• Damage found during scheduled inspection.  
+• Crack detected in structural element.  
+• Dent measured and found within allowable limits.  
+• Damage assessed in accordance with SRM.  
+• Repair carried out as per approved data.  
+• Area inspected and found serviceable. 
+ 
+  
+===== PAGE 13 =====
+Module 7.21 V02   Page 13 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.6 Rapports de travaux 
+ 
+Les cartes de travail et rapports relatifs aux travaux, dépannages et inspections réalisés en 
+maintenance aéronautique ont pour objectif d’assurer la traçabilité complète des travaux réalisés, 
+de garantir la conformité réglementaire et de contribuer à la sécurité des vols.  
+Ces documents permettent d’identifier clairement qui a fait quoi, quand et selon quelle référence 
+technique, tout en limitant les erreurs liées aux facteurs humains. 
+1.6.1 Éléments obligatoires : 
+✓ Identification : immatriculation, type appareil, date et heure. 
+✓ References: Work Order / Task Card / AMM / IPC / SRM (indiquer le numéro de revision du 
+manuel) 
+✓ Travail effectué : description claire et factuelle. 
+✓ Pièces remplacées : PN / SN si applicable. 
+✓ Valeurs mesurées et tests réalisés. 
+✓ Certification : Nom/Trigramme,signature, numéro de licence/d’habilitation, date/heure. 
+1.6.2 Critères de qualité : 
+✓ Exact : données mesurables et références précises. 
+✓ Complet : aucune étape importante omise. 
+✓ Lisible : absence d’ambiguïté. 
+✓ Conforme : respect des procédures organisme. 
+ 
+Exemple : 
+ 
+
+===== PAGE 14 =====
+Module 7.21 V02   Page 14 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.7 Rapports de dépannage (Troubleshooting) 
+Objectif : Tracer la logique de diagnostic et justifier l’action corrective. 
+ 
+✓ Défaut constaté : message pilote / défaut technique / conditions. 
+✓ Diagnostic réalisé : tests effectués, références TSM / FIM, résultats mesurés. 
+✓ Cause identifiée : composant ou système défectueux. 
+✓ Action corrective : remplacement / réparation + test satisfaisant. 
+ 
+Règle essentielle : Documenter des faits, jamais des suppositions. 
+ 
+ 
+1.7.1 Description du défaut constaté 
+Le mécanicien doit décrire uniquement les faits observés, sans interprétation personnelle. La 
+rédaction doit permettre à un tiers de comprendre immédiatement la situation initiale. 
+ 
+Le rapport doit préciser :  
+• la zone ou le système concerné,  
+• la nature de l’anomalie constatée,  
+• les conditions de découverte,  
+• les mesures relevées si applicables. 
+ 
+Chaque élément mentionné doit être vérifiable. 
+Une description imprécise peut entraîner une mauvaise analyse ultérieure. 
+1.7.2 Investigations réalisées 
+Le rapport doit expliquer clairement la démarche suivie pour identifier l’origine du problème.  
+Il est nécessaire d’indiquer :  
+ 
+• les références documentaires utilisées,  
+• les inspections ou contrôles effectués,  
+• les tests réalisés,  
+• les résultats obtenus. 
+ 
+Les éléments contrôlés et déclarés conformes doivent également être mentionnés, car ils font partie 
+du raisonnement technique.  
+L’objectif est que toute personne relisant le rapport puisse suivre la logique sans devoir poser de 
+questions supplémentaires. 
+
+===== PAGE 15 =====
+Module 7.21 V02   Page 15 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.7.3 Analyse technique 
+La conclusion doit être basée uniquement sur des éléments confirmés.  
+Le mécanicien doit préciser :  
+ 
+• si la cause est identifiée et justifiée par les contrôles,  
+• si la cause reste non confirmée malgré les investigations,  
+• si une analyse complémentaire est requise. 
+ 
+Toute formulation hypothétique ou subjective doit être évitée. 
+Le rapport doit rester neutre, notamment lorsqu’il peut être transmis à l’ingénierie ou au constructeur. 
+ 
+1.7.4 Action corrective ou décision technique 
+L’intervention effectuée doit être décrite de manière claire et structurée.  
+Le rapport doit indiquer :  
+ 
+• la nature de l’action réalisée,  
+• la référence de la tâche appliquée si nécessaire,  
+• le résultat du test fonctionnel après intervention,  
+• la décision prise (remise en service, surveillance, demande d’analyse…). 
+ 
+Un système ou une structure ne peut être considéré conforme sans vérification documentée. 
+ 
+1.7.5 Principe fondamental 
+Un rapport de dépannage B1 ou B2 doit contenir :  
+• des faits observables,  
+• des données mesurables,  
+• une logique technique démontrable. 
+ 
+Il ne doit pas contenir :  
+• d’opinion personnelle,  
+• d’hypothèse non confirmée,  
+• de formulation approximative. 
+ 
+Un rapport bien rédigé est un outil de sécurité et de navigabilité.      
+ 
+ 
+  
+
+===== PAGE 16 =====
+Module 7.21 V02   Page 16 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.8 Passation de consignes (Shift Handover) 
+✓ Travaux en cours et niveau d’avancement. 
+✓ Systèmes ouverts ou inopérants. 
+✓ Points critiques sécurité. 
+✓ Prochaine action à réaliser. 
+ 
+Principe : L’équipe suivante doit pouvoir reprendre le travail sans risque ni interprétation. 
+ 
+Dans les organismes de maintenance, type MRO, le travail en équipes est largement utilisé. De 
+nombreuses structures fonctionnent avec deux équipes – généralement de huit ou neuf heures par 
+jour –, tandis que les grandes compagnies aériennes peuvent en compter trois. Lorsque les 
+techniciens ou ingénieurs de maintenance travaillent en horaires décalés par rapport à leur rythme 
+circadien naturel, enchaînent plusieurs quarts consécutifs ou effectuent des rotations rapprochées, la 
+fatigue devient un risque majeur. 
+ 
+Un autre danger à maîtriser concerne la transmission incomplète des tâches entre une équipe 
+sortante et une équipe entrante. Sans procédures et communications efficaces lors des changements 
+d’équipe, le risque d’erreurs augmente, compromettant potentiellement la sécurité des vols ultérieurs. 
+ 
+Transmission efficace des tâches (Shift Turnover) 
+Les opérations de maintenance aéronautique sont généralement découpées en séquences de travail 
+détaillées, certaines dépassant la durée d’un seul quart. La complexité et le volume des tâches 
+dépendent du type de maintenance (visite légère, lourde, etc.). Une visite de maintenance lourde peut 
+s’étaler sur plusieurs jours, voire semaines, et impliquer des centaines d’interventions. Dans ce cas, 
+le travail doit être transmis d’une équipe à l’autre.  
+ 
+Une transmission efficace repose sur trois éléments clés : 
+1. La capacité de l’équipe sortante à identifier et communiquer les éléments essentiels du 
+travail en cours. 
+2. La capacité de l’équipe entrante à comprendre et assimiler ces informations. 
+3. Un processus formalisé d’échange, incluant un lieu dédié à cette transmission. 
+ 
+Deux principes complémentaires pour une passation réussie : la responsabilité individuelle 
+(chaque technicien assume ses tâches) et la formalisation (les procédures de transmission sont 
+intégrées aux règles opérationnelles écrites, avec un engagement fort de la hiérarchie). 
+ 
+Processus recommandé 
+Une passation efficace inclut généralement : 
+ 
+• Une réunion entre superviseurs sortants et entrants pour faire un point global sur l’état des 
+travaux et les éventuels problèmes. 
+• Un briefing collectif entre équipes pour résumer l’avancement des tâches. 
+• Des visites sur site permettant aux techniciens d’échanger directement sur leurs 
+interventions respectives. Selon la FAA, ces échanges doivent couvrir : 
+o L’état d’avancement des tâches, 
+o Les fiches de travail utilisées, 
+o Les problèmes rencontrés et leur résolution, 
+o Les événements inhabituels, 
+o Les prochaines étapes prévues. 
+ 
+L’enjeu : une communication sans faille 
+La clé d’une transmission réussie réside dans une communication claire et vérifiée. Une erreur 
+fréquente et critique consiste à supposer qu’une tâche a été achevée par l’équipe sortante… alors 
+que ce n’est pas le cas. 
+  
+===== PAGE 17 =====
+Module 7.21 V02   Page 17 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2 COMMUNICATION 
+Se référer au Livret Module 10 chapitre 7 COMMUNICATION 
+ 
+Une connaissance générale des aspects théoriques et pratiques de la Communication et 
+une capacité à appliquer cette connaissance.  
+le stagiaire doit être capable de : 
+✓ Assurer une passation de consignes efficace. 
+✓ Communiquer de façon claire, complète et concise. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+2.1 Information Vs communication 
+L'information consiste simplement à diffuser du contenu. La communication, quant à elle, vise à 
+garantir que le message soit bien reçu, compris et qu'il suscite des actions. 
+ 
+ 
+En environnement de maintenance, la sécurité ne dépend pas seulement des informations écrites, 
+mais de la qualité de la communication entre les équipes. 
+ 
+❖ Information 
+L’information consiste à transmettre un message ou une donnée.  
+En maintenance, cela peut être :  
+• une note dans le tech log,  
+• un défaut inscrit dans le système,  
+• un e-mail envoyé,  
+• une consigne écrite. 
+L’information est disponible, mais cela ne garantit pas qu’elle soit comprise ni prise en compte. 
+ 
+❖ Communication 
+La communication consiste à s’assurer que le message est compris et qu’une action appropriée 
+est réalisée.  
+En maintenance, cela implique :  
+• expliquer clairement le problème,  
+• permettre des questions,  
+• confirmer la bonne compréhension,  
+• vérifier que l’action attendue est identifiée. 
+
+===== PAGE 18 =====
+Module 7.21 V02   Page 18 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+La communication inclut donc un retour d’information (feedback). 
+ 
+❖ Différence essentielle 
+• Informer → transmettre une donnée.  
+• Communiquer → transmettre, faire comprendre et sécuriser l’action. 
+ 
+ 
+2.2 Règle des 3 V 
+La règle des 3V d’Albert Mehrabian – Verbal, Vocal, Visuel – souvent résumée par la formule 7 % – 
+38 % – 55 %. Cette règle, bien connue des communicants, souligne l’importance du verbal (les mots), 
+du vocal (le ton et la voix) et du visuel (le langage corporel) dans la transmission d’un message.  
+ 
+Selon ses études, dans la communication en face-à-face, le poids de chaque canal serait d’environ 7 
+% pour le verbal (les mots), 38 % pour le vocal (intonation, timbre et volume de la voix) et 55 % pour 
+le visuel (expression du visage, posture, gestes). Autrement dit, la communication non verbale (vocal 
++ visuel) représenterait 93 % de l’impact du message, contre seulement 7 % pour les mots eux-
+mêmes. 
+ 
+2.3 Les principes clés de communication : 
+Une communication efficace en maintenance repose sur la transmission d'une information claire, 
+exacte, complète, vérifiée et documentée, afin de garantir la sécurité et la continuité du travail. 
+La clarté exige un message précis et sans ambiguïté, comme par exemple : « Inspection visuelle 
+réalisée, aucune anomalie constatée. »  
+L'exactitude implique que l'information transmise soit conforme aux données techniques en vigueur : 
+« Tâche effectuée selon AMM applicable. »  
+L'exhaustivité consiste à refléter l'état réel des travaux, y compris les éléments en attente : « Panne 
+identifiée, pièce en attente de remplacement. »  
+La vérification garantit que le message a bien été compris par le destinataire, par exemple en 
+demandant : « Confirmez la poursuite de la tâche au prochain shift. »  
+Enfin, la traçabilité impose que toute action soit documentée : « Action enregistrée dans le tech log. 
+» 
+  
+
+===== PAGE 19 =====
+Module 7.21 V02   Page 19 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Une mauvaise communication peut entraîner : 
+• Erreurs techniques 
+• Mauvaise interprétation 
+• Risque sécurité 
+• Non-conformité réglementaire 
+ 
+Les facteurs humains influencent : 
+• Stress 
+• Fatigue 
+• Environnement bruyant 
+• Barrière linguistique 
+• Pression opérationnelle 
+ 
+Attention également aux traduction qui peuvent être source de mauvaise interprétation. 
+Voici une liste non exhaustive : 
+ 
+Anglais   Faux ami en 
+français 
+   Traduction 
+correcte 
+    Risque 
+opérationnel / HF 
+Hazard Hasard Danger Mauvaise évaluation 
+du risque en SMS 
+Assume Assumer Supposer Biais de confirmation / 
+erreur de diagnostic 
+Eventually Éventuellement Finalement / À terme 
+Mauvaise 
+compréhension 
+temporelle 
+Actually Actuellement En réalité Confusion sur le statut 
+technique 
+Delay Délai Retard Mauvaise gestion 
+planning / MEL 
+Control Contrôler (vérifier) Piloter / Maîtriser / 
+Commander 
+Confusion action vs 
+inspection 
+Critical Critique (négatif) Essentiel / Vital Sous-estimation d’un 
+système 
+Inspection Inspection (général) Visite / Contrôle 
+réglementaire 
+Mauvaise 
+compréhension 
+maintenance 
+Record (verb) Record Consigner / 
+Enregistrer Défaut de traçabilité 
+Issue Issue (sortie) Problème / Point Mauvaise 
+interprétation briefing 
+Concern Concerne Préoccupation Communication 
+ambiguë 
+ 
+Comprehensive 
+ 
+Compréhensif Complet / Exhaustif Inspection incomplète 
+Consistent Consistant Cohérent / Constant Procédures mal 
+comprises 
+Security Sécurité Sûreté Sécurité se traduit par 
+« Safety » 
+Sensible Sensible (émotif) Raisonnable Mauvaise 
+interprétation CRM 
+Sensitive Sensitif Sensible / Fragile Risque matériel ou 
+système 
+===== PAGE 20 =====
+Module 7.21 V02   Page 20 sur 20 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Evidence Évidence Preuve 
+Mauvaise 
+compréhension 
+enquête 
+Provision Provision (finance) Disposition Mauvaise lecture 
+réglementaire 
+Qualification Qualification (diplôme) Habilitation / 
+Compétence 
+Non-conformité 
+PART-145 
+Location Location Emplacement Erreur technique 
+possible 
+Fabric Fabrique Toile / Revêtement Erreur sur structure 
+avion 
+ 
+ 
+ 
+ 

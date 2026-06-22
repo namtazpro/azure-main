@@ -1,0 +1,1558 @@
+===== PAGE 1 =====
+Module 7.9 V07   Page 1 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2025 
+Module 7.9 
+ 
+Tuyauteries 
+rigides et souples 
+ 
+Licence B1/B2 
+
+===== PAGE 2 =====
+Module 7.9 V07   Page 2 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V04 30/12/2009 Toutes Nouvelle édition 
+V05 11/05/2016 
+Page de garde et 
+page 1  
+ 
+Page de garde et page 1 : adresse, signatures et 
+noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V06 01/06/2017 Toutes Nouvelle édition 
+V07 10/10/2025 Toutes  Nouvelle édition 
+ 
+  
+Visa Rédacteur 
+Cyril VERDU 
+Visa Responsable 
+Module 
+Laurent 
+VINGADASSALOM 
+Visa Directeur de 
+Formation 
+Laurent 
+VINGADASSALOM 
+Visa Responsable 
+Qualité 
+Déborah CALAC 
+ 
+  
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+
+===== PAGE 3 =====
+Module 7.9 V07   Page 3 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+SUJET MODULE 7A : Procédures d’entretien 
+ 
+Catégorie B1 : 80 questions à choix multiples et 2 questions à développement. Temps alloué 100 
+minutes. 
+Catégorie B2 : 60 questions à choix multiples et 2 questions à développement. Temps alloué 75 
+minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+MODULE 7.9. Tuyauteries rigides et souples 
+ 
+Niveau 
+A B1 B2 
+Cintrage et tulipage/évasement des tuyauteries pour aéronefs ; 1 2 N/A 
+Inspection et essais des tuyauteries rigides et tuyauteries souples pour aéronefs ; 1 2 N/A 
+Installation et fixation de tuyauteries. 1 2 N/A 
+  
+===== PAGE 4 =====
+Module 7.9 V07   Page 4 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux lois 
+physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en rapport 
+avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des dessins 
+simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources et 
+mesures et d’appliquer une action corrective comme il convient. 
+ 
+  
+===== PAGE 5 =====
+Module 7.9 V07   Page 5 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+TABLE DES MATIERES 
+ 
+1/ Cintrage et tulipage/évasement des tuyauteries pour aéronefs ................................ ........6 
+RAPPELS ................................ ................................ ................................ ............................... 6 
+1.1 Cintrage des tuyauteries ................................ ................................ ................................ 7 
+1.1.1 Définitions ................................................................................................................ 7 
+1.1.2 Défauts typiques du cintrage de tuyauterie ............................................................ 10 
+1.1.3 Cintrage par enroulement ...................................................................................... 11 
+1.1.4 Cintrage par poussée ............................................................................................ 12 
+1.1.5 Cintrage par emboutissage .................................................................................... 13 
+1.1.6 Cintrage par roulage .............................................................................................. 14 
+1.2 Tulipage / évasement des tuyauteries ................................ ................................ ......... 15 
+1.2.1 Evasement simple ................................................................................................. 16 
+1.2.2 Evasement double ................................................................................................. 17 
+1.2.3 Evasement par perlage .......................................................................................... 18 
+2/ Inspection et essais des tuyauteries rigides et tuyauteries souples pour aéronefs ...... 19 
+2.1 Inspections des tuyauteries rigides et souples. ................................ ......................... 19 
+2.1.1 But ......................................................................................................................... 19 
+2.1.2 Inspection des tuyauteries rigides et souples avant montage sur aéronef. ............ 19 
+2.1.3 Inspection des tuyauteries rigides et souples en service sur aéronef. ................... 20 
+2.2 Essais des tuyauteries rigides et souple ................................ ................................ ..... 21 
+2.2.1 Essais des tuyauteries rigides et souples avant montage sur aéronef. ................. 21 
+2.2.2 Essais des tuyauteries rigides et souples en services sur aéronef. ....................... 22 
+3 Installation et fixations de tuyauteries. ................................ ................................ .............. 23 
+3.1 Installation et fixations de tuyauteries rigides. ................................ ........................... 23 
+3.1.1 Vérifications avant installation................................................................................ 24 
+3.1.2 Installation des tuyauteries rigides ......................................................................... 24 
+3.2 Installation et fixations de tuyauteries souples. ................................ ......................... 26 
+3.2.1 Vérifications avant installation................................................................................ 26 
+3.2.2 Installation des tuyauteries souples ....................................................................... 26 
+ANNEXE 1 : Méthodologie de cintrage par enroulement. ................................ ................ 29 
+ANNEXE 2 Les différents types d’inspections et essais en conception. ........................ 31 
+Annexe 2.1 Les différents types d’inspections en conception ......................................... 31 
+Annexe 2.2 Les différents types d’essais en conception. ............................................... 35 
+ 
+  
+===== PAGE 6 =====
+Module 7.9 V07   Page 6 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1/ Cintrage et tulipage/évasement des tuyauteries pour 
+aéronefs  
+ 
+Rappel des objectifs : connaissance générale des techniques de cintrage, 
+tulipage/évasement des tuyauteries pour aéronef.  
+Capacité à appliquer cette connaissance. [Niveau 2] 
+RAPPELS 
+Les fluides, liquides ou gazeux, des aéronefs sont transportés via des tuyauteries. 
+Qu’elles soient rigides ou souples, les tuyauteries doivent respecter les normes de fabrication 
+et permettre de répondre aux besoins spécifiques des aéronefs en termes de pressions de 
+fonctionnement, d’encombrements, de vibrations, de chaleur etc.  
+ 
+Critère Tuyauteries rigides Tuyauteries souples 
+Matériaux -Acier inoxydable,  
+-Titane,  
+-Alliages d’aluminium 
+(Duralinox, Almasilium),  
+-Inconel. 
+-Caoutchouc renforcé,  
+-PTFE,  
+-Acier inoxydable tressé, 
+-Composites. 
+Applications 
+typiques 
+-Circuits hydrauliques haute 
+pression, 
+-carburant,  
+-air comprimé,  
+-systèmes critiques 
+(commandes de vol, trains 
+d’atterrissage etc.). 
+-Liaisons entre équipements 
+mobiles,  
+-zones soumises à vibrations 
+(moteurs, pompes),  
+-circuits nécessitant une 
+absorption des mouvements. 
+Pression 
+supportée 
+-Très haute pression (jusqu’à 
+8000 PSI pour l’acier 
+inoxydable). 
+-Pression modérée à élevée 
+(jusqu’à 5000 PSI pour les 
+flexibles en acier tressé).  
+Avantages - Résistance mécanique et 
+chimique élevée. 
+- Longévité.  
+- Adapté aux hautes pressions.  
+- Moins sensible aux 
+agressions extérieures. 
+- Absorption des vibrations et 
+mouvements.  
+- Montage dans des espaces 
+complexes. 
+- Réduction du poids.  
+- Facilité de remplacement. 
+Inconvénients - Poids plus élevé.  
+- Nécessite un usinage précis.  
+- Sensible à la corrosion si mal 
+entretenue. 
+- Durée de vie limitée.  
+- Sensible à l’usure et aux 
+fuites.  
+- Remplacement fréquent.  
+- Moins adapté aux très 
+hautes pressions. 
+*(sources PSD Aéro) 
+  
+
+===== PAGE 7 =====
+Module 7.9 V07   Page 7 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1 Cintrage des tuyauteries 
+1.1.1 Définitions 
+Le cintrage est un procédé mécanique de déformation d’ une tuyauterie, suivant un rayon et un 
+angle avec une cintreuse. 
+ 
+Les techniques de cintrage doivent répondre à des normes spécifiques de l’industrie 
+aéronautique telles que : 
+- La SAE, EASA etc. 
+(Exemple : norme SAE AS50881 qui définit les exigences pour l’identification et la fabrication des 
+tuyauteries, y compris les tolérances de cintrage.) 
+- Les spécifications des constructeurs comme Airbus, Boeing etc. 
+(Exemple : Airbus AITM 2-0025 pour le cintrage des tubes en acier inoxydable.) 
+ 
+Il existe plusieurs techniques de cintrage :  
+ 
+ 
+Le cintrage sera fonction de paramètre critiques :  
+- Rayon de cintrage : 
+Le rayon minimal de cintrage dépend du matériau, du diamètre du tube, et de l’épaisseur de paroi.  
+ 
+- Épaisseur de paroi : 
+L’épaisseur de paroi doit être suffisante pour résister à la pression et aux contraintes de cintrage.  
+ 
+- Mandrin interne : 
+Le mandrin (Il peut être lisse ou articulé, pour les rayons serrés) est choisi en fonction du diamètre 
+et du matériau du tube.  
+Pour les alliages sensibles (ex. : titane), des mandrins revêtus de PTFE ou lubrifiés sont utilisés 
+pour réduire les frottements. 
+ 
+- Lubrification : 
+Une lubrification adaptée (ex. : lubrifiants à base de graphite ou synthétiques) sera parfois 
+indispensable pour réduire les frottements et éviter les défauts de surface. 
+  
+
+===== PAGE 8 =====
+Module 7.9 V07   Page 8 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+- Matériaux concernés : 
+Acier inoxydable : Couramment utilisé pour les circuits hydrauliques. 
+Titane : Requiert des précautions supplémentaires pour éviter la fissuration. 
+Alliages d’aluminium : Plus faciles à cintrer, mais sensibles à l’ovalisation. 
+Inconel : Nécessite des outils spécifiques en raison de sa dureté. 
+ 
+- Contrôles qualité post-cintrage : 
+Vérification de l’absence de plis, fissures, ou ovalisation excessive. 
+Mesure des rayons, angles, et longueurs à l’aide d’outils de métrologie (ex. : machines à mesurer 
+tridimensionnelles). 
+Contrôle non destructif (CND) : 
+Ressuage (pour détecter les microfissures). 
+Ultrasons (pour vérifier l’épaisseur de paroi). 
+Radiographie (pour les circuits critiques). 
+Test de pression. 
+ 
+Exemple d’application dans l’aéronautique : 
+Cintrage des tubes pour les commandes de vol, trains d’atterrissage, et systèmes de freinage. 
+Formation des tuyauteries pour les réservoirs et les moteurs. 
+Tuyauteries pour l’air conditionné ou l’oxygène. 
+Cintrage des tubes pour les systèmes de graissage des moteurs. 
+ 
+  
+ 
+Pour aller plus loin avec un outil à main : Swagelok Hand Tube Bender Manual (MS-13-43, 
+PDF) 
+ 
+Il faut distinguer le cintrage « à chaud », méthode artisanale ou réalisée par induction, du cintrage 
+« à froid », la méthode industrielle. 
+Cette opération est réalisée, soit avec des machines manuelles, soit avec des machines 
+numériques. 
+ATTENTION ! Tous les tubes ne sont pas cintrables ; la matière doit présenter un pourcentage 
+d’allongement suffisant. 
+ 
+  
+ 
+  
+
+===== PAGE 9 =====
+Module 7.9 V07   Page 9 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+Lorsque l’on cintre un tube, l’extrados s’amincit, la matière s’allonge et perd de l’épaisseur. 
+Au contraire, l’intrados s’épaissit par compression de la matière.  
+Ce phénomène peut conduire à l’apparition de plis dans le cintre, la partie courbée de la tuyauterie 
+située sur l’intrados.  
+C’est un des défauts les plus courants.  
+ 
+ 
+Nota : 
+Pour limiter la diminution d’épaisseur, on peut utiliser une poussée sur l’extrémité (comme vu sur 
+la photo ci -dessous). Cette pratique est particulièrement utilisée en rayon court ou en grand 
+diamètre. 
+ 
+ 
+ 
+Pour limiter les plis, on utilise un « efface plis » ou « sabot lisseur » qui vient appuyer sur la 
+zone intérieure du tube pendant le cintrage. 
+ 
+  
+
+===== PAGE 10 =====
+Module 7.9 V07   Page 10 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.2 Défauts typiques du cintrage de tuyauterie 
+ 
+Aplatissement de la section du tube 
+Lors du cintrage, la section circulaire peut devenir 
+elliptique (ovalisation), c e qui réduit la résistance 
+mécanique.  
+ 
+Amincissement de la paroi extérieure 
+Le matériau s’étire sur l’extrados, ce qui peut 
+entraîner une réduction excessive de l’épaisseur de 
+la paroi, augmentant le risque de rupture.  
+ 
+Fissuration ou rupture 
+Une contrainte excessive, un rayon de cintrage trop 
+serré ou un matériau inadapté peuvent provoquer 
+des fissures, en particulier sur l’extrados.  
+ 
+Plissement sur l’intrados 
+Des plis peuvent apparaître sur la face intérieure du 
+cintrage, dus à une compression excessive. Cela est 
+souvent causé par un mauvais réglage des 
+paramètres ou l’absence de mandrin.  
+ 
+ 
+Dans des cas moins fréquents on pourra également observer : 
+ 
+Retour élastique 
+Après le cintrage, le tube peut revenir partiellement à sa forme initiale, ce qui fausse l’angle de 
+cintrage prévu. 
+ 
+Torsion (ou vrille) du tube. 
+Celui-ci peut subir une rotation involontaire autour de son axe neutre, surtout si le cintrage n’est 
+pas bien guidé.  
+ 
+Effondrement localisé 
+La paroi peut s’effondrer localement, créant une zone de faiblesse structurelle. 
+  
+
+===== PAGE 11 =====
+Module 7.9 V07   Page 11 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.3 Cintrage par enroulement  
+Le cintrage par enroulement consiste à déformer un tube autour d’un mandrin (ou gabarit) de forme 
+spécifique, tout en utilisant un mandrin interne pour éviter l’aplatissement ou le pliage excessif de 
+la section du tube.  
+ 
+AVANTAGES INCONVENIENTS 
+- Haute précision du rayon et de l’angle 
+- Permet des rayons très courts (jusqu’à 
+1xDiamètre) 
+- Faible risque de plis ou d’aplatissement 
+(avec mandrin) 
+- Adapté aux tubes de faible épaisseur 
+- Outillage complexe et coûteux 
+- Moins adapté aux grandes longueurs 
+- Changement de rayon nécessite un 
+nouveau galet 
+ 
+ 
+ 
+  
+
+===== PAGE 12 =====
+Module 7.9 V07   Page 12 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.4 Cintrage par poussée 
+Le cintrage par poussée consiste à faire avancer (pousser) le tube à travers un jeu de galets ou de 
+matrices fixes, qui imposent progressivement la courbure souhaitée.  
+Le tube est maintenu à une extrémité, tandis que l’autre extrémité est poussée, forçant le tube à 
+épouser la forme du gabarit de cintrage. 
+ 
+ 
+AVANTAGES  INCONVENIENTS 
+- Adapté aux grands rayons 
+- Permet le cintrage de tubes de grande 
+longueur 
+- Moins d’outillage spécifique 
+- Moins précis pour les petits rayons 
+- Risque de plis ou d’aplatissement si le rayon 
+est trop court 
+- Moins adapté aux tubes de faible épaisseur 
+ 
+ 
+ 
+ 
+  
+Une image contenant Outil-machine, ingénierie, acier, Atelier
+Le contenu généré par l’IA peut être incorrect.
+
+===== PAGE 13 =====
+Module 7.9 V07   Page 13 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.5 Cintrage par emboutissage 
+Le cintrage par emboutissage consiste à déformer un tube à l’aide d’un vérin (ou d’un poinçon) qui 
+vient appuyer localement sur le tube, celui -ci étant posé sur une matrice (ou un gabarit) ayant la 
+forme du rayon de courbure souhaité. 
+ 
+AVANTAGES INCONVENIENTS 
+- Procédé simple et rapide 
+- Faible coût d’outillage 
+- Adapté aux séries courtes 
+- Précision limitée 
+- Risque d’effondrement ou de plis 
+- Limité aux formes simples et rayons moyens à 
+grands 
+ 
+ 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.9 V07   Page 14 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.6 Cintrage par roulage 
+Le tube passe entre plusieurs galets (généralement trois ou quatre) qui le déforment 
+progressivement pour obtenir le rayon de courbure. 
+ 
+ 
+ 
+AVANTAGES INCONVENIENTS 
+- Idéal pour les grands rayons et les courbes 
+continues 
+- Peu de risque de déformation de la section 
+- Adapté aux tubes de grande longueur 
+- Précision moindre pour les petits rayons 
+- Nécessite parfois plusieurs passes 
+- Moins adapté aux courbes courtes ou 
+complexes 
+ 
+ 
+ 
+  
+
+===== PAGE 15 =====
+Module 7.9 V07   Page 15 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2 Tulipage / évasement des tuyauteries  
+ 
+L’évasement (ou tulipage) est une opération mécanique qui consiste à élargir l’extrémité d’un tube 
+métallique pour former un collet conique.  
+ 
+Ce collet sert à : 
+• Créer une surface d’appui et d’étanchéité pour un raccord spécifique,  
+• Assurer la résistance mécanique de la connexion, 
+• Prévenir les fuites dans les circuits de fluides (hydrauliques, carburant, oxygène, etc.). 
+ 
+L’évasement est généralement réalisé à froid, à l’aide d’un outil conique ou d’une machine dédiée, 
+qui déforme plastiquement l’extrémité du tube sans fissuration ni affaiblissement de la paroi.  
+Au même titre que le cintrage, l’évasement est soumis aux normes aéronautiques qui impose des 
+exigences strictes sur la qualité des évasements, comme les normes ISO 8493, DIN 50135, ASTM 
+A370 et les standards internes des avionneurs. 
+ 
+➔ On pourra réaliser des évasements sur les différentes matières des tuyauteries.  
+Pour cela il faudra adapter les outillages et les pressions exercées. 
+ 
+On ne peut pas réaliser un évasement sur une tuyauterie en aluminium avec du matériel conçu 
+pour de l’acier par exemple (dureté du métal, pression nécessaire pour évaser) 
+ 
+Procédé :  
+1. Le tube est coupé proprement et ébavuré. 
+2. Un écrou et une bague sont placés sur le tube. 
+3. L’outil d’évasement (manuel ou hydraulique) forme le collet conique à l’extrémité du tube. 
+4. Le raccord mâle vient s’appuyer sur le collet, l’écrou est serré pour assurer l’étanchéité. 
+ 
+Il existe plusieurs types d’évasement :  
+ Simple 
+ Double  
+ Par perlage  
+ 
+ 
+  
+
+===== PAGE 16 =====
+Module 7.9 V07   Page 16 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2.1 Evasement simple 
+ 
+L’extrémité du tube est évasée à l’aide d’un cône pour former une surface conique qui viendra 
+s’appuyer sur le raccord. 
+• Utilisé pour les tubes en aluminium, acier doux, cuivre. 
+• Réalisé avec un outil manuel ou hydraulique. 
+ 
+ 
+ 
+AVANTAGES INCONVENIENTS 
+- Procédé rapide et simple à réaliser. 
+- Nécessite un outillage basique. 
+- Suffisant pour des applications à faible 
+pression ou non critiques 
+ 
+- Moins résistant à la pression et aux vibrations. 
+- Risque accru de fissuration ou de fuite, surtout 
+en cas de sollicitations mécaniques importantes. 
+- Non recommandé pour les circuits hydrauliques 
+ou carburant, sauf cas très particuliers 
+ 
+ 
+ 
+(Exemple de principe d’évasement simple sur tube de cuivre)  
+
+===== PAGE 17 =====
+Module 7.9 V07   Page 17 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2.2 Evasement double 
+Un évasement double est une opération mécanique qui consiste à élargir l’extrémité d’un 
+tube métallique en deux étapes : 
+- Repli du matériau : l’extrémité du tube est d’abord repliée vers l’intérieur sur elle-même. 
+- Évasement conique : le tube ainsi replié est ensuite évasé pour former un collet de forme 
+conique. 
+ 
+Ce procédé crée une double épaisseur de matériau au niveau du collet, ce qui renforce la 
+connexion et améliore la résistance mécanique et l’étanchéité 
+ 
+Dans l’aéronautique, l’évasement double est largement utilisé pour : 
+• Les circuits hydrauliques (freins, commandes de vol, trains d’atterrissage), 
+• Les circuits carburants, 
+• Les circuits d’air et de fluides sous pression. 
+ 
+ 
+ 
+AVANTAGES INCONVENIENTS 
+- Résistance mécanique et à la pression 
+nettement supérieure. 
+- Meilleure tenue aux vibrations et aux cycles 
+thermiques. 
+- Réduit le risque de fissuration du tube lors 
+du serrage du raccord. 
+- Recommandé pour les circuits 
+hydrauliques, carburant et freinage en 
+aéronautique 
+ 
+- Procédé plus long et nécessitant un outillage 
+spécifique. 
+- Demande une grande précision d’exécution. 
+- Légère augmentation du coût de fabrication  
+ 
+ 
+ 
+(Exemple de principe d’évasement double sur tube de cuivre)   
+
+===== PAGE 18 =====
+Module 7.9 V07   Page 18 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2.3 Evasement par perlage 
+Le perlage est une technique de formage qui consiste à créer un bourrelet (ou "perle") à l’extrémité 
+ou sur la surface d’un tube métallique, souvent pour renforcer une zone, faciliter un assemblage, 
+ou améliorer l’étanchéité. Cette méthode est couramment utilisée da ns l’industrie, y compris en 
+aéronautique, pour les tubes en acier, aluminium ou inox. 
+ 
+ 
+ 
+AVANTAGES INCONVENIENTS 
+- Permet la réalisation d’un bourrelet qui 
+empêche l’arrachement du tube sous 
+pression. 
+- Excellente résistance à l’arrachement et à la 
+déformation. 
+- Utilisé pour les raccords soumis à de fortes 
+contraintes mécaniques ou pour le passage 
+de colliers de serrage  
+ 
+- Procédé complexe, nécessitant un outillage 
+spécialisé. 
+- Peut fragiliser le tube si mal réalisé (risque 
+de fissures). 
+- Moins courant, donc moins de compatibilité 
+avec certains raccords standards 
+ 
+ 
+ 
+(Exemple de principe d’évasement par perlage ou « bulle » sur tube métallique) 
+  
+
+===== PAGE 19 =====
+Module 7.9 V07   Page 19 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2/ Inspection et essais des tuyauteries rigides et 
+tuyauteries souples pour aéronefs  
+ 
+Rappel des objectifs : connaissance générale des méthodes d’inspections et 
+d’essais des tuyauteries rigides et des tuyauteries souples pour aéronefs. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+2.1 Inspections des tuyauteries rigides et souples. 
+2.1.1 But 
+Les tuyauteries (rigides et souples) transportent des fluides critiques (carburant, huile hydraulique, 
+oxygène, etc.). Une défaillance peut entraîner des fuites, une perte de contrôle, un incendie, ou 
+une explosion, mettant en danger la sécurité de l’aéronef et de ses occupants. 
+ 
+Les inspections des tuyauteries rigides et souples en aéronautique sont donc essentielles pour la 
+sécurité et la fiabilité.  
+Ces inspections permettent de détecter et corriger les défauts avant qu’ils ne deviennent critiques, 
+en suivant des normes strictes définies par les fabricants. 
+ 
+Des inspections périodiques permettront de détecter précocement la corrosion, les fissures, l’usure 
+ou les fuites permet tant d’éviter des réparations coûteuses ou des immobilisations prolongées.  
+(Exemple : Check A/B/C/D pour les avions CS25 type A320) 
+ 
+2.1.2 Inspection des tuyauteries rigides et souples avant montage sur aéronef. 
+2.1.2.1 But 
+Il s’agit, en fonction de la documentation du constructeur, d’inspections systématiques et 
+préventives. 
+Le but est de : 
+• Vérifier la conformité et l’intégrité des tuyauteries avant leur mise en service ou après une 
+intervention en base. 
+• Détecter les défauts de fabrication, de stockage ou de manipulation. 
+• S’assurer que les tuyauteries respectent les spécifications constructrices.  
+ 
+ 
+  
+
+===== PAGE 20 =====
+Module 7.9 V07   Page 20 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.1.2.2 Points critiques à inspecter   
+Inspection visuelle et dimensionnelle 
+• Conformité physique :  
+o Vérifier l’absence de déformations : cintrage incorrect, ovalisation, écrasement. 
+o Contrôler les dimensions  des tuyauteries :  longueur, diamètre, angles , courbures 
+anormales. 
+o Inspecter les extrémités (évasement, tulipage) 
+• État de surface :  
+o Rechercher des rayures, entailles, fissures, points d’impacts, corrosion.  
+o Vérifier l’absence de contamination : poussière, graisse, particules métalliques. 
+Le manuel de maintenance constructeur sera utilisé pour connaître les limites acceptables de 
+chaque dommage. 
+Dans certains cas, des réparations peuvent être envisagées. 
+2.1.3 Inspection des tuyauteries rigides et souples en service sur aéronef. 
+2.1.3.1 But 
+Il s’agit de contrôles réactifs et correctifs. 
+Le but est de : 
+• Détecter les défauts apparus en service. 
+• Valider l’état fonctionnel des circuits après un vol ou un incident. 
+• Identifier les causes potentielles de panne pour une maintenance corrective. 
+2.1.3.2 Points critiques à inspecter   
+Inspection visuelle et dimensionnelle 
+• Conformité physique :  
+o Recherche de fuites, perte de fluides. 
+o Vérifier l’absence de déformations : cintrage incorrect, ovalisation, écrasement. 
+o Contrôler les dimensions  des tuyauteries : longueur, diamètre, angles , courbures 
+anormales. 
+o Inspection des raccords pour détecter les déformations, endommagements. 
+• État de surface :  
+o Rechercher des rayures, entailles, fissures, points d’impacts, corrosion.  
+o Vérifier l’absence de contamination : poussière, graisse, particules métalliques. 
+ 
+Les éléments défectueux doivent être remplacés ou réparés. 
+Le manuel de maintenance constructeur sera utilisé pour connaître les limites acceptables de 
+chaque dommage. 
+Dans certains cas des réparations peuvent être envisagées. 
+ 
+  
+===== PAGE 21 =====
+Module 7.9 V07   Page 21 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2 Essais des tuyauteries rigides et souple 
+2.2.1 Essais des tuyauteries rigides et souples avant montage sur aéronef. 
+2.2.1.1 But 
+Il s’agit, selon les normes des constructeurs , de validations fonctionnelles et structurelles après 
+changement (ou réparation) des tuyauteries rigides et souples. 
+ 
+Le but est de :  
+• Valider l’étanchéité et la résistance des tuyauteries avant leur mise en service. 
+• Garantir le bon fonctionnement des circuits après installation ou maintenance. 
+ 
+Pour cela, les procédures du constructeur devront être strictement respectées pour les essais de 
+mise en pression, de recherche de fuite et de test de flexibilité. 
+2.2.1.2 Les différents essais  
+• Test hydraulique/pneumatique :  
+o En règle générale, il faudra appliquer une pression supérieure à la pression maximale 
+de service.  
+o Maintenir la pression pendant la durée décrite sur les documents pour vérifier l’absence 
+de fuite ou de déformation. 
+ 
+• Ressuage :  
+o Détecter les microfissures sur les soudures et zones de contrainte. 
+• Ultrasons :  
+o Permet de vérifier l’épaisseur des parois et détecter les défauts internes. 
+• Test de pliage :  
+o Vérifier l’absence de durcissement, fissuration, ou perte d’élasticité. 
+ 
+Les essais de tuyauteries hydrauliques sont effectués avec du fluide hydraulique (Type Skydrol). 
+Les tuyauteries carburant sont testées avec des gaz inertes (azote/ mélange air-hélium) ou du 
+carburant. 
+Les tuyauteries pneumatiques, ou desservant les instruments, sont en général testées à l'air sec, 
+débarrassé d'huile. 
+ 
+Il faudra, dans tous les cas, se conformer à la documentation technique du constructeur et, le cas 
+échéant, aux instructions du fabricant des tuyauteries. 
+ 
+ 
+(Exemple de banc hydraulique pour effectuer des essais, 3000 -5000 Psi) 
+  
+
+===== PAGE 22 =====
+Module 7.9 V07   Page 22 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2.2 Essais des tuyauteries rigides et souples en services sur aéronef. 
+2.2.2.1 But 
+Il s’agira ici de la réalisation d’essais pour validation post-opérationnelle et corrective. 
+Le but est de : 
+• Confirmer l’intégrité des tuyauteries en service ou un incident. 
+• Détecter les fuites ou défauts apparus en service. 
+• Valider la réparation ou le remplacement de composants. 
+2.2.2.2 Les différents essais  
+Test de maintien de pression en ligne 
+o Réaliser un test de pression avec un manomètre pour vérifier l’absence de chute de 
+pression (hydraulique, carburant etc.) 
+Recherche de fuite d’air 
+o Appliquer une solution savonneuse sur les raccords et observer la formation de bulles. 
+Essais fonctionnels 
+o Vérifier le bon fonctionnement des clapets et vannes et leur étanchéité. 
+o Vérifier l’absence de colmatage ou de particules polluantes (Ex  : prélèvement 
+hydraulique ou carburant). 
+ 
+ 
+(Exemple de banc d’essai pour étanchéité carburant sur Falcon FX) 
+  
+
+===== PAGE 23 =====
+Module 7.9 V07   Page 23 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3 Installation et fixations de tuyauteries. 
+3.1 Supports de fixation. 
+Des supports structuraux sont installés le long des cheminements prévus pour l es tuyauteries 
+rigides et souples. Ils permettent d’y accrocher différents types d’éléments d’assemblage pour les 
+tuyauteries (des peignes, des colliers) 
+ 
+Ils permettront : 
+• Maintien mécanique  : Les supports structuraux assurent la fixation des colliers et peignes 
+d’assemblage, eux-mêmes maintenant les tuyauteries en place. Leur rôle principal est de répartir 
+les charges mécaniques (poids, vibrations, contraintes dynamiques) et d’éviter les dép lacements 
+ou frottements qui pourraient endommager les tuyaux ou les systèmes environnants. 
+ 
+• Protection contre les vibrations  : Dans un aéronef, les vibrations sont omniprésentes. Les 
+supports limitent la transmission de ces vibrations aux tuyauteries, réduisant ainsi les risques de 
+fatigue mécanique ou de rupture. 
+ 
+• Respect des tolérances géométriques  : Ils garantissent que les tuyauteries restent dans les 
+tolérances de positionnement définies par les plans de conception, ce qui est essentiel pour éviter 
+les interférences avec d’autres systèmes ou structures. 
+ 
+Les supports sont généralement fabriqués en alliages légers (aluminium, titane) , en acier 
+inoxydable, ou en composite s, selon les contraintes de poids, de résistance mécanique et de 
+résistance à la corrosion. Le choix dépend aussi de la zone de l’aéronef (ex. : zone chaude près 
+des moteurs, zone humide, etc.). 
+ 
+ 
+(Exemple support structurel en alliage léger - 
+Source Airbus) 
+ 
+ 
+(Exemple de support structurel zone carburant 
+en composite - Source Airbus) 
+ 
+On retrouve différents types de supports structuraux : 
+o Supports rigides : Fixés directement à la structure de l’aéronef, ils offrent une fixation solide et 
+sont utilisés pour les tuyauteries critiques ou soumises à de fortes contraintes. 
+o Supports amortissants : Intègrent des éléments élastiques (caoutchouc, matériaux composites) 
+pour absorber les vibrations et réduire les contraintes dynamiques. 
+o Supports réglables  : Permettent un ajustement fin de la position des tuyauteries lors de 
+l’assemblage ou de la maintenance. 
+  
+
+===== PAGE 24 =====
+Module 7.9 V07   Page 24 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.2 Installation et fixations de tuyauteries rigides. 
+ 3.2.1 Vérifications avant installation 
+Avant toute installation de tuyauteries, les inspections préalables devront être effectuées : 
+- Contrôle du bon état général des tuyauteries, 
+- Contrôle du bon état des raccords, 
+- Vérification de l’identification et des documents, 
+- Présence des obturateurs.  
+Il est également primordial de s’assurer de la conformité des éléments fixant sur avion (visserie, 
+colliers, peignes etc.). 
+En cas de doute sur leur état, il est impératif de les remplacer, conformément aux 
+recommandations des constructeurs. 
+La zone d’installation devra être au préalablement nettoyée et préparée. 
+ 
+(Source Airbus) 
+3.2.2 Installation des tuyauteries rigides 
+Les tuyauteries rigides sont généralement assemblées sur avion, par des peignes ou des colliers 
+adaptés à leurs diamètres. 
+Aucune tension lors de l’installation (sauf celle éventuellement prévue par le fabricant) ne sera 
+tolérée. 
+Il existe plusieurs variétés de peignes utilisés en aéronautique, en fonction des besoins 
+d’assemblage : 
+- Peignes monoblocs thermoplastiques  
+- Peignes à alignement axial 
+- Peignes monoblocs nitrile 
+- Peignes monoblocs thermoplastiques 
+ 
+ 
+ 
+  
+(Exemples de peignes - Source Amphenol Air LB) 
+  
+
+===== PAGE 25 =====
+Module 7.9 V07   Page 25 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Les peignes peuvent être : 
+- Fixés sur la structure  : rigidification du montage , maintien des 
+gardes, maintien du montage, 
+ 
+- Assemblés sur les tuyauteries de façon «  libre » : maintien des 
+gardes de montage, réduction des vibrations. 
+ 
+Les peignes composés de couches plastifiées (type Nitrile, 
+caoutchouc etc.) permettront de maintenir les tuyauteries soumises à 
+des phénomènes de dilatation. 
+ 
+De façon générale, ils permettent un bon cheminement des 
+tuyauteries tout au long de l’installation, notamment lors d’installation 
+avec de grandes longueurs de tubes. 
+ 
+(Source Airbus) 
+ 
+ 
+- Les colliers seront directement installés sur la structure ou des support rigides avion. 
+Ils permettront de conserver les gardes et de rigidifier l‘installation. 
+Une attention particulière doit être portée sur le positionnement et l’état de l’élastomère des colliers. 
+Celui-ci jouant le rôle d’isolant et « d’amortisseur » entre le collier et la tuyauterie. 
+Un défaut, ou un mauvais positionnement, provoquera à plus ou moins long terme des dégâts  
+importants (dus aux vibrations) et pouvant amener à des fuites ou des ruptures de tuyauteries. 
+ 
+ 
+ 
+ 
+(Exemple de montage de colliers sur tuyauteries rigides – Source Airbus) 
+ 
+Lors de l’installation, il faudra également s’assurer du respect des gardes et, dans le cas contraire, 
+installer des bandes de protection pour les tuyauteries, toujours en suivant les recommandations 
+du constructeur. 
+ 
+(Source Airbus) 
+  
+
+===== PAGE 26 =====
+Module 7.9 V07   Page 26 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.3 Installation et fixations de tuyauteries souples. 
+3.3.1 Vérifications avant installation 
+Les tuyauteries souples seront soumises aux mêmes exigences de contrôle que les rigides. 
+Une attention particulière sera portée sur l’aspect du revêtement de protection externe de la 
+tuyauterie (kevlar, PTFE etc.) afin de détecter tout endommagement de celui-ci. 
+Leur installation sera soumise au respect des couples de serrage comme indiqué dans la partie 
+3.4 de ce chapitre. 
+Contrairement à la plupart des tuyauteries rigides,  les tuyauterie s souples sont soumises  à 
+péremption, généralement 10 ans, et devront être contrôlées en ce sens. 
+3.3.2 Installation des tuyauteries souples 
+Les tuyauteries souples seront assemblées avec des colliers adaptés à leur diamètre, empêchant 
+ainsi toutes vibrations excessives pouvant, à plus ou moins long terme, les endommager. 
+Ces colliers permettront également de « cheminer » les tuyauteries, facilitant ainsi le respect de 
+leur rayon de courbure, et garantissant leur durée de vie en exploitation. 
+ 
+ 
+ 
+ 
+(Source Airbus) 
+ 
+Il est primordial de respecter le rayon de courbure donné par le fabricant pour : 
+- Respecter les gardes, 
+- Permettre le libre mouvement des tuyauteries dans leur environnement, 
+- Eviter une usure prématurée. 
+ 
+Les tuyauteries en Kevlar devront préalablement être chauffées à la main afin de faciliter leur 
+cintrage et éviter qu’elles ne se plient.  
+Les tuyau teries souples seront maintenues par des colliers adaptés aux fluides que celles -ci 
+transportent. 
+Voici un récapitulatif des différentes compositions des colliers. 
+Celles-ci sont données à titre d’exemple, il faudra toujours utiliser les références du constructeur. 
+ 
+Type de fluide Matériau du collier Type de collier 
+recommandé 
+Pression 
+max. (bar) 
+Hydraulique (Skydrol) Acier inox 316/Nitrile T-Bolt ou bride renforcée 350 
+Carburant (kérosène) Acier inox 316/PTFE Double bande ou standard 50 
+Air/climatisation Inox ou plastique Isophonique ou standard 20 
+Oxygène Laiton ou inox 
+dégraissé 
+Standard sans lubrifiant 10 
+  
+
+===== PAGE 27 =====
+Module 7.9 V07   Page 27 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.4 Assemblage, raccordement et serrage au couple des tuyauteries 
+rigides et souples. 
+Lors de l’assemblage des tuyauteries , rigides ou souples, il faudra s’assurer d’un assemblage 
+sans contraintes tout au long de l’installation.  
+Il faudra vérifier l’épaulement des 2 parties du raccord, l’absence de défauts sur les parties 
+coniques ainsi que sur les filetages. 
+L’assemblage se déroulera en 4 grandes étapes : 
+1- Faire prendre 1 ou 2 filets du raccord  
+2- Lubrifier la partie mâle des filetages du raccord avec le lubrifiant adéquat 
+(exemple pour le circuit oxygène, seul le Krytox 240 AC est autorisé chez Airbus)  
+3- Terminer l’assemblage à la main jusqu’au contact 
+4- Appliquer le couple de serrage définitif sur le raccord  et selon les 
+recommandations du fabricant. 
+  
+(Source Airbus) 
+ 
+Toutes les installations de tuyauteries, rigides ou souples, seront soumises à l’utilisation de clés 
+dynamométriques et de contre clés (lorsque applicable). 
+Cette méthodologie de montage, préconisée par les constructeurs, garantira un assemblage 
+conforme (maintien du couple, résistance maximum aux vibrations etc.). 
+Les clés dynamométriques sont soumises à validité et doivent faire l’objet d’un suivi rigoureux afin 
+de garantir leur efficacité. 
+ 
+Une mauvaise application du couple aura des effets néfastes à plus au moins long termes : 
+- Un sous-serrage au couple entrainera un desserrage progressif et génèrera des fuites, 
+- Un sur- serrage au couple entrainera une usure prématurée de l’assemblage avec risque de 
+rupture. 
+ 
+Pour garantir une application conforme du couple il faudra, chaque fois que cela sera possible, 
+utiliser une contre clé pour éviter tout endommagement, ou vrillage, sur les raccords des 
+tuyauteries. 
+  
+
+===== PAGE 28 =====
+Module 7.9 V07   Page 28 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Dans le cas des tuyauteries rigides : 
+La contre clé sera toujours appliquée sur la partie « mâle » du raccord.  
+Evitant ainsi une contrainte sur l’assemblage. 
+ 
+(Source Airbus) 
+ 
+Dans le cas des tuyauteries souples, il faudra réaliser cette opération en 2 étapes : 
+- 1 Contrer sur l’extrémité de la tuyauterie souple elle-même, 
+- 2 Afin d’éviter qu’elle ne vrille , à cette étape le serrage ne sera pas définitif (contact +1/4 de 
+tour pour verrouiller la position de la tuyauterie souple), 
+- 3 Contrer sur la partie mâle du raccord,  
+- 4 Appliquer le couple de serrage définitif. 
+ 
+ 
+(Source Airbus) 
+ 
+NOTA : Un maintien de la tuyauterie souple à la main n’est pas compatible avec un assemblage 
+conforme, sauf en cas de recommandation spécifique du constructeur. 
+  
+
+===== PAGE 29 =====
+Module 7.9 V07   Page 29 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ANNEXE 1 : Méthodologie de cintrage par enroulement. 
+Méthode pas à pas inspirée des normes FAA AC 43.13 -1B et des bonnes pratiques 
+Eaton/Swagelok MS13-43, adaptées pour Air-formation. 
+ 
+a. Préparation du matériel et de l’environnement 
+Outillage requis 
+• Cintreuse à enroulement (manuelle ou hydraulique) avec galets adaptés au diamètre du tube. 
+• Mandrin de cintrage (ou mandrel) pour éviter l’ovalisation (obligatoire pour les alliages durs 
+comme le titane ou l’acier inox). 
+• Lubrifiant compatible (ex. : graisse à base de molybdène pour l’aluminium, lubrifiant haute 
+température pour l’acier inox). 
+• Étau ou support de fixation pour maintenir le tube. 
+• Règle, rapporteur d’angle, et gabarit de contrôle pour vérifier le rayon et l’angle. 
+• Équipement de protection : Gants, lunettes (risque d’éclats). 
+ 
+Préparation du tube 
+• Nettoyer le tube (dégraissant, brosse douce) pour éviter les inclusions de particules. 
+• Marquer la zone de cintrage avec un feutre indélébile (repère de positionnement). 
+• Vérifier l’absence de défauts (fissures, corrosion) avant cintrage. 
+ 
+b. Réglage de la cintreuse 
+• Choisir le galet : Le rayon du galet doit correspondre au rayon de cintrage minimal spécifié dans 
+le manuel de maintenance (ex. : 3x le diamètre extérieur pour l’aluminium 2024-T3). 
+• Positionner le mandrin (si utilisé) : Insérer dans le tube pour soutenir la paroi interne pendant le 
+cintrage. 
+• Ajuster la butée : Régler l’angle de cintrage souhaité (ex. : 45°, 90°) sur la cintreuse. 
+ 
+c. Procédure de cintrage 
+Étape 1 : Fixation du tube 
+• Placer le tube dans la cintreuse, en alignant le repère avec le point de départ du galet. 
+• Serrage : Bloquer fermement le tube sans le déformer (utiliser des mors adaptés en aluminium 
+ou nylon pour éviter les marques). 
+Étape 2 : Application du lubrifiant 
+• Appliquer le lubrifiant sur le tube et sur le galet/mandrin pour réduire les frottements. 
+Étape 3 : Cintrage progressif 
+• Pour les alliages mous (aluminium 6061, cuivre) :  
+o Cintrer en une seule passe si l’angle est ≤ 90°. 
+o Vitesse lente et constante pour éviter les plis. 
+• Pour les alliages durs (acier inox 321, titane) :  
+o Cintrer par étapes successives (max 10° à 15° par passe) pour éviter la fissuration. 
+o Vérifier l’ovalisation après chaque passe avec un pied à coulisse. 
+• Contrôle visuel pendant le cintrage : Arrêter immédiatement en cas de craquelures ou de 
+déformation excessive. 
+Étape 4 : Vérification du résultat 
+• Angle : Utiliser un rapporteur pour confirmer l’angle (tolérance typique : ±1°). 
+• Rayon : Comparer avec le gabarit de contrôle. 
+• Ovalisation :  
+o Mesurer le diamètre intérieur et extérieur du tube cintré. 
+o Limite acceptable : ≤ 10% de réduction du diamètre pour l’aluminium, ≤ 5% pour l’acier 
+inox. 
+• Épaisseur de paroi : Vérifier avec un micromètre (amincissement ≤ 15%). 
+  
+===== PAGE 30 =====
+Module 7.9 V07   Page 30 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+d. Post-traitement 
+• Nettoyage : Éliminer le lubrifiant avec un chiffon propre. 
+• Inspection finale :  
+o Test d’étanchéité (si applicable) : Gonflage à l’air ou test hydraulique à basse pression. 
+o Contrôle visuel sous lumière rasante pour détecter les microfissures. 
+• Marquage : Apposer une étiquette avec la date, l’opérateur, et le numéro de pièce. 
+ 
+e. Défauts courants et solutions 
+Défaut Cause probable Solution 
+Ovalisation Rayon de galet trop petit, 
+absence de mandrin 
+Utiliser un mandrin, augmenter le 
+rayon. 
+Fissures Alliage trop dur, cintrage trop 
+rapide 
+Cintrer par étapes, chauffer 
+légèrement (si autorisé). 
+Pliage Serrage insuffisant, 
+lubrification inadéquate 
+Vérifier le serrage, utiliser un 
+lubrifiant adapté. 
+Amincissement Rayon trop serré, pression 
+excessive 
+Respecter le rayon minimal, 
+utiliser un mandrin. 
+ 
+6. Documentation et traçabilité 
+• Remplir la fiche de maintenance :  
+o Référence du tube (matériau, diamètre, épaisseur). 
+o Paramètres de cintrage (rayon, angle, outillage utilisé). 
+o Résultats des contrôles (ovalisation, étanchéité). 
+• Archiver la fiche avec le dossier technique de l’aéronef. 
+ 
+ 
+  
+
+===== PAGE 31 =====
+Module 7.9 V07   Page 31 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ANNEXE 2 Les différents types d’inspections et essais en conception. 
+Annexe 2.1 Les différents types d’inspections en conception 
+Voici un tableau récapitulatif des principaux types d’inspections réalisées sur les tuyauteries rigides 
+et souples dans l’aéronautique. 
+ 
+Type 
+d’inspection 
+Objectif principal Exemples d’application 
+Inspection 
+visuelle 
+Détecter les défauts apparents 
+(corrosion, fissures, usure, 
+fuites). 
+Vérification des raccords, des 
+supports, et de l’état général 
+des tuyauteries. 
+Contrôle 
+non 
+destructif 
+Détecter les défauts internes 
+ou de surface (fissures, 
+corrosion). 
+Ultrasons, ressuage, 
+radiographie sur les zones 
+critiques ou inaccessibles. 
+Inspection 
+après 
+événement 
+Vérifier l’absence de 
+dommage après un incident 
+(atterrissage dur, exposition à 
+des températures extrêmes). 
+Inspection approfondie et essais 
+de pression après un 
+événement exceptionnel. 
+ 
+Inspection visuelle : 
+Elle permet de d étecter les défauts apparents sur les tuyauteries rigides et souples, tels que la 
+corrosion, les fissures, l’usure, les déformations, les fuites, ou les dommages mécaniques. 
+ 
+Visuelle directe :  
+Utilisation d’une lampe, d’une loupe, ou d’un endoscope pour inspecter les zones accessibles. 
+ 
+- Visuelle à distance :  
+Utilisation de caméras ou d’endoscope pour les zones difficiles d’accès. 
+ 
+ 
+ 
+  
+
+===== PAGE 32 =====
+Module 7.9 V07   Page 32 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Contrôle Non Destructif (CND) 
+Ils permettent de détecter des défauts internes ou de surface sans endommager les tuyauteries. 
+ 
+Ultrasons  
+Permet de d étecter les défauts internes (fissures, corrosion, inclusions) ou mesurer l’épaisseur 
+résiduelle des parois des tuyauteries rigides.  
+ 
+Méthode 
+• Un transducteur émet des ondes 
+ultrasonores dans le matériau. 
+• Les ondes réfléchies par les 
+défauts ou les interfaces sont 
+analysées pour localiser et 
+dimensionner les anomalies. 
+• Utilisation de gels couplant pour 
+assurer une bonne transmission 
+des ondes. 
+ 
+ 
+Ressuage  
+Permet de d étecter les microfissures ou défauts de surface sur les matériaux métalliques (acier 
+inoxydable, titane, aluminium). 
+Méthode : 
+ 
+ 
+(Source Wikipédia) 
+  
+
+===== PAGE 33 =====
+Module 7.9 V07   Page 33 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Radiographie  
+Permet de détecter les défauts internes (fissures, inclusions, porosités) dans les tuyauteries ou les 
+assemblages soudés. 
+ 
+Méthode 
+• Une source de rayons X ou gamma traverse la tuyauterie. 
+• Les rayons sont absorbés différemment selon la densité du matériau. 
+• Un film ou un détecteur numérique enregistre l’image, révélant les défauts internes. 
+ 
+ 
+ 
+Courants de Foucault 
+Permet de d étecter les défauts de surface ou proches de la surface, ainsi que mesurer la 
+conductivité ou l’épaisseur des revêtements. 
+ 
+Méthode 
+• Une sonde génère un champ magnétique alternatif, induisant des courants de Foucault dans le 
+matériau. 
+• Les perturbations de ces courants, causées par des défauts, sont détectées et analysées.  
+ 
+  
+
+===== PAGE 34 =====
+Module 7.9 V07   Page 34 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Magnétoscopie  
+Permet de d étecter les défauts de surface ou proches de la surface sur les matériaux 
+ferromagnétiques. 
+ 
+Méthode 
+1. Magnétisation : La pièce est magnétisée à l’aide d’un courant électrique. 
+2. Application de particules magnétiques : Des particules ferromagnétiques (sous forme de poudre 
+ou de liquide) sont appliquées. 
+3. Observation : Les particules s’accumulent aux endroits où le champ magnétique est perturbé 
+par un défaut, rendant les fissures visibles. 
+ 
+ 
+ 
+Inspection Après Événement 
+Mise en place pour v érifier l’intégrité des tuyauteries après un événement exceptionnel 
+(atterrissage dur, exposition à des températures extrêmes, contamination par un fluide non 
+conforme, choc mécanique etc…). 
+ 
+Méthodes 
+• Inspection visuelle approfondie : Recherche de dommages visibles (déformations, fuites, traces 
+de brûlure). 
+• Essai de pression : Vérification de l’étanchéité et de la résistance mécanique après l’événement. 
+• Contrôle non destructif : Utilisation de méthodes CND (ultrasons, ressuage, courants de 
+Foucault) pour détecter les défauts internes ou de surface. 
+• Vérification des fixations : Contrôle de l’état des colliers, des brides, et des supports. 
+  
+
+===== PAGE 35 =====
+Module 7.9 V07   Page 35 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Annexe 2.2 Les différents types d’essais en conception. 
+Annexe 2.2.1 But 
+Les essais des tuyauteries rigides et souples dans l’aéronautique sont indispensables pour garantir 
+la sécurité et la conformité des aéronefs.  
+Chaque essai suit des protocoles stricts, définis par les autorités aéronautiques (EASA, FAA) et 
+les normes internationales. (Exemple : CS 25.1438 - Exigences pour les systèmes hydrauliques, 
+incluant les essais de pression, l’étanchéité et la résistance mécanique des tuyauteries) 
+Ces essais couvrent la résistance mécanique, l’étanchéité, la compatibilité des matériaux, et la 
+durabilité des tuyauteries rigides et souples.  
+ 
+ 
+Annexe 2.2.2 Les différents types d’essais en conception  
+Voici un tableau récapitulatif des principaux types d’essais réalisées sur les tuyauteries rigides et 
+souples dans la conception des tuyauteries rigides et souples dans l’aéronautique. 
+Type d’essai Description Méthode Normes 
+applicables 
+Essai de 
+pression 
+hydraulique 
+Vérification de 
+l’étanchéité et de 
+la résistance 
+mécanique. 
+Application d’une 
+pression 1,2 à 1,5 
+fois supérieure à la 
+pression nominale. 
+EASA CS-25/23, 
+FAA 14 CFR Part 
+25/23, RTCA DO-
+160, ISO 6802, 
+SAE AS 5440. 
+Essai 
+d’étanchéité 
+Détection des 
+fuites dans les 
+circuits critiques. 
+Méthode par bulles, 
+gaz traceur, ou 
+immersion. 
+EASA CS-25/23, 
+FAA AC 43-13, 
+ISO 10966. 
+Essai de 
+fatigue et 
+d’endurance 
+Simulation des 
+contraintes 
+cycliques en 
+service. 
+Application de 
+cycles de pression, 
+température et 
+vibrations. 
+EASA CS-25/23, 
+FAA AC 25-7A, 
+ASTM E466. 
+Essai de 
+compatibilité 
+Vérification de la 
+résistance des 
+matériaux aux 
+fluides et 
+conditions. 
+Immersion 
+prolongée et 
+analyse post-
+exposition. 
+EASA CS-25/23, 
+FAA AC 20-135, 
+ISO 1817. 
+Essai de 
+résistance 
+thermique 
+Évaluation de la 
+résistance aux 
+températures 
+extrêmes. 
+Exposition à des 
+cycles de 
+température (-55°C 
+à +135°C). 
+RTCA DO-160, 
+EASA CS-25/23, 
+MIL-STD-810. 
+Essai de 
+ibration 
+Simulation des 
+vibrations en vol. 
+Application de 
+fréquences et 
+amplitudes 
+représentatives. 
+RTCA DO-160, 
+EASA CS-25/23. 
+  
+
+===== PAGE 36 =====
+Module 7.9 V07   Page 36 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Essai de pression hydraulique 
+Il consiste à soumettre une tuyauterie à une pression supérieure à sa pression nominale de service, 
+afin de vérifier son étanchéité et sa résistance mécanique.  
+Cet essai permet de détecter les fuites, les déformations permanentes ou les ruptures potentielles. 
+ 
+Méthode : 
+1. Préparation : La tuyauterie est isolée et remplie d’un 
+fluide hydraulique (généralement de l’eau ou un fluide 
+spécifique compatible avec le système  (Skydrol par 
+exemple). 
+2. Application de la pression : La pression est 
+progressivement augmentée jusqu’à atteindre 1,2 à 1,5 
+fois la pression maximale de service (selon les 
+spécifications du constructeur et les normes applicables). 
+3. Maintien de la pression : La pression est maintenue 
+pendant une durée définie pour observer toute chute de 
+pression ou fuite. 
+4. Inspection visuelle : Après l’essai, une inspection 
+visuelle est réalisée pour détecter les déformations ou les 
+fuites.  
+ (Source Emitec Lefae) 
+Essai d’étanchéité  
+Permet de vérifier l’absence de fuites dans les tuyauteries et leurs raccords, en utilisant un gaz ou 
+un liquide sous pression. Cet essai est particulièrement important pour les circuits critiques comme 
+ceux du carburant ou des systèmes hydrauliques. 
+ 
+Méthode : 
+1. Préparation : La tuyauterie est isolée et remplie 
+d’un fluide ou d’un gaz (azote, air sec, ou fluide 
+spécifique type Skydrol par exemple). 
+2. Application de la pression : La pression est 
+appliquée à la pression nominale de service. 
+3. Détection des fuites :  
+- Méthode par bulles : Application d’un liquide 
+savonneux sur les raccords pour détecter les bulles 
+en cas de fuite. 
+- Méthode par gaz traceur : Utilisation d’un détecteur 
+électronique pour repérer les fuites de gaz. 
+- Méthode par immersion : Immersion de la tuyauterie 
+dans un bain d’eau pour observer les bulles. 
+4. Mesure de la perte de pression : Surveillance de 
+la pression pour détecter une chute anormale. 
+(Source Emitec Lefae) 
+  
+
+===== PAGE 37 =====
+Module 7.9 V07   Page 37 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Essai de fatigue et d’endurance 
+Ces essais  visent à simuler les contraintes cycliques subies par les tuyauteries en service 
+(vibrations, variations de pression, changements de température). Ils permettent  de vérifier la 
+durabilité et la résistance à long terme des composants. 
+ 
+Méthode : 
+1. Préparation : La tuyauterie est installée sur un banc d’essai reproduisant les conditions réelles 
+de service. 
+2. Application de cycles : La tuyauterie est soumise à des cycles répétés de pression, de 
+température et de vibrations. 
+3. Surveillance : Les techniciens surveillent l’apparition de fissures, de fuites ou de déformations. 
+4. Analyse des résultats : Après un nombre défini de cycles, la tuyauterie est inspectée pour 
+évaluer son état.  
+ 
+(Source Emitec Lefae) 
+ 
+Essai de compatibilité des matériaux 
+Cet essai vérifie que les matériaux des tuyauteries (métaux, élastomères, revêtements) sont 
+compatibles avec les fluides transportés (carburant, huile hydraulique, oxygène) et les conditions 
+environnementales (température, pression etc.). 
+ 
+Méthode : 
+1. Préparation : Des échantillons de tuyauterie sont immergés dans le fluide concerné ou exposés 
+à des conditions environnementales spécifiques. 
+2. Exposition prolongée : Les échantillons sont soumis à des conditions simulées pendant une 
+durée définie (ex. : 1 000 heures). 
+3. Analyse post -exposition : Les propriétés mécaniques (résistance, élasticité) et chimiques 
+(résistance à la corrosion) sont évaluées et contrôlées. 
+ 
+ 
+(Source Geoconnectics) 
+  
+
+===== PAGE 38 =====
+Module 7.9 V07   Page 38 sur 38 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Essai de résistance aux températures extrêmes 
+Cet essai évalue la capacité des tuyauteries à résister à des températures élevées ou basses, 
+sans perte de performance ou d’intégrité. 
+Méthode : 
+1. Préparation : La tuyauterie est placée dans une chambre climatique. 
+2. Application des températures : La tuyauterie est soumise à des cycles de température (ex. : -
+55°C à +135°C). 
+3. Surveillance : Les techniciens vérifient l’absence de déformation, de fissuration ou de perte 
+d’étanchéité. 
+4. Essai post -exposition : Un essai de pression ou d’étanchéité est réalisé après l’exposition 
+thermique. 
+ 
+(Exemple d’enceinte permettant les essais de température- source APAVE)  
+ 
+Essai de vibration 
+Cet essai simule les vibrations subies par les tuyauteries en vol, pour vérifier leur résistance 
+mécanique et leur fixation. 
+ 
+Méthode : 
+1. Préparation : La tuyauterie est installée sur un banc vibrant. 
+2. Application des vibrations : La tuyauterie est soumise à des fréquences et amplitudes 
+représentatives des conditions de vol. 
+3. Surveillance : Les techniciens observent les réactions (résonance, fatigue, desserrage des 
+fixations). 
+4. Inspection post-essai : Vérification de l’intégrité des fixations et de l’absence de fuites. 
+ 
+ 
+(Exemple banc d’essai vibratoire – Source Aero expo) 
+ 

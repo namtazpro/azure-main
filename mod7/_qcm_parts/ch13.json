@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "question": "Lors d'un sertissage d'embout sur câble de commande, dans quel sens doivent être effectuées les passes successives de la pince à sertir ?",
+      "options": {
+        "A": "De l'intérieur vers l'extrémité du câble, en passes alternées",
+        "B": "De l'extrémité vers l'intérieur, jamais en sens inverse",
+        "C": "Indifféremment, tant que le calibre go/no-go est respecté à la fin"
+      },
+      "correct": "B",
+      "explication": "La procédure normalisée impose un sertissage progressif par passes successives de l'extrémité vers l'intérieur — JAMAIS en sens inverse. Chaque passe est contrôlée au calibre go/no-go (AC 43.13-1B Fig. 7-18).",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le contrôle au calibre d'un embout serti révèle un sertissage hors des limites dimensionnelles du fabricant. Quelle est la conduite à tenir ?",
+      "options": {
+        "A": "Recouper le câble et installer un nouvel embout ; le re-sertissage est interdit",
+        "B": "Effectuer une passe supplémentaire jusqu'à obtenir la cote correcte",
+        "C": "Démonter l'embout, le réutiliser et sertir à nouveau avec une matrice plus large"
+      },
+      "correct": "A",
+      "explication": "Un sertissage effectué hors des limites dimensionnelles du fabricant doit être rejeté : le câble doit être recoupé et un nouvel embout installé. Le re-sertissage d'un embout est INTERDIT.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un câble de construction 7×19, combien de torons rompus au maximum sont admissibles par pas de câblage selon le tableau général de critères de rejet ?",
+      "options": {
+        "A": "2 torons rompus",
+        "B": "3 torons rompus",
+        "C": "4 torons rompus"
+      },
+      "correct": "C",
+      "explication": "Le tableau général de critères de rejet donne, par pas de câblage : 2 torons rompus max pour un 7×7, 3 pour un 19×7 et 4 pour un 7×19. Ces valeurs sont à titre général et il faut se conformer à l'AMM ; en cas de doute, REBUT IMMÉDIAT.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du contrôle d'un tendeur (turnbuckle) de commande de vol, quel critère est appliqué au nombre de filets exposés ?",
+      "options": {
+        "A": "Pas plus de 3 filets exposés de chaque côté",
+        "B": "Au moins 5 filets exposés de chaque côté pour garantir la marge de réglage",
+        "C": "Aucun filet ne doit être visible : tous doivent être complètement engagés"
+      },
+      "correct": "A",
+      "explication": "Les critères de contrôle des tendeurs imposent au plus 3 filets exposés de chaque côté, un filetage gauche d'un côté et droit de l'autre (marquage obligatoire), et une sécurité après réglage par fil frein (MIL-W-6712) ou clip homologué.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quoi est due principalement la limitation de rendement (typiquement 70 à 85 %) d'un câble de Bowden par rapport à un câble tendu classique sur poulies ?",
+      "options": {
+        "A": "À la dilatation thermique de la gaine en fonctionnement",
+        "B": "Aux frottements inévitables entre le câble intérieur et la paroi interne de la gaine",
+        "C": "À la perte de tension due à l'absence de tendeur réglable sur le système"
+      },
+      "correct": "B",
+      "explication": "Le rendement d'un Bowden, typiquement 70-85 %, résulte des frottements inévitables entre le câble intérieur et la paroi interne de la gaine. Il dépend du nombre et de l'amplitude des courbes imposées au cheminement, de l'état de lubrification interne et de l'usure.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la principale différence opérationnelle entre un câble de Bowden et un système à câble push-pull ?",
+      "options": {
+        "A": "Le push-pull est limité à la traction tandis que le Bowden transmet aussi la compression",
+        "B": "Le Bowden est utilisé pour les commandes de vol primaires CS-25, le push-pull pour les commandes auxiliaires uniquement",
+        "C": "Le Bowden transmet essentiellement la traction (compression limitée/non garantie) alors que le push-pull transmet traction et poussée"
+      },
+      "correct": "C",
+      "explication": "Le tableau comparatif du module indique : Bowden = effort de traction oui, compression limitée/non garantie, niveau d'effort faible ; push-pull = traction et compression oui, niveau d'effort variable, applicable aux commandes auxiliaires à charge élevée et au trim CS-25.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    }
+  ]
+}

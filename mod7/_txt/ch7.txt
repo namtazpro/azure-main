@@ -1,0 +1,2077 @@
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module 7.7 
+ 
+Câbles 
+électriques et 
+connecteurs 
+ 
+Licence B1/B2 
+Livret destiné aux stagiaires 
+ 
+Édition 2024 
+ 
+AIR FORMATION 
+Centre de Formation Aéronautique 
+Agréé EASA PART 147 
+ 
+14 Avenue Escadrille Normandie Niémen 
+31700 BLAGNAC - FRANCE 
+===== PAGE 2 =====
+Module 7.7 V10  Page 2 sur 57  
+ 
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins que celles pour 
+lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à des tiers non habilités. 
+GARANTS DES LIVRETS 
+ 
+ 
+TABLEAU D'EVOLUTION. 
+ 
+Révision  Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 04/03/2010 Pages 49 à 53  (EWIS) 
+V05 10/07/2013 Toutes  Révision générale du module 
+V06 11/05/2016 
+Page de garde et page 
+1  
+  
+Adresse, signatures et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du document    
+V07 29/06/2017 Toutes Nouvelle édition 
+V08 03/02/2023 Toutes Nouvelle édition 
+V09  30/05/2024 Toutes UE 2023 /989 
+V10 25/02/2025 Pages 17  Modif p.17 rajout pour les étapes de la métallisation 
+ 
+  
+Visa Rédacteur / Responsable module 
+Nicolas VASSEUR 
+Visa Responsable Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+David RENARD 
+ 
+  
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, elle ne doit pas être 
+considérée comme une référence technique. 
+===== PAGE 3 =====
+Module 7.7 V10   Page 3 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+SUJET MODULE 7 : Procédures d’entretien 
+Catégorie B1 : 80 questions à choix multiples et 2 questions à développement. Temps alloué 
+100 minutes + 20 minutes par QD.  
+Catégorie B2 : 60 questions à choix multiples et 2 questions à développement. Temps alloué 
+75 minutes + 20 minutes par QD. 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE  
+ 
+7.7 Système d'interconnexion de câblage électrique (EWIS) Niveaux 
+B1 
+B. l 
+B2 
+Continuité, techniques d'isolation et de métallisation et essais ; 
+Utilisation des outils de sertissage : à main ou actionnés 
+hydrauliquement ; 
+Essais des jointures de sertissage ; 
+Dépose et pose des broches de connecteur ; 
+Câbles coaxiaux : essais et précautions de montage ; 
+Identification des types de câbles, leurs critères d’inspection et leurs 
+tolérances à la détérioration ; 
+Techniques de protection du câblage : Mise en faisceaux des câbles et 
+support de faisceau, attache de câbles, techniques de gainage de 
+protection y compris l'enroulement thermo-rétractable, blindage. 
+Installations EWIS et normes d’inspection, de réparation, d’entretien et 
+de propreté. 
+3 3 
+ 
+  
+===== PAGE 4 =====
+Module 7.7 V10   Page 4 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Les connaissances de base pour les catégories A, B1 et B2 sont indiquées par 
+l'attribution d'indicateurs de niveaux de connaissance (1, 2 ou 3) pour chaque sujet 
+concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs:  
+• Le postulant devra être familiarisé avec les éléments de base du sujet.  
+• Le postulant devra être capable de donner une description simple de la totalité du 
+sujet, en utilisant des mots communs et des exemples.  
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une 
+capacité à appliquer cette connaissance. 
+Objectifs:  
+• Le postulant devra être capable de comprendre les principes essentiels théoriques 
+du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en 
+utilisant, comme il convient, des exemples typiques.  
+• Le postulant devra être capable d'utiliser des formules mathématiques 
+conjointement aux lois physiques décrivant le sujet.  
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins 
+et des schémas décrivant le sujet.  
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière 
+pratique en utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une 
+capacité à combiner et appliquer des éléments de connaissances séparés d'une 
+manière logique et compréhensible. 
+Objectifs:  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres 
+sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en 
+utilisant les principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules 
+mathématiques en rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, 
+des dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière 
+pratique en utilisant les instructions du constructeur. 
+Le postulant devra être capable d'interpréter les résultats provenant de différentes sources et 
+mesures et d'appliquer une action corrective comme il convient.  
+===== PAGE 5 =====
+Module 7.7 V10   Page 5 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+TABLE DES MATIERES 
+ 
+1. Continuité, technique d’isolation, de métallisation et essais ............................ 7 
+1.1. Rappel: Critical Design Control Configuration Limitations (CDCCL) ............ 7 
+1.2. La continuité ................................................................................................. 7 
+1.3. L’isolement ................................................................................................... 9 
+1.4. Métallisation ............................................................................................... 11 
+2. Utilisation des outils de sertissage ................................................................. 18 
+2.1. Le sertissage .............................................................................................. 18 
+2.2. Les contacts à sertir ................................................................................... 20 
+2.3. Opération de sertissage ............................................................................. 20 
+2.4. Le dénudage des câbles aéronautiques ..................................................... 21 
+2.5. Sertissage d’une cosse .............................................................................. 23 
+2.6. Sertissage d’un contact .............................................................................. 24 
+2.7. Empreintes de sertissage ........................................................................... 25 
+2.8. Le sertissage des contacts courant de type milc 26500, nas 1599, module 
+AIR.LB ................................................................................................................... 25 
+2.9. Le sertissage des cosses AMP .................................................................. 27 
+2.10. Contrôle de qualité .................................................................................. 28 
+2.11. Les outillages hydrauliques .................................................................... 29 
+2.12. Le sertissage des splices (prolongateurs électriques bout à bout) ......... 30 
+2.13. Les splices AMP pré-isolés ..................................................................... 30 
+2.14. Les splices RAYCHEM ........................................................................... 31 
+3. Essais des jointures de sertissage ................................................................. 31 
+3.1. Vérification et rôle des outils de sertissage ................................................ 31 
+4. Dépose et pose des broches de connecteurs ................................................ 32 
+4.1. Les connexions .......................................................................................... 32 
+4.2. Les connecteurs ......................................................................................... 34 
+5. Câbles coaxiaux............................................................................................. 40 
+5.1. Mesures et précautions sur câbles coaxiaux .............................................. 40 
+5.2. Les connecteurs coaxiaux .......................................................................... 41 
+6. Identification, marquage, inspection et tolérances ......................................... 43 
+7. Techniques de protection du câblage ............................................................ 44 
+7.1. Techniques de câblage .............................................................................. 44 
+===== PAGE 6 =====
+Module 7.7 V10   Page 6 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+7.2. Protection des câblages avion.................................................................... 46 
+7.3. Le routage des faisceaux électriques ......................................................... 47 
+7.4. Les férrules «thermashield» AMP .............................................................. 48 
+8. Electrical Wiring Interconnection System (EWIS) .......................................... 52 
+8.1. Généralités ................................................................................................. 52 
+8.2. Installations EWIS (Electrical Wiring Interconnection System) ................... 53 
+8.3. Normes d’inspection ................................................................................... 55 
+8.4. Réparation et entretien ............................................................................... 56 
+8.5. Propreté ..................................................................................................... 57 
+ 
+  
+===== PAGE 7 =====
+Module 7.7 V10   Page 7 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques 
+et pratiques  des câbles électriques ainsi que des connecteurs . L’objectif 
+inclus une capacité à combiner et appliquer des éléments de connaissances 
+séparés d'une manière logique et compréhensible. 
+[Niveau 3]  
+ 
+1. Continuité, technique d’isolation, de métallisation et essais 
+A l'issue de tout travail électrique l'intervention doit obligatoirement être validée par 
+des tests et mesures électriques en continuité et isolement. 
+La mise sous tension des systèmes sur lesquels les interventions ont eu lieu, ne pourra 
+être effectuée que si les tests sont valides. 
+1.1. Rappel: Critical Design Control Configuration Limitations 
+(CDCCL) 
+À la suite de l’explosion en vol du réservoir central du Boeing 747 TWA800, le 17 juillet 
+1996. La FAA et l’EASA ont souligné l’importance de l’amélioration de la sécurité sur 
+les zones représentant un danger lié au carburant. Les personnels détenteurs d’une 
+licence 66 doivent avoir une formation et des connaissances de niveau 2 sur le concept 
+CDCCL, par décision EASA n°2007/003/R du 13 mars 2007. 
+Il a été démontré que des problèmes de continuité électrique pouvaient générer des 
+arcs électriques, qui au voisinage de zones sensibles (en présence de carburant et 
+d’oxygène) pouvaient engendrer des incendies ou des explosions. 
+L’amélioration de la sécurité dans ces zones sensibles CDCCL  passe par certaines 
+modifications mentionnées CDCCL ou par des réparations si au cours de la 
+maintenance on décèle des composants représentant un risque CDCCL (Exemple : 
+tresse de métallisation oxydée). 
+Les notions importantes à connaitre sont ici la métallisation et la mesure de la 
+continuité.  
+Tout défaut identifié en zone CDCCL doit être remplacé (et non réparé). 
+1.2. La continuité 
+Les conducteurs doivent assurer la continuité électrique, c’est à dire le passage du 
+courant, en opposant une résistance la plus faible possible.   
+La continuité électrique concerne également les connecteurs  placés aux extrémités 
+des conducteurs pour le raccordement aux appareils.  
+
+===== PAGE 8 =====
+Module 7.7 V10   Page 8 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Dans les aéronefs, les conducteurs et câbles sont soumis à des conditions de 
+fonctionnement sévères, ce qui nécessite une réalisation soignée et des 
+inspections régulières pour déceler toute marque d’usure, de défaut ou de 
+corrosion. 
+Mesure de continuité 
+Si le câble sur lequel l'intervention a lieu est grand, il faudra : 
+- Raccorder une de ses extrémités à la masse, 
+- Mesurer entre l'autre extrémité et la masse à l'aide d'un pont de Wheaston ou 
+d'un contrôleur universel calibre ohm adapté. 
+Une mesure d'isolement est indispensable également pour valider le travail. 
+- les points de mesure se font uniquement aux endroits accessibles  : bornes 
+des interrupteurs,  fusibles ou disjoncteurs, aux connecteurs et aux borniers, 
+- l’isolation d’un fil ne doit pas être enlevée pour effectuer une mesure. 
+- en cas de mesure par rapport à la masse, on doit s’assurer de la qualité de 
+celle-ci (peinture, corrosion). 
+Utilisation de l’ohmmètre  
+- L’élément à contrôler ne doit pas être sous tension. 
+- Couper l’alimentation et débrancher l’élément du 
+circuit. 
+ 
+Contrôle d’un circuit 
+La perte de continuité s’apparente à une coupure  : on utilise le voltmètre pour 
+repérer le segment de circuit défaillant : travail sous tension.  
+  
+ 
+Début de la mesure pour une recherche au départ de l'alimentation, du disjoncteur ou 
+de la servitude. 
+L’alimentation étant non assurée, on prend la masse comme référence et on déplace 
+le voltmètre le long du circuit jusqu’à la constatation de la perte de tension qui indique 
+le segment défectueux. 
+ 
+V fermer  0 1 1
+L 
+1
+L 
+ 
+ SW 
+bornier 1 bornier 2 prise 1 prise 2 servitude 
+coupure 
+===== PAGE 9 =====
+Module 7.7 V10   Page 9 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Contrôle d’un conducteur 
+On coupe l’alimentation et on débranche le conducteur à ses 2 extrémités : 
+• fil court : on branche l’ohmmètre à ses extrémités : figure 1. 
+• fil long : -      on relie une extrémité à une masse et on branche l’ohmmètre    
+entre   l’autre  extrémité et la masse : figure 2 
+-    on se sert d’un conducteur pour assurer le retour (ce qui  revient 
+à contrôler les 2 conducteurs) : figure 3. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrôle d’un élément 
+- on coupe l’alimentation et on débranche l’élément, (fusible, filament de lampe, 
+interrupteur, contact de relais) 
+- on branche l’ohmmètre à ses bornes. 
+ 
+ 
+En zone identifiée CDCCL, la réparation de continuité est interdite. Il faut 
+procéder au changement pur et simple du câble. 
+ 
+1.3. L’isolement 
+• Ensemble des qualités acquises par un matériel électrique ou une 
+installation, du fait de son isolation. 
+• La qualité de l’isolement  intervient dans la capacité de l’installation ou de 
+l’équipement à assurer sa fonction, en toute sécurité.  
+ 
+
+
+
+Figure 1 
+Figure 2 
+Figure 3 
+
+ 
+Ω 
+
+===== PAGE 10 =====
+Module 7.7 V10   Page 10 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+• Elle procure une sécurité dans l’emploi du courant électrique et permet une 
+continuité d’utilisation des servitudes. 
+Les défauts d’isolement peuvent être à l’origine de création d’étincelles en zone 
+CDCCL. Une attention particulière devra être portée lors de la mesure de l’isolement. 
+1.3.1. Défaut d’isolement 
+Un défaut d’isolement est une défaillance de l’isolation active  d’un ou plusieurs 
+éléments d’un circuit électrique. 
+Les défauts d’isolement sur aéronef se traduisent le plus souvent par des courts -
+circuits qui en plus de leur dangerosité provoquent, par le déclenchement des 
+protections, l’interruption de l’alimentation des circuits. 
+1.3.2. Contrôle de l’isolement 
+Le contrôle de l’isolement est un essai non destructif, contrairement à l’épreuve de 
+tenue diélectrique (essai de claquage). 
+L’isolement étant la propriété de l’isolation  à remplir son rôle en présence de 
+tension : L’essai doit donc être effectué en injectant une tension test. 
+Le contrôle est réalisé par l’emploi d’un contrôleur d’isolement ou mégohmmètre. 
+Condition d’acceptation : 
+Les valeurs d’isolement sont spécifiées dans la documentation (manuel d’entretien, 
+AMM). 
+L’isolement hors spécification doit être supérieur à 1000Ω /V de tension nominale. 
+Cette valeur est à considérer dans des conditions normales et elle peut être abaissée 
+selon le degré d’humidité. 
+La tension de test est fournie par l’appareil de contrôle (comme dans toute mesure 
+de résistance avec ohmmètre). 
+L’équipement à contrôler doit impérativement être déconnecté de toute source de 
+tension. 
+On contrôle successivement chaque partie active avec la masse et avec les autres 
+parties actives, en mesure de résistance sous une tension test de : 
+      
+ 
+ 
+  
+ 45V DC pour les circuits  26V AC et 28V DC. 
+ 500V DC pour les circuits 115/200V AC. 
+
+===== PAGE 11 =====
+Module 7.7 V10   Page 11 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+II faut mesurer la résistance entre la masse de l'avion et l'extrémité du câble  s’il y a 
+indication de résistance l'isolement ne sera pas valide. 
+Pour une recherche de court-circuit entre deux câbles, il faut mesurer l'isolement entre 
+les extrémités de chaque câble. Si une résistance apparaît il y a court-circuit. 
+ 
+1.3.3. Condition de validation 
+L’isolement est conforme si la valeur des résistances d’isolement est supérieure à la 
+valeur d’acceptation.  
+Un isolement correct autorise une remise en service. 
+ 
+1.4. Métallisation  
+C'est l'ensemble des mesures ayant pour but d'équilibrer le potentiel  de toutes les 
+parties métalliques de l'avion (liaisons équipotentielles), en réalisant une conductibilité 
+électrique aussi parfaite que possible entre ces parties.  
+L'utilisation de structures composites dans les nouvelles générations d'aéronefs 
+complique la mise en œuvre des métallisations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 12 =====
+Module 7.7 V10   Page 12 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Rappel: Charges électrostatiques  
+Un avion se déplaçant à grande vitesse acquiert des charges électrostatiques 
+importantes dont les causes sont :  
+- Les frottements de la surface de l'avion contre les particules de poussières, 
+sable, cristaux de glace....  
+- L’impact de l'avion contre des particules possédant des charges électriques 
+(nuages d'orage)  
+- L’élimination mécanique d'ions dans les gaz d'échappement des moteurs  
+Il est donc nécessaire que toutes les pièces métalliques de l'avion soient au même 
+potentiel, afin d'éviter les décharges électriques entre elles.  
+La solution consiste à utiliser des déperditeurs de potentiels 
+qui évacuent les charges électrostatiques.  
+On utilise :  
+- des pointes de tungstène. 
+- des mèches de coton imprégnées de sels d'argent. 
+- des pointes métalliques en forme de faisceaux, un cadmiage les protégeant 
+de la corrosion.  
+ 
+Tout comme un avion, nous accumulons de l'électricité statique lors de nos 
+déplacements ou manipulations. 
+ 
+ 
+ 
+ 
+ 
+Toute manipulation d'équipements sensibles doit se faire en respectant certaines 
+règles. 
+L'utilisation d'un bracelet antistatique permet de se décharger et de se 
+mettre au potentiel de la cellule de l'appareil, permettant ainsi de réduire 
+considérablement les risques d'ESD. 
+La protection des connecteurs avec des bouchons spécial 
+ESD. 
+ 
+ 
+
+===== PAGE 13 =====
+Module 7.7 V10   Page 13 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+1.4.1 But de la métallisation 
+- Équilibrer le potentiel des diverses  parties 
+métalliques de l'avion. 
+- Assurer l'efficacité des blindages et les empêcher de 
+rayonner, en les mettant à la masse en des points 
+suffisamment rapprochés pour limiter la longueur 
+d'onde de rayonnement résiduel.  
+- Protéger l'avion contre la foudre en ménageant à cette 
+dernière des trajets à faible impédance, lui évitant de 
+provoquer des ruptures métalliques ou des arcs électriques générateurs 
+d'incendie.  
+- Prévoir un moyen de mettre l'avion au potentiel terre lors de l'atterrissage et 
+l'y maintenir lors des pleins.  
+- Utiliser la bonne conductibilité de la masse comme courant de retour ainsi que 
+le neutre du réseau alternatif.  
+ 
+ 
+ 
+Radôme à la suite d’un foudroiement en vol et défaut de métallisation 
+ 
+1.4.2 Métallisation et mise à la masse 
+Sur avion, 2 types de métallisations existent : 
+- Les métallisations primaires. 
+- Les métallisations secondaires. 
+• Les métallisations primaires comprennent toutes les parties conductrices 
+de la structure.  
+Elles ont pour but de recueillir les courants hautes énergies provoquées par la foudre 
+ou les nuages pendant le vol de l'avion et de permettre leurs évacuations. 
+
+===== PAGE 14 =====
+Module 7.7 V10   Page 14 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+• Les métallisations secondaires  comprennent tous les autres cas se 
+rapportant à la circulation du courant électrique sur avion et notamment : 
+o le retour du courant par la masse, 
+o la circulation des courants électrostatiques, 
+o la mise à la masse des différents blindages, 
+o les déperditeurs statiques, 
+o la mise à la terre de l'avion, 
+o la protection de la structure en cas de défauts d'isolement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il faut assurer la liaison des surfaces métalliques par des connexions réalisées 
+par :  
+- Vis. 
+- Boulons. 
+- Rivets. 
+La connexion de métallisation est en général une tresse standard de cuivre dont la 
+résistance ohmique est inférieure à 0,002 ohm.  
+
+===== PAGE 15 =====
+Module 7.7 V10   Page 15 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Parties de l'avion à métalliser : 
+- Les tuyauteries métalliques et gouttières de canalisation électriques. 
+- La cinématique des commandes de vol et les gouvernes. 
+- Les GTR ou GMP. 
+- Les capots moteurs. 
+- Les réservoirs métalliques. 
+- Les canalisations de carburant. 
+- Les planches de bord et pièces mécaniques situées à l'intérieur de  la cabine 
+(sièges, tablettes.). 
+- Les capotages métalliques des instruments radio et navigation.  
+Lors du remontage des équipements amovibles, il faut veiller à la mise en place des 
+tresses de métallisation, à leur propreté et leur serrage.  
+La métallisation doit assurer : 
+- une conductibilité électrique aussi parfaite que possible.  
+- l’équilibrage des potentiels des parties métalliques  : contre les risques dues 
+aux charges électrostatiques  accumulées lors des vols ou lors des pleins 
+(liaison aéronef camion): électrisation, étincelles, arcs électriques 
+- un passage aisé et des trajets favorisés en cas de foudroiement. 
+- la mise à la masse des blindages.  
+1.4.3 Méthodes pour la métallisation 
+- Tresse de métallisation  : (Bonding braids ) réalisées par des conducteurs 
+souples à brins de cuivre étamés ou d’aluminium ; elles sont répertoriées dans 
+l’IPC («Illustrated Parts Catalog »). 
+- Bandes anti-foudre : permettant la circulation des courants de foudroiement 
+sur les revêtements pour éviter l’endommagement structural (exemple sur 
+radôme et carénage d’antenne par métallisation superficielle). 
+- Points de fixation  : contacts soignés entre vis, écrous et éléments de 
+structure à l’assemblage. 
+- Frotteurs ou lames souples  : pour les pièces ou éléments de structure 
+articulés.  
+- Prise électrostatique de masse permet de réaliser u ne mise à la terre de 
+l’aéronef, elle est utilisée lors des avitaillements en carburant ou pour les 
+opérations d’entretien. 
+ 
+  
+===== PAGE 16 =====
+Module 7.7 V10   Page 16 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Avertissement CDCCL : 
+Une métallisation corrodée est à remplacer immédiatement ! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.4.4 Contrôle de la métallisation 
+- Utilisation d’un milli ohmmètre. 
+- Contrôle de la métallisation si des perturbations (parasites) sont constatées 
+au niveau des ensembles fonctionnels. 
+
+===== PAGE 17 =====
+Module 7.7 V10   Page 17 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+- Pour les équipements sensibles aux parasites ou générateurs de parasites, 
+la mesure de métallisation doit être effectuée après chaque opération de pose 
+ou repose. 
+- Utilisation pour les mesures des points de référence précisés dans la 
+documentation ; la référence aéronef générale est le point de raccordement 
+à la structure de la borne négative de la batterie 1: la chute de tension ne doit 
+pas excéder 1,5mV (ou la résistance 0,01mΩ) entre la cosse et la structure. 
+- Les pointes de touches doivent être appuyées fortement pour assurer un bon 
+contact, en évitant de gratter pour améliorer le contact. 
+- On évite les points de mesure au voisinage des orifices  de remplissage 
+ouverts, en cas de suintement de carburant. 
+- Les valeurs de résistances de métallisation varient de 0,5 mΩ pour les 
+supports des équipements électroniques très sensibles à un maximum de 10 
+mΩ pour les autres éléments  ; ces valeurs sont indiquées dans la 
+documentation constructeur. 
+Entretien de la métallisation 
+- Toute anomalie telle que tresse abîmée ou cassée, cosses oxydées ou mal 
+serrées doit être réparée et remise en conformité. 
+- L’entretien de la métallisation est précisé dans les notices de constructeurs et 
+dans les guides de visites. 
+- Seules les tresses référencées dans l’IPC (Illustrated Parts Catalog) sont 
+autorisées. 
+1.4.5 Réalisation d’une métallisation 
+Elle doit se faire en fonction des prescriptions de l'avionneur. 
+Ces prescriptions sont dans le chapitre 20 du WDM (Wiring Diagram Manual) ou 
+dans l'ESPM Airbus (Electrical Standard Practice Manual), le SWPM Boeing 
+(Standard Wiring Practice Manual). 
+A : décaper la zone de métallisation : brosse métallique, papier abrasif. Nettoyer 
+avec un solvant non gras (équivalent 
+trichloréthylène). 
+B : protéger la zone contre la corrosion avec un 
+composé tel que l’alodine (produit adapté). 
+Ajouter une pâte conductrice pour améliorer la 
+surface de contact entre la tresse et la structure. 
+C : assurer la liaison à l’aide de vis et rondelles. 
+D : protéger avec une couche de vernis (type VERNELEC).  
+(Tête de vis, zone décapée, tresse). 
+
+===== PAGE 18 =====
+Module 7.7 V10   Page 18 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+ 
+2. Utilisation des outils de sertissage 
+2.1. Le sertissage 
+Le sertissage est une opération de compression mécanique d’une douille autour d’un 
+conducteur en vue d’obtenir une liaison solide. 
+Le sertissage se fait à l’aide de pinces spéciales prévues par le fournisseur du type de 
+cosses, embouts et contacts utilisés. Il se fait en une seule opération. 
+Il y a obligation à ce que le conducteur, le contact, l’outil de sertissage et son réglage 
+soient harmonisés 
+Le sertissage doit assurer 2 fonctions : 
+1. La liaison électrique entre l’élément et l’âme conductrice du conducteur. Cette 
+liaison par compression et écrasement  procure un contact intime qui assure 
+une bonne conductibilité électrique 
+2. La liaison mécanique  entre l’élément et l’ensemble du conducteur; cette 
+liaison est réalisée par frettage du manchon de l’élément sur l’isolant. Cette 
+liaison se retrouve sur les cosses et les embouts, mais non sur les contacts. 
+ 
+
+===== PAGE 19 =====
+Module 7.7 V10   Page 19 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+La technique et les procédures de sertissage diffèrent selon l’élément à sertir ; on peut 
+cependant distinguer : 
+- La pose d’une cosse ou d’un embout 
+- La pose d’un contact.  
+ 
+Dans le secteur aéronautique, la majorité des connexions électriques sont serties 
+(cette opération sera systématiquement vérifiée). 
+On ne montera qu'un seul conducteur par contact,  sauf dans le cas d'utilisation d'un 
+dispositif de connexion spécialement prévu à cet effet. 
+Aucune opération (brasage, intervention complémentaire, etc.)  ne doit être effectuée 
+sur un raccordement serti.  
+  
+
+===== PAGE 20 =====
+Module 7.7 V10   Page 20 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+2.2. Les contacts à sertir 
+Fût ouvert 
+ 
+Fût fermé 
+ 
+Cosses 
+ 
+Prolongateurs 
+ 
+ 
+ 
+2.3. Opération de sertissage 
+1.  (Cette étape n’est pas systématique mais c’est le cas dans le domaine du spatial) 
+Avant le lancement d'une fabrication,  confectionner suivant chaque combinaison 
+de fût, câble et réglage d'outil au moins 3 éprouvettes d'essai destinées à subir 
+des opérations de contrôle. 
+2. S'assurer que l'outillage de sertissage a fait l'objet d'une vérification par un service 
+de contrôle ou de métrologie habilité par le service Assurance Qualité. Elle est 
+attestée par un poinçonnage, une marque ou un plombage. 
+La date du dernier contrôle et la durée limite d'emploi avant nouvel examen par le 
+service de contrôle ou de métrologie habilité doivent être indiquées sur l'outil ou la 
+fiche correspondante.  
+3.  Vérifier l'état du dénudage du conducteur. 
+- Bonne longueur. 
+- Brins non coupés. 
+- Isolant non blessé. 
+ 
+4. Vérifier l'adéquation conducteur/fût/outil. 
+
+===== PAGE 21 =====
+Module 7.7 V10   Page 21 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+2.4. Le dénudage des câbles aéronautiques 
+Opération qui consiste à retirer l’isolant d'un conducteur électrique  afin de 
+permettre le raccordement de l'âme (partie métallique du conducteur conduisant le courant 
+électrique) sur un élément de connexion (cosse, splice, pin, socket...)  par soudure ou 
+sertissage. 
+Le dénudage s'effectue au couteau pour les câbles de grosses sections (gauge 4/0 à 
+8), comme pour les câbles blindés et coaxiaux. 
+Certaines précautions doivent cependant être respectées :  
+Les brins ne doivent pas être marqués ou coupés à l'issue du dénudage, sous peine 
+de perte d'intensité admissible du câble. 
+La manipulation de l’âme ne se fera pas avec les mains : la sueur a un grand pouvoir 
+corrosif. 
+Les brins ne devront pas être séparés les uns des autres (détoronnés). 
+Outillages de dénudage standard : 
+➔ Couteau d'électricien : 
+• à utiliser sur tous les types de câble.  
+• Sur les câbles blindés et coaxiaux il est le seul outil de dénudage  (le cutter 
+peut être utilisé). 
+➔ Pinces à dénuder spécifiques : 
+• Pour les autres câbles (Spécifique à chaque type de câble) 
+Lame droite : permet d'effectuer le dénudage pour des grosses sections, blindés ou 
+coaxiaux. 
+Lame arrondie : permet d'effectuer des entailles longitudinales. 
+ 
+ 
+ 
+Outillages de coupe des câbles aéronautiques : 
+- La cisaille coupe câble 
+OU 
+- Les ciseaux d’électricien.  
+Ils permettent : 
+- d'obtenir une coupe franche. 
+- d’éviter les déformations de l'âme par écrasement. 
+- d’éviter les déplacements des brins. 
+ 
+
+===== PAGE 22 =====
+Module 7.7 V10   Page 22 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Présentation d'une pince à dénuder 
+C'est l'outillage qui autorise un dénudage aisé des principaux câbles aéronautiques. 
+Elles sont équipées de : 
+- Mâchoires striées : elles maintiennent l'isolant du 
+câble pendant l'opération de dénudage. 
+- Couteaux mobiles : amovibles, à adapter au type 
+de câble, ils assurent la coupe de l'isolant, il est 
+nécessaire de passer le câble dans l'œillet 
+correspondant à sa dimension. (Gauge du câble). 
+- Porte couteaux : ils maintiennent les couteaux 
+amovibles. 
+- Axe d'articulation : le dénudage s'effectue autour de ce point fixe. 
+Ressorts de déverrouillage : 
+- Ils assurent le retour de la pince.  
+Poignées articulées : 
+- Pour la prise en main et manipulation de la 
+pince, elles peuvent être gainées de 
+différentes couleurs, pour faciliter le 
+repérage des différentes pinces. 
+Le dénudage réalisé, effectuer les contrôles suivants : bon état du conducteur, coupe 
+franche des brins, coupe franche de l’isolant. 
+Rappel : 
+Ne pas manipuler l'âme du conducteur avec les doigts, ne pas détoronner le câble. 
+ 
+ 
+Dénudage correct 
+- Coupe franche des brins. 
+- Coupe franche de l’isolant. 
+- Les brins restent toronnés. 
+ 
+
+===== PAGE 23 =====
+Module 7.7 V10   Page 23 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Défauts de dénudage 
+ 
+Vocabulaire : 
+Core  Partie centrale (âme) 
+Strand Brin 
+Braiding strands Brins de tresse 
+Shielding Blindage 
+Notched Entaillé 
+2.5. Sertissage d’une cosse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Dépassement 
+de l’âme  
+ (Environ 
+1mm) 
+Marquage 
+poinçon 
+ sur l’isolant Absence de 
+brins repoussés 
+Utilisation des pinces à sertir les cosses : 
+- Identifier la cosse et choisir la pince 
+correspondante.  
+- Positionner la cosse dans la pince et serrer 
+légèrement la pince pour maintenir la cosse. 
+- Insérer le fil dans la cosse en respectant le 
+dépassement de l’âme et le positionnement de 
+l’isolant dans le manchon. 
+- Serrer complètement la pince jusqu’au cran de 
+sécurité. 
+- Ouvrir la pince pour sortir l’ensemble serti. 
+===== PAGE 24 =====
+Module 7.7 V10   Page 24 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+2.6. Sertissage d’un contact 
+Le sertissage d’un contact sur un conducteur s’effectue avec un outil de sertissage 
+complété d’un positionneur adapté à la taille du contact. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Sertissage correct 
+Âme visible sur 0,3 à 0,5 mm 
+Trou de visite rempli 
+Empreintes de sertissage 
+centrées.  
+Défauts de sertissage 
+Dénudage non visible ou trop long. 
+Âme absente du trou de visite. 
+Brin hors du fût du contact, sortant par le trou 
+de visite ou tassé sur la partie visible. 
+Empreinte de sertissage non centrée, d’où 
+risque de déformation (trou de visite ou haut 
+du fût du contact).  
+Contact déformé. 
+===== PAGE 25 =====
+Module 7.7 V10   Page 25 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+2.7. Empreintes de sertissage 
+La multiplicité des connecteurs et de ce fait des contacts, nécessitera une utilisation 
+variée d’outillage. 
+Cette diversité d’outillages et de contacts présente donc une variété d’empreintes de 
+sertissages. 
+ 
+8 empreintes 
+ 
+4 empreintes 
+ 
+2 empreintes 
+ 
+Empreintes 
+hexagonales 
+ 
+Empreinte circulaire 
+ 
+Empreintes en B 
+ 
+1 empreinte (forme de 
+nid) 
+ 
+2.8. Le sertissage des contacts courant de type milc 26500, nas 
+1599, module AIR.LB 
+Tous les contacts standard de gauge 12,16 et 20 sont sertis à l'aide de la pince à sertir 
+M22520/1-01 équipée de la tourelle M22520/1.02 en respectant les réglages suivants : 
+- taille du contact, 
+- taille du fut de sertissage du contact, gauge du câble à 
+sertir. 
+Pour les contacts de taille : 
+- 20 → barillet en position rouge. 
+- 16 → barillet en position bleue. 
+- 12 → barillet en position jaune. 
+
+===== PAGE 26 =====
+Module 7.7 V10   Page 26 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+La longueur de dénudage se trouve dans la documentation ainsi que la gauge des 
+câbles susceptibles d'être sertis dans chaque contact.  
+➔ La longueur de dénudage correspond à la longueur permettant à l'isolant de se 
+trouver au ras du fut de sertissage,  avec l'âme du conducteur visible par la 
+fenêtre d'inspection. 
+ 
+➔ La force de sertissage sera adaptée en fonction de la gauge du câble à sertir  : 
+le réglage de cette force de sertissage sera choisi en manœuvrant la molette 
+de réglage sur la position correspondant à la gauge du câble. 
+Le sertissage est un sertissage en 4 empreintes permettant une déformation minime 
+du contact et autorisant ainsi l'insertion/extraction aisée dans la prise. 
+Le réglage (barillet, molette) sur tous les outillages s'effectue au repos (pince 
+ouverte). 
+ 
+D'autres outillages de sertissages existent :  se reporter à la documentation 
+constructeur pour avoir leurs références et leurs modes opératoires. 
+
+===== PAGE 27 =====
+Module 7.7 V10   Page 27 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+2.9. Le sertissage des cosses AMP 
+Le sertissage des cosses AMP peut être effectué grâce à plusieurs 
+outillages, leurs références et modes opératoires seront détaillés 
+dans la documentation du constructeur (ESPM, SWPM, AWM ATA 
+20...). 
+Un des outillages permettant d'effectuer le sertissage des cosses de gauge 16 
+et 20 est la pince à sertir AMP 59250 à poignées rouge et bleue. 
+Elle permet le sertissage des cosses AMP PBDG sur des conducteurs de 
+gauges 22 à 18 du coté rouge et de gauges 16 à 4 coté bleu. 
+La tête de la pince porte 2 jeux de mâchoires, l'un assurant le sertissage sur 
+l'âme du conducteur, l'autre permettant le sertissage sur l'isolant pour la tenue 
+mécanique (frettage d'isolant). 
+Le levier d'approche permet et évite les sertissages intempestifs. 
+➔ Réglage de la pince : 
+Le frettage de l'isolant doit être réglé (partie du fût recevant l’isolant). En effet la force 
+de sertissage sur le fût arrière sera fonction de l'épaisseur de l'isolant du câble. 
+- Réglage 1 : câbles de petits diamètres, à isolants minces. 
+- Réglage 4 : câbles à fortes épaisseurs d'isolant. 
+- Réglage 2 et 3 : épaisseurs d'isolants intermédiaires. 
+Le réglage se fera pince ouverte , sur la tête avant de la pince, à l'aide d'un 
+tournevis. 
+On peut déterminer ce réglage en essayant de sertir un fil non dénudé dans le f ût 
+arrière de la cosse. Si la tenue mécanique est correcte, le réglage sera le bon 
+➔ Longueur de dénudage. 
+Le dénudage se fera à une longueur correspondant du début du fut cranté jusqu'à un 
+dépassement d'âme de l’ordre de 8/10 mm fonction de la dimension de la cosse. Le 
+dépassement sera limité par le lamage prévu à cet effet sur la butée de la pince. 
+
+===== PAGE 28 =====
+Module 7.7 V10   Page 28 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+La butée à pour but :  de limiter le dépassement de l'âme du câble, positionner la 
+cosse et maintenir le splice lors de son sertissage. 
+2.10. Contrôle de qualité 
+Avant sertissage, vérifier : 
+- L'état de la pince à sertir et des mâchoires. 
+- La date de validité de l'étalonnage. 
+- La longueur de dénudage du câble. 
+Après sertissage : 
+- Exercer une légère traction sur l'ensemble serti. 
+Vérifier ensuite : 
+- Le code de points sur le manchon isolant (on retrouve sur les mâchoires, 1 
+point coté rouge, 2 coté bleu). 
+- Le centrage des empreintes et des mâchoires. 
+- La longueur de dépassement de l'âme du conducteur (8/10mm). 
+- Le frettage d'isolant. 
+Important : 
+Ne pas coincer et couper un ou plusieurs câbles à l'opposé du sertissage lors du travail 
+sur faisceau. En effet sur ce type de pince les 2 mâchoires fonctionnent en même 
+temps. 
+ 
+ 
+
+===== PAGE 29 =====
+Module 7.7 V10   Page 29 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+2.11. Les outillages hydrauliques 
+Pour le sertissage des cosses de fortes dimensions, on utilise de l’ outillage 
+hydraulique. 
+Leur mode opératoire doit être rigoureusement respecté . La puissance 
+développée par ce type d'outillage est très grande, ils peuvent créer des dommages 
+importants. 
+II existe des pinces hydrauliques commandées : 
+- à la main.  
+- au pied. 
+Leurs maniements seront mentionnés dans la documentation du constructeur (ESPM, 
+SWPM, ATA 20 WM...). 
+Cependant, on peut dire que la gauge des empreintes de sertissage sera gravé sur la 
+cosse à l'issue du sertissage.  Elle permettra de contrôler la correspondance taille 
+cosse et taille mâchoire. 
+ 
+ 
+ 
+Le sertissage sera un sertissage simple, uniquement sur l'âme du conducteur en effet 
+le câble ayant une grosse taille, il contribuera à la tenue mécanique de l'assemblage. 
+
+===== PAGE 30 =====
+Module 7.7 V10   Page 30 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+2.12. Le sertissage des splices (prolongateurs électriques bout à 
+bout) 
+Les splices AMP seront sertis avec la pince à sertir AMP 59250, la butée de la pince 
+permettra de maintenir le splice. 
+Les embouts AMP pour connecteurs dénudés seront également sertis avec la pince 
+AMP 59250. 
+Le mode opératoire et les réglages seront les mêmes que pour le sertissage des 
+cosses AMP de petites tailles. 
+ 
+ 
+ 
+2.13. Les splices AMP pré-isolés 
+Utilisés en zone haute condensation ou circuit haute tension seront sertis avec des 
+pinces à sertir spécifiques, une référence pour chaque splice (Exemple : AMP 
+46073...), une bague d'étanchéité, couleur étain sera sertie en même temps que l'âme 
+du conducteur. 
+- 2 méplats, au centre du splice, permettent le bon positionnement dans la 
+pince. 
+- Une fenêtre d'inspection permet de vérifier la présence de l'âme dans le splice. 
+
+===== PAGE 31 =====
+Module 7.7 V10   Page 31 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+2.14. Les splices RAYCHEM 
+Seront utilisés généralement en zone non protégée où les températures n'excèdent 
+pas 150°C. 
+Le sertissage sera effectué avec une pince spécifique de type «daniels HX4».  
+Un manchon thermo rétractable d'étanchéité adapté 
+au nombre de conducteurs à sertir sera rétreint sur le 
+raccord de sertissage, à l'aide d'un générateur d'air 
+chaud ou d'un pistolet infra-rouge.  
+ 
+3. Essais des jointures de sertissage 
+3.1. Vérification et rôle des outils de sertissage 
+Tous les outils de sertissage utilisés en câblage aéronautique sont des outillages qui 
+auront subi une vérification systématique par un laboratoire homologué BNM (Bureau 
+National de Métrologie). 
+Des tests de tractions sur des éprouvettes serties par l'outil et des vérifications du 
+mécanisme de la pince. 
+Pour chaque outil il y aura un cycle de contrôle, celui -ci sera archivé dans une 
+procédure de traçabilité. 
+En spatiale les éprouvettes sont toutes archivées. 
+Conséquence d’un mauvais sertissage du fait d’une mauvaise utilisation ou d’un outil 
+défectueux. 
+- Empreintes trop profondes (outil mal réglé ou non étalonné). 
+- Empreintes sur le fût du contact non régulières. 
+- Mâchoires décentrées. 
+- Mauvaise tenue du sertissage dans le temps. 
+
+===== PAGE 32 =====
+Module 7.7 V10   Page 32 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+4. Dépose et pose des broches de connecteurs 
+4.1. Les connexions 
+On distingue 3 types de connexion 
+Connexions permanentes Connexions semi permanentes Connexions à démontage 
+rapide 
+Soudure, brasure, sertissage, 
+Wrapping : ce type de 
+connexion nécessite une 
+nouvelle opération pour 
+être changée. 
+ 
+Prévues pour être démontées 
+en quelques minutes avec un 
+outillage et destinées à une 
+possibilité de modification ou de 
+changement d’appareil : raccord 
+vissé.  
+ 
+Prévues pour être démontées 
+en quelques secondes, ne 
+nécessite pas d’outillage pour le 
+démontage et destinée à une 
+séparation rapide pour une 
+intervention de contrôle ou de 
+changement d’appareil : 
+fiche/prise, contact mâle/femelle.  
+ 
+Le wrapping 
+Cette technique consiste à enrouler en plusieurs spires jointives, un fil électrique 
+dénudé, autour d'une borne à arêtes vives avec une certaine tension mécanique. 
+Avec la miniaturisation, la soudure et le sertissage ont montré leurs limites. La pince à 
+sertir, trop volumineuse, est d'un emploi difficile dans un espace réduit, le fer à souder 
+est resté trop gros. Les soudures, soumises à vibration, peuvent casser peu à peu. 
+La connex ion enroulée permet de réaliser  des raccordements possédant des 
+caractéristiques électriques, mécaniques excellentes et une bonne fiabilité. 
+Cette technique, est utilisée depuis longtemps dans tous les secteurs industriels, et 
+n'existait sur avion qu'à l'intérieur des boites et modules démontables. Elle existe 
+également à l'arrière de rack et d'étagère sur le B747-400. 
+Réalisation 
+C’est une soudure froide sans apport de métal due à l'interpénétration superficielle de 
+deux métaux soumis à une contrainte permanente. 
+➔ Le fil et la borne s'incrustent réciproquement, la borne n'étant que très légèrement 
+marquée par le fil. 
+Cette déformation IRREVERSIBLE est la garantie fondamentale d'une connexion 
+fiable et d'un véritable contact. 
+L'enroulement jointif comporte 5 à 8 spires en fonction de la gauge du fil, pour avoir 
+un contact électrique bien dimensionné et une résistance suffisante à la traction. 
+La connexion « modifiée » comporte une spire supplémentaire isolée : elle donne 
+une élasticité à la connexion et une résistance aux vibrations. 
+===== PAGE 33 =====
+Module 7.7 V10   Page 33 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Le contact pourra être enlevé par la simple opération inverse, qui consiste à dérouler 
+le fil avec la même facilité et la même rapidité, grâce à l'outil approprié. 
+➔ On pourra directement réenrouler une nouvelle connexion (et recommencer de 
+nombreuses fois). 
+Les câbles utilisés seront mono brin en cuivre électrolytique recuit argenté recouvert 
+d'un isolant à base de téflon (kapton). 
+ 
+ 
+Confection d'un wrapping 
+La connexion enroulée est réalisée à l'aide d'un outil constitué : 
+- D'une broche. 
+- D'une douille guide. 
+- D'un outil d'enroulement présenté sous forme de poignée simple, ou d'un 
+pistolet manuel, pneumatique ou électrique. 
+Le dénudage du fil s'effectue à l'aide d'une pince spécifique.  
+➔ Il existe une pince par gauge de câble.  
+La longueur de dénudage est fonction du type de câble, de sa gauge et des dimensions 
+de la borne (un vernier existe sur l'outil permettant un réglage précis). 
+Un contrôle des connexions sera effectué à l'issue du travail. 
+- Seuls les outils recommandés sont à utiliser. 
+- Une connexion défaite doit être remplacée. 
+- On ne réenroule pas une connexion défaite. 
+- On remplace une connexion ayant trop de mou dans le fil.  
+- Une connexion glissant sur la borne n'est pas tolérée. 
+- Les câbles, isolants entaillés ne sont pas tolérés. 
+UTILISER LA DOCUMENTATION CONSTRUCTEUR POUR AVOIR AVEC 
+PRECISION LE MODE OPERATOIRE DE CONFECTION D'UN WRAPPING. 
+
+===== PAGE 34 =====
+Module 7.7 V10   Page 34 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+La soudure à l'étain 
+Le rôle de la soudure est d'assurer entre 2 pièces une continuité électrique aussi 
+parfaite que possible.  
+Une soudure à l’étain ne doit être considérée comme une liaison mécanique. 
+A de rares exceptions près, les soudures utilisées en électricité et électronique entrent 
+dans la catégorie des soudures hétérogènes, c'est à dire avec apport d'un ou plusieurs 
+métaux distincts de ceux que l’on désire assembler. 
+La soudure n'est pas un simple collage, elle entraîne une réaction chimique dans 
+laquelle les matériaux de base se combinent pour donner un nouvel alliage. 
+La soudure utilisée consiste elle -même en un alliage, dans des proportions pouvant 
+varier selon le type de soudure, d'étain et de plomb. 
+Pour information : 
+Le flux (ou résine) est constitué par le décapant incorporé au fil d'alliage.  
+Son rôle est de décaper les oxydes, les silicones et les grais ses déposées sur les 
+composants. Il facilite l'étalement de la soudure, et protège le métal chaud contre la 
+réoxydation pendant l'opération de soudure. 
+4.2. Les connecteurs 
+Les connecteurs standard 
+Sur avion il existe de nombreuses familles de connecteurs électriques. De nombreux 
+fabricants fournissent des prises correspondantes à chacune des différentes normes. 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 35 =====
+Module 7.7 V10   Page 35 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Détrompeurs  
+Afin d’éviter tout risque d’erreur d’accouplement 
+ou de raccordement,  les connecteurs sont 
+équipés de détrompeurs fixes ou modifiables.  
+Les systèmes utilisés existent sous forme  de 
+clavettes, d’ergots, de doigt ou d’œil. 
+ 
+ 
+ 
+ 
+ 
+Exemple :  
+ 
+ 
+
+===== PAGE 36 =====
+Module 7.7 V10   Page 36 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Les connecteurs de la famille MIL C 26500 (Exemple) 
+Les contacts de la famille MIL C 26500 
+Pour reconnaître les contacts de la famille MILC 26500, il suffit 
+de les regarder. On verra sur la partie avant du contact un 
+petit chanfrein autorisant le positionnement des lamelles de 
+verrouillage de la prise.  
+ 
+Les connecteurs de la famille MIL C 26500 
+Pour reconnaître les connecteurs de la norme MIL C 26500 il suffit de regarder la face 
+avant de la prise, elles sont toutes équipées de marouflages mous et d'orifices de 
+contact plats et surdimensionnés, autorisant par le fait le passage de l'outillage 
+d'extraction. 
+L'insertion de ce type de contact s'effectue par l'arrière de la prise. Les outillages 
+utilisés seront métalliques en forme de cuillère. Plusieurs références d'outillages 
+existent, se reporter à la documentation constructeur, parmi eux des outillages de 
+fabrication « Daniels » MS24256A, et d'autres correspondant 
+aux fabricants avec les mêmes principes de fonctionnement. 
+Le code de couleur sur chaque outillage correspondra à la 
+taille du contact à insérer, (jaune : 12 ; rouge : 20)  
+ 
+L'extraction se fera par l'arrière de la prise (côté câblage) par insertion d'outillage par 
+la face avant de la prise. Les lamelles de verrouillage écartées il suffira de pousser le 
+piston de l'outillage afin de chasser le contact vers l'arrière de la prise plusieurs 
+références d'outillages existent, se reporter à la documentation constructeur, parmi 
+eux des outillages de fabrication « Daniels » MS24256R et 
+d'autres correspondant aux fabricants avec les mêmes 
+principes de fonctionnement. Le code de couleur sur chaque 
+outillage correspondra à la gauge du contact à insérer.  
+ 
+Prendre soin de ne pas détériorer le marouflage des prises durant ces opérations 
+d'insertions/extractions. 
+Après l'insertion → contrôler systématiquement  le verrouillage du contact en 
+exerçant une légère traction sur le fil. 
+
+===== PAGE 37 =====
+Module 7.7 V10   Page 37 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Pour maintenir les caractéristiques d'étanchéité de ce type de 
+connecteur, lorsqu'une ou plusieurs positions ne sont pas 
+utilisées, il faut IMPERATIVEMENT respecter la consigne 
+suivante : 
+Mettre en place un contact vierge + un bouchon d’étanchéité de couleur 
+correspondant à la taille du contact dans les zones non pressurisées ; en 
+zone pressurisée, il est admis que seul les bouchons seront installés 
+Les connecteurs de la famille NAS 1599 (Exemple) 
+A la différence des contacts de type MIL C 26500 les contacts NAS 1599 n'ont pas de 
+chanfreins sur leurs faces avant les lamelles de verrouillage se positionneront derrière 
+la collerette sur la partie arrière du contact 
+Les connecteurs de la famille NAS 1599 
+Pour reconnaître les connecteurs de la norme NAS 1599, il suffit de regarder la face 
+avant de la prise : les prises NAS 1599 recevant des contacts femelles sont équipées, 
+sur leur face avant, de marouflage dur (bakélite) généralement noir. Les prises NAS 
+1599 recevant des contacts mâles sont équipées, sur leur face avant, de marouflage 
+mou et d'un joint facial autour de chaque trou assurant l'étanchéité lors de la connexion 
+des prises. 
+L'insertion de ce type de contact s'effectue par l'arrière de la prise (coté câblage) à 
+l'aide d'outils plastiques colorés. L'embout coloré de chaque outil est réservé à 
+l'insertion. Ainsi la couleur de l'outillage coté insertion correspondra au code de couleur 
+adapté à la taille du contact. Cote insertion l'outil plastique possède un embout conique 
+afin de permettre aux lamelles du clip de retenue de se positionner derrière la collerette 
+du contact. 
+Taille 12 : jaune, Taille 20 : rouge, Taille 16 : bleue. De nouvelles dimensions de 
+contacts existent actuellement, aussi on leur a attribué de nouvelles couleurs, 
+Exemple : gauge 22 : vert. Se référer à documentation constructeur. 
+L'extraction de ce type de contact s'effectue également par l'arrière de la prise (coté 
+câblage) à l'aide du même outil plastique (plume). La couleur de l'outil coté extraction 
+sera toujours blanche 
+Plusieurs références d'outillages existent en fonction de leur fabricant, les repérages 
+et modes opératoires seront identiques. 
+L'insertion et l'extraction ne vont se faire valablement qu'après avoir démonté les 
+serres câbles, colliers et frettes gênant l'accès de l'outil (5 cm mini à l'arrière du 
+connecteur). Pour maintenir les caractéristiques d'étanchéité de ce type de 
+connecteur, lorsqu'une ou plusieurs positions ne sont pas Utilisées, il faut 
+IMPERATIVEMENT respecter la consigne suivante : mettre en place un contact vierge 
++ un bouchon d'étanchéité de couleur correspondant à la taille du contact. L'insertion 
+
+===== PAGE 38 =====
+Module 7.7 V10   Page 38 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+et l'extraction des contacts non câblés s'effectue à l'aide d'un outil à poussoir  « 
+SOURIAU » ou équivalent ayant un code de couleur correspondant à la gauge du 
+contact 
+ 
+ 
+ 
+Les connecteurs déconnectables AMPHENOL 
+Sont équipés de 2 parties : 
+- le plug qui porte les contacts mâles (pin),  
+- le réceptacle qui reçoit les contacts femelles (socket).  
+➢ Les contacts sont de taille 16 uniquement.  
+➢ Le corps de ce connecteur est bleu. 
+Les contacts sont du même type que ceux de la série MILC 26500 et leur sertissage 
+sera effectué à la pince à tourelle ou à positionneurs. 
+L'insertion se fait, comme pour les prises de la famille MILC26500, avec un outillage 
+métallique en forme de cuillère (Daniels MS 24256A16,.. .).  Avec le code de couleur 
+correspondant à la taille du contact (16 : bleu). 
+L'extraction se fait par l'insertion par la face avant du connecteur d'un outillage à canon 
+adapté (Daniels MS24256R16...) de couleur bleue. 
+ 
+
+===== PAGE 39 =====
+Module 7.7 V10   Page 39 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Insertion d’un contact 
+Se fait côté câblage (arrière d’une prise)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enlever le raccord arrière ou les accessoires Avec le pouce, insérer le fils dans la gorge  de 
+la partie colorée de l’outil plastique 
+ 
+ 
+
+===== PAGE 40 =====
+Module 7.7 V10   Page 40 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Extraction d’un contact 
+Pour une prise câblée, démonter les serres câbles et les frettes pouvant gêner 
+l’accès de l’outil sur 5 cm environ. 
+Serrage des bagues 
+Le serrage des serres câbles et le verrouillage des connecteurs s'effectueront à l'aide 
+de la clef à sangle possédant un carré d'adaptation pour la clé dynamométrique. 
+La pince à plug n'est pas conseillée, car elle ne travaille pas sur toute la périphérie, 
+et elle ovalise les bagues elle ne sera tolérée que lorsque la clé à sangle ne peut être 
+utilisée. 
+En aucun cas , on ne doit serrer les bagues d'accouplements des connecteurs 
+circulaires à l'aide d'outils dont les mâchoires ne sont pas adaptées et protégées, 
+(après serrage, aucune trace ne doit être visible sur la bague). 
+5. Câbles coaxiaux 
+5.1. Mesures et précautions sur câbles coaxiaux 
+Pour tester un câble coaxial, il faut effectuer plusieurs mesures : 
+- mesure de continuité de l'âme du coaxial et de la tresse métallique, 
+- mesure d'isolement entre l'âme du conducteur et la tresse métallique, 
+- mesure du taux d'onde stationnaire tosmètre entre l'âme du conducteur et 
+la tresse métallique après avoir branché l'une des extrémités au bouchon 
+adapté, la valeur d'impédance figurera dans la documentation. Le 
+réflectomètre pourra également être utilisé. 
+
+===== PAGE 41 =====
+Module 7.7 V10   Page 41 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+En règle général e, le coaxial à une longueur déterminée par le constructeur et ne 
+pourra en aucun cas être raccourci sans son accord. Les caractéristiques de celui -ci 
+s'en trouveraient modifiées et non valides. 
+- Le cheminement s’effectue hors des faisceaux standards. 
+- Le cheminement doit présenter des flèches entre 2 fixations  pour ne pas être 
+influencé par les modifications dimensionnelles de l’aéronef. 
+- Les colliers de fixation ne doivent pas comprimer le câble : l’utilisation de frettes 
+plastiques genre tyrap est à proscrire. 
+ 
+ Si une réparation doit entraîner un raccourcissement du câble, ce dernier doit 
+être changé.  
+ 
+Pour absorber le surplus de longueur, il suffira de faire des vagues entre 2 colliers 
+ou de faire une boucle d'un rayon de courbure d'environ 10 fois le diamètre du câble 
+(pour plus de précision, se reporter à la documentation constructeur).  
+D'autres mesures spécifiques existent, leurs descriptions et leurs procédures de tests 
+seront décrites dans la documentation du constructeur (SWPM, ESPM, ATA20 WDM). 
+ 
+5.2. Les connecteurs coaxiaux 
+Comme pour les autres types de connecteurs, il existe des connecteurs mâles appelés 
+fiches coaxiales (plug), ou des connecteurs femelles appelés prises (jack). Ces 
+équipements sont utilisés pour le raccordement des câbles coaxiaux sur les 
+équipements élect roniques ou radioélectriques de bord, ainsi qu'en passage de 
+cloison. 
+Exemple de connecteurs coaxiaux : 
+Le connecteur coaxial KING «k-grip».   
+ 
+
+===== PAGE 42 =====
+Module 7.7 V10   Page 42 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+Constitution : 
+- Un corps ou est gravé la référence du «  k-grip », la partie intérieure alésée 
+reçoit le diélectrique du câble coaxial, la partie extérieure filetée reçoit la tresse 
+métallique, son extrémité est chanfreinée pour faciliter le passage de la tresse. 
+- Un joint à lèvres en élastomère silicone. 
+- Une rondelle à chanfrein, le coté chanfreiné sera placé dans les lèvres du joint 
+lors de l'assemblage. 
+- Un écrou d'assemblage avec méplat pour le serrage à la clé de celui-ci. 
+- Un manchon de sertissage qui viendra recouvrir la tresse et sera serti sur le 
+corps du k-grip. 
+Le contact central peut être : 
+A souder : tous les contacts femelles le sont. Le Cuivre de Béryllium qui les recouvre 
+est trop friable pour supporter le sertissage. 
+A sertir  : deux trous d'inspection à la base du contact permettent de vérifier  le 
+positionnement de l'âme avant et après sertissage. 
+D’autres types de connecteurs et contacts coaxiaux existent. Leur procédure de mise 
+en œuvre seront décrites dans la documentation constructeur (ESPM, SWPM, ATA 
+20, WDM). 
+Câble coaxial : 
+L’impédance du câble varie avec : 
+- La pression (écrasement) sur le diélectrique.  
+- Une modification de la longueur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Blindage
+Gaine de protection
+Feuillard
+Âme conductrice
+Diélectrique
+===== PAGE 43 =====
+Module 7.7 V10   Page 43 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+6. Identification, marquage, inspection et tolérances 
+L’identification des composants EWIS est également primordiale  et doit être 
+effectuée de façon méthodique  en fonction des différents circuits et des différentes 
+tensions 
+Cette identification est nécessaire pour : 
+- La sécurité de fonctionnement. 
+- La sécurité du personnel de maintenance. 
+- Faciliter les opérations de maintenance. 
+Chaque fil et câblage doit être identifié avec une combinaison de lettres et de chiffres 
+qui permettra d’identifie r les fils et leurs fabricants , les circuits auxquels ils 
+appartiennent, la section du fil (GAUGE) et toutes autres informations relatives aux 
+schémas de câblage.  
+L’identification doit être déchiffrable (taille, type et couleur) pour éviter tout risque 
+d’erreur lors d’opérations de maintenance ou de remplacement de fil.  
+Les critères d’inspection et les tolérances aux dommages sont décrits dans chaque 
+documentation avionneur.  
+Enfin, la protection contre les incendies et la protection contre l’électricité statique est 
+prise en compte. 
+ 
+ 
+  
+Aucune identification 
+Identification correcte 
+===== PAGE 44 =====
+Module 7.7 V10   Page 44 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+7. Techniques de protection du câblage 
+7.1. Techniques de câblage 
+Réalisation de torons 
+Les techniques et les méthodes de câblages préconisées par Boeing, Airbus et les 
+autres constructeurs sont à mettre en œuvre à tout instant aussi bien pour la confection 
+et l'installation de faisceaux neufs que pour l'entretien courant. 
+Toron (faisceau) : Ensemble de conducteurs électriques liés par des frettés. 
+Frettage : C'est la réalisation des faisceaux en maintenant assemblés les conducteurs 
+électriques.  
+Peignage : Ordonnancement correct de chaque conducteur électrique dans un toron 
+afin de : 
+- diminuer le volume du faisceau,  
+- faciliter le suivi d'un conducteur, pour les faisceaux de faibles diamètres, 
+- faciliter la sortie des conducteurs pour leur raccordement, 
+- rendre plus esthétique la répartition des conducteurs, 
+- limiter l'usure des câbles par frottement. 
+Les câbles embrouillés ou débordants d'un toron sont inacceptables.  
+Le nombre maximum de câbles dans un toron est de 75 et ne doit pas dépasser 
+55 mm de diamètre. 
+Différents types de frettes 
+La frette simple ou nœud de cabestan : 
+Utilisée pour le frettage courant,  se termine par un nœud d'arrêt réalisé dans le bon 
+sens (nœud plat) elle doit être à spires jointives et serrée suffisamment. 
+La frette anglaise : 
+Utilisée pour le frettage des torons de diamètres 
+importants ou dans des endroits d'accès difficile. Facile à 
+réaliser et à serrer, se termine aussi par un nœud d'arrêt. 
+ 
+ 
+
+===== PAGE 45 =====
+Module 7.7 V10   Page 45 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Le pas de frettage : 
+L'écartement entre 2 frettes sera fonction du diamètre (d) du toron :  
+- Torons de petits diamètres : 2 à 2,5 d  
+- Torons de diamètres moyens : 1 à 1,5 d  
+- Torons de diamètres importants : 0.5 d 
+Dans les zones soumises à fortes vibrations (moteur, mat moteur), le pas d u frettage 
+sera diminué. 
+Les colliers de frettage en nylon ou téflon (tyraps) 
+Ces colliers sont également utilisés pour la réalisation ou l'entretien des torons sur 
+avion. 
+Ils se choisissent en fonction de la zone dans laquelle on travaille, du diamètre du 
+toron. 
+Le serrage doit s'effectuer avec l'outillage approprié et non à la pince 
+coupante ou paire de ciseaux, un réglage sur la pince permet d'adapter 
+le couple de serrage en fonction du collier. De plus la pince permet 
+d'obtenir une coupe nette. 
+Restriction d'utilisation : 
+- Lorsque la tête de blocage vient frotter sur des câbles à proximité. 
+- Dans les zones de fortes vibrations. 
+- Sur des faisceaux ou torons comprenant des câbles coaxiaux. 
+- Les colliers de fixation et supports 
+- Les colliers doivent assurer le serrage normal du faisceau afin 
+d'éviter l'usure par frottement. 
+- Les dimensions des colliers sont, en principe, fixées par le plan ou les 
+documents constructeurs 
+Toutefois, certaines vérifications sont nécessaires : 
+- Choisir le collier le plus petit possible pouvant se monter sur le faisceau. 
+- Les pattes du collier ne doivent pas être déformées sous l'effet du serrage 
+lorsque le collier est complètement fermé.  
+- Les trous de fixation ne doivent pas être ovalisés. 
+Remarque : 
+Si un collier de dimension correcte ne peut être trouvé, on choisira un collier de 
+dimension directement supérieure, puis on enroulera une bande silicone adaptée à 
+l'environnement (voir documentation constructeur) sur le faisceau, afin d'adapter son 
+diamètre au collier.  
+On peut également utiliser des réducteurs de section. 
+  
+
+===== PAGE 46 =====
+Module 7.7 V10   Page 46 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+7.2. Protection des câblages avion 
+Les faisceaux doivent être protégés contre toute détérioration. En particulier, les 
+précautions suivantes doivent être prises : 
+- Éviter le contact des torons avec toutes arêtes vives. 
+- Ne pas marcher ou s'asseoir sur les faisceaux. 
+- Ne pas traîner, mais porter le faisceau lors de son déplacement. 
+- Pendant un stockage permanent ou temporaire les faisceaux doivent être 
+posés et non suspendus. 
+- Les prises doivent être protégées. 
+- Des dispositifs de protection de types et de matières correspondant à 
+l'environnement seront mis en place sur les torons susceptibles de subir des 
+frottements (souplissos nylon, rubans, gaines thermo rétractables, gaines 
+ondulées en PTFE,...) 
+- Les torons doivent cheminer à des distances minim ales de tuyauteries, 
+structure et autres. 
+- Les contraintes de montages seront détaillées dans la documentation du 
+constructeur. 
+ 
+Rayon de courbure des câbles et torons 
+- Environ 10 fois le diamètre pour les grosses sections,  
+- Environ 3 à 6 fois pour les fils de petites sections. 
+- Mou des fils et boucles de raccordement équipement 
+ 
+ 
+ 
+ 
+Avantages : 
+Faciliter l'installation et l'entretien. 
+Possibilité de 3 réparations des pièces d'extrémités (prises, cosses..) pour les câbles 
+de petites sections, 2 pour les autres. 
+Eviter les effets de vibrations sur les appareils ainsi que les efforts dans les câbles, les 
+supports, les jonctions. 
+Les boucles sont nécessaires dans les endroits, où suite à la de condensation ou à 
+des fuites, des gouttes peuvent être amenées par les fils sur les bornes de 
+raccordements. Les boucles doivent être disposées de manière à ce que les gouttes 
+ne tombent pas sur les accessoires qui pourraient en souffrir. 
+ 
+
+===== PAGE 47 =====
+Module 7.7 V10   Page 47 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+7.3. Le routage des faisceaux électriques 
+Le routage permet la ségrégation qui consiste, pour des raisons évidentes de sécurité,  
+à répartir les câbles électriques sur des ROUTES électriques spécifiques en tenant 
+compte de : 
+- la nature des signaux transmis par ces lignes, 
+- leur niveau de sensibilité à des perturbations, 
+- l'intensité du courant passant sur ces lignes, 
+- la nature des câbles, 
+- la redondance des circuits. 
+Il y a redondance des câbles pour une même fonction et séparation de ces câbles sur 
+différentes routes.  
+Tout événement extérieur destructeur (éclatement turbines moteurs par exemple) ne 
+peut affecter qu'un des 2 chemins à la fois et la fonction reste assurée.  
+ 
+ 
+ 
+On retrouve dans la documentation constructeur (ATA 91 WDM, ou AWL) des plans 
+représentants les différentes routes des faisceaux, ainsi que l'implantation des 
+différents équipements et connecteurs. 
+On retrouve également l'identification des circuits (ATA 00 ASM, ou ATA 91 WDM) et 
+l'identification des différentes routes sur avion, ainsi que leurs emplacements. 
+Remarque : 
+Les câbles d'alimentation (feeder) sont toujours à l'écart des torons. 
+Les câbles coaxiaux sont toujours à l'écart des torons et éloignés au maximum des 
+câbles d'alimentation. 
+Quelques fois dans les endroits d'accès difficile, des conduits flexibles sont installés le 
+long des routes. Ils permettent un passage plus aisé de nouveaux fils, lors 
+d'interventions. Un fil électrique de gauge 18 sera prévu à l'intérieur pour servir 
+d'aiguille. Il sera isolé par un embout serti à chacune de ses extrémités 
+ 
+ 
+ 
+` 
+ 
+
+===== PAGE 48 =====
+Module 7.7 V10   Page 48 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Avertissement CDCCL 
+Il faut faire attention à ce que les câblages ne touchent pas la structure et assurer la 
+ségrégation des câblages. Les arêtes vives sont à proscrire. 
+ 
+7.4. Les férrules «thermashield» AMP 
+Ce sont des férrules qui se sertissent facilement et rapidement avec l'outillage AMP 
+étudié pour ce matériel en augmentant la tenue mécanique de l'extrémité du 
+conducteur, sans accroître anormalement 
+son diamètre.  
+ 
+Le principe de sertissage par compression 
+élimine tout risque de détérioration du 
+conducteur et de l'isolant par la chaleur ou le 
+flux de soudure. Il permet d'obtenir des 
+connexions de hautes qualités électriques et mécaniques. 
+Elles sont constituées de 2 parties distinctes : 
+- Une férrule en cuivre électrolytique plaqué zinc qui se sertit sur le conducteur 
+en une seule opération. Elle est teintée extérieurement suivant le code de 
+couleur AMP en fonction des diamètres des conducteurs admissibles 
+(diamètre extérieur isolant primaire, sous tresse). 
+Une fenêtre d'inspection permet le contrôle du positionnement de la tresse. 
+
+===== PAGE 49 =====
+Module 7.7 V10   Page 49 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Un manchon isolant teinté selon le code de couleur AMP permet l'appariement avec 
+la férrule. Ce dernier est glissé sur la férule après sertissage et maintenu-en place par 
+des languettes de verrouillage.  
+Cependant, chez certains exploitants on y préférera la mise en place d'une bande de 
+thermo rétractable, plus souple donc moins blessante pour le câble. 
+Exemple de mise en œuvre 
+Dénuder à l'aide d'un couteau d'électricien l’isolant extérieur. Évaser la tresse si elle 
+est tressée sinon la repartir en 2 brins si elle est hélicoïdale. 
+Dénuder le fil de reprise de blindage à la longueur mentionnée dans la documentation 
+constructeur. Placer la férule sur le conducteur blindé ; la tresse métallique doit passer 
+entre le manchon intérieur et la jupe de férule. 
+Insérer le ou les fils de reprise, dénudés sous la jupe de la férule si le diamètre de 
+l'isolant primaire du blindé est inférieur à 3.3mm, faire rentrer l'isolant du câble de 
+reprise de blindage dans la férule sur 1.5mm. Si le diamètre est supérieur à 3.3m m 
+l'isolant du câble de reprise sera au ras du fût de sertissage 
+Les 2 trous d'inspection doivent être alignés avec les rainures colorées des matrices 
+(codes de couleurs correspondant aux codes de couleurs férules) l'âme des 
+conducteurs de reprise doit apparaître dans le trou d'inspection situé à l'avant de la 
+férule. 
+- Fermer les poignées jusqu'au déclenchement de la crémaillère et 
+maintenir le fil pour qu'il ne bouge pas.  
+- Ouvrir la pince. 
+- retirer l'ensemble serti. 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 50 =====
+Module 7.7 V10   Page 50 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Contrôle de qualité 
+Vérifier avant sertissage : 
+- l'état de la pince, date d'étalonnage 
+- les longueurs de dénudage, 
+- la mise en place des câbles de reprise. 
+Vérifier après sertissage : 
+- l'âme du ou des conducteurs de reprise visible par le trou d'inspection, 
+- la tresse métallique du blindé visible par les fenêtres d'inspection (sauf férule 
+AMP A qui n'en possède pas), exercer une légère traction sur l'ensemble serti. 
+- procéder ensuite à la mise en place du manchon isolant, de même couleur 
+que la férule, contrôler le verrouillage du manchon ou mise en place de thermo 
+rétractable en prenant soin de ne pas faire fondre l'isolant du câble. 
+NOTA : 
+Les férules hautes températures sont en cuivre électrolytique plaqué Nickel. Les 
+manchons isolant en téflon seront cette fois sertis sur la férule, grâce aux matrices 
+ayant été utilisées sur la férule. La pince à dénuder est la même. 
+Exemple : les férrules ou manchons auto soudeurs de type «raychem» 
+Les manchons auto-soudeurs RAYCHEM permettent de réaliser en une seule 
+opération des reprises de masse sur câbles blindés ou coaxiaux, soudées, isolées, 
+étanches, et ce d'une manière facile, rapide et économique. 
+Constitution 
+Un manchon auto -soudeur comprend un manchon en matière 
+plastique thermo rétractable enserrant au centre une languette 
+ou un anneau de soudure avec flux incorporé, et à chaque 
+extrémité une bague thermoplastique de différentes couleurs. 
+2 variétés :  une variété pour les câbles résistant à haute 
+température et une pour les basses températures. 
+2 types : avec bague de soudure (languette) localisée ou avec bague de soudure en 
+forme d'anneau. En étain (96%) et argent (4%). 
+
+===== PAGE 51 =====
+Module 7.7 V10   Page 51 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Principe 
+Si on chauffe quelques secondes un manchon auto -soudeur placé de façon à 
+envelopper le blindage d'un câble et un fil de masse, la gaine se contracte et l'anneau 
+de soudure et les bagues thermoplastiques fondent, assurant en une seule opération, 
+soudure, isolement et étanchéité. 
+Avantages Inconvénients 
+- Fiabilité de connexions et de tenue 
+mécanique étanche. 
+- Economique, réduction du poids jusqu'à 
+30%, montage rapide avec peu d'outillages. 
+- Souplesse d'utilisation, peuvent être utilisés 
+en fin de câblage, comme en milieu. 
+- Utilisation interdite dans les réservoirs. 
+- Brûlure des isolants des câbles basses 
+températures lors de la mise en œuvre. 
+- Utilisation des manchons hautes températures 
+possible que sur fils nickelés neufs ou récents, 
+avec isolant nouvelle génération (téflon) sous 
+peine de fondre l'isolant 
+Mise en œuvre  
+Procédure : 
+- Présenter l'assemblage dans les 
+encoches du réflecteur.  
+o Au bout de 3 à 5 secondes, le 
+manchon s'est contracté et les 
+bagues thermoplastiques ont 
+fondu.  
+- Continuer à chauffer jusqu'à ce que la 
+soudure passe du gris mat à l'argent 
+brillant et coule vers les extrémités 
+scellées.  
+- Relâcher la gâchette du pistolet infra 
+rouge.  
+- Attendre 3 à 4 secondes avant de retirer 
+l'ensemble et de bouger les câbles.  
+o L'isolant du câble de reprise de 
+blindage doit se trouver à l'intérieur 
+de la férule, ainsi il sera rendu étanche par les anneaux 
+thermoplastiques. 
+Différentes méthodes de mise en œuvre existent, se reporter à la documentation 
+constructrice. 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 52 =====
+Module 7.7 V10   Page 52 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Contrôle de qualité : 
+- Contrôle des longueurs de dénudage, 
+- Choix du manchon en fonction du diamètre du blindé et du câble de reprise, 
+- Choix de l'appareil de chauffe (générateur infra rouge ou générateur d'air 
+chaud), 
+- Surveillance du rétreint de la gaine et de la fonte de la bague de soudure, 
+- Mesures de continuité et d'isolement (suivant les circuits et branchements), 
+- Tenue mécanique, 
+- Légère traction après refroidissement de la connexion. 
+La gaine thermo étant transparente, il est toujours possible de visualiser l'état des 
+connexions. 
+Remarque : Les manchons auto-soudeurs peuvent être utilisés pour des arrêts de 
+blindage en bout de câble, sans câble de reprise. 
+8. Electrical Wiring Interconnection System (EWIS) 
+8.1. Généralités 
+EWIS : Electrical Wiring Interconnection System (Système d’interconnexion du 
+câblage électrique) 
+À la suite des  accidents des vols TWA800 le 17 juillet 1996 et Swissair 111 du 2 
+septembre 1998 dus vraisemblablement à des défauts de câblage dans les avions, Il 
+est apparu primordial  de prendre en compte dans le cadre de la maintenance les 
+aspects de prévention des dégradations d’une manière générale sur les installations 
+électriques embarquées. 
+Les références réglementaires pour les EWIS sont : 
+- EASA AMC 20-21: Programme to enhance aeroplane Electrical Wiring 
+Interconnection System maintenance  
+- EASA AMC 20-22: Aeroplane EWIS training  
+- EASA AMC 20-23: Development of electrical standard wiring practices 
+documentation  
+FAA Advisory Circulars (AC). 
+- AC 25-16: Electrical Fault and Fire Protection and Prevention  
+- AC 25.981-1B: Fuel Tank Ignition Source Prevention Guidelines  
+- AC 43-12A: Preventive Maintenance  
+- AC 43.13-1B: Acceptable Methods, Techniques and Practices for Repairs 
+and Alterations to Aircraft  
+- AC 43-204: Visual Inspection For Aircraft  
+- AC 43-206: Avionics Cleaning and Corrosion Prevention/Control  
+- AC 65-15A: Airframe and Powerplant Mechanics Airframe Handbook, 
+Chapter 11, Aircraft Electrical Systems  
+===== PAGE 53 =====
+Module 7.7 V10   Page 53 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+- AC 120-YYY: Training modules for wiring maintenance 
+La formation EWIS se décline en 8 groupes, adaptée à l’activité des intervenants sur 
+aéronef. 
+Cette prévention porte notamment sur un rappel aux intervenants sur avion des 
+aspects suivants : 
+- Pratiques générales EWIS : Sécurité, manutention, protection ESD, 
+recherches de pannes … 
+- Documentation des pratiques de câblage 
+- Inspection : Inspections visuelles, détaillées, zonales… 
+- Nettoyage : Sources de contamination externes, internes, protection durant 
+les opérations de maintenance et de réparation… 
+- Câblage : Identification des câblages, isolation, dommages typiques, 
+métallisations. 
+- Appareillage de connectivité 
+- Réparation des appareillages de connectivité 
+8.2. Installations EWIS (Electrical Wiring Interconnection System) 
+Les installations EWIS doivent respecter les principes de sécurité liés à la 
+certification de l’aéronef  en prenant en compte les caractéristiques liées à leur 
+utilisation dans leur environnement.  
+Pour cela, le choix des fils doit tenir compte des caractéristiques connues par rapport 
+à leur utilisation et les équipements associés.  
+La déformation doit être prise en compte notamment pour les câbles d’alimentation 
+électrique principale qui se trouvent dans le fuselage et qui doivent pouvoir se déformer 
+et s’étirer dans des limites raisonnables sans pour autant se rompre. 
+Les composants EWIS qui se trouvent dans des endroits propices à l’accumulation 
+d’humidité doivent être protégés de façon à minimiser les effets dangereux de cette 
+humidité. 
+La prise en compte des risques liés à la détérioration physique des équipements EWIS 
+nécessite notamment de mettre en place des espacements physiques entre les 
+systèmes EWIS les uns des autres ou par rapports aux autres systèmes de l’avion, ou 
+de mettre en place des séparateurs assurant une protection équivalente à la distance 
+de sécurité. 
+Les risques portent sur : 
+- Les interférences électriques. 
+- Les courants de forte intensité. 
+- Les sources indépendantes d’alimentation électrique qui ne doivent pas 
+partager de raccordement commun de mise à la masse. 
+- Les conduites de carburants et leurs défaillances sur des composants EWIS. 
+===== PAGE 54 =====
+Module 7.7 V10   Page 54 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+- Les conduites hydrauliques et leurs défaillances sur des composants EWIS. 
+- Les composants du circuit oxygène et leurs défaillances sur des composants 
+EWIS. 
+- Les circuits d’eau et d’eaux usées et leurs défaillances sur des composants 
+EWIS. 
+- Les systèmes de commandes de vol et leurs défaillances sur des composants 
+EWIS. 
+- Les conduites d’air chaud et leurs défaillances sur des composants EWIS. 
+- Les composants de la structure, les arêtes vives et les rebords coupants… 
+ 
+  
+
+===== PAGE 55 =====
+Module 7.7 V10   Page 55 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.3. Normes d’inspection 
+Les inspections des composants EWIS doivent permettre de maintenir à un niveau de 
+sécurité optimal les aéronefs certifiés. 
+Inspection visuelle générale (GVI) 
+L’inspection visuelle générale permettra de constater des 
+dégradations ou des conditions propices à la détérioration 
+éventuelle des composants EWIS , tels que chaleur excessive, 
+brulures, vibrations, ou encore frottement. 
+Inspection visuelle détaillée (DET) 
+L’inspection visuelle détaillée permettra de définir la nature des 
+dégradations. 
+Ainsi, les défauts d’isolation, les arcs électriques, dégradations 
+sur réparations, prolongateurs défectueux, traces d’oxydations, 
+fuites, etc… 
+Stand alone GVI 
+Il s’agit d’une Inspection Visuelle Générale (GVI) qui n’est pas effectuée dans le cadre 
+d’une inspection de zone. 
+Elle oblige le technicien à porter une attention particulière à EWIS ( avec identification 
+et correction immédiate). 
+Même dans les cas où l’intervalle coïncide avec l’inspection de zone, la GVI 
+Individuelle doit demeurer une étape indépendante sur la carte de travail.  
+
+===== PAGE 56 =====
+Module 7.7 V10   Page 56 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+Inspection zonale 
+Avant la fermeture des trappes de visites ou des zones, une dernière inspection doit 
+permettre d’éliminer tout risque liés à la présence de corps étrangers (outils oubliés, 
+ingrédients, etc…) et valider que l’ensemble du travail a été effectué. 
+Les recommandations et standards EWIS sont à intégrer obligatoirement à ces 
+inspections zonales si elles concernent des composants EWIS. 
+8.4. Réparation et entretien 
+Les opérations de maintenance, si elles ne sont pas réalisées correctement, peuvent 
+à long terme provoquer des disfonctionnements et des dégradations de câblage. 
+Les réparations qui ne respectent pas les minima des standards des consignes de 
+navigabilité ont une durée de vie limitée. En revanche, les réparations qui sont 
+conformes aux recommandations des constructeurs sont généralement considérés 
+permanentes et ne nécessitent pas un travail ultérieur si elles sont correctement 
+maintenues. 
+- Mauvaises installations 
+Les câblages dont l’installation n’est pas correctement réalisée seront propices à des 
+dégradations prématurées. Un routage, une fixation ou une terminaison incorrecte, 
+durant l’installation initiale ou durant des modifications peuvent engendrer des 
+dégradations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 57 =====
+Module 7.7 V10   Page 57 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+8.5. Propreté 
+Lors de l’exploitation des aéronefs, les installations électriques peuvent être dégradées 
+par différentes sources de contamination.  
+Aucune condition dangereuse ne doit se créer sur un composant EWIS en 
+cas de contamination quelconque (fuite de liquide, saleté, etc…) 
+La connaissance des sources de contamination est primordiale pour atteindre cet 
+objectif. 
+La documentation avionneur indique une fois encore les procédures, outillages et 
+produits à mettre en œuvre pour le nettoyage et l’entretien des EWIS. 
+La philosophie EWIS est de « Nettoyer et protéger au fur et à mesure ». 
+• L’humidité 
+L’humidité excessive accélère la corrosion des contacts, cosses, connecteurs… 
+Les câblages installés dans des zones propres, sèches avec une température 
+modérée seront moins sensibles aux problèmes de corrosion. 
+• Les vibrations 
+Les fortes vibrations accélèrent avec le temps les dégradations. 
+Elles peuvent provoquer des pannes intermittentes, comme des faux contacts sur les 
+connexions type wrapping. De plus, de fortes vibrations exacerbent tout problème déjà 
+existant en amplifiant la dégradation de l’isolation de certains câblages. 
+• Dommages indirects 
+Des événements tels que la rupture d’une tuyauterie pneumatique à proximité d’un 
+câblage peut causer des dommages qui ne sont pas initialement identifiés mais qui 
+peuvent provoquer des problèmes électriques ultérieurement. 
+Lorsque ces événements surviennent, il est nécessaire d’inspecter avec soin les 
+composants EWIS environnant pour s’assurer qu’ils ne comportent pas de dommages. 
+• Contamination chimique 
+Les produits chimiques suivants peuvent contribuer à dégrader les câblages : 
+- Liquide hydraulique. 
+- Liquide batterie. 
+- Carburant. 
+- Produits anticorrosion. 
+- Eaux usées. 
+- Agents de nettoyage. 
+- Liquide de dégivrage. 
+- Peinture. 
+- Boissons et sodas. 
+
+===== PAGE 58 =====
+Module 7.7 V10   Page 58 sur 58 
+ 
+   
+AIR FORMATION CFM 66 © 2024 
+ 
+A noter que les câblages ayant été exposés aux liquides hydrauliques nécessitent une 
+attention particulière lors des inspections.  
+Le liquide hydraulique est très dommageable pour les caoutchoucs des colliers 
+notamment. Il peut provoquer également des dommages indirects comme des arcs et 
+des échauffements. 
+ 
+• Chaleur 
+Les câblages exposés à la chaleur peuvent se dégrader prématurément.  
+Le contact direct avec une source de chaleur peut rapidement détruire une isolation.  
+Il faut également prendre en compte l’exposition prolongée à des niveaux plus faibles 
+de chaleur.  
+Ce type de dégradation est parfois rencontré sur les moteurs, dans les galleys et 
+autours des lumières. 
+ 

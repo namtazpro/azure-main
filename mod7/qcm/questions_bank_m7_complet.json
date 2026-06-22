@@ -1,0 +1,2604 @@
+{
+  "questions": [
+    {
+      "question": "Combien de temps les hélices d'un turbopropulseur peuvent-elles continuer à tourner après l'arrêt du moteur ?",
+      "options": {
+        "A": "Environ 30 secondes",
+        "B": "Environ 90 secondes",
+        "C": "Environ 5 minutes"
+      },
+      "correct": "B",
+      "explication": "Les pales d'hélices d'un turbopropulseur restent silencieuses et peu visibles pendant leur rotation et continuent à tourner pendant environ 90 secondes après l'arrêt du moteur. Il ne faut jamais pénétrer dans le périmètre de sécurité tant qu'elles ne sont pas complètement arrêtées.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le temps maximum dans lequel s'effectue la mise en inversion ou le retour d'inversion d'un inverseur de poussée ?",
+      "options": {
+        "A": "2 secondes maximum",
+        "B": "5 secondes maximum",
+        "C": "10 secondes maximum"
+      },
+      "correct": "A",
+      "explication": "La mise en inversion ou le retour d'inversion d'un inverseur de poussée se fait en 2 secondes maximum. Pendant cette manœuvre, il est interdit de mettre les mains dans les coquilles (risque d'écrasement) et une liaison interphone sol/poste est indispensable.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après l'arrêt d'un APU, combien de temps faut-il attendre avant d'intervenir sur son circuit d'allumage ?",
+      "options": {
+        "A": "30 secondes",
+        "B": "3 minutes",
+        "C": "10 minutes"
+      },
+      "correct": "B",
+      "explication": "Il ne faut pas intervenir sur le circuit d'allumage de l'APU pendant son fonctionnement et il faut attendre 3 minutes après son arrêt. La tension très élevée fournie par la boîte haute énergie peut être mortelle.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En cas d'activation accidentelle d'un système BRS, dans quel rayon faut-il évacuer immédiatement ?",
+      "options": {
+        "A": "15 mètres",
+        "B": "30 mètres",
+        "C": "50 mètres"
+      },
+      "correct": "C",
+      "explication": "Dès le déclenchement ou le moindre signe suspect (fumée, sifflement, odeur de poudre), il faut évacuer immédiatement la zone dans un rayon de 50 mètres et donner l'alerte générale. À ne pas confondre avec le périmètre d'exclusion de 15 m établi pendant les travaux planifiés.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quelle classe de marchandises dangereuses appartient un système BRS pour son transport ?",
+      "options": {
+        "A": "Classe 1.4S (matières explosives)",
+        "B": "Classe 2.1 (gaz inflammables)",
+        "C": "Classe 9 (matières dangereuses diverses)"
+      },
+      "correct": "A",
+      "explication": "Les systèmes pyrotechniques BRS sont classés « marchandises dangereuses classe 1.4S ». Leur transport est soumis à la réglementation TMD (ADR routier, RID rail, IATA aérien) et nécessite un emballage UN homologué pour explosifs et un certificat ADR pour le chauffeur.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la durée de vie typique de la charge pyrotechnique d'un système BRS, au-delà de laquelle un remplacement est obligatoire ?",
+      "options": {
+        "A": "Généralement 10 à 15 ans",
+        "B": "25 ans renouvelables",
+        "C": "Durée illimitée tant que l'inspection visuelle est satisfaisante"
+      },
+      "correct": "A",
+      "explication": "Les systèmes pyrotechniques BRS ont une durée de vie limitée, généralement 10 à 15 ans. Au-delà, leur remplacement est obligatoire par le constructeur ou un organisme agréé. La date de péremption de la charge doit être vérifiée lors des inspections approfondies.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Jusqu'à quelle température peuvent monter les tuyauteries lors d'un essai de conditionnement d'air avec réacteur ou APU en route ?",
+      "options": {
+        "A": "Jusqu'à environ 50 °C",
+        "B": "Jusqu'à environ 100 °C",
+        "C": "Jusqu'à environ 200 °C"
+      },
+      "correct": "C",
+      "explication": "Lors des essais de conditionnement d'air avec réacteur ou APU en route, la plage de température sur les tuyauteries peut varier jusqu'à 200 °C, d'où le risque de brûlures graves par contact. Les consignes de sécurité doivent être respectées pour toute intervention sur le circuit.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quels articles du Code du travail sont soumis les travaux dans les réservoirs de carburant ?",
+      "options": {
+        "A": "Articles R 232.2 et R 232.3",
+        "B": "Articles R 4412-1 et suivants",
+        "C": "Articles L 232-5 et L 232-6"
+      },
+      "correct": "A",
+      "explication": "Les travaux dans les réservoirs de carburant sont soumis à la réglementation du Code du travail Art. R 232.2 et R 232.3. Ils imposent ventilation, matériels ATEX, contrôle à l'explosimètre, vérification de la toxicité et surveillance extérieure obligatoire.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi un allumeur de réacteur démonté ne doit-il être tenu que par son connecteur, sans toucher aux électrodes ?",
+      "options": {
+        "A": "Pour éviter de casser les électrodes en céramique",
+        "B": "Pour éviter une électrocution due à une charge résiduelle",
+        "C": "Parce que les électrodes contiennent du béryllium (matériau toxique)"
+      },
+      "correct": "C",
+      "explication": "Les électrodes des allumeurs contiennent du béryllium, un matériau toxique. Il faut donc tenir l'allumeur uniquement par son connecteur, ne pas toucher aux électrodes, et placer les allumeurs démontés dans un sac en plastique fermé.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un essai de pressurisation, quel est le risque principal d'un fonctionnement intempestif de la vanne de régulation si l'aéronef est en position « vol » (déclenchement du relais air/sol) ?",
+      "options": {
+        "A": "Un court-circuit du circuit de pressurisation",
+        "B": "L'éclatement des tympans et la perte de connaissance des intervenants",
+        "C": "Une fuite de carburant vers la soute électronique"
+      },
+      "correct": "B",
+      "explication": "Lors d'un essai de pressurisation avec aéronef en position vol (déclenchement du relais air/sol), un fonctionnement intempestif de la vanne de régulation présente un risque d'éclatement des tympans et de perte de connaissance des personnes présentes à bord. Toute approche ou accès sur un aéronef en essai de pressurisation représente un danger d'accident.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les critères de refus définis dans le livret, à partir de quel pourcentage d'usure de la dimension nominale des parties actives d'un outil celui-ci doit-il être écarté immédiatement et mis hors service ?",
+      "options": {
+        "A": "10 %",
+        "B": "5 %",
+        "C": "20 %"
+      },
+      "correct": "A",
+      "explication": "Le livret classe parmi les défauts critiques entraînant un refus systématique toute usure excédant 10 % de la dimension nominale des parties actives.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du contrôle préalable d'un outil, si une non-conformité est détectée, quelle couleur d'étiquette doit être apposée pour la mise hors service ?",
+      "options": {
+        "A": "Jaune",
+        "B": "Orange",
+        "C": "Rouge"
+      },
+      "correct": "C",
+      "explication": "La procédure en cas de détection de non-conformité impose d'apposer une étiquette rouge « HORS SERVICE - NE PAS UTILISER » de manière visible sur l'outil.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon le livret, quelle est la périodicité d'étalonnage à respecter pour une clé dynamométrique ?",
+      "options": {
+        "A": "Maximum 12 mois ou 5 000 cycles",
+        "B": "Maximum 6 mois ou 2 500 cycles",
+        "C": "Maximum 24 mois ou 10 000 cycles"
+      },
+      "correct": "A",
+      "explication": "Le contrôle de la date de dernier étalonnage des clés dynamométriques doit respecter un maximum de 12 mois ou 5 000 cycles d'utilisation.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'une opération de sablage en atelier, quelle distance entre la buse et la surface décapée doit être maintenue constante ?",
+      "options": {
+        "A": "50 à 100 mm",
+        "B": "400 à 600 mm",
+        "C": "150 à 300 mm"
+      },
+      "correct": "C",
+      "explication": "Le principe d'exécution du décapage impose de maintenir une distance buse-surface constante comprise entre 150 et 300 mm.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour assurer un décapage homogène lors d'une opération de sablage, quel taux de recouvrement entre passes successives faut-il appliquer ?",
+      "options": {
+        "A": "25 %",
+        "B": "50 %",
+        "C": "75 %"
+      },
+      "correct": "B",
+      "explication": "Le livret précise que la surface doit être balayée par passes régulières avec un recouvrement de 50 %.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les consignes de sécurité du livret, on ne doit jamais frapper avec un marteau directement sur une pièce dont la dureté est supérieure à :",
+      "options": {
+        "A": "30 HRc",
+        "B": "46 HRc",
+        "C": "60 HRc"
+      },
+      "correct": "B",
+      "explication": "La règle « jamais dur sur dur » interdit de frapper avec un marteau sur une pièce d'une dureté supérieure à 46 HRc ; au-delà, il faut utiliser une massette.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après serrage au couple nominal d'un assemblage à goupiller, si le trou de l'écrou n'est pas aligné avec celui de la vis, quelle action est autorisée ?",
+      "options": {
+        "A": "Serrer dans le sens du vissage jusqu'à alignement, dans la limite angulaire prévue (généralement 30° à 60°)",
+        "B": "Desserrer légèrement jusqu'à alignement du trou",
+        "C": "Frapper la goupille au marteau pour la forcer à traverser"
+      },
+      "correct": "A",
+      "explication": "Un serrage supplémentaire est autorisé uniquement dans le sens du vissage, dans la limite angulaire (généralement 30° à 60° selon documentation constructeur) ; il est interdit de desserrer pour aligner, sous peine de perte de précharge.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En quoi consiste la procédure de contre-couple appliquée à certains assemblages critiques (biellettes de commande de vol, fixations train) ?",
+      "options": {
+        "A": "Serrer au couple nominal puis appliquer un couple supplémentaire de 20 % pour sécuriser",
+        "B": "Appliquer le couple en deux étapes croissantes sans jamais desserrer",
+        "C": "Serrer au couple nominal, desserrer légèrement de 10 à 20°, puis resserrer au couple nominal"
+      },
+      "correct": "C",
+      "explication": "Le contre-couple consiste à serrer au couple nominal, desserrer légèrement de 10 à 20°, puis resserrer au couple nominal afin d'éliminer les frottements parasites et d'homogénéiser la précharge.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur un alésage contrôlé par calibre à limites (calibres « GO » et « NO GO »), la pièce est dans la tolérance si :",
+      "options": {
+        "A": "Les deux calibres « GO » et « NO GO » pénètrent dans l'alésage",
+        "B": "Le calibre « GO » pénètre et le calibre « NO GO » ne pénètre pas",
+        "C": "Aucun des deux calibres ne pénètre dans l'alésage"
+      },
+      "correct": "B",
+      "explication": "La grandeur est dans la tolérance lorsque le calibre « entre » (GO) pénètre et que le calibre « n'entre pas » (NO GO) ne pénètre pas ; si le NO GO passe, la pièce est usée et rejetée.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la conversion d'unités d'un manuel constructeur américain, quelle est la valeur d'un pouce (inch) en millimètres ?",
+      "options": {
+        "A": "30,48 mm",
+        "B": "24,5 mm",
+        "C": "25,4 mm"
+      },
+      "correct": "C",
+      "explication": "Le tableau de conversion du livret indique 1 inch = 25,4 mm (1 ft valant pour sa part 304,8 mm).",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle précision angulaire le livret indique-t-il pour une plieuse à presse utilisée en atelier aéronautique ?",
+      "options": {
+        "A": "± 0,5°",
+        "B": "± 0,1°",
+        "C": "± 2°"
+      },
+      "correct": "A",
+      "explication": "Les caractéristiques des plieuses à presse données dans le livret précisent une précision angulaire de ± 0,5°.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "D'après la règle du 1/10ème, pour contrôler une tolérance de ± 0,1 mm, la résolution de l'instrument de mesure doit être :",
+      "options": {
+        "A": "Au moins égale à 0,1 mm",
+        "B": "Inférieure ou égale à 0,01 mm",
+        "C": "Inférieure ou égale à 0,05 mm"
+      },
+      "correct": "B",
+      "explication": "La règle du 1/10ème exige que l'instrument ait une précision au moins 10 fois supérieure à la tolérance à vérifier ; pour ± 0,1 mm, un palmer de résolution ≤ 0,01 mm est nécessaire.",
+      "source": "M 7.2.pdf",
+      "chapter": "Module 7.2 - Pratiques d'atelier",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un pied à coulisse muni d'un vernier à 50 divisions, la précision de lecture est :",
+      "options": {
+        "A": "0,1 mm",
+        "B": "0,05 mm",
+        "C": "0,02 mm"
+      },
+      "correct": "C",
+      "explication": "Le module donne le calcul de précision pour les verniers : 10 divisions = 0,1 mm, 20 divisions = 0,05 mm, 50 divisions = 1/50 = 0,02 mm.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'une opération nécessitant une frappe à proximité immédiate d'un roulement ou d'une pièce trempée, la règle critique imposée par le module est :",
+      "options": {
+        "A": "utiliser un marteau acier directement, avec une frappe légère",
+        "B": "utiliser un jet intermédiaire en bronze, laiton ou aluminium pour absorber et répartir le choc",
+        "C": "chauffer la pièce avant la frappe afin d'éviter les microfissures"
+      },
+      "correct": "B",
+      "explication": "Le module interdit de frapper directement les roulements, filetages ou pièces trempées. Il faut toujours utiliser un jet intermédiaire (bronze, laiton, aluminium) qui absorbe l'énergie du choc, la répartit sur une surface plus large et protège la bague du roulement.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La spécification matériau imposée pour le fil à freiner aéronautique courant (référence MS20995C) est :",
+      "options": {
+        "A": "acier inoxydable A286 résistant à la corrosion et à la température",
+        "B": "cuivre étamé monobrin",
+        "C": "alliage cuivre-béryllium recuit"
+      },
+      "correct": "A",
+      "explication": "Le module précise comme matériau l'acier inoxydable A286 (résistant à la corrosion et à la température), avec les diamètres courants 0,51 mm, 0,81 mm et 1,04 mm sous spécification MS20995C.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après dénudage d'un conducteur électrique aéronautique, quel critère de refus impose le rebut du fil selon le module ?",
+      "options": {
+        "A": "plus de 10 % de brins sectionnés",
+        "B": "présence de tout brin entaillé, sans seuil de tolérance",
+        "C": "plus de 30 % de brins sectionnés"
+      },
+      "correct": "A",
+      "explication": "Le module fixe explicitement le critère de refus : tout conducteur présentant plus de 10 % de brins sectionnés doit être rebuté. Il faut alors recouper le fil et reposer une nouvelle cosse.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du choix d'un tournevis plat pour une vis à fente, la règle de sélection imposée par le module est :",
+      "options": {
+        "A": "lame légèrement plus large que la fente pour assurer un meilleur appui",
+        "B": "lame légèrement plus étroite que la fente pour ne pas marquer la tête",
+        "C": "largeur de la lame égale exactement à la largeur de la fente"
+      },
+      "correct": "C",
+      "explication": "Le module impose : largeur de la lame égale EXACTEMENT à la largeur de la fente. Une lame trop petite endommage le fond de la fente et provoque un dérapage ; une lame trop large déforme les bords de la tête.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une clé dynamométrique doit être utilisée dans sa plage recommandée d'utilisation, soit :",
+      "options": {
+        "A": "50 à 100 % de sa capacité maximale",
+        "B": "20 à 80 % de sa capacité maximale",
+        "C": "5 à 95 % de sa capacité maximale"
+      },
+      "correct": "B",
+      "explication": "Le module donne comme spécification d'usage la plage 20 à 80 % de la capacité maximale de la clé dynamométrique, afin de garantir la précision du couple appliqué.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une vis à six pans creux de diamètre M8, la taille de clé Allen correspondante donnée par le module est :",
+      "options": {
+        "A": "5 mm",
+        "B": "8 mm",
+        "C": "6 mm"
+      },
+      "correct": "C",
+      "explication": "Le tableau de correspondance vis/clé du module donne : M3 → 2,5 mm, M4 → 3 mm, M5 → 4 mm, M6 → 5 mm, M8 → 6 mm, M10 → 8 mm, M12 → 10 mm.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les classes de précision (NF E 11-010) données par le module, la tolérance d'une cale étalon de classe 00 est :",
+      "options": {
+        "A": "±0,0005 mm",
+        "B": "±0,0001 mm",
+        "C": "±0,001 mm"
+      },
+      "correct": "B",
+      "explication": "Le tableau des classes du module indique : classe 00 = ±0,0001 mm (étalon primaire), classe 0 = ±0,0002 mm (haute précision), classe 1 = ±0,0005 mm (réglage machines), classe 2 = ±0,001 mm (contrôle atelier).",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une cale étalon acier de 100 mm est utilisée avec un écart de température de 5 °C par rapport à 20 °C de référence (α = 0,000012/°C). L'erreur thermique calculée selon la formule du module est :",
+      "options": {
+        "A": "0,006 mm",
+        "B": "0,06 mm",
+        "C": "0,0006 mm"
+      },
+      "correct": "A",
+      "explication": "Application directe de la formule ΔL = α × L × ΔT donnée dans le module : 0,000012 × 100 × 5 = 0,006 mm. C'est l'exemple précis fourni dans la section consacrée aux cales étalon.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un contrôle par calibre à limites, si le tampon GO ne passe PAS et le tampon NO GO ne passe pas non plus, la pièce est :",
+      "options": {
+        "A": "conforme dans la tolérance",
+        "B": "trop petite → rebut",
+        "C": "trop grande → rebut"
+      },
+      "correct": "B",
+      "explication": "Le tableau d'interprétation du module donne : GO passe + NO GO ne passe pas = pièce OK ; GO ne passe pas + NO GO ne passe pas = trop petit → rebut ; GO passe + NO GO passe = trop grand → rebut.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour tester l'isolation d'un câble 115 VAC selon les valeurs typiques données par le module, le mégohmmètre s'utilise avec :",
+      "options": {
+        "A": "une tension de test de 1000 VDC, seuil minimal supérieur à 50 MΩ",
+        "B": "une tension de test de 250 VDC, seuil minimal supérieur à 10 MΩ",
+        "C": "une tension de test de 500 VDC, seuil minimal supérieur à 20 MΩ"
+      },
+      "correct": "A",
+      "explication": "Le tableau du module indique : câble 28 VDC → test 500 VDC, R mini > 20 MΩ ; câble 115 VAC → test 1000 VDC, R mini > 50 MΩ ; câble 200 VDC HT → test 1000 VDC, R mini > 100 MΩ.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour mesurer l'intensité dans un circuit avec un multimètre, le branchement et la procédure imposés par le module sont :",
+      "options": {
+        "A": "en parallèle du composant, circuit maintenu sous tension",
+        "B": "en série dans le circuit, après avoir impérativement coupé l'alimentation puis ouvert le circuit",
+        "C": "indifféremment en série ou en parallèle selon la lecture souhaitée"
+      },
+      "correct": "B",
+      "explication": "Le module impose pour la mesure d'intensité un montage en SÉRIE avec procédure : couper l'alimentation (impératif), ouvrir le circuit, sélectionner le calibre 10 A, connecter COM en amont et 10 A en aval, puis remettre sous tension pour lire. La mesure de tension, elle, se fait en parallèle.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En ambiance sèche, les tensions limites de sécurité mentionnées dans le module sont :",
+      "options": {
+        "A": "12 VAC / 30 VDC",
+        "B": "50 VAC / 120 VDC",
+        "C": "25 VAC / 60 VDC"
+      },
+      "correct": "C",
+      "explication": "Le module donne comme tensions limites de sécurité : ambiance sèche 25 VAC / 60 VDC ; ambiance humide 12 VAC / 30 VDC. Au-delà de 50 V, le port d'EPI isolants est obligatoire.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un pied à coulisse, la périodicité d'étalonnage exigée selon le module (certificat COFRAC obligatoire) est :",
+      "options": {
+        "A": "12 mois",
+        "B": "6 mois",
+        "C": "24 mois"
+      },
+      "correct": "A",
+      "explication": "Le module précise que l'étalonnage du pied à coulisse dure 12 mois avec certificat COFRAC obligatoire, et insiste plus généralement sur l'étalonnage périodique obligatoire des instruments de mesure de précision.",
+      "source": "M 7.3.pdf",
+      "chapter": "Module 7.3 - Outils",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À partir de quelle intensité de courant alternatif traversant le corps humain une fibrillation ventriculaire devient-elle possible selon le module ?",
+      "options": {
+        "A": "À partir de 1 mA",
+        "B": "À partir de 5 à 15 mA",
+        "C": "À partir de 30 mA AC (ou 100 mA DC)"
+      },
+      "correct": "C",
+      "explication": "Les effets physiologiques cités sont : < 1 mA picotement, 5 à 15 mA contraction musculaire involontaire, 30 mA AC ou 100 mA DC fibrillation ventriculaire possible.",
+      "source": "M 7.4.pdf",
+      "chapter": "Module 7.4 - Risques pour la sécurité lors de l'utilisation de systèmes électriques et d'équipements de protection",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la déconnexion des câbles d'une batterie principale d'aéronef, dans quel ordre faut-il procéder ?",
+      "options": {
+        "A": "Toujours débrancher le câble négatif (masse) en premier puis le positif ; rebrancher dans l'ordre inverse (positif d'abord, négatif ensuite)",
+        "B": "Toujours débrancher le câble positif en premier puis le négatif ; rebrancher dans le même ordre",
+        "C": "L'ordre est indifférent dès lors que l'outillage utilisé est isolé"
+      },
+      "correct": "A",
+      "explication": "Pour éviter les courts-circuits accidentels lors du retrait du câble positif, on débranche toujours le câble négatif (masse) en premier. Le rebranchement s'effectue dans l'ordre inverse : positif d'abord, puis négatif.",
+      "source": "M 7.4.pdf",
+      "chapter": "Module 7.4 - Risques pour la sécurité lors de l'utilisation de systèmes électriques et d'équipements de protection",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la plage de résistance imposée pour un bracelet antistatique utilisé en zone EPA (Electrostatic Protected Area) ?",
+      "options": {
+        "A": "Entre 100 Ω et 1 kΩ",
+        "B": "Entre 750 kΩ et 10 MΩ",
+        "C": "Supérieure à 100 MΩ"
+      },
+      "correct": "B",
+      "explication": "La résistance du bracelet antistatique doit se situer entre 750 kΩ et 10 MΩ : suffisamment faible pour évacuer les charges statiques vers la masse, suffisamment élevée pour limiter le courant de décharge en cas de contact accidentel avec une tension.",
+      "source": "M 7.4.pdf",
+      "chapter": "Module 7.4 - Risques pour la sécurité lors de l'utilisation de systèmes électriques et d'équipements de protection",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel type de dessin technique représente, en perspective, l'ensemble des pièces séparées pour situer chaque pièce par rapport aux autres et se retrouve également dans un IPC (Illustrated Part Catalog) ?",
+      "options": {
+        "A": "Le dessin éclaté (ou vue éclatée).",
+        "B": "Le dessin de définition.",
+        "C": "Le schéma de principe."
+      },
+      "correct": "A",
+      "explication": "Selon le § 1.2.4, la vue éclatée représente une pièce intégrée dans son ensemble afin de situer une pièce vis-à-vis des autres ; généralement en perspective, le détail des pièces se retrouve également dans une IPC : Illustrated Part Catalog.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans la convention européenne de projection, la vue de dessus est placée :",
+      "options": {
+        "A": "au-dessus de la vue de face.",
+        "B": "sous la vue de face.",
+        "C": "à droite de la vue de face."
+      },
+      "correct": "B",
+      "explication": "Le § 1.3 précise que dans la convention européenne, la vue de dessus est placée sous la vue de face et la vue de droite à gauche de la vue de face, ce qui revient à faire « rouler » la pièce au-dessus du plan sur lequel elle est posée.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la spécification ATA 100, à quel chapitre ATA correspond la rubrique « Trains d'atterrissage » (Landing Gear) ?",
+      "options": {
+        "A": "ATA 28.",
+        "B": "ATA 30.",
+        "C": "ATA 32."
+      },
+      "correct": "C",
+      "explication": "Le tableau ATA 100 du chapitre 4.2 indique que l'ATA 32 (LANDING GEAR) correspond aux trains d'atterrissage ; l'ATA 28 désigne le carburant et l'ATA 30 la protection givre et pluie.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle norme européenne s'applique aux matériels utilisables en atmosphères explosibles, notamment pour les opérations d'avitaillement ou d'inspection de réservoir ?",
+      "options": {
+        "A": "La norme ATEX.",
+        "B": "La norme ISO.",
+        "C": "La norme NAS."
+      },
+      "correct": "A",
+      "explication": "Le § 5.3 précise que la norme européenne ATEX (ATmosphères EXplosives) s'applique en aéronautique aux travaux en atelier, opérations d'avitaillement et interventions de maintenance en atmosphères explosives.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans une vue en coupe, les hachures symbolisent les traits de la scie et sont représentées en :",
+      "options": {
+        "A": "traits forts.",
+        "B": "traits fins.",
+        "C": "traits mixtes."
+      },
+      "correct": "B",
+      "explication": "Le § 1.5 (Les hachures) indique qu'elles symbolisent les traits de la scie et se représentent en traits fins ; pour une même pièce, elles sont identiques.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une perspective cavalière, les valeurs normalisées de l'angle des fuyantes et du rapport de réduction k sont :",
+      "options": {
+        "A": "a = 30° et k = 0,816.",
+        "B": "a = 45° et k = 0,5.",
+        "C": "a = 60° et k = 1."
+      },
+      "correct": "B",
+      "explication": "Le § 1.8.3 « Perspective cavalière » indique : les arêtes de bout sont inclinées d'un même angle a et réduites d'un même rapport k, avec valeurs normalisées a = 45° et k = 0,5.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans une perspective isométrique, quel angle sépare les axes principaux ?",
+      "options": {
+        "A": "60°.",
+        "B": "90°.",
+        "C": "120°."
+      },
+      "correct": "C",
+      "explication": "Le § 1.8.3 (perspectives axonométriques) précise pour la projection isométrique : « Angle à 120° », avec des fuyantes inclinées de 30° par rapport à l'horizontale.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la spécification ATA 100, le chapitre dédié au système « Fuel » (Carburant) est :",
+      "options": {
+        "A": "ATA 21.",
+        "B": "ATA 24.",
+        "C": "ATA 28."
+      },
+      "correct": "C",
+      "explication": "Le tableau ATA 100 du chapitre 4.2 attribue ATA 28 (FUEL) au carburant. ATA 21 correspond à l'air conditionné/pressurisation et ATA 24 à la génération électrique.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une cote portée sur un dessin sous la forme chiffrée « 15 -0,2 / +0,1 » exprime :",
+      "options": {
+        "A": "une dimension nominale assortie d'un écart inférieur et d'un écart supérieur (intervalle de tolérance).",
+        "B": "une cotation à l'échelle 1:1.",
+        "C": "une cote exprimée en pouces avec sa rugosité associée."
+      },
+      "correct": "A",
+      "explication": "Le § 1.7 (Tolérances) présente l'inscription chiffrée des tolérances : dimension nominale accompagnée d'un écart inférieur et d'un écart supérieur (ex. : 15 -0,2 +0,1), définissant l'intervalle de conformité.",
+      "source": "M 7.5.pdf",
+      "chapter": "Module 7.5 - Dessins d'étude, Diagrammes et Normes",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour la cote tolérancée 128 +0,5 / −0,8 mm, quelle est la cote mini admissible ?",
+      "options": {
+        "A": "127,2 mm",
+        "B": "127,5 mm",
+        "C": "128,5 mm"
+      },
+      "correct": "A",
+      "explication": "Pour la cote 128 +0,5/−0,8 : cote maxi = 128 + 0,5 = 128,5 mm ; cote mini = 128 − 0,8 = 127,2 mm ; tolérance = 1,3 mm. Une pièce mesurée entre 127,2 et 128,5 reste conforme.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle formule donne le diamètre de perçage à appliquer avant de réaliser un taraudage ?",
+      "options": {
+        "A": "Ø perçage = Ø nominal + pas",
+        "B": "Ø perçage = Ø nominal − pas",
+        "C": "Ø perçage = pas / 2"
+      },
+      "correct": "B",
+      "explication": "Pour réaliser un taraudage, il faut percer un alésage dont le diamètre est fonction du diamètre nominal du taraudage selon la formule : Ø de perçage = Ø nominal − pas. Exemple : un M3 × 0,5 nécessite un perçage de 2,5 mm.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans la désignation d'ajustement ISO Ø 80 H8/f7, que représente le « H8 » ?",
+      "options": {
+        "A": "Le diamètre nominal complémentaire",
+        "B": "La position et la qualité de l'IT de l'arbre",
+        "C": "La position et la qualité de l'IT de l'alésage"
+      },
+      "correct": "C",
+      "explication": "Dans la désignation Ø 80 H8/f7 : Ø 80 est le diamètre nominal, H8 désigne la position et la qualité de l'intervalle de tolérance de l'alésage (lettre majuscule), et f7 désigne la position et la qualité de l'IT de l'arbre (lettre minuscule).",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans le système de l'alésage normal (H), un arbre en position « f » donne quel type d'ajustement ?",
+      "options": {
+        "A": "Ajustement serré (montage en force)",
+        "B": "Ajustement avec jeu",
+        "C": "Ajustement incertain"
+      },
+      "correct": "B",
+      "explication": "Dans le système de l'alésage normal (tous les alésages sont H), la position de l'arbre détermine le type d'ajustement : position f = ajustement avec jeu ; position k = ajustement incertain ; position p = ajustement serré.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel ajustement correspond au moyen mnémotechnique « à la main » (hand) ?",
+      "options": {
+        "A": "H7 f6",
+        "B": "H7 g6",
+        "C": "H7 h7"
+      },
+      "correct": "C",
+      "explication": "Moyens mnémotechniques : H7 f6 monté « flottant » ; H7 g6 monté « glissant » ; H7 h7 à la main « hand » ; H7 js5 « juste serré » ; H7 m6 au « maillet » ; H7 p6 à la « presse » ; H7 s6 très « serré ».",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la formule correcte pour calculer le « jeu Maxi » d'un ajustement arbre/alésage ?",
+      "options": {
+        "A": "Jeu Maxi = Alésage Maxi − arbre mini",
+        "B": "Jeu Maxi = Alésage mini − arbre Maxi",
+        "C": "Jeu Maxi = arbre Maxi − Alésage mini"
+      },
+      "correct": "A",
+      "explication": "Pour calculer un jeu : Jeu Maxi = Alésage Maxi − arbre mini ; Jeu mini = Alésage mini − arbre Maxi. Si les deux valeurs sont positives → montage glissant ; négatives → montage serré ; signes opposés → montage incertain.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans le système ISO de tolérances, à quoi correspond la classe de qualité 0 ?",
+      "options": {
+        "A": "La largeur d'intervalle de tolérance la plus large",
+        "B": "La meilleure qualité, avec l'intervalle de tolérance (IT) le plus faible",
+        "C": "La qualité standard utilisée par défaut dans les cartouches"
+      },
+      "correct": "B",
+      "explication": "Le système ISO définit des classes de qualités variant de 0 à 16 ; la classe 0 est la meilleure qualité (IT le plus faible). En pratique, on utilise couramment les classes 5 à 13 ; une qualité 5 est considérée fine, une qualité 11 est large.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quels sont les quatre types d'usure des pièces métalliques identifiés dans le livret ?",
+      "options": {
+        "A": "Abrasive, adhésive, corrosive et par fatigue",
+        "B": "Chimique, thermique, mécanique et électrique",
+        "C": "Superficielle, profonde, ponctuelle et étendue"
+      },
+      "correct": "A",
+      "explication": "Le livret identifie quatre types d'usure pour les pièces métalliques : abrasive (frottement d'aspérités), adhésive (liaisons intermoléculaires, précurseur du grippage), corrosive (réaction chimique) et par fatigue (contraintes cycliques créant et propageant des criques).",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À combien de millimètres correspond 1 inch (1 in) selon la norme ANSI utilisée sur les plans aéronautiques ?",
+      "options": {
+        "A": "24,5 mm",
+        "B": "25,4 mm",
+        "C": "32,0 mm"
+      },
+      "correct": "B",
+      "explication": "Les unités de cotation les plus fréquemment utilisées sont le millimètre (norme ISO-AFNOR) et l'inch (norme ANSI) avec la conversion : 1 in = 25,4 mm. Lorsqu'une dimension est exprimée dans l'une de ces deux unités, l'unité n'est pas indiquée.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la précision typique d'un micromètre utilisé pour le contrôle dimensionnel ?",
+      "options": {
+        "A": "Au millimètre",
+        "B": "Au 1/100 de millimètre",
+        "C": "Au micron (1/1000 de mm)"
+      },
+      "correct": "C",
+      "explication": "Le micromètre offre une précision au micron et permet de mesurer diamètres et longueurs. À comparer avec : pied à coulisse (2/100 pour la plupart des modèles), comparateur (1/100 ou micron), colonne de mesure (micron), machine à mesurer tridimensionnelle (dixième de micron).",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En zone identifiée CDCCL, lorsqu'un défaut de continuité électrique est détecté sur un câble, quelle action est imposée par le livret ?",
+      "options": {
+        "A": "Procéder au changement pur et simple du câble",
+        "B": "Réparer le câble par épissure sertie agréée",
+        "C": "Isoler le défaut par une gaine thermo-rétractable adaptée"
+      },
+      "correct": "A",
+      "explication": "Le livret précise qu'en zone identifiée CDCCL la réparation de continuité est interdite et qu'il faut procéder au changement pur et simple du câble.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une tresse de métallisation présentant des traces visibles de corrosion doit être :",
+      "options": {
+        "A": "Nettoyée à la brosse laiton puis remontée",
+        "B": "Réparée par ajout d'un brin de cuivre étamé",
+        "C": "Remplacée immédiatement"
+      },
+      "correct": "C",
+      "explication": "Le livret comporte un avertissement CDCCL explicite : « Une métallisation corrodée est à remplacer immédiatement ! » ; en zone CDCCL, le composant représentant un risque doit être remplacé et non réparé.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle tension de test doit être appliquée pour la mesure d'isolement d'un circuit alimenté en 115/200 V AC ?",
+      "options": {
+        "A": "45 V DC",
+        "B": "250 V DC",
+        "C": "500 V DC"
+      },
+      "correct": "C",
+      "explication": "Le livret précise une tension de test de 45 V DC pour les circuits 26 V AC et 28 V DC, et de 500 V DC pour les circuits 115/200 V AC.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un contrôle de métallisation par rapport à la référence aéronef générale (borne négative de la batterie 1), la chute de tension mesurée entre la cosse et la structure ne doit pas excéder :",
+      "options": {
+        "A": "1,5 mV",
+        "B": "0,5 mV",
+        "C": "10 mV"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que la chute de tension ne doit pas excéder 1,5 mV (ou la résistance 0,01 mΩ) entre la cosse et la structure, mesurée par rapport au point de référence général de l'aéronef.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur la tourelle M22520/1-02 de la pince à sertir standard M22520/1-01, à quelle taille de contact correspond le repère de couleur bleue ?",
+      "options": {
+        "A": "Taille 12",
+        "B": "Taille 16",
+        "C": "Taille 20"
+      },
+      "correct": "B",
+      "explication": "Le livret précise le code couleur de la tourelle : barillet en position rouge pour la taille 20, en position bleue pour la taille 16 et en position jaune pour la taille 12.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon le livret, quel est le nombre maximal de câbles autorisé dans un toron et le diamètre maximal correspondant ?",
+      "options": {
+        "A": "75 câbles, diamètre 55 mm maximum",
+        "B": "50 câbles, diamètre 40 mm maximum",
+        "C": "100 câbles, diamètre 75 mm maximum"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que le nombre maximum de câbles dans un toron est de 75 et que ce dernier ne doit pas dépasser 55 mm de diamètre.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un toron de grand diamètre (d), quel pas de frettage faut-il appliquer entre deux frettes successives ?",
+      "options": {
+        "A": "1 à 1,5 d",
+        "B": "0,5 d",
+        "C": "2 à 2,5 d"
+      },
+      "correct": "B",
+      "explication": "Le livret fixe le pas de frettage en fonction du diamètre du toron : 2 à 2,5 d pour les petits diamètres, 1 à 1,5 d pour les moyens et 0,5 d pour les diamètres importants.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lorsqu'une réparation impose un raccourcissement d'un câble coaxial, quelle action le livret rend-il obligatoire ?",
+      "options": {
+        "A": "Sertir un splice de raccordement adapté à l'impédance",
+        "B": "Recalculer l'impédance après réparation et la consigner dans le dossier",
+        "C": "Changer le câble coaxial"
+      },
+      "correct": "C",
+      "explication": "Le livret précise que si une réparation doit entraîner un raccourcissement du câble coaxial, ce dernier doit être changé, car ses caractéristiques s'en trouveraient modifiées et non valides.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour absorber un surplus de longueur sur un câble coaxial entre deux colliers, le livret recommande de former une boucle de rayon de courbure d'environ :",
+      "options": {
+        "A": "3 fois le diamètre du câble",
+        "B": "5 fois le diamètre du câble",
+        "C": "10 fois le diamètre du câble"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que le surplus de longueur peut être absorbé par des vagues entre deux colliers ou par une boucle d'un rayon de courbure d'environ 10 fois le diamètre du câble.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la mise en œuvre d'un manchon auto-soudeur Raychem, quel changement d'aspect indique que la soudure est correctement réalisée ?",
+      "options": {
+        "A": "La gaine devient transparente sans changement de couleur de la soudure",
+        "B": "La soudure passe du gris mat à l'argent brillant et coule vers les extrémités scellées",
+        "C": "La soudure prend une teinte dorée uniforme sur toute la longueur du manchon"
+      },
+      "correct": "B",
+      "explication": "Le livret précise qu'il faut continuer à chauffer jusqu'à ce que la soudure passe du gris mat à l'argent brillant et coule vers les extrémités scellées, signe que la connexion est correctement réalisée.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une connexion enroulée (wrapping) « modifiée », une spire supplémentaire isolée est ajoutée à l'enroulement jointif. Quel est son rôle principal ?",
+      "options": {
+        "A": "Donner une élasticité à la connexion et une résistance aux vibrations",
+        "B": "Améliorer la conductibilité électrique du contact",
+        "C": "Permettre l'identification visuelle du circuit concerné"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que la connexion « modifiée » comporte une spire supplémentaire isolée qui donne une élasticité à la connexion et une résistance aux vibrations.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans la désignation d'un rivet AN470AD3-5, à quelle composition d'alliage correspondent les lettres « AD » ?",
+      "options": {
+        "A": "Cuivre.",
+        "B": "Alliage d'aluminium 2024-T (DD).",
+        "C": "Alliage d'aluminium 2117-T."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2.1.3 indique : AD = alliage d'aluminium 2117-T ; DD = 2024-T ; C = cuivre. L'exemple AN470AD3-5 désigne donc un rivet à tête universelle, en 2117-T, de 3/32\" de diamètre et 5/16\" de longueur.",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est l'espacement (spacing) généralement admis entre deux lignes parallèles de rivets ?",
+      "options": {
+        "A": "Entre 1D et 2D.",
+        "B": "Entre 2,5D et 4D.",
+        "C": "Entre 5D et 8D."
+      },
+      "correct": "B",
+      "explication": "Le § 1.2.1 précise que l'espacement entre rivets, strictement défini par les constructeurs, est en général compris entre 2,5D et 4D (D = diamètre du rivet) pour garantir la rigidité et éviter le flambage local.",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une zone étanche ou pressurisée (réservoirs, cloisons étanches), le pas (pitch) entre rivets d'une même ligne est généralement compris entre :",
+      "options": {
+        "A": "4D et 6D.",
+        "B": "6D et 8D.",
+        "C": "8D et 12D."
+      },
+      "correct": "A",
+      "explication": "Le § 1.2.1 (PAS) précise : le pas est en général compris entre 5D et 10D en zone normale, et entre 4D et 6D pour les zones étanches/pressurisées (réservoirs, cloisons étanches).",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi les rivets en alliage 2017-T31 et 2024-T31 sont-ils appelés « icebox rivets » ?",
+      "options": {
+        "A": "Parce qu'ils sont posés sans aucun traitement thermique préalable.",
+        "B": "Parce qu'ils sont chauffés à 450 °C par écrasement à la presse avant pose.",
+        "C": "Parce qu'ils sont maintenus à basse température (réfrigérés) après trempe pour ralentir le vieillissement naturel et conserver une malléabilité suffisante avant pose."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2.1.2 explique que ces rivets durs sont trempés puis stockés réfrigérés (« icebox ») afin de ralentir le vieillissement naturel et conserver une malléabilité suffisante pour le rivetage dans le délai imparti.",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La vis Taper-Lock est montée en force dans un alésage conique. Quelle est l'interférence (écart) typique entre le diamètre du trou et celui de la fixation lors de la pose ?",
+      "options": {
+        "A": "Environ 50 microns.",
+        "B": "Environ 120 microns.",
+        "C": "Environ 250 microns."
+      },
+      "correct": "B",
+      "explication": "Le § 1.1.2.5 précise : « On place le taper-lock dans un trou plus petit de 120 microns et, au serrage, on crée une pression telle que les molécules ainsi comprimées subissent un effet de forge. »",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la conicité de la partie lisse d'une vis Taper-Lock, qui assure le freinage par friction ?",
+      "options": {
+        "A": "0,125 pouce par pied.",
+        "B": "0,250 pouce par pied.",
+        "C": "0,500 pouce par pied."
+      },
+      "correct": "B",
+      "explication": "Le § 1.1.2.5 (Eléments constitutifs) indique : « La conicité qui assure le freinage par friction est de 0,250 pouce par pied. »",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans la nomenclature d'un rivet AN, le premier chiffre qui suit la désignation d'alliage indique le diamètre de la tige exprimé en :",
+      "options": {
+        "A": "1/8 de pouce.",
+        "B": "1/16 de pouce.",
+        "C": "1/32 de pouce."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2.1.3 précise : « Le premier chiffre suivant la désignation de la composition du matériau indique le diamètre de la tige du rivet, exprimé en trente-deuxièmes de pouce. » Exemple : 3 = 3/32\".",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la dépose d'un rivet Cherry, après avoir percé le verrou et chassé la tige, quelle précaution est explicitement à respecter ?",
+      "options": {
+        "A": "Ne PAS percer complètement le manchon du rivet pour le retirer, car cela pourrait agrandir le trou.",
+        "B": "Percer entièrement le manchon pour s'assurer de son extraction complète.",
+        "C": "Agrandir volontairement l'alésage afin de faciliter la pose de la nouvelle fixation."
+      },
+      "correct": "A",
+      "explication": "Le § 1.1.2.6.1 (Dépose des rivets type Cherry) avertit : « Attention : NE percez PAS complètement le manchon du rivet pour le retirer, car cela pourrait agrandir le trou. »",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la pression maximale supportée par une tuyauterie souple aéronautique en acier inoxydable tressé ?",
+      "options": {
+        "A": "Jusqu'à 1 000 PSI environ.",
+        "B": "Jusqu'à 5 000 PSI environ.",
+        "C": "Jusqu'à 12 000 PSI environ."
+      },
+      "correct": "B",
+      "explication": "Le tableau comparatif rigides/souples (§ « RAPPELS ») indique que les flexibles en acier tressé supportent une pression modérée à élevée, jusqu'à 5 000 PSI ; les tuyauteries rigides en acier inoxydable peuvent atteindre 8 000 PSI.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le cintrage par enroulement (avec mandrin interne) permet d'obtenir un rayon de courbure minimal de l'ordre de :",
+      "options": {
+        "A": "1 × le diamètre du tube.",
+        "B": "5 × le diamètre du tube.",
+        "C": "10 × le diamètre du tube."
+      },
+      "correct": "A",
+      "explication": "Le § 1.1.3 indique parmi les avantages du cintrage par enroulement : haute précision du rayon et de l'angle, permettant des rayons très courts (jusqu'à 1 × diamètre) avec faible risque de plis ou d'aplatissement (avec mandrin).",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de l'essai hydraulique d'une tuyauterie rigide en conception, quelle pression d'épreuve est appliquée par rapport à la pression nominale ?",
+      "options": {
+        "A": "Une pression 1,2 à 1,5 fois supérieure à la pression nominale.",
+        "B": "Une pression 2 à 3 fois supérieure à la pression nominale.",
+        "C": "Une pression égale à 5 à 10 fois la pression nominale."
+      },
+      "correct": "A",
+      "explication": "Le tableau de l'annexe 2.2.2 (Essai de pression hydraulique) précise : application d'une pression 1,2 à 1,5 fois supérieure à la pression nominale, conformément aux normes EASA CS-25/23, FAA 14 CFR Part 25/23, ISO 6802 et SAE AS 5440.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du cintrage d'un tube, le comportement de l'extrados (face extérieure du cintre) est :",
+      "options": {
+        "A": "il s'épaissit par compression de la matière.",
+        "B": "il reste de même épaisseur que la zone droite.",
+        "C": "il s'amincit car la matière s'allonge et perd de l'épaisseur."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1 précise : « Lorsque l'on cintre un tube, l'extrados s'amincit, la matière s'allonge et perd de l'épaisseur. Au contraire, l'intrados s'épaissit par compression. »",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la péremption généralement appliquée aux tuyauteries souples en aéronautique ?",
+      "options": {
+        "A": "2 ans.",
+        "B": "5 ans.",
+        "C": "10 ans."
+      },
+      "correct": "C",
+      "explication": "Le § 3.3.1 précise : « Contrairement à la plupart des tuyauteries rigides, les tuyauteries souples sont soumises à péremption, généralement 10 ans, et devront être contrôlées en ce sens. »",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour les essais des tuyauteries de carburant, le fluide ou le média utilisé est habituellement :",
+      "options": {
+        "A": "Du Skydrol (fluide hydraulique).",
+        "B": "Un gaz inerte (azote ou mélange air-hélium) ou du carburant.",
+        "C": "De l'eau additionnée de chlore."
+      },
+      "correct": "B",
+      "explication": "Le § 2.2.1.2 précise : « Les tuyauteries carburant sont testées avec des gaz inertes (azote / mélange air-hélium) ou du carburant », alors que les essais hydrauliques utilisent du fluide type Skydrol.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "L'évasement double (double flare) en aéronautique est obtenu en :",
+      "options": {
+        "A": "réalisant un simple cône à l'extrémité du tube avec un outil conique.",
+        "B": "créant un bourrelet en relief (perle) sur la paroi du tube.",
+        "C": "repliant d'abord l'extrémité du tube vers l'intérieur sur elle-même, puis en l'évasant pour former un collet conique à double épaisseur."
+      },
+      "correct": "C",
+      "explication": "Le § 1.2.2 décrit l'évasement double en deux étapes : repli du matériau vers l'intérieur, puis évasement conique du tube replié, créant une double épaisseur au collet qui renforce mécaniquement la connexion.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du serrage au couple d'un raccord sur une tuyauterie souple, la contre-clé doit être appliquée sur :",
+      "options": {
+        "A": "l'extrémité de la tuyauterie souple elle-même, puis sur la partie mâle du raccord, avant l'application du couple définitif.",
+        "B": "uniquement la partie femelle du raccord pour éviter d'endommager le filetage.",
+        "C": "uniquement la tuyauterie souple, maintenue à la main, sans contre-clé sur le raccord."
+      },
+      "correct": "A",
+      "explication": "Le § 3.4 (cas des tuyauteries souples) impose : 1) contrer sur l'extrémité de la tuyauterie souple, 2) serrage non définitif (contact + 1/4 de tour) pour verrouiller la position, 3) contrer sur la partie mâle du raccord, 4) appliquer le couple définitif. Le maintien à la main n'est pas compatible avec un assemblage conforme.",
+      "source": "M 7.9.pdf",
+      "chapter": "Module 7.9 - Tuyauteries rigides et souples",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quels types de contrôles doivent être prévus lors de l'inspection complète d'un ressort aéronautique ?",
+      "options": {
+        "A": "Uniquement une inspection visuelle des extrémités et de la rectitude",
+        "B": "Uniquement un contrôle dimensionnel comparé aux limites du constructeur",
+        "C": "Une inspection visuelle, un contrôle dimensionnel et un contrôle fonctionnel (effort/raideur, capacité de rappel, charge spécifiée)"
+      },
+      "correct": "C",
+      "explication": "Les contrôles définis par le module comprennent l'inspection visuelle (fissures, criques, corrosion, déformations, état des extrémités), le contrôle dimensionnel (longueur libre, diamètres, nombre de spires actives) et le contrôle fonctionnel (effort/raideur, rappel, tension ou compression sous charge spécifiée).",
+      "source": "M 7.10.pdf",
+      "chapter": "Module 7.10 - Ressorts",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la règle à appliquer en cas d'anomalie constatée lors de l'inspection visuelle d'un ressort ?",
+      "options": {
+        "A": "Réparer le ressort par redressement ou nettoyage local et le remettre en service",
+        "B": "Remplacer systématiquement le ressort",
+        "C": "Le maintenir en service sous surveillance jusqu'à la prochaine visite programmée"
+      },
+      "correct": "B",
+      "explication": "Le module rappelle explicitement que TOUTE ANOMALIE NECESSITE LE REMPLACEMENT DU RESSORT. Toute dimension hors tolérance impose également le remplacement.",
+      "source": "M 7.10.pdf",
+      "chapter": "Module 7.10 - Ressorts",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelles dimensions principales doit-on relever lors du contrôle dimensionnel d'un ressort hélicoïdal au pied à coulisse ?",
+      "options": {
+        "A": "La hauteur du ressort détendu (Ho), le pas (P) et le diamètre des spires (d)",
+        "B": "Uniquement le diamètre extérieur des spires",
+        "C": "La masse du ressort et son angle d'enroulement"
+      },
+      "correct": "A",
+      "explication": "Le contrôle dimensionnel se fait au pied à coulisse (ou autre instrument de mesure) sur la hauteur détendue Ho, le pas P et le diamètre des spires d ; toute dimension hors tolérance impose le remplacement.",
+      "source": "M 7.10.pdf",
+      "chapter": "Module 7.10 - Ressorts",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la démagnétisation d'un roulement, quelle est la valeur maximale admissible de magnétisme résiduel mesurée au gaussmètre ?",
+      "options": {
+        "A": "Inférieure à 5 Gauss (ou 400 A/m)",
+        "B": "Inférieure à 50 Gauss (ou 4 000 A/m)",
+        "C": "Inférieure à 0,5 Gauss (ou 40 A/m)"
+      },
+      "correct": "A",
+      "explication": "Après démagnétisation, le champ magnétique résiduel doit être inférieur à 5 Gauss ou 400 A/m, vérifié au gaussmètre étalonné. Si la valeur est dépassée, l'opération doit être recommencée.",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle vitesse maximale de passage au démagnétiseur est prescrite pour un roulement ou les pièces qui le composent ?",
+      "options": {
+        "A": "0,6 cm/s (≈ 0,37 m/min)",
+        "B": "60 cm/s (≈ 37 m/min)",
+        "C": "6 cm/s (≈ 3,7 m/min)"
+      },
+      "correct": "C",
+      "explication": "Les roulements et leurs pièces sont passés au démagnétiseur à une vitesse ne devant pas excéder 3,7 m/min, soit environ 6 cm/s. Les parties démontables sont démagnétisées individuellement.",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du graissage d'un roulement, quelle quantité de graisse doit-on viser par défaut dans les espaces libres du logement et du roulement ?",
+      "options": {
+        "A": "Remplir complètement les espaces libres pour maximiser la protection contre la contamination",
+        "B": "Ne remplir que 1/3 à 1/2 des espaces libres du logement et du roulement",
+        "C": "Limiter le remplissage à 1/10 maximum pour éviter tout échauffement"
+      },
+      "correct": "B",
+      "explication": "Il faut ne remplir que 1/3 à 1/2 des espaces libres du logement et du roulement ; un graissage excessif donne lieu à une augmentation de température pouvant provoquer la détérioration du roulement. À faible vitesse, on peut garnir complètement pour améliorer l'étanchéité.",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Parmi les causes principales de défaillance prématurée des roulements, laquelle représente la part la plus importante des échecs selon le module ?",
+      "options": {
+        "A": "Une lubrification inadéquate",
+        "B": "Un défaut de montage ou d'alignement",
+        "C": "La contamination par des particules extérieures"
+      },
+      "correct": "A",
+      "explication": "Le tableau des causes d'échec prématuré place la lubrification inadéquate en tête (~36 % à ~80 % selon les critères), devant la fatigue/surcharge (~30-34 %), la contamination (~14-25 %) et le montage/alignement (~10-16 %).",
+      "source": "M 7.11.pdf",
+      "chapter": "Module 7.11 - Roulements",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de l'inspection d'un engrenage, un jeu de denture excessif (backlash) provoque principalement :",
+      "options": {
+        "A": "une augmentation du couple transmis sans risque immédiat",
+        "B": "des chocs et vibrations qui accélèrent l'usure des dents et peuvent dégrader rapidement la transmission",
+        "C": "un polissage uniforme acceptable selon l'AMM"
+      },
+      "correct": "B",
+      "explication": "Le module indique qu'un jeu excessif provoque des chocs et des vibrations en fonctionnement, ce qui accélère l'usure des dents et peut entraîner une dégradation rapide de la transmission. Un jeu hors tolérance est rédhibitoire et impose le changement des pièces défectueuses.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle différence le module établit-il entre grippage à chaud et grippage à froid d'un engrenage ?",
+      "options": {
+        "A": "Le grippage à chaud est dû à la rupture du film d'huile par surchauffe ; le grippage à froid résulte de fortes pressions de contact combinées à une lubrification insuffisante, souvent à faible vitesse",
+        "B": "Le grippage à chaud apparaît à faible vitesse, le grippage à froid à haute vitesse",
+        "C": "Le grippage à chaud est toléré sous surveillance ; le grippage à froid impose le remplacement systématique"
+      },
+      "correct": "A",
+      "explication": "Le module précise que le grippage à chaud est dû à la rupture du film d'huile par surchauffe dans les zones à fort glissement, alors que le grippage à froid provient de fortes pressions de contact avec lubrification insuffisante, souvent à faible vitesse, créant microsoudures et arrachements superficiels.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Les tapures de trempe observées sur un engrenage résultent :",
+      "options": {
+        "A": "d'une exposition prolongée à l'humidité",
+        "B": "d'un refroidissement trop rapide lors du traitement thermique ou d'un défaut métallurgique",
+        "C": "d'un contact métal/métal sous charge cyclique"
+      },
+      "correct": "B",
+      "explication": "Le module définit les tapures de trempe comme des microfissures dues au traitement thermique, résultant d'un refroidissement trop rapide ou d'un défaut métallurgique. Le défaut est rédhibitoire et impose le remplacement immédiat de l'engrenage.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Visuellement, des piqûres (pitting) sur le flanc d'une dent d'engrenage se présentent sous la forme :",
+      "options": {
+        "A": "de stries longitudinales avec un aspect mat",
+        "B": "de bourrelets et d'arêtes déformées",
+        "C": "de petits trous circulaires évoquant un aspect grêlé"
+      },
+      "correct": "C",
+      "explication": "Le module décrit les piqûres comme des micro-cratères ayant l'aspect de petits trous circulaires évoquant un aspect grêlé. Les stries longitudinales mates caractérisent l'abrasion, les bourrelets et arêtes déformées caractérisent le refoulement.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La surface de rupture d'une dent d'engrenage rompue par fatigue présente typiquement :",
+      "options": {
+        "A": "une zone lisse de propagation et une zone granuleuse de rupture finale",
+        "B": "une surface entièrement cristalline et nette",
+        "C": "un réseau de microfissures comparable à une céramique"
+      },
+      "correct": "A",
+      "explication": "Le module indique que la rupture par fatigue laisse une surface avec une zone lisse correspondant à la propagation progressive de la fissure et une zone granuleuse de rupture finale. La surface cristalline nette caractérise une rupture fragile, le réseau craquelé caractérise le faïençage.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "L'écaillage (spalling) des dents d'engrenage se distingue des piqûres car il correspond à :",
+      "options": {
+        "A": "un polissage léger et homogène acceptable selon l'AMM",
+        "B": "un arrachement de plaques de matière sur le flanc des dents évoluant vers une rupture de la couche supérieure",
+        "C": "une déformation lente et permanente du profil sous charge élevée"
+      },
+      "correct": "B",
+      "explication": "Le module définit l'écaillage comme un arrachement de plaques de matière sur le flanc des dents évoluant vers une rupture de la couche supérieure ; la criticité est élevée et la pièce devient non-navigable. Le polissage homogène désigne le brunissage, la déformation lente désigne le fluage.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la mesure du jeu de denture à la jauge d'épaisseur, après avoir fixé un engrenage et inséré la jauge entre deux dents en prise puis pris le point de référence par léger contact, l'étape suivante consiste à :",
+      "options": {
+        "A": "mesurer directement la longueur de l'arc de rotation depuis le point de référence",
+        "B": "retirer immédiatement la jauge pour la nettoyer avant nouvelle mesure",
+        "C": "continuer à faire tourner l'engrenage non fixé jusqu'à ce qu'un contact ferme soit établi et que la jauge ne puisse plus être retirée"
+      },
+      "correct": "C",
+      "explication": "Le module détaille la procédure : étape 3 = léger contact (point de référence), étape 4 = continuer la rotation jusqu'à contact ferme et impossibilité de retirer la jauge, étape 5 = mesurer la longueur d'arc ou le nombre de degrés correspondant au jeu.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une transmission nécessitant une synchronisation précise sans glissement, quel type de courroie est privilégié selon les critères de sélection du module ?",
+      "options": {
+        "A": "Courroie trapézoïdale V-Belt (friction seule)",
+        "B": "Courroie Poly-V",
+        "C": "Courroie crantée Timing belt trapézoïdale ou HTD curvilinéaire (engrènement positif)"
+      },
+      "correct": "C",
+      "explication": "Le module classe la synchronisation précise comme « Non » pour la V-Belt, « Moyenne » pour la Poly-V, et « Excellente » pour les Timing belt et HTD qui fonctionnent par engrènement positif sans glissement.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une courroie présentant une fissuration longitudinale dont la profondeur est mesurée à 25 % de l'épaisseur, la décision imposée par le module est :",
+      "options": {
+        "A": "remplacement obligatoire",
+        "B": "surveillance rapprochée acceptable",
+        "C": "aucune action, défaut mineur"
+      },
+      "correct": "A",
+      "explication": "Le module fixe le seuil à 20 % d'épaisseur : profondeur inférieure à 20 % impose une surveillance rapprochée, profondeur supérieure à 20 % impose le remplacement obligatoire. À 25 %, le seuil est dépassé.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Face à une fissuration transversale (perpendiculaire au sens de défilement) sur une courroie, le module impose :",
+      "options": {
+        "A": "une mesure de la profondeur à la jauge d'épaisseur avant toute décision",
+        "B": "une simple surveillance jusqu'à apparition de fissures longitudinales associées",
+        "C": "le remplacement de la courroie quelle que soit la taille des fissures, avec vérification des éléments de la transmission pour identifier la cause racine"
+      },
+      "correct": "C",
+      "explication": "Le module qualifie ce défaut de critique avec risque de rupture imminente : quelle que soit la taille des fissures, le remplacement est obligatoire selon l'AMM, accompagné de la vérification des éléments constituants la transmission pour identifier la cause racine.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du contrôle post-montage d'une courroie, le dégagement minimum (clearance) typiquement spécifié entre la courroie et les éléments adjacents est :",
+      "options": {
+        "A": "5 à 10 mm",
+        "B": "0 à 2 mm (contact léger admis)",
+        "C": "20 à 30 mm"
+      },
+      "correct": "A",
+      "explication": "L'annexe « check-list post-montage » du module spécifie un dégagement supérieur ou égal à la spécification AMM, typiquement 5 à 10 mm, avec les éléments adjacents (structure, câblage, tuyauteries).",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après la période de rodage d'une courroie neuve, si la mesure de tension révèle une perte supérieure à quelle valeur faut-il procéder au réajustement selon la check-list du module ?",
+      "options": {
+        "A": "supérieure à 25 %",
+        "B": "supérieure à 50 %",
+        "C": "supérieure à 10 %"
+      },
+      "correct": "C",
+      "explication": "La check-list post-rodage du module impose : si la perte de tension par rapport à la valeur initiale dépasse 10 %, procéder au réajustement selon l'AMM puis remesurer pour confirmation.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une roue dentée, un voile radial mesuré à 0,15 mm correspond, selon les valeurs génériques données par le module, à quelle décision ?",
+      "options": {
+        "A": "Acceptable sans action particulière",
+        "B": "Sous surveillance",
+        "C": "Remplacement obligatoire"
+      },
+      "correct": "B",
+      "explication": "Le module fixe les seuils : voile radial ou axial inférieur à 0,1 mm acceptable, voile entre 0,1 et 0,2 mm sous surveillance, voile supérieur à 0,2 mm impose le remplacement. La valeur 0,15 mm relève donc de la surveillance.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "L'allongement d'une chaîne mesuré sur une longueur de référence de 250 mm donne 251 mm. Selon la formule donnée par le module (Allongement % = [(L mesurée − L neuve) / L neuve] × 100), l'allongement vaut :",
+      "options": {
+        "A": "0,4 %",
+        "B": "4 %",
+        "C": "0,04 %"
+      },
+      "correct": "A",
+      "explication": "Application directe de la formule : (251 − 250) / 250 × 100 = 1 / 250 × 100 = 0,4 %. La comparaison aux limites de l'AMM permet ensuite de décider entre surveillance, remplacement planifié ou remplacement immédiat.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une chaîne aéronautique présentant un rouleau fissuré ou un axe sorti, la conduite imposée par le module est :",
+      "options": {
+        "A": "le maillon défectueux peut être remplacé seul, sans changer la chaîne complète",
+        "B": "une surveillance suffit tant que l'allongement global reste dans les tolérances",
+        "C": "aucune réparation par remplacement de composants individuels n'est autorisée ; remplacement de la chaîne complète selon l'AMM"
+      },
+      "correct": "C",
+      "explication": "Le module précise que rouleaux fissurés, axes sortis, maillons grippés ou allongement hors limites imposent systématiquement le remplacement de la chaîne complète selon l'AMM, sans possibilité de réparation par remplacement de composants individuels.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un système « roue et vis sans fin » (vérin à vis), le module identifie comme « organe le plus faible » :",
+      "options": {
+        "A": "la vis (qui subit le glissement)",
+        "B": "les paliers de support de la vis",
+        "C": "la roue, où apparaîtront les symptômes"
+      },
+      "correct": "C",
+      "explication": "Le module indique explicitement que dans la transmission roue/vis sans fin, l'organe le plus faible est la roue : c'est elle qui verra l'apparition des symptômes. C'est pourquoi en cas de défaut, vis et roue doivent toujours être remplacées ensemble.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Contrairement à un engrenage classique, l'entraînement dans un système vis sans fin / roue se fait par :",
+      "options": {
+        "A": "roulement d'un profil de dent sur l'autre",
+        "B": "glissement, ce qui se traduit par des caractéristiques de rendement et d'usure particulières",
+        "C": "friction sèche sans aucun lubrifiant"
+      },
+      "correct": "B",
+      "explication": "Le module insiste sur le fait que, contrairement à la majorité des autres systèmes d'engrenage où l'entraînement s'obtient par roulement d'un profil de dent sur l'autre, l'entraînement vis sans fin / roue s'obtient par glissement, d'où une lubrification critique et des caractéristiques d'usure spécifiques.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une biellette à double effet équipant une commande de vol primaire, le jeu radial maximal de l'embout articulé (rod end) donné en exemple par le module est de l'ordre de :",
+      "options": {
+        "A": "0,20 à 0,40 mm",
+        "B": "0,50 à 1,00 mm",
+        "C": "jusqu'à 1,50 mm tolérable"
+      },
+      "correct": "A",
+      "explication": "Le module donne comme valeurs typiques : commandes de vol primaires 0,20 à 0,40 mm (très strict), commandes secondaires 0,50 à 1,00 mm, applications non critiques jusqu'à 1,50 mm parfois tolérable.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Face à un levier de transmission constaté déformé ou vrillé, la conduite à tenir prescrite par le module est :",
+      "options": {
+        "A": "remplacement du levier ; aucune tentative de redressage n'est autorisée",
+        "B": "redressage à froid sous presse calibrée puis contrôle dimensionnel",
+        "C": "réchauffage local maîtrisé puis correction progressive de la géométrie"
+      },
+      "correct": "A",
+      "explication": "Le module est explicite : il faut procéder au remplacement du levier et aucune tentative de redressage n'est autorisée. Une investigation doit déterminer l'origine du défaut et la géométrie des éléments adjacents doit être vérifiée.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour contrôler le voile (faux-rond) radial et axial d'une poulie, l'instrument privilégié dans la démarche méthodique du technicien est :",
+      "options": {
+        "A": "la jauge d'épaisseur seule",
+        "B": "le comparateur",
+        "C": "le micromètre de profondeur"
+      },
+      "correct": "B",
+      "explication": "Le module précise dans la démarche d'inspection des poulies de vérifier l'alignement entre poulies au comparateur si spécifié et de contrôler l'absence de voile (faux-rond radial et axial), méthode également illustrée pour les roues dentées.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un sertissage d'embout sur câble de commande, dans quel sens doivent être effectuées les passes successives de la pince à sertir ?",
+      "options": {
+        "A": "De l'intérieur vers l'extrémité du câble, en passes alternées",
+        "B": "De l'extrémité vers l'intérieur, jamais en sens inverse",
+        "C": "Indifféremment, tant que le calibre go/no-go est respecté à la fin"
+      },
+      "correct": "B",
+      "explication": "La procédure normalisée impose un sertissage progressif par passes successives de l'extrémité vers l'intérieur — JAMAIS en sens inverse. Chaque passe est contrôlée au calibre go/no-go (AC 43.13-1B Fig. 7-18).",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le contrôle au calibre d'un embout serti révèle un sertissage hors des limites dimensionnelles du fabricant. Quelle est la conduite à tenir ?",
+      "options": {
+        "A": "Recouper le câble et installer un nouvel embout ; le re-sertissage est interdit",
+        "B": "Effectuer une passe supplémentaire jusqu'à obtenir la cote correcte",
+        "C": "Démonter l'embout, le réutiliser et sertir à nouveau avec une matrice plus large"
+      },
+      "correct": "A",
+      "explication": "Un sertissage effectué hors des limites dimensionnelles du fabricant doit être rejeté : le câble doit être recoupé et un nouvel embout installé. Le re-sertissage d'un embout est INTERDIT.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un câble de construction 7×19, combien de torons rompus au maximum sont admissibles par pas de câblage selon le tableau général de critères de rejet ?",
+      "options": {
+        "A": "2 torons rompus",
+        "B": "3 torons rompus",
+        "C": "4 torons rompus"
+      },
+      "correct": "C",
+      "explication": "Le tableau général de critères de rejet donne, par pas de câblage : 2 torons rompus max pour un 7×7, 3 pour un 19×7 et 4 pour un 7×19. Ces valeurs sont à titre général et il faut se conformer à l'AMM ; en cas de doute, REBUT IMMÉDIAT.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du contrôle d'un tendeur (turnbuckle) de commande de vol, quel critère est appliqué au nombre de filets exposés ?",
+      "options": {
+        "A": "Pas plus de 3 filets exposés de chaque côté",
+        "B": "Au moins 5 filets exposés de chaque côté pour garantir la marge de réglage",
+        "C": "Aucun filet ne doit être visible : tous doivent être complètement engagés"
+      },
+      "correct": "A",
+      "explication": "Les critères de contrôle des tendeurs imposent au plus 3 filets exposés de chaque côté, un filetage gauche d'un côté et droit de l'autre (marquage obligatoire), et une sécurité après réglage par fil frein (MIL-W-6712) ou clip homologué.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quoi est due principalement la limitation de rendement (typiquement 70 à 85 %) d'un câble de Bowden par rapport à un câble tendu classique sur poulies ?",
+      "options": {
+        "A": "À la dilatation thermique de la gaine en fonctionnement",
+        "B": "Aux frottements inévitables entre le câble intérieur et la paroi interne de la gaine",
+        "C": "À la perte de tension due à l'absence de tendeur réglable sur le système"
+      },
+      "correct": "B",
+      "explication": "Le rendement d'un Bowden, typiquement 70-85 %, résulte des frottements inévitables entre le câble intérieur et la paroi interne de la gaine. Il dépend du nombre et de l'amplitude des courbes imposées au cheminement, de l'état de lubrification interne et de l'usure.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la principale différence opérationnelle entre un câble de Bowden et un système à câble push-pull ?",
+      "options": {
+        "A": "Le push-pull est limité à la traction tandis que le Bowden transmet aussi la compression",
+        "B": "Le Bowden est utilisé pour les commandes de vol primaires CS-25, le push-pull pour les commandes auxiliaires uniquement",
+        "C": "Le Bowden transmet essentiellement la traction (compression limitée/non garantie) alors que le push-pull transmet traction et poussée"
+      },
+      "correct": "C",
+      "explication": "Le tableau comparatif du module indique : Bowden = effort de traction oui, compression limitée/non garantie, niveau d'effort faible ; push-pull = traction et compression oui, niveau d'effort variable, applicable aux commandes auxiliaires à charge élevée et au trim CS-25.",
+      "source": "M 7.13.pdf",
+      "chapter": "Module 7.13 - Câbles de commande",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon le livret, le pliage à chaud s'effectue à une température moyenne de 300 °C ; quel est alors le rayon de pliage minimal admissible ?",
+      "options": {
+        "A": "0,5 fois l'épaisseur de la tôle",
+        "B": "1 fois l'épaisseur de la tôle",
+        "C": "1,5 fois l'épaisseur de la tôle"
+      },
+      "correct": "C",
+      "explication": "Le livret précise qu'à chaud, à une température moyenne de 300 °C, le rayon de pliage minimal est de l'ordre de 1 fois et demie l'épaisseur de la tôle.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une tôle d'alliage 2024 plaqué T3 d'épaisseur comprise entre 1,6 et 3,2 mm pliée à froid, quel rayon minimum de pliage faut-il respecter ?",
+      "options": {
+        "A": "2,5e",
+        "B": "3e",
+        "C": "4e"
+      },
+      "correct": "B",
+      "explication": "Le tableau des alliages d'aluminium du livret donne, pour le 2024 ou 2024 plaqué à l'état T3 et une épaisseur de 1,6 à 3,2 mm, un rayon minimum de pliage de 3e.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une tôle 7075 livrée à l'état F ou O reçoit une trempe fraîche, puis doit être formée à l'état W. Quelle contrainte temporelle s'applique au formage ?",
+      "options": {
+        "A": "Le formage doit être effectué dans les 2 heures suivant la trempe fraîche",
+        "B": "Le formage doit être effectué dans les 24 heures suivant la trempe fraîche",
+        "C": "Aucune contrainte temporelle n'est imposée"
+      },
+      "correct": "A",
+      "explication": "Le tableau des alliages d'aluminium indique pour le 7075 à l'état W que la tôle doit être « formée dans les 2 heures suivant la trempe fraîche ».",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le but principal de l'opération de soyage couramment pratiquée en tôlerie aéronautique ?",
+      "options": {
+        "A": "Préparer la surface de la tôle avant traitement thermique",
+        "B": "Augmenter localement l'épaisseur de la tôle pour renforcer une zone sollicitée",
+        "C": "Assurer la continuité aérodynamique au niveau de la jonction entre cadres et lisses"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que le soyage est nécessaire afin d'assurer une continuité aérodynamique au niveau de la jonction entre cadres et lisses par exemple.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La technique du pliage « en l'air », par opposition au pliage en frappe, se caractérise par :",
+      "options": {
+        "A": "Un matériau plié sans être totalement soutenu par une matrice",
+        "B": "Un matériau plié en fond de matrice sous forte pression",
+        "C": "Un pliage réalisé sans poinçon, uniquement à l'aide d'un serre-flan"
+      },
+      "correct": "A",
+      "explication": "Le livret définit le pliage « en l'air » comme une technique de formage où le matériau est plié sans être totalement soutenu par une matrice, ce qui offre une grande flexibilité d'angles sans changer d'outillage.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la méthode d'adaptation donnée dans le livret, si le pliage en l'air d'un acier de résistance 40 DaN/mm² nécessite 10 tonnes, quelle force faut-il prévoir pour le même pliage sur un inox de résistance 60 DaN/mm² ?",
+      "options": {
+        "A": "6,7 tonnes",
+        "B": "10 tonnes",
+        "C": "15 tonnes"
+      },
+      "correct": "C",
+      "explication": "Le livret donne le calcul explicite : force pour inox = 10 × (60/40) = 15 tonnes, la force étant adaptée au matériau par le rapport des résistances.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour vérifier le rayon interne d'un pliage rectiligne réalisé à la plieuse manuelle, quel outil le livret recommande-t-il d'utiliser comme gabarit ?",
+      "options": {
+        "A": "Une jauge d'épaisseur",
+        "B": "Un foret (outil cylindrique)",
+        "C": "Une bille calibrée"
+      },
+      "correct": "B",
+      "explication": "Le livret précise que la vérification du rayon interne se fait en utilisant un outil de précision, comme un forêt (outil cylindrique), placé dans le rayon de pliage ; la bille est réservée aux pliages non rectilignes.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Un adhésif est qualifié de « structural » au sens du livret lorsqu'il est conçu pour résister, à température ambiante, à des contraintes supérieures à :",
+      "options": {
+        "A": "1 MPa",
+        "B": "7 MPa",
+        "C": "30 MPa"
+      },
+      "correct": "B",
+      "explication": "Les adhésifs structuraux sont définis comme conçus pour résister à des contraintes supérieures à 7 MPa à température ambiante, soit environ 70 kgf/cm².",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Parmi les contraintes que peut subir un assemblage collé, le clivage se caractérise par le fait qu'il :",
+      "options": {
+        "A": "Concerne les supports souples et s'exerce progressivement sur une petite partie du joint",
+        "B": "S'exerce parallèlement au plan de collage et sollicite tout l'assemblage",
+        "C": "Concerne les supports rigides et s'exerce en levier sur un bord du plan de collage"
+      },
+      "correct": "C",
+      "explication": "Le livret précise que le clivage concerne les supports rigides et s'exerce en levier sur un bord du plan de collage, ne sollicitant qu'une partie de l'assemblage ; le pelage concerne en revanche les supports souples.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un essai de sonorité métallique (Tap Test) sur une structure en nid d'abeilles, quel son indique un délaminage entre l'âme et le revêtement ?",
+      "options": {
+        "A": "Un son métallique clair",
+        "B": "Un bruit sourd",
+        "C": "Un sifflement aigu"
+      },
+      "correct": "B",
+      "explication": "Le livret indique qu'un son métallique clair correspond à une structure pleine, alors qu'un bruit sourd traduit la présence de délaminage ; un marteau en aluminium de 28 grammes constitue un excellent outil pour cet essai.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les conditions d'environnement imposées pour le collage de matériaux composites, la présence d'humidité dans l'atmosphère :",
+      "options": {
+        "A": "Empêche une bonne adhérence des colles et résines sans en gêner la polymérisation",
+        "B": "Accélère la polymérisation tout en améliorant l'adhérence",
+        "C": "N'a aucune influence sur la qualité du collage à condition que la température soit supérieure à 20 °C"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que la présence d'humidité peut empêcher une bonne adhérence des colles et résines sans en gêner la polymérisation, ce qui fait que le collage semble bon mais n'adhère pas aux pièces.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la formule de base du calcul de la position du centre de gravité (CG) d'un aéronef ?",
+      "options": {
+        "A": "CG = Σ Masses / Σ Moments.",
+        "B": "CG = Σ Moments / Σ Masses.",
+        "C": "CG = Masse × Bras de levier."
+      },
+      "correct": "B",
+      "explication": "Le § 1.1.2 énonce la formule fondamentale : « CG = Σ Moments / Σ Masses », où Σ Moments est la somme de tous les moments (masse × bras de levier) et Σ Masses la somme de toutes les masses.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le moment d'un élément, utilisé dans le calcul de centrage, se calcule par :",
+      "options": {
+        "A": "masse × bras de levier.",
+        "B": "masse / bras de levier.",
+        "C": "bras de levier × surface portante."
+      },
+      "correct": "A",
+      "explication": "Le § 1.1.2 définit le moment : « Produit de la masse par son bras de levier (M = masse × bras) », exprimé en kg·m ou lb·in.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La MTOM (Maximum Take Off Mass) désigne :",
+      "options": {
+        "A": "la masse à vide équipée de l'aéronef au sortir d'usine.",
+        "B": "la masse maximale autorisée au contact avec le sol lors de l'atterrissage.",
+        "C": "la masse maximale autorisée au début du roulage pour le décollage, définie par le constructeur et certifiée par l'autorité."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2 définit la MTOM comme la masse maximale autorisée au début du roulage pour le décollage, définie par le constructeur et certifiée par l'autorité. La masse maximale à l'atterrissage est la MLM (Maximum Landing Mass).",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel effet typique est associé à un centre de gravité trop en avant (Forward) ?",
+      "options": {
+        "A": "Une diminution de la stabilité longitudinale et un avion très nerveux.",
+        "B": "Un risque de départ en vrille irrécouvrable.",
+        "C": "Une vitesse de décrochage augmentée et une difficulté à cabrer au décollage, avec danger principal d'impossibilité de lever le nez."
+      },
+      "correct": "C",
+      "explication": "Le § 1.2.3 liste pour un CG trop en avant : augmentation de la stabilité longitudinale, difficulté à cabrer au décollage, vitesse de décrochage augmentée, distance de décollage augmentée, avec danger principal d'impossibilité de lever le nez au décollage. La diminution de stabilité et le risque de vrille sont au contraire associés au CG trop arrière.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Le centrage exprimé en pourcentage de la corde aérodynamique moyenne (% MAC) se calcule selon la formule :",
+      "options": {
+        "A": "% MAC = [(CG − LEMAC) / MAC] × 100.",
+        "B": "% MAC = (LEMAC × CG) / MAC.",
+        "C": "% MAC = (MAC / CG) × 100."
+      },
+      "correct": "A",
+      "explication": "Le § « Calcul du centrage en % MAC » donne explicitement : % MAC = [(CG − LEMAC) / MAC] × 100, où CG est la position du centre de gravité depuis le point de référence, LEMAC la position du bord d'attaque de la MAC depuis ce point, et MAC la longueur de la corde aérodynamique moyenne.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur le diagramme masse-centrage, la masse de l'aéronef est portée :",
+      "options": {
+        "A": "en abscisse.",
+        "B": "en diagonale.",
+        "C": "en ordonnée."
+      },
+      "correct": "C",
+      "explication": "Le § 1.2.2 « Représentation graphique » indique : « En abscisse : Position du CG (en m, in ou % MAC) ; En ordonnée : Masse de l'avion (en kg ou lb) ». La zone délimitée correspond à l'enveloppe ou plage autorisée.",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans le manuel de maintenance (AMM), à quel chapitre ATA est rattachée la procédure « Weight and Balance » (pesée et centrage) ?",
+      "options": {
+        "A": "ATA 05.",
+        "B": "ATA 08.",
+        "C": "ATA 32."
+      },
+      "correct": "B",
+      "explication": "Le § 1.3.1 (Aircraft Maintenance Manual) précise que la pesée et le centrage sont traités au chapitre « Weight and Balance » ATA 08, avec 08-00 (Généralités), 08-10 (Pesée) et 08-20 (Calculs et documents).",
+      "source": "M 7.16.pdf",
+      "chapter": "Module 7.16 - Pesée et centrage de l'aéronef",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un roulage technique d'un aéronef commercial, quelle est la vitesse maximale recommandée par le livret AIR FORMATION ?",
+      "options": {
+        "A": "8 km/h sur aire de manœuvre, au pas en hangar",
+        "B": "25 nœuds tant que la trajectoire est dégagée",
+        "C": "50 km/h dès la sortie de la zone de stationnement"
+      },
+      "correct": "A",
+      "explication": "Le document précise que la vitesse de roulage doit être adaptée et limitée (max 15 kt en roulage par puissance propre), et que pour les opérations de tractage la vitesse maximale est de 8 km/h sur aire et au pas en hangar.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel engin de refoulement est utilisé pour les avions de moins de 100 tonnes par le train principal (diabolo uniquement) ?",
+      "options": {
+        "A": "Le TRACMA TD 25 000 équipé d'un timon",
+        "B": "Le PPU (Power Push Unit) de 4 tonnes",
+        "C": "Le SOVAM K250 à barre de tractage classique"
+      },
+      "correct": "B",
+      "explication": "Le PPU (Power Push Unit) est un tracteur sans timon de 4 tonnes utilisé pour le refoulement des avions de moins de 100 tonnes par le train principal (diabolo uniquement).",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur un tracteur conventionnel à timon, comment s'effectue la liaison entre le tracteur et l'aéronef ?",
+      "options": {
+        "A": "Par contact direct sur le train d'atterrissage principal",
+        "B": "Par une élingue souple accrochée au train avant",
+        "C": "Par une barre équipée d'une tête emboîtable munie de fusibles"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que la liaison tracteur/avion conventionnel s'effectue par l'intermédiaire d'une barre, dont les timons sont équipés d'une tête emboîtable munie de fusibles destinés à se rompre en cas de surcharge.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Parmi les conditions nécessaires pour effectuer un tractage d'aéronef, laquelle est requise pour le personnel ?",
+      "options": {
+        "A": "Être majeur (18 ans) et titulaire d'une autorisation de conduite",
+        "B": "Être titulaire d'une licence de pilote privé",
+        "C": "Avoir suivi une simple formation interne d'une demi-journée"
+      },
+      "correct": "A",
+      "explication": "Le document liste explicitement comme conditions du personnel de tractage : majeur 18 ans, autorisation de conduite (Art. R233-13-19), évaluation de l'employeur, contrôle des connaissances, aptitude médicale.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les limitations opérationnelles citées pour le tractage, à partir de quelle vitesse de vent l'opération est-elle interdite ?",
+      "options": {
+        "A": "Au-delà de 15 kt quelle que soit la direction",
+        "B": "Au-delà de 40 kt (ou selon procédures locales)",
+        "C": "Au-delà de 80 kt en pleine charge"
+      },
+      "correct": "B",
+      "explication": "Les limitations opérationnelles du chapitre Tractage précisent : 'Conditions de vent : Ne pas tracter par vent > 40 kt (ou selon procédures)'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la vitesse maximale de tractage admise dans une zone restreinte (par exemple à proximité immédiate d'un parking) ?",
+      "options": {
+        "A": "8 km/h, identique à celle sur aire ouverte",
+        "B": "15 km/h pour limiter le temps d'occupation",
+        "C": "3 à 5 km/h, en zone restreinte"
+      },
+      "correct": "C",
+      "explication": "La procédure d'opération de tractage indique : 'Établir une vitesse de tractage au pas (max 8 km/h sur aire, 3-5 km/h en zone restreinte)'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi les cales en bois sont-elles de moins en moins utilisées en maintenance aéronautique ?",
+      "options": {
+        "A": "Elles glissent facilement humides/givrées et peuvent produire des FOD",
+        "B": "Elles sont interdites par la réglementation IATA depuis 2010",
+        "C": "Elles sont trop lourdes pour être manipulées par un seul opérateur"
+      },
+      "correct": "A",
+      "explication": "Le livret précise : 'Les cales en bois sont de moins en moins utilisées car elles glissent facilement lorsqu'elles sont humides ou givrées, vieillissent et se dégradent rapidement, et peuvent produire des débris susceptibles de devenir des FOD'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Combien de cales doit-on installer au minimum sur chaque roue ou train principal lors du calage d'un aéronef ?",
+      "options": {
+        "A": "Une seule cale à l'avant de la roue",
+        "B": "Deux cales, installées de part et d'autre de la roue",
+        "C": "Trois cales disposées en triangle autour de la roue"
+      },
+      "correct": "B",
+      "explication": "La méthode de calage impose d'utiliser toujours 2 cales pour pouvoir les installer de part et d'autre des roues, sur la partie extérieure des trains.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une cale équipée d'un cordon de jonction, où celui-ci doit-il être positionné ?",
+      "options": {
+        "A": "Vers l'intérieur, sous le bloc de freins",
+        "B": "Vers l'arrière, dans le sens de roulage",
+        "C": "Vers l'extérieur, pour éviter tout blocage sur les blocs de freins et autres composants"
+      },
+      "correct": "C",
+      "explication": "Le document indique : 'S'il est présent, le cordon de jonction sera positionné vers l'extérieur, pour éviter tout blocage sur les blocs de freins et autres composants'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la séquence recommandée pour la mise en place des cales après l'arrêt d'un aéronef ?",
+      "options": {
+        "A": "Serrer le frein de parc, puis caler le train auxiliaire et ensuite les trains principaux",
+        "B": "Caler immédiatement les trains principaux avant d'attendre l'autorisation cockpit",
+        "C": "Caler en premier le train avant sans utiliser le frein de parc"
+      },
+      "correct": "A",
+      "explication": "Le livret précise : 'Après avoir actionné le frein de parc et dans la mesure du possible, commencez par positionner les cales sur le train auxiliaire (train avant), puis sur les trains principaux'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le rôle d'une béquille de queue (« Horse bench » ou « Safety stay ») lors d'une mise sur vérins ?",
+      "options": {
+        "A": "Servir de point de levage complémentaire pour répartir la charge",
+        "B": "Servir uniquement de point de stabilité et de sécurité, sans usage en levage",
+        "C": "Remplacer un vérin défaillant pendant l'opération"
+      },
+      "correct": "B",
+      "explication": "Le livret indique explicitement : 'Ces outillages ne doivent pas servir au levage. Ils sont des points de stabilité et de sécurité'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Où se situent les points de levage sur lesquels les vérins doivent être installés ?",
+      "options": {
+        "A": "À mi-hauteur du fuselage, sur la peau extérieure",
+        "B": "Sous les pneus du train principal, au plus proche des essieux",
+        "C": "Sur les cadres forts du fuselage ou les longerons principaux des voilures, repérés par un logo"
+      },
+      "correct": "C",
+      "explication": "Le document indique que les points de levage se situent sur les cadres forts du fuselage ou sur les longerons principaux des voilures, et que leur emplacement est repéré par un logo spécifique.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la durée maximale associée à la « préservation de courte durée » telle que définie dans le livret ?",
+      "options": {
+        "A": "Une période inférieure ou égale à 30 jours",
+        "B": "Une période comprise entre 30 et 90 jours",
+        "C": "Une période supérieure à 90 jours"
+      },
+      "correct": "A",
+      "explication": "Le tableau et le texte du livret précisent que la préservation est d'une durée inférieure ou égale à 30 jours, souvent liée à des arrêts opérationnels et sans actions lourdes sur les systèmes.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À partir de quelle durée d'immobilisation parle-t-on de « stockage long terme » selon le livret ?",
+      "options": {
+        "A": "Au-delà de 30 jours",
+        "B": "Au-delà de 90 jours",
+        "C": "Au-delà de 365 jours"
+      },
+      "correct": "B",
+      "explication": "Le document définit le stockage long terme comme une durée supérieure à 90 jours, nécessitant un environnement contrôlé et des inspections plus lourdes.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Que signifie « Flight-Ready Condition » (FRC) appliqué à un aéronef stocké ?",
+      "options": {
+        "A": "L'aéronef est entièrement préservé en profondeur et nécessite plusieurs jours pour redécoller",
+        "B": "L'aéronef est verrouillé avec inhibitions majeures et vidanges complètes",
+        "C": "L'aéronef peut être remis en service après retrait des protections, inspections visuelles simples, vérification des niveaux et tests fonctionnels de base"
+      },
+      "correct": "C",
+      "explication": "Le livret définit explicitement le FRC : aéronef remis en service sans procédure lourde après uniquement retrait des protections, inspections visuelles simples, vérification des niveaux et tests fonctionnels de base.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un avitaillement, à quelle distance la citerne doit-elle être placée par rapport à l'aéronef ?",
+      "options": {
+        "A": "Entre 3 et 5 mètres de l'aéronef",
+        "B": "À plus de 20 mètres pour respecter le périmètre incendie",
+        "C": "Au contact direct du panneau d'avitaillement"
+      },
+      "correct": "A",
+      "explication": "La procédure d'arrivée de la citerne aux abords de l'aéronef impose de la placer à 3-5 mètres de l'aéronef ou d'un équipement d'avitaillement adapté.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après avoir effectué la mise à la terre de la citerne et de l'aéronef, combien de temps faut-il attendre avant d'ouvrir les trappes carburant ?",
+      "options": {
+        "A": "Aucune attente, l'ouverture peut être immédiate",
+        "B": "30 secondes pour permettre la dissipation des charges statiques",
+        "C": "5 minutes minimum pour purger les vapeurs"
+      },
+      "correct": "B",
+      "explication": "L'étape de mise à la terre précise : 'Attendre 30 secondes d'ouvrir les trappes (dissipation charges statiques)'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans quel rayon autour de l'aéronef l'avitaillement est-il interdit en cas d'orage ?",
+      "options": {
+        "A": "Dans un rayon de 1 km uniquement",
+        "B": "Dans un rayon de 3 km",
+        "C": "Dans un rayon de 8 km (5 NM)"
+      },
+      "correct": "C",
+      "explication": "Le tableau des conditions d'interdiction absolue indique : 'Orage – Rayon de 8 km (5 NM) – Risque de foudre et explosion'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la couleur caractéristique du fluide de dégivrage Type I ?",
+      "options": {
+        "A": "Orange",
+        "B": "Jaune pâle",
+        "C": "Verte"
+      },
+      "correct": "A",
+      "explication": "Le tableau des fluides précise que le Type I est un fluide non visqueux, newtonien, de couleur orange, chauffé à 60-80 °C et pulvérisé sous pression pour enlever le givre.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la couleur caractéristique du fluide antigivrage Type IV ?",
+      "options": {
+        "A": "Orange, comme le Type I",
+        "B": "Verte, plus visqueuse que le Type II",
+        "C": "Jaune dorée, moins visqueuse que le Type II"
+      },
+      "correct": "B",
+      "explication": "Le tableau des fluides indique que le Type IV est un fluide visqueux non newtonien de couleur verte, plus visqueux que le Type II et offrant la meilleure HOT.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle plage de pression est typique pour une Air Start Unit (ASU) lors d'un démarrage moteur ?",
+      "options": {
+        "A": "5 à 10 psi",
+        "B": "100 à 150 psi",
+        "C": "30 à 50 psi (typiquement 30-45 psi selon aéronef)"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que l'ASU fournit de l'air comprimé à haute pression et fort débit, typiquement compris entre 30 et 50 psi, pour assurer le démarrage des moteurs.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la découpe d'une déchirure de revêtement avant réparation provisoire, quel rayon minimum doit être appliqué dans les angles ?",
+      "options": {
+        "A": "Au moins 12 mm de rayon dans les angles, pour éviter une évolution du dégât",
+        "B": "Un rayon exact de 3 mm, identique au diamètre d'un rivet",
+        "C": "Aucun rayon requis, une découpe carrée est suffisante"
+      },
+      "correct": "A",
+      "explication": "Le livret indique : 'il sera nécessaire de découper proprement la partie déchirée en exécutant des arrondis d'au moins 12 mm de rayon dans les angles, afin d'éviter une évolution éventuelle du dégât'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la couleur caractéristique de la poudre produite par une corrosion par fretting (micro-mouvements vibratoires) ?",
+      "options": {
+        "A": "Une poudre noire, identique à de la suie",
+        "B": "Une poudre rouge-brun typique des assemblages mal serrés",
+        "C": "Une poudre bleu-vert, comme sur le cuivre"
+      },
+      "correct": "B",
+      "explication": "La section sur les types d'usure précise : 'Fretting : micro-mouvements par vibrations (assemblages mal serrés), poudre rouge-brun'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quels sont les trois éléments indispensables au mécanisme de corrosion électrochimique ?",
+      "options": {
+        "A": "Une source de chaleur, un acide concentré et une atmosphère inerte",
+        "B": "Un revêtement endommagé, un primaire et de la peinture",
+        "C": "Un électrolyte, une anode (métal moins noble) et une cathode (métal plus noble)"
+      },
+      "correct": "C",
+      "explication": "La corrosion électrochimique nécessite trois éléments : un électrolyte (eau, humidité, solution saline), une anode (zone qui se corrode) et une cathode (zone protégée), fonctionnant comme une pile.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans un couple galvanique aluminium / cuivre, quelle est la conséquence attendue ?",
+      "options": {
+        "A": "Corrosion sévère de l'aluminium qui joue le rôle d'anode",
+        "B": "Corrosion du cuivre qui se dissout dans l'aluminium",
+        "C": "Protection mutuelle des deux métaux par passivation"
+      },
+      "correct": "A",
+      "explication": "Le tableau des couples galvaniques dangereux précise que pour le couple Aluminium / Cuivre, l'aluminium se corrode sévèrement (anode) tandis que le cuivre, plus noble, est protégé.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est une caractéristique géométrique typique de la corrosion par piqûres (pitting) qui en fait un défaut très dangereux ?",
+      "options": {
+        "A": "Sa surface diffuse, qui aplanit uniformément la tôle",
+        "B": "Sa profondeur souvent supérieure au diamètre de la piqûre, pouvant perforer rapidement la structure",
+        "C": "Sa propagation lente et parfaitement linéaire, prévisible"
+      },
+      "correct": "B",
+      "explication": "Le livret indique que la corrosion par piqûres se présente sous forme de petites cavités en cratères dont la profondeur est souvent supérieure au diamètre et qui peuvent perforer rapidement la structure (gravité élevée).",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quels alliages d'aluminium sont particulièrement sensibles à la corrosion exfoliante (feuilletante) ?",
+      "options": {
+        "A": "Les alliages de fonderie type Al-Si non laminés",
+        "B": "Les aciers inoxydables austénitiques",
+        "C": "Les alliages d'aluminium laminés tels que 2024 et 7075"
+      },
+      "correct": "C",
+      "explication": "Le livret précise que les alliages sensibles à la corrosion exfoliante sont les alliages d'aluminium laminés, citant explicitement le 2024 et le 7075.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est l'aspect visuel caractéristique d'une corrosion exfoliante avancée sur une tôle d'aluminium ?",
+      "options": {
+        "A": "Soulèvement de lamelles fines de métal en couches parallèles, avec produits blanchâtres entre les couches",
+        "B": "Une fine poudre noire homogène recouvrant la surface",
+        "C": "Un dépôt vert dendritique caractéristique d'un alliage de nickel"
+      },
+      "correct": "A",
+      "explication": "Le livret décrit : 'Aspect feuilleté, écailleux, soulèvement de lamelles fines de métal, produits de corrosion blanchâtres entre les couches, gonflement apparent de la zone'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour qu'une corrosion sous tension (SCC) se développe, quelles conditions doivent être réunies simultanément ?",
+      "options": {
+        "A": "Uniquement une exposition prolongée à l'humidité",
+        "B": "Un alliage sensible, une contrainte de tension et un environnement corrosif (par exemple chlorures)",
+        "C": "Un traitement thermique excessif et une vibration mécanique élevée"
+      },
+      "correct": "B",
+      "explication": "Le livret liste les trois conditions nécessaires pour la SCC : alliage sensible (Al 7xxx, aciers haute résistance), contrainte de tension (résiduelle ou appliquée), et environnement corrosif (chlorures).",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sous quelle forme apparaissent typiquement les produits de corrosion sur un alliage d'aluminium ?",
+      "options": {
+        "A": "Un dépôt vert dendritique",
+        "B": "Un oxyde brun-rouge homogène",
+        "C": "Une poudre blanche ou grise, parfois sous forme de cloques"
+      },
+      "correct": "C",
+      "explication": "Le tableau des aspects de corrosion selon les alliages indique pour l'aluminium : 'Poudre blanche ou grise, cloque', avec corrosions par piqûres, intergranulaires, exfoliatrices et sous tension comme types principaux.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le rôle spécifique de la solution phosphorique dans le traitement anticorrosion de l'aluminium ?",
+      "options": {
+        "A": "Nettoyer chimiquement la surface et dissoudre les derniers oxydes pour préparer le métal, sans le protéger durablement",
+        "B": "Former une couche de conversion protectrice durable de plusieurs mois",
+        "C": "Servir de primaire de peinture définitif applicable seul"
+      },
+      "correct": "A",
+      "explication": "Le livret oppose nettement les deux produits : 'le phosphorique lave et prépare, l'Alodine protège et accroche'. La solution phosphorique est un nettoyant chimique dont l'action est temporaire (quelques heures seulement).",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans quel délai maximal l'Alodine doit-elle être appliquée après un traitement à la solution phosphorique ?",
+      "options": {
+        "A": "Dans les 30 minutes maximum, sinon l'effet est perdu",
+        "B": "Dans les 4 heures maximum, sinon l'aluminium s'oxyde à nouveau",
+        "C": "Sous 24 à 48 heures, en même temps que le primaire époxy"
+      },
+      "correct": "B",
+      "explication": "Le livret précise : 'Le délai impératif à respecter : vous devez appliquer l'Alodine dans les 4 heures maximum qui suivent le traitement phosphorique. Au-delà, l'aluminium s'oxyde à nouveau et il faut recommencer'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle coloration uniforme doit-on obtenir après application correcte d'une Alodine 1200S (Class 1A, chromate) ?",
+      "options": {
+        "A": "Une teinte gris clair mate, témoin du retrait des oxydes",
+        "B": "Une absence totale de couleur, transparente comme de l'eau",
+        "C": "Une couleur dorée à jaune ou irisée, uniforme sur toute la surface"
+      },
+      "correct": "C",
+      "explication": "Le livret décrit le contrôle du résultat : 'Pour un Alodine chromate type 1200S, vous devez obtenir une couleur dorée à jaune ou irisée, uniforme sur toute la surface sans zones blanches ou grises'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon le tableau d'évaluation du degré de corrosion, à partir de quel critère parle-t-on d'une corrosion de niveau 4 (critique) ?",
+      "options": {
+        "A": "Lorsque la perte d'épaisseur dépasse 10 % de l'épaisseur de la pièce",
+        "B": "Lorsque la profondeur reste inférieure à 0,1 mm sur une surface réduite",
+        "C": "Dès que la surface atteinte dépasse 5 cm² quelle que soit la profondeur"
+      },
+      "correct": "A",
+      "explication": "Le tableau d'évaluation du degré de corrosion indique pour le niveau 4 (critique) : profondeur > 10 % de l'épaisseur, traitement par remplacement ou réparation majeure.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les tâches CPCP du AMC 20-20B, quel est l'intervalle typique d'une inspection visuelle générale (GVI) anticorrosion ?",
+      "options": {
+        "A": "Tous les 3 mois maximum sur l'ensemble des zones",
+        "B": "Entre 12 et 48 mois selon les zones inspectées",
+        "C": "Une seule fois en fin de vie de l'aéronef"
+      },
+      "correct": "B",
+      "explication": "Le livret précise pour la GVI dans le CPCP : 'Intervalles : 12 à 48 mois selon zones – Inspection visuelle à distance de toucher, éclairage normal, miroirs autorisés'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle hypothèse de base distingue l'approche « Damage Tolerance » des approches Safe-Life et Fail-Safe en contrôle de fatigue ?",
+      "options": {
+        "A": "Elle suppose un dimensionnement à durée de vie infinie sans inspection",
+        "B": "Elle repose uniquement sur la redondance structurale entre éléments",
+        "C": "Elle suppose qu'un défaut initial est présent et calcule la propagation de crique pour inspecter avant la taille critique"
+      },
+      "correct": "C",
+      "explication": "Le livret définit l'approche Damage Tolerance : 'Hypothèse : défaut initial présent, calculer la propagation de crique, effectuer une inspection avant la taille critique'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la principale limite d'application du ressuage pénétrant en CND ?",
+      "options": {
+        "A": "Il ne détecte que les défauts débouchant en surface et ne voit pas les défauts internes ou obstrués",
+        "B": "Il ne fonctionne que sur les matériaux composites stratifiés",
+        "C": "Il nécessite obligatoirement un couplant gélifié sur la pièce"
+      },
+      "correct": "A",
+      "explication": "Le livret indique : 'Le ressuage ne décèle pas les défauts internes, ni les défauts débouchant obstrués ou colmatés par des contaminants (graisses, poussières, oxydes, calamine, résidus d'ajustages)'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un ressuage, sur quels matériaux les produits halogénés (contenant chlore et/ou soufre) sont-ils strictement interdits ?",
+      "options": {
+        "A": "Sur les alliages d'aluminium de la série 2024",
+        "B": "Sur le titane, ses alliages, et les aciers inoxydables",
+        "C": "Sur tous les matériaux composites stratifiés carbone"
+      },
+      "correct": "B",
+      "explication": "Le mode opératoire du ressuage prévient : 'les produits halogénés (contenant du chlore et/ou du soufre) ne doivent pas être utilisés sur le titane et ses alliages et sur les aciers inoxydables'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quels matériaux le contrôle par courants de Foucault est-il applicable ?",
+      "options": {
+        "A": "À tous les matériaux, y compris les céramiques et plastiques",
+        "B": "Uniquement aux matériaux composites stratifiés",
+        "C": "À tous les matériaux conducteurs d'électricité"
+      },
+      "correct": "C",
+      "explication": "La conclusion sur les courants de Foucault précise : 'Les méthodes par courants de Foucault s'appliquent à tous les matériaux conducteurs d'électricité', avec des défauts débouchant ou sous-jacents.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour qu'un défaut soit détecté de manière optimale par radiographie X, quelle est l'orientation préférentielle du défaut ?",
+      "options": {
+        "A": "Parallèle au faisceau de rayons X qui traverse la pièce",
+        "B": "Perpendiculaire au faisceau pour maximiser la diffraction",
+        "C": "À 45° du faisceau pour bénéficier d'un effet d'ombre"
+      },
+      "correct": "A",
+      "explication": "Le livret indique : 'La détection des défauts sera d'autant plus aisée que l'orientation des défauts est parallèle au faisceau de rayons X' et confirme dans la conclusion que l'orientation préférentielle des défauts est parallèle au faisceau de rayonnement X.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel élément est indispensable à la transmission de l'onde lors d'un contrôle par ultrasons sur une pièce métallique ?",
+      "options": {
+        "A": "Une source de rayonnement ionisant pour exciter le matériau",
+        "B": "Un couplant tel qu'un gel ou de l'eau, pour transmettre l'onde dans la pièce",
+        "C": "Un révélateur en poudre appliqué après le passage de la sonde"
+      },
+      "correct": "B",
+      "explication": "Le livret précise pour les ultrasons : 'Couplant obligatoire : gel, eau (transmission onde dans pièce)'. Sans couplant, l'onde ultrasonore ne pénètre pas correctement dans le matériau.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un démontage, en cas de blocage anormal d'un élément, dans quel ordre les actions doivent-elles être tentées selon le livret ?",
+      "options": {
+        "A": "Application immédiate de chaleur, puis forçage manuel énergique en cas d'échec",
+        "B": "Découpe immédiate de la fixation, sans tentative préalable de desserrage",
+        "C": "Produit dégrippant en premier, puis outil à choc, et en dernier recours application de chaleur"
+      },
+      "correct": "C",
+      "explication": "Le paragraphe sur le desserrage indique : 'il est possible de recourir à un produit dégrippant, puis à un outil à choc, et en dernier recours à l'application de chaleur. Il ne faut jamais forcer sur un élément'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la méthodologie d'inspection après événement anormal, dans quel cas l'inspection de phase 2 doit-elle obligatoirement être effectuée ?",
+      "options": {
+        "A": "Systématiquement après chaque incident, indépendamment des constats de la phase 1",
+        "B": "Uniquement si l'inspection de phase 1 a révélé un défaut",
+        "C": "Uniquement si l'équipage signale un bruit suspect dans le poste de pilotage"
+      },
+      "correct": "B",
+      "explication": "Une inspection de phase 1 sans défaut rend les phases 2 et 3 inutiles. Si la phase 1 révèle un défaut, il est impératif d'effectuer la phase 2 ; si la phase 2 révèle un défaut, il est impératif de passer à la phase 3.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la fonction réelle des départiteurs statiques (static dischargers) installés aux extrémités et bords de fuite des surfaces ?",
+      "options": {
+        "A": "Protéger l'avion contre la foudre en captant la décharge principale",
+        "B": "Évacuer la chaleur dégagée par les moteurs au décollage",
+        "C": "Évacuer l'électricité statique générée par la friction de l'air en vol afin d'éviter les interférences radio"
+      },
+      "correct": "C",
+      "explication": "Les départiteurs statiques et les tresses de métallisation n'empêchent ni ne protègent l'avion contre la foudre. Leur fonction est d'évacuer l'électricité statique générée par la friction de l'air en vol pour éviter les interférences radio (VHF comm, ADF, VOR…).",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quoi correspond l'acronyme HIRF dans le cadre des événements anormaux ?",
+      "options": {
+        "A": "High Intensity Radiated Fields — champs rayonnés à haute intensité",
+        "B": "High Impact Random Failure — défaillance aléatoire à fort impact",
+        "C": "Hard Impact Recovery Function — fonction de récupération après impact dur"
+      },
+      "correct": "A",
+      "explication": "Les HIRF (High Intensity Radiated Fields) sont des ondes électromagnétiques de forte puissance produites par des systèmes de transmission situés au sol (radars, radios FM/AM, GSM/4G/5G…) ou à bord d'autres aéronefs.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après un atterrissage lourd, quels paramètres doivent être relevés sur l'enregistreur de vol pour évaluer l'incident ?",
+      "options": {
+        "A": "Vitesse air, altitude pression et taux de roulis",
+        "B": "Accélération verticale (g), vitesse verticale (ft/min) et masse avion (tonnes)",
+        "C": "Température carburant, régime moteur et angle d'incidence"
+      },
+      "correct": "B",
+      "explication": "L'enregistreur de vol doit fournir, après un atterrissage dur, l'accélération verticale (g), la vitesse verticale (v/s en ft/min) et la masse avion (tonnes), afin de déterminer si les paramètres sont dans les tolérances admises.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi recommande-t-on, dans le cas d'un avion à train rentrant ayant subi un incident, de mettre l'avion sur vérins avant toute inspection ?",
+      "options": {
+        "A": "Pour des raisons de sécurité, afin d'éviter une rétraction intempestive pendant l'intervention",
+        "B": "Pour faciliter la pesée de l'aéronef avant remise en vol",
+        "C": "Pour vidanger les amortisseurs avant inspection visuelle"
+      },
+      "correct": "A",
+      "explication": "Dans le cas d'un train rentrant ayant subi un incident, il est recommandé pour des raisons de sécurité de mettre l'avion sur vérins avant toute inspection ou opération d'entretien. On vérifie que les trois trains sont sortis et verrouillés avant de remettre l'avion sur ses roues.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la classification OACI rappelée dans le module, comment se caractérise une turbulence sévère ?",
+      "options": {
+        "A": "Légère tension des ceintures, vol stable",
+        "B": "Occupants fermement pressés contre leurs ceintures et marche difficile",
+        "C": "Occupants violemment projetés, avion momentanément hors de contrôle, variations d'altitude supérieures à 100 ft"
+      },
+      "correct": "C",
+      "explication": "La classification OACI distingue turbulence légère (tension légère des ceintures), modérée (occupants fermement pressés, marche difficile) et sévère (occupants violemment projetés, avion hors contrôle, variations d'altitude > 100 ft).",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Qui établit le Maintenance Planning Document (MPD) et quel est son rôle ?",
+      "options": {
+        "A": "Le constructeur de l'aéronef ; il sert de base technique à l'exploitant pour élaborer son Programme d'Entretien (AMP)",
+        "B": "L'exploitant ; il est directement applicable en exploitation sans approbation",
+        "C": "L'autorité de navigabilité ; il remplace le programme d'entretien de l'exploitant"
+      },
+      "correct": "A",
+      "explication": "Le MPD est un document établi par le constructeur de l'aéronef, qui regroupe l'ensemble des tâches de maintenance issues de la MSG-3. Il constitue la base technique de référence utilisée par l'exploitant pour élaborer son Programme d'Entretien (AMP), et n'est pas directement applicable en exploitation.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la séquence correcte des documents issus de la méthodologie MSG-3 ?",
+      "options": {
+        "A": "AMP → MPD → MRBR",
+        "B": "MSG-3 → MRBR → MPD → AMP",
+        "C": "MPD → AMP → MRBR → MSG-3"
+      },
+      "correct": "B",
+      "explication": "Les analyses MSG-3 aboutissent à la rédaction du MRBR (Maintenance Review Board Report), qui constitue la base de l'élaboration du Maintenance Planning Document (MPD), à partir duquel l'exploitant établit son Programme de Maintenance Approuvé (AMP).",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Comment se définit le mode d'entretien « Hard Time » (HT) ?",
+      "options": {
+        "A": "Une maintenance basée sur l'analyse statistique des défaillances après leur apparition",
+        "B": "Une inspection périodique par rapport à un standard physique pour décider du maintien en service",
+        "C": "Un processus préventif qui retire ou révise un élément à des intervalles fixes liés au temps de service (calendrier, heures de vol ou cycles)"
+      },
+      "correct": "C",
+      "explication": "Le Hard Time est un processus préventif consistant à limiter la détérioration d'un élément à un niveau acceptable en effectuant des actions de maintenance (overhaul, refurbishment, bench check) à des intervalles fixes liés au temps de service (temps calendaire, heures de vol, cycles ou atterrissages).",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle différence réglementaire majeure existe entre une Consigne de Navigabilité (AD) et un Service Bulletin (SB) ?",
+      "options": {
+        "A": "L'AD a un caractère réglementairement obligatoire, alors que le SB n'est pas automatiquement obligatoire (sauf s'il est repris dans une AD ou rendu obligatoire par l'exploitant)",
+        "B": "Le SB est émis par l'autorité de navigabilité, l'AD est émise par le constructeur",
+        "C": "L'AD et le SB ont exactement la même portée réglementaire"
+      },
+      "correct": "A",
+      "explication": "L'AD est émise par une autorité de navigabilité (par exemple l'EASA) et a un caractère réglementairement obligatoire. Le SB est publié par le constructeur ou le détenteur de la conception et n'est pas automatiquement obligatoire, sauf s'il est repris dans une AD ou rendu obligatoire par la politique de l'exploitant.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la périodicité typique d'un « C Check » sur un aéronef commercial ?",
+      "options": {
+        "A": "Toutes les 400 à 600 heures de vol ou 1 à 2 mois",
+        "B": "Tous les 20 à 24 mois ou environ 6 000 heures de vol",
+        "C": "Tous les 6 à 10 ans avec démontage majeur"
+      },
+      "correct": "B",
+      "explication": "Le C Check est réalisé tous les 20 à 24 mois ou environ 6 000 heures de vol. Il comprend des inspections approfondies avec accès à de nombreuses zones de l'avion ; sa durée est de 1 à 2 semaines et l'avion est immobilisé en hangar.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans un magasin Part-145, comment doit être traitée une pièce placée en zone « Scraped » ?",
+      "options": {
+        "A": "Elle peut être remontée sur aéronef après réparation",
+        "B": "Elle est mise en attente d'expertise pour décision",
+        "C": "Elle est définitivement inutilisable et ne doit plus être montée sur aéronef"
+      },
+      "correct": "C",
+      "explication": "La zone « Scraped » regroupe les composants définitivement inutilisables, qui ne doivent plus être montés sur aéronef. Elle doit être clairement identifiée et physiquement séparée des autres zones (serviceable, unserviceable, quarantaine) afin d'éviter tout risque de mélange.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans quel cas l'EASA Form 1 doit-elle être utilisée ?",
+      "options": {
+        "A": "Pour la remise en service d'un élément/équipement d'aéronef, jamais pour l'APRS d'un aéronef complet",
+        "B": "Pour l'APRS d'un aéronef en maintenance en base",
+        "C": "Pour remplacer le CRM lors des opérations de maintenance en ligne"
+      },
+      "correct": "A",
+      "explication": "L'EASA Form 1 est délivrée uniquement dans le cadre de l'agrément Part-145 pour la remise en service d'un composant/équipement déposé. Elle ne doit pas être utilisée pour l'APRS d'un aéronef, laquelle est délivrée sur le CRM ou un formulaire CRS.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Qui est habilité à signer l'APRS finale en maintenance en base ?",
+      "options": {
+        "A": "Tout personnel de soutien de catégorie B1 ou B2 ayant signé une carte de travail",
+        "B": "Seul le personnel de certification APRS de catégorie C",
+        "C": "Le mécanicien Cat A qui a réalisé la dernière tâche"
+      },
+      "correct": "B",
+      "explication": "Selon la réglementation Part-145, les tâches lancées en maintenance en base doivent être signées par les personnels de soutien de catégories B1 et B2 ; seul le personnel de certification APRS de catégorie C peut signer l'APRS unique en fin de visite en base.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle situation interdit clairement la délivrance d'une APRS ?",
+      "options": {
+        "A": "Une AD/CN obligatoire n'a pas été appliquée ou une pièce a été montée sans certificat libératoire acceptable",
+        "B": "L'aéronef a réalisé un vol de contrôle satisfaisant",
+        "C": "Tous les travaux commandés ont été reportés avec l'accord de l'exploitant et tracés"
+      },
+      "correct": "A",
+      "explication": "L'APRS ne peut pas être prononcée lorsqu'une AD/CN ou limitation obligatoire n'a pas été appliquée, qu'une tâche critique n'a pas été exécutée, qu'un défaut impacte la sécurité des vols, ou qu'une pièce a été montée sans certificat libératoire acceptable. Dans ces cas, seule une mention « travaux effectués » peut être délivrée.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En cas de panne hors base, quelle est la durée maximale autorisée pour le montage temporaire d'un équipement sans EASA Form 1 conforme ?",
+      "options": {
+        "A": "Jusqu'au prochain C Check, sans limite intermédiaire",
+        "B": "10 heures de vol maximum",
+        "C": "30 heures de vol maximum ou jusqu'au retour en base"
+      },
+      "correct": "C",
+      "explication": "En cas de panne hors base, un montage temporaire d'un équipement sans EASA Form 1 conforme est autorisé pour 30 heures de vol maximum ou jusqu'au retour en base. L'équipement doit être jugé apte au service, avec l'accord de l'exploitant et une mention claire dans les documents de maintenance.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Que représente réglementairement le dépassement de la limite de vie d'un composant à durée de vie limitée (LLP) ?",
+      "options": {
+        "A": "Une simple anomalie mineure tolérée jusqu'à la prochaine visite C",
+        "B": "Une non-conformité réglementaire majeure ; le composant doit impérativement être retiré du service",
+        "C": "Une situation acceptable si le retour d'expérience constructeur est favorable"
+      },
+      "correct": "B",
+      "explication": "À la limite de vie, le composant doit être impérativement retiré du service, remplacé ou envoyé en réparation selon les instructions applicables. Le dépassement d'une limite de vie constitue une non-conformité réglementaire majeure.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quoi correspond le chapitre ATA 27 dans la codification ATA 100 ?",
+      "options": {
+        "A": "Trains d'atterrissage (Landing Gear)",
+        "B": "Commandes de vol (Flight Controls)",
+        "C": "Génération hydraulique (Hydraulic Power)"
+      },
+      "correct": "B",
+      "explication": "Le chapitre ATA 27 correspond aux FLIGHT CONTROLS — Commandes de vol. Les trains d'atterrissage relèvent de l'ATA 32 et la génération hydraulique de l'ATA 29.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre WARNING et CAUTION dans la documentation aéronautique ?",
+      "options": {
+        "A": "WARNING signale un risque pouvant provoquer la mort, des blessures graves ou des dommages matériels ; CAUTION signale une situation potentiellement dangereuse pouvant entraîner des lésions corporelles ou des dommages matériels",
+        "B": "WARNING signale une explication facilitant la compréhension de la tâche ; CAUTION signale un risque mortel",
+        "C": "Les deux mentions sont équivalentes et désignent toujours un risque pour la sécurité du vol"
+      },
+      "correct": "A",
+      "explication": "Selon la documentation : WARNING indique un risque de mort, blessures graves ou dommages matériels ; CAUTION indique une situation potentiellement dangereuse susceptible d'entraîner des lésions corporelles ou des dommages matériels ; NOTE apporte une explication facilitant la compréhension.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Que doit obligatoirement contenir un rapport de travaux de maintenance selon les éléments listés par le module ?",
+      "options": {
+        "A": "Uniquement la description du travail effectué et la signature du technicien",
+        "B": "Le ressenti personnel du mécanicien et son interprétation de la cause probable",
+        "C": "Identification (immatriculation, type, date/heure), références (Work Order/AMM/IPC/SRM avec n° de révision), travail effectué, pièces remplacées (PN/SN), valeurs mesurées, et certification (nom/trigramme, signature, n° de licence)"
+      },
+      "correct": "C",
+      "explication": "Les éléments obligatoires d'un rapport de travaux comprennent l'identification, les références documentaires (Work Order/Task Card/AMM/IPC/SRM avec n° de révision), la description claire et factuelle du travail, les pièces remplacées avec PN/SN, les valeurs mesurées et la certification signée avec n° de licence.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la règle des 3V d'Albert Mehrabian appliquée à la communication en face-à-face, quelle est la part approximative du « verbal » (les mots eux-mêmes) dans l'impact du message ?",
+      "options": {
+        "A": "Environ 7 %",
+        "B": "Environ 38 %",
+        "C": "Environ 55 %"
+      },
+      "correct": "A",
+      "explication": "La règle des 3V donne environ 7 % pour le verbal (les mots), 38 % pour le vocal (intonation, timbre, volume de voix) et 55 % pour le visuel (expression, posture, gestes). La communication non verbale représente ainsi 93 % de l'impact.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel principe fondamental régit la rédaction d'un rapport de dépannage (troubleshooting) selon le module ?",
+      "options": {
+        "A": "Inclure les hypothèses du mécanicien pour orienter l'analyse ultérieure de l'ingénierie",
+        "B": "Documenter des faits, jamais des suppositions",
+        "C": "Ne consigner que la conclusion finale pour rester concis et lisible"
+      },
+      "correct": "B",
+      "explication": "La règle essentielle des rapports de dépannage est : « Documenter des faits, jamais des suppositions ». Le rapport doit contenir des faits observables, des données mesurables et une logique technique démontrable, et ne doit comporter ni opinion personnelle, ni hypothèse non confirmée, ni formulation approximative.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    }
+  ]
+}

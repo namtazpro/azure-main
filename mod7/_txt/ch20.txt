@@ -1,0 +1,2017 @@
+===== PAGE 1 =====
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+Module 7.20 
+Procédures 
+d’entretien 
+Licence B1 / B2  
+ 
+ 
+Licence B1 B2  
+Livret destiné aux stagiaires 
+ 
+Édition 2026  
+===== PAGE 2 =====
+Module 7.20 V07 
+Page 2 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins que 
+celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à des 
+tiers non habilités.  
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+Un glossaire commun à l’ensemble des modules vous sera remis 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèse des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 12/05/2016 
+Page de garde et page 1  
+  
+Adresse, signatures et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du document    
+V05 14/06/2017 Toutes Nouvelle édition 
+V06 28/05/2024 Toutes Nouvelle édition 
+V07 03/01/2026 Toutes Mise à jour et conformité du livret avec ED 
+Décision 2023/019/R (Part 66 AMC1 Appendix I) 
+ 
+  
+Visa Rédacteur et responsable du 
+livret  
+Thomas LURO 
+Visa Responsable Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+ 
+  
+ 
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, elle ne doit 
+pas être considérée comme une référence technique. 
+===== PAGE 3 =====
+Module 7.20 V07 
+Page 3 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : Procédure d’entretien 
+ 
+Catégorie B1 : 80 questions à choix multiples et 2 questions à développement. Temps 
+alloué 100 minutes. 
+Catégorie B2 : 60 questions à choix multiples et 2 questions à développement. Temps 
+alloué 75 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES 
+DE BASE 
+ 
+ 
+ 
+  
+7.20 Maintenance procédures 
+Niveau 
+A B1 B2 
+Planification de la maintenance ; 
+1 2 2 
+Procédures de modification ; 
+Procédures de stockage ; 
+Procédures de certification/remise en service ; 
+Interface avec les exploitants 
+Inspection de maintenance / Contrôle qualité / Assurance qualité ; 
+Procédures de maintenance supplémentaires ; 
+Contrôle des composants à durée de vie limitée. 
+===== PAGE 4 =====
+Module 7.20 V07 
+Page 4 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Sommaire 
+ 
+1 PLANIFICATION DE LA MAINTENANCE ................................ ................................ ..... 6 
+1.1 Le Maintenance Planning Document (MPD) ................................ ............................ 7 
+1.2 Le programme d’entretien ................................ ................................ ....................... 9 
+1.3 Les différents types de maintenance ................................ ................................ ......12 
+1.4 Les méthodes d'entretien ................................ ................................ .......................15 
+1.5 Les Modes d'entretien ................................ ................................ ............................15 
+2 PROCEDURES DE MODIFICATION ................................ ................................ ............17 
+2.1 Modifications via Service Bulletins (SB) et Consignes de Navigabilité (AD) ............17 
+2.2 Modifications et réparations ................................ ................................ ....................19 
+3 PROCEDURES DE STOCKAGE ................................ ................................ ..................23 
+3.1 Le magasin Part-145 et la ségrégation des zones ................................ ..................23 
+3.2 Traçabilité des pièces, produits et équipement ................................ .......................25 
+3.3 Contrôles à la réception avant mise en stock ................................ .........................26 
+3.4 Gestion du stock ................................ ................................ ................................ ....27 
+3.5 Stockage des outillages et moyens de mesure ................................ .......................28 
+3.6 Rôle et responsabilités du mécanicien ................................ ................................ ...29 
+4 PROCEDURES DE CERTIFICATION / REMISE EN SERVICE ................................ ....30 
+4.1 Généralités de l’APRS ................................ ................................ ............................30 
+4.2 Opérations d’entretien nécessitant une APRS ................................ ........................31 
+4.3 Opérations non soumises à une APRS ................................ ................................ ..31 
+4.4 Signification et domaine d’application de l’APRS ................................ ....................32 
+4.5 Principes et conditions pour délivrer une APRS ................................ .....................32 
+4.6 Gestion des nouveaux défauts et report de travaux................................ ................33 
+4.7 Cas où l’APRS ne peut pas être prononcée ................................ ...........................33 
+4.8 Personnel autorisé à délivrer l’APRS ................................ ................................ ......33 
+4.9 Approbation pour remise en service aéronef ................................ ..........................34 
+4.10 Approbation pour remise en service d’un élément d’aéronef (EASA Form 1) ......36 
+5 INTERFACE AVEC LES EXPLOITANTS ................................ ................................ .....39 
+5.1 Responsabilités de l’exploitant (CAMO) : ................................ ............................... 39 
+5.2 Opérateur – Utilisateur (Compagnie) ................................ ................................ ......39 
+5.3 Tech Log Book (Compte Rendu Matériel) ................................ .............................. 40 
+5.4 Organisme de maintenance Part-145 ................................ ................................ .....40 
+5.5 Responsabilités liées à la MEL ................................ ................................ ...............40 
+5.6 Approbation pour Remise en Service (APRS) ................................ ........................41 
+6 INSPECTION D’ENTRETIEN / CONTROLE QUALITE / ASSURANCE QUALITE .......42 
+6.1 Méthode de capture des erreurs et Inspection indépendante ................................ .42 
+===== PAGE 5 =====
+Module 7.20 V07 
+Page 5 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+6.2 Qualité / surveillance de la conformité ................................ ................................ ....44 
+7 PROCEDURES DE MAINTENANCE SUPPLEMENTAIRE................................ ...........47 
+7.1 Procédures de maintenance en ligne ................................ ................................ .....47 
+7.2 Suppléments au MOE dans le cadre des agréments bilatéraux.............................. 47 
+7.3 Différents suppléments au MOE ................................ ................................ .............47 
+8 CONTROLE DES COMPOSANTS A DUREE DE VIE LIMITEE ................................ ...48 
+8.1 Principe général ................................ ................................ ................................ .....48 
+8.2 Notion de durée de vie limitée ................................ ................................ ................48 
+8.3 Expression de la durée de vie ................................ ................................ ................49 
+8.4 Détermination des limites de vie ................................ ................................ .............49 
+8.5 Notion de limite de vie ................................ ................................ ............................49 
+8.6 Suivi des composants à durée de vie limitée ................................ ..........................50 
+ 
+ 
+ 
+ 
+  
+NOTE : Ce support présente les généralités et les procédures générales d’entretien.  
+Certains exemples sont présentés à titre illustratif et ne se substituent pas aux procédures 
+officielles définies dans les manuels approuvés de l’organisme de maintenance , lesquels 
+prévalent en toutes circonstances. 
+===== PAGE 6 =====
+Module 7.20 V07 
+Page 6 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+1 PLANIFICATION DE LA MAINTENANCE 
+La planification de la maintenance vise à assurer la sécurité des vols tout en maintenant les 
+avions disponibles, au moindre coût. 
+Ses objectifs principaux sont : 
+✓ Assurer la sécurité et la navigabilité 
+Garantir que l’avion respecte en permanence les exigences réglementaires et 
+techniques afin qu’il puisse voler en toute sécurité. 
+✓ Maintenir la disponibilité des avions 
+Planifier la maintenance aux moments les moins pénalisants pour l’exploitation afin 
+de limiter l’immobilisation au sol. 
+✓ Optimiser les coûts de maintenance 
+Éviter les interventions trop précoces ou inutiles et regrouper les tâches pour réduire 
+les temps d’arrêt et les dépenses. 
+La planification de la maintenance aéronautique est assurée par l’exploitant, responsable de 
+la navigabilité continue de l’aéronef.  
+Elle repose sur le suivi du programme d’entretien, des limitations calendaires et d’utilisation, 
+ainsi que des exigences réglementaires du pays d’immatriculation et des constructeurs, afin 
+de déterminer le moment approprié des opérations de maintenance.  
+Lorsque les tâches arrivent à échéance, l’exploitant émet une commande de maintenance à 
+destination d’un organisme agréé Part -145, en précisant les travaux à réaliser. L’organisme 
+de maintenance exécute alors les actions demandées, tandis que l’exploitant assure le suivi 
+des travaux et la remise en service de l’aéronef. L’ensemble de ces actions vise à garantir 
+l’aptitude au vol de l’avion tout en assurant une disponibilité technique conforme aux objectifs 
+opérationnels et commerciaux de la compagnie. 
+Les actions de maintenance s'exercent de façon proactive ou réactive : 
+ 
+ 
+Maintenance
+Réactive Proactive
+Préventive Prédictive
+ 
+ 
+ 
+ 
+ 
+ 
+Trop Tard 
+ 
+ 
+ 
+Trop tôt 
+ 
+ 
+ 
+Juste à temps 
+===== PAGE 7 =====
+Module 7.20 V07 
+Page 7 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+La Maintenance Réactive : 
+Elle est basée sur la défaillance ( failure-based). Un élément tombe en panne, il doit être 
+réparé. C'est l'approche la plus coûteuse, car elle mène souvent à des situations d'AOG 
+(Aircraft On Ground), immobilisant l'avion de manière imprévue. 
+La Maintenance Proactive : 
+Elle se divise en deux stratégies distinctes : 
+• La Maintenance Préventive : C'est le standard actuel de l'industrie (Checks A, Checks 
+C, révisions de composants). Elle repose essentiellement sur l'âge (basée sur les 
+heures de vol, les cycles ou le temps calendaire). À des intervalles fixes, on inspecteou 
+on remplace. 
+• La Maintenance Prédictive : L'idée est de passer d'une maintenance basée sur l'âge 
+à une maintenance basée sur l'état ( condition-based). Au lieu de suivre un calendrier 
+rigide, on détermine l'état réel des systèmes pour justifier l'intervention. 
+ 
+Toutes les opérations d’entretien (préventif ou curatif) ont pour objectif de maintenir l’aptitude 
+au vol et qu’après toute opération d’entretien une personne habilitée prononcera une APRS 
+(Approbation Pour Remise en Service). 
+ 
+1.1 Le Maintenance Planning Document (MPD) 
+Le MPD (Maintenance Planning Document) est un document établi par le constructeur de 
+l’aéronef, qui regroupe l’ensemble des tâches de maintenance issues de la méthodologie 
+MSG-3. Il définit les opérations à réaliser ainsi que leurs périodicités, exprimées en temps, en 
+heures de vol ou en cycles.  
+Le MPD constitue la base technique de référence utilisée par l’exploitant pour élaborer son 
+Programme d’Entretien (AMP), lequel doit être adapté au type d’exploitation et approuvé par 
+l’autorité compétente.  
+Le MPD n’est pas directement applicable en exploitation, mais sert de cadre permettant 
+d’assurer la navigabilité continue de l’aéronef. 
+ 
+ 
+
+===== PAGE 8 =====
+Module 7.20 V07 
+Page 8 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+1.1.1 MSG-3 (Maintenance Steering Group – 3ᵉ génération) 
+L'arrivée d'avions nouvelle technologie a mené les constructeurs américains à mettre sur pied 
+une méthodologie, reconnue par tous et dont la rigueur permet de garantir le maintien de la 
+navigabilité de l'appareil au meilleur coût. 
+Cette méthode porte le nom de MSG (Maintenance Steering Group). Ces MSG ont ensuite 
+évolué vers MSG2 (Mac donnell douglas) puis EMSG (European Maintenance System Guide 
+pour Airbus et Concorde) pour aboutir enfin, à MSG3 pour les avions nouvelle technologie 
+(A320, 777, A380 etc.). 
+ 
+La méthodologie MSG-3 est développée conjointement par les constructeurs, les compagnies 
+aériennes et les autorités de certification telles que la FAA et l’EASA.  
+Elle est orientée vers les tâches et s’appuie sur une logique décisionnelle structurée afin de 
+définir les tâches de maintenance préventive nécessaires à la sécurité et à la navigabilité. 
+Les analyses MSG -3 aboutissent à la rédaction du MRBR (Maintenance Review Board 
+Report). 
+Ce document constitue la base de l’élaboration du Maintenance Planning Document (MPD), à 
+partir duquel l’exploitant établit son Programme de Maintenance Approuvé (AMP). 
+La MSG-3 est principalement appliquée lors de la phase de conception et de certification de 
+l’aéronef, sur la base des données de conception, des essais du constructeur et d’un retour 
+d’expérience initial limité. 
+1.1.2 RCM (Reliability-Centered Maintenance) 
+La maintenance centrée sur la fiabilité, ou RCM, est issue du secteur aéronautique et est 
+aujourd’hui utilisée dans de nombreuses industries. 
+Elle est orientée vers les fonctions et vise à maintenir les performances réelles des systèmes 
+en exploitation. 
+La RCM utilise l’analyse des modes de défaillance de conception et de leurs effets (AMDEC / 
+FMEA) afin de déterminer la stratégie de maintenance la plus efficace. 
+Elle permet d’optimiser les tâches de maintenance en fonction des données opérationnelles 
+et de fiabilité réellement observée. 
+
+===== PAGE 9 =====
+Module 7.20 V07 
+Page 9 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Les résultats de la RCM conduisent à un programme de maintenance optimisé, incluant 
+l’ajustement des intervalles, la modification des tâches et l’amélioration des méthodes 
+d’inspection. 
+1.2 Le programme d’entretien 
+1.2.1 Généralités  
+Le programme d’entretien aéronef (PE), en anglais Aircraft Maintenance Programme (AMP), 
+décrit les tâches spécifiques de maintenance programmée et leurs fréquences d’exécution, 
+nécessaires au maintien de l’état de navigabilité et à l’exploitation sûre des aéronefs auxquels 
+il s’applique. Il précise l’ensemble des opérations d’entretien et des contrôles qui doivent être 
+impérativement réalisés aux intervalles ou limites définis par ce document. 
+Conformément aux exigences réglementaires de l’appendice I des AMC M.A.302 et 
+M.B.301(b), le PE définit les tâches de maintenance, leurs intervalles (heures de vol, cycles 
+ou calendrier), ainsi que les limitations de navigabilité obligatoires (ALS, ALI, LLP, CDCCL) et 
+les directives de navigabilité (AD) applicables. Il prend également en compte les modifications 
+et réparations approuvées, les inspections structurelles et de vieillissement, et précise les 
+références techniques constructeur utilisées. 
+Le PE doit être approuvé, tenu à jour et régulièrement révisé par l’exploitant afin de garantir le 
+maintien de la navigabilité. 
+1.2.2 Développement du PE 
+Le PE est élaboré par le CAMO en conformité avec la documentation spécifique des 
+constructeurs (MPD, AMM, CMM, ...) et aux exigences règlementaires applicable.  Par ailleurs, 
+toutes les recommandations concernant par exemple les ALI (Airworthiness Limitation 
+Inspection), les CMR (Certification Maintenance Requirement), le CPCP (Corrosion 
+Prevention Control Program), les exigences nationales (BI, procédures DSAC, …), sont prises 
+en compte lors des révisions des PE. 
+1.2.3 Révision et approbation du PE 
+Le RDMN du CAMO doit s’assurer qu’une revue détaillée des documents applicables est 
+effectuée de façon périodique et au minimum une fois par an  pour s'assurer de la validité 
+continue du PE. 
+Le PE initial est approuvé par l’Autorité et les modifications peuvent être approuvées par le 
+CAMO pour les modifications mineures, si celui-ci détient le privilège. 
+1.2.4 Contenu du PE 
+Un programme de maintenance définit les tâches et leurs intervalles (heures de vol, cycles 
+ou temps calendaire). Ces intervalles sont établis selon les principes Hard Time, 
+On‑Condition ou Condition Monitoring. (voir §1.4). 
+L’exploitant adapte ensuite le programme à son exploitation à l’aide d’un système en blocs 
+ou égalisé. 
+  
+===== PAGE 10 =====
+Module 7.20 V07 
+Page 10 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+➔   Maintenance en blocs (Block / Pyramid) 
+La maintenance en blocs regroupe les tâches par visites A, C et D.  À chaque multiple de 
+l’intervalle de base, le nombre de tâches augmente, ce qui conduit à des visites de plus en 
+plus lourdes. 
+Avantage principal : planification simple avec contenu et charge de travail prévisibles. Limite 
+principale : immobilisation prolongée de l’avion et espacement important entre les visites. 
+Ce système convient surtout aux avions long‑courriers ou plus anciens. 
+ 
+➔     Maintenance égalisée (Progressive) 
+La maintenance égalisée répartit les tâches en visites courtes et fréquentes. Les grandes 
+visites peuvent être divisées (ex. C1 à C4) avec une profondeur d’inspection progressive. 
+Avantage principal : charge de travail régulière et faible immobilisation. Limite principale : coûts 
+plus élevés et répétition des accès avion. 
+Ce système est adapté aux avions récents et aux exploitations court‑courrier. 
+Issus du «MPD», les tâches (inspection, réglages,...) sont répertoriées et planifiées dans le 
+programme d'entretien de l’exploitant.  
+Périodicités : Les périodicités s'expriment soit : 
+➔ En heures de vol : 
+«AIRBORNE» ou «BLOC», c'est à dire le temps compris entre le décollage et le toucher 
+des roues ou «BLOC». C'est l'unité la plus utilisée pour caractériser le vieillissement du 
+matériel. 
+➔ En temps «calendrier» : 
+C'est à dire en : heure, jour, mois, année.  
+Cette référence est plus utilisée pour des composants pour lesquels le temps peut avoir une 
+influence, même s'il n'y a pas d'activité proprement dite (Ex. pièces soumises à la corrosion). 
+Dans ce cas, on utilise souvent une double butée, par exemple : 5 000 heures de vol ou 3 
+ans, la première butée atteinte conditionne la date d'intervention. Les temps «calendrier» 
+sont utilisés aussi pour certains composants dont la matière perd ses propriétés avec le temps, 
+par exemple les élastomères utilisés pour certains joints. 
+➔ En nombre de cycles : 
+Un cycle est défini pour une phase décollage et d'atterrissage. 
+Notamment pour les composants dont l'utilisation est liée à ces phases du vol : trains et 
+mécanismes associés. 
+===== PAGE 11 =====
+Module 7.20 V07 
+Page 11 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Il est aussi utilisé pour les moteurs dont certains composants souffrent lors de leur passage 
+de l'état d'activité (chaud), à l'état d'inactivité (froid) et pour lesquels les contraintes thermiques 
+qui en résultent sont une source de fatigue du matériel (Ex. parties chaudes). 
+NOTE : Par exemple, II est démontré que les moteurs des avions court-courrier (cycles plus 
+nombreux rapportés aux heures de vol) souffrent plus que ceux des long-courriers (utilisation 
+plus longue en régime stabilisé). 
+ 
+Type de 
+Check 
+Fréquence Contenu principal Durée 
+typique 
+Immobilisation de 
+l’avion 
+A Check Toutes les 
+400 à 600 
+heures de vol 
+ou 1 à 2 mois 
+Inspections visuelles simples, 
+contrôles fonctionnels, 
+vérifications de base 
+Moins d’une 
+journée 
+Faible – souvent 
+réalisé de nuit 
+B Check Tous les 6 à 
+8 mois 
+Inspections plus détaillées 
+des systèmes 
+1 à 2 jours Modérée – souvent 
+intégré aux A ou C 
+Checks 
+C Check Tous les 20 à 
+24 mois ou 
+environ 6 000 
+heures de vol 
+Inspections approfondies, 
+accès à de nombreuses 
+zones de l’avion 
+1 à 2 
+semaines 
+Élevée – avion 
+immobilisé en 
+hangar 
+D Check Tous les 6 à 
+10 ans 
+Inspection structurelle 
+complète, démontage majeur 
+Plusieurs 
+semaines 
+Très élevée – avion 
+temporairement 
+retiré du service 
+ 
+  
+===== PAGE 12 =====
+Module 7.20 V07 
+Page 12 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+1.3 Les différents types de maintenance 
+ 
+1.3.1 Maintenance en ligne 
+Définition (EASA Part 145.A.10 et AMC/GM 145.A.10) : La maintenance en ligne désigne 
+les travaux de maintenance simples et rapides effectués sur un aéronef hors d'un atelier 
+spécialisé, généralement sur un aéroport ou une plateforme opérationnelle , afin de 
+permettre le retour en service rapide de l'aéronef. 
+ 
+Caractéristiques principales : 
+• Lieu : Effectuée sur les aires de stationnement (rampe) , les parkings 
+aéroportuaires ou les hangars légers, mais pas dans un atelier de maintenance 
+lourde. 
+• Durée : Travaux courts (généralement moins de 24 heures, souvent en quelques 
+heures). 
+• Portée : 
+o Inspections visuelles (pré-vol, post-vol, transit). 
+o Réparations mineures (remplacement de composants simples comme des 
+phares, pneus, filtres, etc.). 
+o Dépannages (résolution de défauts mineurs signalés par l'équipage). 
+o Services de routine (ravitaillement, vidange, graissage). 
+o Remise en configuration  après un vol (réarmement des systèmes, tests 
+fonctionnels). 
+• Outillage : Utilisation d' outils portables  et d'équipements mobiles (ex. : groupes 
+électrogènes, compresseurs). 
+• Personnel : Techniciens qualifiés Part-66 (catégorie B1/B2 ou A avec limitations), 
+souvent avec une autorisation de remise en service (CRS - Certificate of Release 
+to Service) limitée. 
+• Documentation : Suivi via des fiches de travail (Work Cards)  ou des logbooks 
+(carnet de bord technique). 
+Exemples : 
+• Remplacement d'une roue ou d'un pneu crevé. 
+• Réparation d'un phare défectueux. 
+• Résolution d'un défaut mineur du système électrique (ex. : disjoncteur déclenché). 
+• Vérification des niveaux d'huile et de liquide hydraulique. 
+
+===== PAGE 13 =====
+Module 7.20 V07 
+Page 13 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+1.3.2 Maintenance en base 
+La maintenance en base regroupe les travaux de maintenance complexes, approfondis 
+ou lourds, nécessitant des installations spécialisées (hangars, ateliers), des équipements 
+fixes et une planification longue. Elle est réalisée dans un centre de maintenance agréé 
+(MRO - Maintenance, Repair and Overhaul). 
+ 
+Caractéristiques principales : 
+• Lieu : Effectuée dans des hangars dédiés ou des ateliers équipés (avec pont roulant, 
+bancs d'essai, etc.). 
+• Durée : Travaux longs (de quelques jours à plusieurs semaines/mois). 
+• Portée : 
+o Inspections majeures (ex. : inspections A, B, C, D ou Structural Checks). 
+o Réparations structurelles (corrosion, fissures, dommages importants). 
+o Révision ou remplacement de moteurs, APU, trains d'atterrissage. 
+o Modifications majeures (ex. : installation de nouveaux systèmes avioniques). 
+o Peinture complète ou traitements anticorrosion. 
+o Essais en vol post-maintenance. 
+• Outillage : Utilisation d'équipements lourds (ex. : ponts roulants, machines de test 
+NDT, bancs de réacteur). 
+• Personnel : Techniciens Part-66 (B1/B2/C)  avec des qualifications spécifiques, 
+ingénieurs, et superviseurs. 
+• Documentation : Plans de maintenance détaillés , fiches de travail complexes , 
+rapports d'inspection, et certificats de conformité. 
+Exemples : 
+• Révision complète d'un moteur (overhaul). 
+• Réparation d'une aile endommagée par la foudre. 
+• Inspection structurelle approfondie (ex. : contrôle par ultrasons des longerons). 
+• Mise à niveau des systèmes avioniques (ex. : installation d'un ADS-B). 
+• Peinture complète de la cellule. 
+ 
+1.3.3 Les opérations d’entretien programmées 
+Issus du «MPD», les tâches (inspection, réglages,) sont répertoriées et planifiées dans le 
+programme d'entretien de l’exploitant.  
+
+===== PAGE 14 =====
+Module 7.20 V07 
+Page 14 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Périodicités : Les périodicités s'expriment soit : 
+➔ En heures de vol : 
+«AIRBORNE» ou « BLOC», c'est à dire le temps compris entre le décollage et le toucher 
+des roues ou «BLOC». C'est l'unité la plus utilisée pour caractériser le vieillissement du 
+matériel. 
+➔ En temps « calendrier » : 
+C'est à dire en : heure, jour, mois, année.  
+Cette référence est plus utilisée pour des composants pour lesquels le temps peut avoir une 
+influence, même s'il n'y a pas d'activité proprement dite (Ex. pièces soumises à la corrosion). 
+Dans ce cas, on utilise souvent une double butée, par exemple : 5 000 heures de vol ou 3 
+ans, la première butée atteinte conditionne la date d'intervention. Les temps «calendrier» 
+sont utilisés aussi pour certains composants dont la matière perd ses propriétés avec le temps, 
+par exemple les élastomères utilisés pour certains joints. 
+➔ En nombre de cycles : 
+Un cycle est défini pour une phase décollage et d'atterrissage. 
+Notamment pour les composants dont l'utilisation est liée à ces phases du vol : trains et 
+mécanismes associés. 
+Il est aussi utilisé pour les moteurs dont certains composants souffrent lors de leur passage 
+de l'état d'activité (chaud), à l'état d'inactivité (froid) et pour lesquels les contraintes thermiques 
+qui en résultent sont une source de fatigue du matériel (Ex. parties chaudes). 
+NOTE : II est démontré que les réacteurs des avions court -courrier (cycles plus nombreux 
+rapportés aux heures de vol) souffrent plus que ceux des long-courriers (utilisation plus longue 
+en régime stabilisé). 
+ 
+Type de 
+Check 
+Fréquence Contenu principal Durée 
+typique 
+Immobilisation de 
+l’avion 
+A 
+Check 
+Toutes les 
+400 à 600 
+heures de vol 
+ou 1 à 2 mois 
+Inspections visuelles 
+simples, contrôles 
+fonctionnels, vérifications 
+de base 
+Moins 
+d’une 
+journée 
+Faible – souvent 
+réalisé de nuit 
+B 
+Check 
+Tous les 6 à 
+8 mois 
+Inspections plus 
+détaillées des systèmes 
+1 à 2 jours Modérée – 
+souvent intégré 
+aux A ou C 
+Checks 
+C 
+Check 
+Tous les 20 à 
+24 mois ou 
+environ 6 000 
+heures de vol 
+Inspections approfondies, 
+accès à de nombreuses 
+zones de l’avion 
+1 à 2 
+semaines 
+Élevée – avion 
+immobilisé en 
+hangar 
+D 
+Check 
+Tous les 6 à 
+10 ans 
+Inspection structurelle 
+complète, démontage 
+majeur 
+Plusieurs 
+semaines 
+Très élevée – 
+avion 
+temporairement 
+retiré du service 
+===== PAGE 15 =====
+Module 7.20 V07 
+Page 15 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+1.4 Les méthodes d'entretien 
+L'analyse des tâches de maintenance « utiles » sur des avions de plus en plus sophistiqués 
+est un problème complexe. En effet, il faut ne rien oublier de primordial pour la sécurité et dans 
+le même temps ne pas aboutir à des coûts d'exploitation qui remettent en cause la viabilité 
+économique du transport aérien.  
+L'arrivée d'avions nouvelle technologie a mené les constructeurs américains à mettre sur pied 
+une méthodologie, reconnue par tous  et dont la rigueur permet de garantir le maintien de la 
+navigabilité de l'appareil au meilleur coût. 
+Cette méthode porte le nom de MSG (Maintenance Steering Group). Ces MSG ont ensuite 
+évolué vers MSG2 (Mac donnell douglas) puis EMSG (European Maintenance System Guide 
+pour Airbus et Concorde) pour aboutir enfin, à MSG3 pour les avions nouvelle technologie 
+(A320, 777, A380 etc.). 
+ 
+1.5 Les Modes d'entretien 
+La gestion de la navigabilité d'un aéronef repose sur l'application de différents modes 
+d'entretien — Hard Time, On-Condition et Condition Monitoring — dont le choix dépend de la 
+criticité des systèmes, de leur mode de défaillance et des impératifs de sécurité dictés par les 
+autorités de certification. 
+1.5.1 HARD TIME (HT) - Potentiel Fixe 
+Définition : Processus préventif consistant à limiter la détérioration d'un élément à un niveau 
+acceptable en effectuant des actions de maintenance à des intervalles fixes liés au temps de 
+service. 
+• Unités de mesure :  Temps calendaire, heures de vol, cycles de moteur ou nombre 
+d'atterrissages. 
+• Actions types :  Révision générale ( Overhaul), remise à neuf ( Refurbishment), ou 
+passage au banc d'essai (Bench check). 
+• Lien avec les ALI : Les Life Limited Parts (LLP) sont la forme la plus stricte de Hard 
+Time ; elles sont retirées définitivement du service une fois la limite atteinte pour éviter 
+une défaillance catastrophique. 
+ 
+  
+===== PAGE 16 =====
+Module 7.20 V07 
+Page 16 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+1.5.2 ON-CONDITION (OC) - Suivi de l'état 
+Définition : Processus de maintenance préventive primaire qui nécessite qu'un système ou 
+composant soit inspecté périodiquement par rapport à un standard physique approprié. 
+• Objectif : Déterminer si l'élément peut continuer en service ou s'il doit être déposé. La 
+norme garantit que l'unité est retirée avant la défaillance en opération normale. 
+• Flexibilité : Ces standards peuvent être ajustés selon l'expérience opérationnelle ou 
+les tests, conformément au programme de fiabilité approuvé. 
+• Lien avec les ALI : Les inspections structurales de sécurité et les CDCCL (limites de 
+configuration du système carburant) sont des tâches "On -Condition" obligatoires 
+définies lors de la certification. 
+ 
+1.5.3 CONDITION MONITORING (CM) - Suivi par analyse 
+Définition : Processus destiné aux systèmes ou composants qui n'ont ni le Hard Time, ni le 
+On-Condition comme processus de maintenance primaire. 
+• Méthodologie :  Il ne s'agit pas d'une inspection physique préventive, mais d'une 
+analyse des défaillances et des signes de détérioration. L'opérateur identifie et résout 
+les problèmes grâce aux connaissances acquises par l'analyse statistique de la flotte. 
+• Application : Concerne les éléments dont la panne n'affecte pas la sécurité (souvent 
+grâce à la redondance des systèmes). 
+• Note importante :  Un item classé en ALI ne peut jamais être géré uniquement par 
+Condition Monitoring car son intégrité ne peut pas reposer sur une simple analyse 
+statistique après panne.  
+===== PAGE 17 =====
+Module 7.20 V07 
+Page 17 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+2 PROCEDURES DE MODIFICATION 
+ 
+Lors de la vie de l’appareil, le constructeur et les équipementiers proposent aux exploitants 
+des évolutions de l’appareil et de ses équipements. 
+L’exploitant peut décider d’appliquer ou non ces modifications en fonction de l’intérêt technique 
+ou économique. Cependant il devra en référer à l’autorité compétente pour maintenir la validité 
+du CDN. 
+Ces modifications peuvent avoir un caractère obligatoire si elles touchent à des situations 
+remettant en cause la sécurité des vols. Dans ce cas, elles seront reprises par les autorités et 
+rendues obligatoires sous forme de CN/AD 
+On distingue deux grands cas pour les modifications et réparations : 
+1. Cas prévu par la documentation constructeur 
+La modification ou la réparation est déjà décrite dans une donnée approuvée :  
+✓ Consigne de Navigabilité (AD),  
+✓ Service Bulletin (SB),  
+✓ Document constructeur (par exemple SRM, AMM, CMM, etc.). 
+ 
+Dans ce cas, le mécanicien applique strictement la procédure décrite. La solution est déjà 
+approuvée, il n’y a pas besoin d’étude supplémentaire, seulement de respecter la 
+documentation technique et de tracer correctement le travail réalisé. 
+2. Cas non prévu par la documentation constructeur 
+Le dommage constaté ou la modification souhaitée n’entre pas  dans les limites des 
+documents constructeur (ou n’existe pas du tout dans la doc umentation technique ). 
+Dans ce cas, on ne peut pas « inventer » une réparation. Il faut passer par :  
+✓ Un bureau d’études / DOA (Design Organisation Approval),  
+✓ Et/ou par l’autorité de navigabilité, 
+ 
+pour concevoir et faire approuver une nouvelle réparation ou modification, qui sera classée 
+mineure ou majeure. 
+Une fois approuvée, cette solution devient une donnée technique à suivre et à appliquer, 
+comme les autres. 
+ 
+2.1 Modifications via Service Bulletins (SB) et Consignes de Navigabilité 
+(AD) 
+Dans la vie d’un aéronef, de nombreuses modifications ou inspections particulières 
+proviennent de deux types de documents :  
+• Les Service Bulletins (SB),  
+• Les Consignes de Navigabilité (AD). 
+ 
+Ces documents définissent des actions techniques que le mécanicien devra parfois appliquer 
+lors des visites d’entretien. Dans le contexte des SB et des AD, le rôle du mécanicien est de :  
+===== PAGE 18 =====
+Module 7.20 V07 
+Page 18 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+✓ Appliquer les instructions techniques fournies (ordre de travail, job card, procédure 
+du SB ou de l’AD),  
+✓ Respecter les méthodes et limites définies dans la documentation,  
+✓ Consigner correctement le travail effectué (signatures, références, mesures, résultats 
+d’inspection). 
+ 
+Le CAMO se charge de la partie gestion et suivi réglementaire  (applicabilité, échéances, 
+enregistrement global), tandis que le mécanicien se concentre sur la bonne exécution 
+technique des tâches sur l’aéronef. Les deux sont complémentaires pour garantir la 
+navigabilité et la sécurité du vol. 
+2.1.1 Service Bulletins (SB) 
+Le Service Bulletin (SB) est un document technique approuvé et publié par le constructeur 
+ou le détenteur de la conception. 
+ 
+Il peut proposer, par exemple :  
+• Une modification d’un système ou d’un équipement,  
+• Une amélioration de fiabilité,  
+• Une correction d’un problème connu. 
+ 
+Sur le plan réglementaire, un SB n’est pas automatiquement obligatoire . Il devient 
+obligatoire seulement :  
+• S’il est repris dans une Consigne de Navigabilité (AD), ou  
+• S’il est rendu obligatoire par la politique de l’exploitant  (standardisation de flotte, 
+retour d’expérience, etc.). 
+ 
+Le CAMO analyse chaque SB et décide, avec l’exploitant, s’il doit être appliqué. 
+ 
+Lorsque la décision est prise de l’incorporer :  
+• Le contenu du SB est traduit en tâches d’entretien (ordre de travail, job card, etc.),  
+• Le mécanicien applique ces instructions comme pour toute autre tâche,  
+• La modification réalisée est ensuite enregistrée dans le système informatique de 
+gestion du maintien de navigabilité (MIS «  Maintenance Information System »), 
+afin de garder l’historique de la configuration de l’aéronef. 
+ 
+Pour le mécanicien, un SB se présente donc comme une tâche à exécuter , avec une 
+référence précise au document du constructeur et aux paragraphes à appliquer. 
+2.1.2 Consignes de Navigabilité (AD) 
+La Consigne de Navigabilité (AD) est un document émis par une autorité de navigabilité 
+(par exemple l’EASA). 
+Contrairement au SB, une AD a un caractère réglementairement obligatoire. 
+Lorsqu’une AD est applicable à un aéronef, l’exploitant doit :  
+• Réaliser les actions demandées (inspection, modification, limitation, etc.),  
+• Dans les délais indiqués (heures de vol, cycles, date limite). 
+ 
+===== PAGE 19 =====
+Module 7.20 V07 
+Page 19 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Une AD peut imposer :  
+• Une ou plusieurs inspections (ponctuelles ou répétitives),  
+• Une limitation d’exploitation (vitesse, masse, domaine de vol, etc.),  
+• Une modification (souvent en demandant d’appliquer un SB précis). 
+ 
+Le CAMO vérifie l’ applicabilité de chaque AD à la flotte, planifie les actions et s’assure 
+qu’elles sont réalisées dans les temps. Il enregistre ensuite dans le système de suivi que l’AD 
+a bien été complétée, et sous quelles conditions. 
+Pour le mécanicien, une AD se traduit par :  
+• Des tâches spécifiques à réaliser (souvent clairement identifiées comme « AD n°… 
+» dans les ordres de travail),  
+• Des critères de contrôle précis à respecter,  
+• Une traçabilité rigoureuse (signature, mention de l’AD, références documentaires). 
+ 
+2.2 Modifications et réparations  
+Au cours de la vie de l’aéronef, on peut être amené à modifier certains systèmes (par exemple 
+installer un nouvel équipement, changer un type de siège, ajouter une antenne) ou à réparer 
+des zones abîmées (par exemple après un impact, une corrosion, une fissure).  
+Toutes ces actions ne sont pas toujours prévues dans la documentation de réparation (AMM, 
+SRM,…) du constructeur. Dans ce cas, elles doivent être approuvées, pour garantir que 
+l’aéronef reste sûr et conforme à sa définition. 
+Les modifications et réparations appliquées en utilisant des données approuvées par 
+organisme de conception approuvé (DOA) Partie 21J, ou bien par l’autorité de conception, 
+en Europe, l’EASA. 
+2.2.1 Rôle du CAMO 
+La CAMO est responsable du suivi de la navigabilité  de l’aéronef.  
+Concrètement, cela signifie qu’e doit : 
+• S’assurer que toute modification ou réparation utilisée est approuvée  par la 
+réglementation (Part-21),  
+• Vérifier que ces modifications et réparations sont correctement enregistrées dans le 
+logiciel de suivi du maintien de navigabilité, appelé le MIS (Maintenance Information 
+System),  
+• Vérifier que les conséquences sur la maintenance  et sur les opérations (poids, 
+centrage, documents opérationnels, etc.) sont bien prises en compte. 
+ 
+Avant toute intervention sur ou à proximité de systèmes sensibles, comme les systèmes 
+CDCCL (Critical Design Configuration Control Limitations) ou les câblages EWIS (Electrical 
+Wiring Interconnection System), la CAMO doit effectuer une analyse formalisée. 
+ 
+ 
+===== PAGE 20 =====
+Module 7.20 V07 
+Page 20 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+2.2.2 Réparations 
+Une réparation est une action visant à remettre 
+un produit aéronautique dans son état 
+approuvé après une détérioration ou un 
+dommage. On ne change pas la conception, on 
+rétablit l’existant.  
+Lors des opérations d’entretien, des anomalies de 
+structure peuvent être découvertes, telles que des 
+fissures, déformations, brûlures ou traces de 
+corrosion. 
+Ces anomalies sont analysées afin de déterminer comment elles peuvent être réparées. 
+ 
+  Réparations selon la documentation constructeur 
+Certaines anomalies peuvent être réparées directement en suivant la documentation du 
+constructeur (exemples : SRM, MM). 
+• La méthode de réparation est déjà définie, 
+• Les limites sont clairement précisées, 
+• La réparation peut être appliquée sans étude supplémentaire. 
+Ces réparations sont considérées comme implicitement approuvées , à condition de 
+respecter strictement la documentation technique approuvée. 
+ 
+  Réparations hors documentation constructeur 
+Lorsque l’anomalie dépasse les limites prévues par la documentation constructeur : 
+• Une réparation spécifique doit être définie, 
+• Cette réparation doit être analysée et approuvée, 
+• Elle est alors classée comme mineure ou majeure, selon son impact. 
+ 
+  Réparation majeure 
+Une réparation est dite majeure lorsqu’elle a un impact significatif  sur l’aéronef.  
+Elle peut notamment affecter : 
+• La structure, 
+• Le poids et l’équilibrage, 
+• Les performances ou la sécurité. 
+Ce type de réparation nécessite une étude approfondie et une approbation formelle avant 
+application. 
+ 
+  Réparation mineure 
+Une réparation est dite mineure lorsque son impact est limité.  
+• Elle n’affecte pas de manière notable la navigabilité, 
+• Elle nécessite peu ou pas d’analyse technique supplémentaire. 
+L’objectif est simplement de vérifier que l’aéronef reste conforme et sûr après réparation. 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 21 =====
+Module 7.20 V07 
+Page 21 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Exemple de document de réparation : 
+ 
+  
+
+===== PAGE 22 =====
+Module 7.20 V07 
+Page 22 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+2.2.3 Modifications  
+Une modification est tout changement apporté à la 
+conception approuvée d’un produit aéronautique. 
+On ajoute, enlève ou change quelque chose qui n’existait 
+pas dans la configuration approuvée d’origine. 
+Conformément au règlement (UE) n°748/2012 (Part-21), 
+les modifications apportées à un certificat de type  sont 
+classées en modifications mineures ou modifications 
+majeures. 
+Cette classification permet de déterminer le niveau d’impact sur la navigabilité  et le 
+processus d’approbation applicable. 
+ 
+2.2.3.1  Modification mineure 
+Une modification mineure  est une modification qui n’a pas d’effet appréciable  sur la 
+sécurité ou les performances de l’aéronef. 
+Elle ne modifie pas de manière significative : 
+• La masse ou l’équilibrage de l’aéronef, 
+• La résistance structurelle, 
+• La fiabilité des systèmes, 
+• Les caractéristiques opérationnelles, 
+• Les données d’adéquation opérationnelle, 
+• Ni les caractéristiques environnementales. 
+     En pratique, une modification est dite mineure lorsqu’elle n’affecte pas la navigabilité du 
+produit de façon notable. 
+ 
+2.2.3.2 Modification majeure 
+Une modification majeure est toute modification qui ne répond pas à la définition d’une 
+modification mineure. Elle est considérée comme majeure lorsqu’elle : 
+• A un impact significatif sur la navigabilité, 
+• Affecte les performances, la structure ou la sécurité, 
+• Ou modifie des caractéristiques essentielles de l’aéronef. 
+     Toute modification ayant un effet appréciable sur l’aéronef est donc classée comme 
+majeure. 
+ 
+2.2.3.3 STC (Supplemental Type Certificate) 
+Un STC est une approbation officielle  délivrée par l’autorité de certification (EASA en 
+Europe) qui autorise une modification majeure d’un aéronef déjà certifié. 
+     Le STC complète le certificat de type (TC) existant sans le remplacer. 
+ 
+ 
+ 
+
+===== PAGE 23 =====
+Module 7.20 V07 
+Page 23 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+3 PROCEDURES DE STOCKAGE 
+Ce chapitre a pour objectif de présenter au stagiaire mécanicien les règles de base de 
+stockage applicables dans un organisme de maintenance agréé EASA Part-145. 
+Il explique comment doivent être stockés : 
+• Les composants et équipements aéronautiques, 
+• Les produits et ingrédients (huiles, peintures, colles, solvants, etc.), 
+• Les outillages et moyens de mesure. 
+Le stagiaire mécanicien doit retenir les points essentiels suivants : 
+• Toute pièce ou produit utilisé sur aéronef doit être correctement stocké, identifié, tracé 
+et documenté ; 
+• Les conditions de stockage (température, humidité, propreté, protection) doivent être 
+maîtrisées ; 
+• Les statuts des pièces (serviceable, unserviceable, scraped, quarantaine) doivent être 
+clairement séparés ; 
+• Les outillages et moyens de mesure doivent être identifiés, calibrés et stockés 
+convenablement ; 
+• En cas de doute, la priorité est donnée à la sécurité : ne pas utiliser le matériel et en 
+référer à la hiérarchie. 
+3.1 Le magasin Part-145 et la ségrégation des zones 
+Dans un organisme Part-145, le magasin est une zone contrôlée : 
+✓ L’accès est limité au personnel autorisé ; 
+✓ Les entrées et sorties de pièces sont enregistrées dans un registre pour permettre 
+leur traçabilité ; 
+✓ Il est interdit de prendre ou de déposer du matériel sans passer par les procédures 
+de magasin. 
+3.1.1 Séparation des pièces 
+Les composants et équipements sont stockés dans des zones distinctes selon leur statut. La 
+règlementation EASA Part 145 impose la ségrégation des éléments bon état « serviceable » 
+de ceux en mauvais état (à réparer ou à rebuter). 
+• Zone “Serviceable”  (bon état)  : composants déclarés bons pour 
+utilisation sur aéronef. 
+• Zone Quarantaine  : composants dont la conformité est incertaine 
+(documentation incomplète, doute sur l’état, etc.). 
+➢ Zone “Unserviceable”  (à réparer) : composants déposés, en 
+panne, en attente de réparation ou d’expertise. 
+➢ Zone “Scrap ed" (à r ebuter) : composants définitivement 
+inutilisables, qui ne doivent plus être montés sur aéronef. 
+Ces zones doivent être clairement identifiées, séparées physiquement et 
+organisées de manière à éviter tout risque de mélange.  Les équipements sont également 
+identifiés suivant les zone avec des étiquettes de couleurs. Les couleurs ne sont pas imposées 
+par la règlementation Part 145, mais permettent d’identifier clairement l’état du composant, 
+équipement. 
+
+===== PAGE 24 =====
+Module 7.20 V07 
+Page 24 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+3.1.2 Zones spécifiques 
+D’autres zones de stockage sont généralement prévues : 
+• Zone “Consommables / Ingrédients”  : peintures, huiles, graisses, colles, solvants, 
+résines, etc. 
+• Zone “Outillages” : outils généraux et outillages spécifiques, moyens de mesure, 
+outils de contrôle. 
+3.1.3 Conditions environnementales de stockage 
+Les conditions de stockage ont un impact direct sur l’intégrité des pièces et produits. 
+L’organisme doit maîtriser notamment : 
+• La température, 
+• L’humidité (hygrométrie), 
+• La propreté (poussière) et la protection mécanique / électrostatique. 
+3.1.4 Température 
+La température des locaux de stockage doit rester dans une plage définie, compatible avec : 
+• Les exigences des constructeurs, 
+• Les spécifications des produits stockés (colles, peintures, joints, composants 
+électroniques, etc.). 
+Des moyens de contrôle (thermomètres, enregistreurs) permettent de vérifier que la 
+température reste dans la plage autorisée. En cas de dérive importante et/ou prolongée, des 
+actions peuvent être nécessaires (vérification des produits, mise en quarantaine, etc.). 
+3.1.5 Humidité (hygrométrie) 
+L’humidité relative de l’air doit également être contrôlée, afin de limiter notamment : 
+• Les risques de corrosion, 
+• La dégradation de certains matériaux,  
+• L’altération de certaines colles ou produits sensibles.  
+Des moyens tels que la climatisation, la déshumidification, l’utilisation de 
+sachets dessiccants ou d’emballages appropriés peuvent être mis en œuvre. 
+3.1.6 Propreté et protections 
+Les zones de stockage doivent être maintenues propres et ordonnées. Les pièces doivent 
+être protégées : 
+• De la poussière et des corps étrangers (FOD), 
+• Des chocs, frottements et rayures, 
+• De la lumière directe pour les matériaux sensibles.  
+Des obturateurs, bouchons, capuchons, housses ou emballages spécifiques doivent être 
+utilisés, en particulier pour : 
+• Les connecteurs électriques, 
+• Les conduites (hydrauliques, carburant, air), 
+• Les surfaces fonctionnelles sensibles. 
+ 
+ 
+
+===== PAGE 25 =====
+Module 7.20 V07 
+Page 25 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+3.1.7 Matériel sensible à l’électricité statique (ESD) 
+Certains composants et équipements électroniques sont sensibles aux 
+décharges électrostatiques (ESD – ElectroStatic Discharge). Une simple charge 
+statique, invisible et non ressentie par l’être humain, peut endommager ou 
+fragiliser ces matériels.  
+Pour ces composants ESD : 
+• Ils doivent être identifiés comme sensibles ESD (pictogramme spécifique, étiquette, 
+marquage) ; 
+• Ils doivent être stockés dans des emballages de protection ESD  (sachets 
+antistatiques, boîtes conductrices ou dissipatives, mousse ESD, etc.) ; 
+• Le stockage se fait de préférence dans une zone protégée ESD (plan de travail, sols, 
+tapis reliés à la terre, environnement adapté) ; 
+• Le personnel manipulant ces composants doit utiliser les moyens de protection ESD 
+prévus (bracelets antistatiques, mise à la terre, vêtements ou équipements spécifiques, 
+suivant la procédure de l’organisme). 
+ 
+Un composant ESD sorti de son emballage de 
+protection ne doit pas être laissé librement dans le 
+magasin ou sur un plan de travail non protégé. En cas 
+de doute sur la conformité du conditionnement ou de 
+la zone de manipulation, le stagiaire doit interrompre 
+l’opération et prévenir son tuteur ou le responsable 
+désigné. 
+ 
+3.2 Traçabilité des pièces, produits et équipement 
+La traçabilité consiste à pouvoir identifier précisément une pièce ou un produit, son origine et 
+son statut.  
+Pour chaque élément stocké, il doit être possible de connaître au minimum : 
+• L’identification :  
+o Pour un composant : type, référence (P/N), numéro de série (S/N) le cas 
+échéant ;  
+o Pour un consommable : désignation, référence technique, lot (batch), etc. ; 
+• L’origine : fournisseur, atelier de réparation, fabricant, etc. ; 
+• Le statut : serviceable, unserviceable, scrap, quarantaine ; 
+• Les documents associés : EASA Form 1, certificat de conformité, certificat de lot, 
+fiche de données de sécurité, etc. ; 
+• Les limites d’utilisation éventuelles :  
+o Dates de péremption (shelf life),  
+o Limites de vie (life limit),  
+o Restrictions particulières. 
+En l’absence de ces informations, la pièce ou le produit est considéré comme non acceptable 
+pour montage sur aéronef et doit être placé en quarantaine dans l’attente de décision. 
+
+===== PAGE 26 =====
+Module 7.20 V07 
+Page 26 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+3.3 Contrôles à la réception avant mise en stock 
+Avant d’être rangé dans une zone “Serviceable” ou “Consommables utilisables”, tout article 
+doit faire l’objet de deux types de contrôles : 
+• Un contrôle documentaire ; 
+• Un contrôle physique. 
+3.3.1 Contrôle documentaire 
+Le contrôle documentaire vise à vérifier la conformité administrative de la pièce ou du produit. 
+Il comprend notamment : 
+• La vérification de la correspondance entre : 
+o La commande, 
+o La livraison, 
+o La référence (P/N), le numéro de série (le cas échéant), la quantité ; 
+• La présence et la validité des documents requis, par exemple : 
+o Pour un composant aéronautique : EASA Form 1 ou équivalent (FAA 8130 -3, 
+etc.) ; 
+o Pour une pièce standard : certificat de conformité ; 
+o Pour un consommable : certificat de lot, fiche de données de sécurité ; 
+• La vérification des dates importantes : 
+o Date de fabrication, 
+o Date de péremption, 
+o Éventuelles dates limites d’utilisation. 
+En cas d’anomalie documentaire (document manquant, incohérent, illisible, raturé, etc.), 
+l’article ne doit pas être accepté en stock “Serviceable” et doit être placé en quarantaine dans 
+l’attente d’analyse par le service qualité ou le responsable désigné. 
+3.3.2 Contrôle physique 
+Le contrôle physique porte sur l’état matériel de la pièce ou du produit : 
+✓ État de l’emballage (intact, propre, non ouvert sans justification) ; 
+o Absence de détériorations visibles sur la pièce : chocs, déformations, rayures 
+importantes, traces de corrosion, de fuite, de pollution ; 
+✓ Présence des protections nécessaires : 
+o Capuchons sur connecteurs, 
+o Bouchons sur orifices, 
+o Housses de protection, etc. 
+ 
+En cas de défaut constaté, la pièce est traitée comme non conforme et suit la procédure 
+interne (quarantaine, rapport de non-conformité, retour fournisseur, etc.). 
+ 
+  
+===== PAGE 27 =====
+Module 7.20 V07 
+Page 27 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+3.4 Gestion du stock  
+Une organisation rigoureuse du stock garantit la mise à disposition rapide de la pièce correcte, 
+identifiée par son statut et son emplacement. Des inventaires périodiques doivent être 
+effectués et documentés afin d’assurer la disponibilité, la conformité et la traçabilité des pièces 
+3.4.1 Identification des emplacements - gisements 
+Chaque emplacement de stockage (rayon, étagère, bac, case, armoire) doit être clairement 
+identifié par un code unique. Ce code est enregistré dans le système de gestion de stock en 
+lien avec : 
+• La référence (P/N), 
+• Le numéro de série ou de lot, 
+• La quantité disponible, 
+• Le statut (serviceable, unserviceable, etc.). 
+Les pièces ne doivent pas être déplacées d’un emplacement à un autre sans enregistrement 
+dans le système, afin de maintenir la fiabilité des informations de stock. 
+3.4.2 Gestion des dates : FIFO / FEFO 
+Pour les pièces et surtout pour les consommables soumis à péremption, il est recommandé 
+d’appliquer : 
+• Le principe FIFO (First In, First Out) : les premières unités entrées en stock sont les 
+premières utilisées ; 
+• Ou le principe FEFO (First Expired, First Out) : les unités dont la date de péremption 
+est la plus proche sont utilisées en priorité. 
+L’objectif est d’éviter que des produits atteignent leur date de péremption alors qu’ils sont 
+encore en stock. 
+Les consommables et ingrédients tels que les graisses, les mastics, les colles, les composites 
+préimprégnés, les peintures, ou encore les joints sont soumis à date péremption. 
+3.4.3 Délotissement 
+Le délotissement consiste à prélever des unités individuelles d’un lot. Il doit être enregistré 
+sur le certificat (référence du lot, références des pièces déloties et quantités, date, lieu, motif, 
+référence du bon de travail et signature de l’agent) et garantir la conformité et la traçabilité 
+conformément aux procédures 
+ 
+  
+===== PAGE 28 =====
+Module 7.20 V07 
+Page 28 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+3.5 Stockage des outillages et moyens de mesure 
+Les outils et moyens de mesure utilisés en maintenance doivent également être gérés et 
+stockés dans le respect des exigences Part-145. 
+3.5.1 Identification et statut des outils 
+Dans le domaine aéronautique, la gestion des outillages est un élément essentiel de la 
+sécurité des vols. Il est indispensable de pouvoir identifier chaque outil  afin d’assurer la 
+traçabilité des opérations de maintenance  et de prévenir les FOD (Foreign Object 
+Damage). Une identification claire permet de maîtriser l’utilisation des outils, d’éviter toute 
+perte ou oubli sur aéronef et de garantir la conformité des interventions d’entretien. 
+Chaque outil utilisé en maintenance doit ainsi être doté d’un numéro d’identification unique, 
+permettant son suivi tout au long de son cycle de vie. Cette identification contribue directement 
+à la prévention des FOD et facilite le contrôle de l’état et de l’autorisation d’utilisation des 
+outillages. 
+Certains outils doivent être soumis à étalonnage , en particulier ceux réalisant des 
+mesures ou des réglages , tels que les clés à torquer, tensiomètres, multimètres, 
+manomètres, comparateurs, ou tout autre instrument influençant la conformité de la 
+maintenance. La précision de ces outils est déterminante pour la sécurité et la qualité des 
+opérations réalisées. 
+Les outils soumis à calibration doivent disposer : 
+• D’un numéro d’identification unique, 
+• D’un certificat de calibration valide, émis par un laboratoire de métrologie, 
+• D’une étiquette ou d’un marquage lisible indiquant la date de dernière calibration, la 
+date de prochaine calibration et le statut de l’outil (OK, en vérification, HS, etc.). 
+Tout outil dont la date de calibration est dépassée , dont le marquage est illisible ou 
+manquant, dont le statut n’est pas clairement défini , ou bien dont l’état est douteux, ne 
+doit pas être utilisé pour les opérations de maintenance aéronautique. Ces outils doivent être 
+immédiatement retirés du service afin de garantir la sécurité, la conformité réglementaire et la 
+prévention des FOD. 
+3.5.2 Zones de stockage des outils 
+Le magasin outillage doit prévoir des zones distinctes, par exemple : 
+• Zone “Outils disponibles / calibration à jour” ; 
+• Zone “Outils en calibration / en vérification” (non utilisables) ; 
+• Zone “Outils HS ou à rebuter”. 
+Cela permet à l’utilisateur de vérifier immédiatement si un outil peut être utilisé. 
+3.5.3 Conditions de stockage des outils 
+Les outils doivent être protégés contre : 
+• L’humidité excessive, 
+• La poussière et les chocs, 
+• Les variations de température importantes (surtout pour les moyens de mesure de 
+précision). 
+Les outils de précision sont souvent rangés dans des coffrets ou des emplacements  
+spécifiques, afin de préserver leur exactitude et leur durée de vie. 
+===== PAGE 29 =====
+Module 7.20 V07 
+Page 29 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+3.6 Rôle et responsabilités du mécanicien 
+Dans le cadre de ses activités en atelier Part-145, le technicien de maintenance aéronautique 
+doit appliquer les règles suivantes : 
+1. Utiliser uniquement du matériel et des outils issus du magasin ou de l’outillage 
+agréé. Il est interdit d’introduire des pièces ou outils personnels, sauf si cela est 
+explicitement autorisé et contrôlé par la procédure de l’organisme. 
+ 
+2. Avant de monter un composant ou d’utiliser un consommable, vérifier : 
+o Le statut (serviceable, utilisable), 
+o La documentation associée (Form 1, certificat, fiche de lot, etc.), 
+o Les dates (péremption, limite de vie, etc.). 
+ 
+3. Pour les consommables (peintures, colles, huiles, résines, etc.) : 
+o Vérifier la date de péremption ; 
+o Respecter les conditions d’utilisation indiquées (température, temps de 
+mélange, durée d’utilisation après ouverture, etc.). 
+ 
+4. Pour les outils et moyens de mesure : 
+o Vérifier l’étiquette de calibration (date, statut) avant utilisation ; 
+o Ne pas utiliser un outil sans identification claire, sans étiquette ou hors 
+calibration ; 
+o Remettre l’outil dans la zone prévue après utilisation. 
+ 
+5. En cas de doute (sur une pièce, un produit, un outil, un document) : 
+o Arrêter l’utilisation de l’article concerné ; 
+o En informer le magasinier, le tuteur ou le responsable désigné ; 
+o Ne pas prendre d’initiative hors procédure. 
+ 
+ 
+  
+===== PAGE 30 =====
+Module 7.20 V07 
+Page 30 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+4 PROCEDURES DE CERTIFICATION / REMISE EN SERVICE 
+Info : Se référer à la procédure DSAC P-45-03 pour plus d’information concernant l’APRS 
+aéronef selon la Part 145. 
+4.1 Généralités de l’APRS 
+Ce paragraphe présente la remise en service  après entretien, telle que définie par le 
+PART-145.A.50 et ses AMC. Il explique dans quels cas un organisme d’entretien agréé 
+PART-145 peut délivrer un certificat de remise en service (APRS/CRS) pour un aéronef, ou 
+une EASA Form 1 pour un élément d’aéronef. L’idée centrale : l’organisme ne peut certifier 
+que des travaux réalisés dans son domaine d’agrément et selon les données d’entretien 
+approuvées. 
+✓ L’organisme PART-145 applique le PART-145.A.50 et AMC associés.  
+✓ Il délivre un CRS/APRS pour les aéronefs.  
+✓ Il délivre une EASA Form 1 pour les équipements / éléments.  
+✓ Il ne certifie que des travaux couverts par son agrément. 
+ 
+La notion d’APRS est le processus final suivi par l’organisme d’entretien Partie-145 
+dans le cadre de la réalisation d’un entretien sur un aéronef. 
+ 
+L’APRS est centrée autour des grands principes suivants : 
+• Avoir une définition précise de la part de l’exploitant des travaux à réaliser. 
+• Attestation de la conformité des travaux commandés et réalisés. 
+• Traitement du report de  certains travaux commandés (y compris les anomalies 
+découvertes en cours de visite). 
+• Non connaissance par l’organisme d’entretien de non-conformité pouvant porter 
+atteinte à la sécurité des vols. 
+• Délivrance d’un certificat APRS pour tout entretien réalisé et ceci avant tout vol. 
+ 
+Sur le principe, l’APRS est bien entendu un certificat de conformité délivré par l’organisme 
+d’entretien Partie-145 vis-à-vis des travaux commandés par l’exploitant. 
+C’est un engagement de  la part de l’organisme d’entretien Partie-145 sur le fait que 
+l’ensemble des exigences Partie 145, dont le respect des données d’entretien, a bien été 
+respecté dans le cadre de la réalisation des travaux commandés mais aussi dans le cadre 
+du report des travaux. 
+ 
+L’organisme d’entretien Partie-145 qui délivre une APRS ne peut en toute logique pas 
+s’engager sur l’état de navigabilité général de l’aéronef, celui-ci n’étant pas responsable de 
+la gestion du maintien de navigabilité de l’aéronef et n’ayant aucune information complète 
+liée au maintien de navigabilité (situation AD/CN, CMR/ALI, programme d’entretien…). 
+ 
+Cependant, il est important de comprendre que l’organisme d’entretien Partie-145 ne peut 
+en aucun cas se limiter à la conformité de travaux commandés. L’exigence 145.A.50 (a) 
+précise d’ailleurs qu’il est impossible de d élivrer une APRS dès lors que l’organisme 
+d’entretien Partie-145 découvre une anomalie pouvant remettre en question la navigabilité de 
+l’aéronef. 
+ 
+===== PAGE 31 =====
+Module 7.20 V07 
+Page 31 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+4.2 Opérations d’entretien nécessitant une APRS 
+Le 145.A.50(b) précise que toute opération d’entretien doit faire l’objet d’une APRS avant le 
+prochain vol. 
+Sont considérés comme opérations d’entretien nécessitant d’être couvertes par une APRS 
+sous Partie-145 les opérations suivantes : 
+✓ Toute action d’entretien préventive pré déterminée par lancement notamment celles 
+résultant de l’application du programme d’entretien (items d’origine MRB, ou MPD, ou 
+CMR, ou ALI, …), 
+✓ Toute action d’entretien corrective pré déterminée par lancement, résultant d’un report 
+de travaux, 
+✓ Toute rectification de défaut résultant du traitement des anomalies découvertes au sol 
+ou en vol, 
+✓ L’application de SB, de modifications, 
+✓ L’application de réparations, 
+✓ L’application d’AD / CN, 
+Tout report de travaux associés à une anomalie observée au sol ou en vol sauf si celui-ci est 
+associé à un item MEL non lié à une action particulière d’entretien (code « M » sur MEL). 
+ 
+4.3 Opérations non soumises à une APRS 
+Certaines opérations, peuvent ne pas nécessiter d’APRS : 
+✓ La pré-vol  
+Selon le M.A.301(a) et son AMC, la visite pré-vol contient notamment un ensemble de 
+contrôles techniques à réaliser avant le vol suivant qui peut comporter :  
+- Une inspection de type « tour avion », 
+- Une vérification des équipements de sécurité, 
+- Une vérification et remise à niveau des niveaux d’huile, d’hydraulique, pression des 
+pneus lorsqu’il ne s’agit que d’opérations de routine, non liée à une anomalie 
+(recherche de fuite, consommation anormale, pression trop basse…), 
+- Un contrôle de fermeture des portes, 
+- La vérification que les systèmes de sécurité sont enlevés, 
+- Un contrôle de l’absence de contamination (neige, sable…) sur les surfaces externes 
+et les moteurs. 
+ 
+✓ La mise en travaux différés par l’équipage suivant une MEL non liée à une action 
+d’entretien (code « M »). 
+✓ A l’issue de certains autres travaux ne comprenant pas d’opération nécessitant une 
+compétence tech nique / d’entretien particulière, la délivrance systématique d ’une 
+APRS n’est pas requise. En général, il s’agit avant tout d’opération de préparation et 
+de mise en œuvre de l’aéronef telles que le Servicing de l’avion et certains travaux en 
+cabine.  
+✓ Servicing de l’avion 
+- Vidange / remplissage toilettes 
+- Pleins d’eau 
+- Pleins de carburant 
+===== PAGE 32 =====
+Module 7.20 V07 
+Page 32 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+- Dégivrage/antigivrage 
+- Travaux de nettoyage divers 
+- Pastillage sécurité / portes – accès avion 
+ 
+✓ Travaux en cabine en exploitation (hors visite d’entretien en base) et mise en place / 
+dépose ou échange d’éléments en cabine tels que : 
+- Civières (si l’installation est simple et ne nécessite aucun couple de serrage 
+particulier) et kits oxygènes. Mise en lots de bord et retrait du lot de bord de civières 
+et kit oxygène, bouteille oxygène portable 
+- Gilets de sauvetage, masques et gilets de sauvetage de démonstration 
+- Extincteurs portables, cagoule antifumée 
+- Mégaphone, lampes torche, gants, hache, pied de biche, trousse de signalisation 
+- Trousses médicales d’urgence, boite pharmacie, linceul 
+- Harnais d’évacuation 
+- Poste de repos, isoloirs, cloisons mobile de séparation de classe (si travaux 
+simples, ne nécessitant pas la dépose de fauteuils...) 
+- Eléments d’habillage des galleys (toilettes et meubles) comme les étiquettes, 
+miroirs portables, consommables, à l’exception d’éléments liés à la sécurité 
+(verrous de sécurité…) 
+- Matériels pour le service en vol des passagers (casque audio, cassette vidéo…) 
+- Lots polaires 
+- Rideaux, cendriers, porte revues 
+- Cache rails 
+- Habillage des sièges passagers (housses, têtières…) et ceinture cabine. 
+ 
+ 
+4.4 Signification et domaine d’application de l’APRS 
+L’APRS est le document par lequel l’organisme PART-145 déclare que les travaux demandés 
+par l’exploitant ont été réalisés et contrôlés correctement . Pour un aéronef, cela se 
+matérialise sur le CRM / carnet de route  ou un formulaire de CRS . Pour un élément, la 
+remise en service est faite par EASA Form 1. 
+L’APRS est donc un certificat de conformité des travaux effectués, et non une déclaration 
+sur la navigabilité globale de l’aéronef (qui reste du ressort de l’exploitant / CAMO). 
+✓ Aéronef : APRS sur CRM / carnet de route / formulaire CRS.  
+✓ Élément d’aéronef : remise en service via EASA Form 1.  
+✓ L’APRS = conformité des travaux réalisés et reportés.  
+✓ La navigabilité globale (AD/CN, programme, CMR/ALI, etc.) reste la responsabilité du 
+CAMO / exploitant. 
+4.5 Principes et conditions pour délivrer une APRS 
+Pour pouvoir délivrer une APRS, l’organisme doit s’assurer que les travaux sont clairement 
+définis, réalisés selon les documents approuvés et correctement contrôlés. Les travaux 
+non réalisés mais reportables doivent être acceptés par l’exploitant et clairement tracés. 
+Surtout, il ne doit subsister aucune anomalie connue compromettant la sécurité des vols 
+===== PAGE 33 =====
+Module 7.20 V07 
+Page 33 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+; dans ce cas, l’APRS ne peut pas être délivrée. Les pièces et consommables utilisés doivent 
+être conformes et traçables. 
+✓ Travaux définis clairement : ordre de travail, CRM, cartes de travail.  
+✓ Exécution conforme aux données d’entretien (AMM, SRM, SB, etc.).  
+✓ Essais / contrôles / inspections réalisés et documentés.  
+✓ Travaux reportés : acceptés par l’exploitant et listés.  
+✓ Pas de défaut critique connu au moment de la remise en service.  
+✓ Pièces, matières, consommables acceptables et traçables  (certificats, potentiels, 
+AD/CN, etc.). 
+ 
+4.6 Gestion des nouveaux défauts et report de travaux 
+En cours d’entretien, de nouveaux défauts  peuvent être découverts ou certains travaux 
+programmés peuvent ne pas être terminés. Dans ces cas, l’organisme doit informer 
+l’exploitant, qui décide de corriger immédiatement, de reporter le défaut (si la réglementation 
+le permet) ou d’immobiliser l’aéronef. Les défauts non programmés  sont gérés via la 
+MEL/CDL ; s’ils sont différables, l’APRS reste possible, sinon elle doit être refusée. Tous les 
+défauts ou travaux reportés doivent être clairement mentionnés  dans la documentation 
+(CRM, liste de reports, dossier de visite). 
+✓ Nouveaux défauts : information et accord systématique de l’exploitant pour accepter 
+les travaux supplémentaires ou reporter les travaux si possible. 
+✓ Décision : corriger, reporter (si autorisé), ou immobiliser.  
+✓ Utilisation de la MEL/CDL pour les défauts en exploitation.  
+✓ Travaux programmés non terminés : report possible sous conditions.  
+✓ Tous les reports sont tracés et identifiés (CRM, rapports, liste de travaux reportés). 
+ 
+4.7 Cas où l’APRS ne peut pas être prononcée 
+Certains cas interdisent clairement la délivrance de l’APRS : AD/CN non appliquée , tâche 
+critique non exécutée, défaut impactant la sécurité des vols, travaux sans respect des données 
+d’entretien, ou absence de documents libératoires pour une pièce montée. Dans ces 
+situations, l’organisme ne doit pas délivrer d’APRS, mais seulement, le  cas échéant, une 
+attestation de travaux réalisés qui n’a pas valeur de remise en service. 
+✓ AD/CN ou limitations obligatoires non appliquées.  
+✓ Tâches critiques non réalisées ou non signées.  
+✓ Défauts ayant un impact sur la sécurité des vols.  
+✓ Travaux faits sans données d’entretien approuvées.  
+✓ Pièces sans certificat libératoire acceptable.  
+✓ Dans ces cas : pas d’APRS, éventuellement simple mention « travaux effectués ». 
+ 
+4.8 Personnel autorisé à délivrer l’APRS 
+L’APRS ne peut être signée que par du personnel de certification habilité  APRS par 
+l’organisme PART-145. 
+===== PAGE 34 =====
+Module 7.20 V07 
+Page 34 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Il détient une licence PART-66 avec les catégories et types appropriés pour les personnel de 
+certification APRS aéronef. Pour le personnel habilité APRS qui répare des équipements / 
+composants/ moteurs déposés il n’est pas nécessaire de détenir une licence Part 66. 
+Dans certains cas imprévus (aéronef AOG hors base), le Responsable de Surveillance 
+Conformité peut accorder une habilitation ponctuelle (“one -off authorisation”)  à une 
+personne compétente, avec re -vérification des travaux au retour en base. Le système 
+d’habilitation et de suivi de ces personnes est décrit dans le MOE. 
+✓ Seul le personnel de certification habilité peut signer l’APRS / Form 1.  
+✓ Habilitation basée sur licence PART-66, expérience et formation interne.  
+✓ Cas particulier : “one-off authorisation” pour un AOG hors base.  
+✓ Les travaux ainsi certifiés sont revérifiés à la base dès que possible.  
+✓ Les règles d’habilitation sont décrites dans le MOE (section qualification). 
+4.9 Approbation pour remise en service aéronef  
+Selon la Partie 145.A.50(b), un certificat de remise en service doit être délivré avant le vol 
+à l'issue de tout ensemble de travaux d'entretien. 
+L’approbation pour remise en service ne peut se faire que sur le lieu où ont été réalisés les 
+travaux en question. Le site d’entretien doit donc être précisé sur l’APRS. 
+4.9.1 Maintenance en Base : Certificat d’Approbation Pour Remise 
+en Service (CRS) 
+L’Approbation Pour Remise en Service à la fin d’une visite d’entretien en base ou d’un chantier 
+complet doit être délivrée sur un document qui doit reprendre l’ensemble des informations 
+nécessaires dont les principales sont précisées ci-dessus. 
+ 
+Selon le règlement Partie-145, la notion d’APRS en maintenance en base correspond à une 
+APRS unique.  
+
+===== PAGE 35 =====
+Module 7.20 V07 
+Page 35 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Les tâches lancées doivent être signées quand réalisées par l’ensemble des personnels de 
+soutien de catégories B1 et B2 et seul le personnel de certification APRS de catégorie C peut 
+signer l’APRS en fin de visite en base. 
+4.9.2 Maintenance en ligne : APRS sur le CRM 
+L’Approbation Pour Remise en Service à la fin d’une visite d’entretien en base ou d’un 
+chantier complet doit être délivrée sur un document qui doit reprendre l’ensemble des 
+informations nécessaires dont les principales sont précisées ci-dessus. 
+ 
+Concernant l’attestation elle-même, afin d’éviter une recopie de la phrase standard précisée 
+en début de ce chapitre, il est acceptable de la remplacer par une des deux formules 
+abrégées suivantes (xxx = n° d’agrément) : 
+ 
+"PARTIE 145.A.50 - FR.145.xxxx - Approbation Pour Remise en Service"  
+ou 
+"PARTIE 145.A.50 - FR.145.xxxx - APRS 
+ 
+En cas d’utilisation sur le CRM de cette version abrégée d’attestation, la version complète 
+de l’attestation devra obligatoirement figurer dans la section introduction du CRM. 
+ 
+Les autres informations générales liées à l’APRS sont les suivantes : 
+• La date et l’heure de délivrance de l’APRS 
+• Le site d’entretien ligne ou escale 
+• Le nom ou le trigramme ou le n° d’habilitation APRS et la signature de la personne 
+APRS. 
+ 
+4.9.2.1 Personnel devant signer l’APRS en ligne : 
+• La personne prononçant l’APRS doit disposer de toutes les informations confirmant 
+que la commande de maintenance de l’exploitant est complète. 
+• L’APRS est globale aéronef, pas une “APRS de tâche”, même si chaque tâche est 
+signée individuellement. 
+ 
+Catégorie A – Tâches simples 
+• Si toutes les tâches sont simples, listées à l’AMC 145.A.30(g),  
+• Réalisées par une seule personne,  
+• Et que cette personne est habilitée Cat A et formée sur ces tâches, 
+Une APRS unique peut être prononcée sur le CRM par cette personne. 
+ 
+Catégorie B1 – Maintenance ligne mécanique / structure 
+o Cellule, moteurs, systèmes mécaniques/électriques,  
+o Avionique avec tests simples sans dépannage, 
+ 
+Catégorie B2 – Maintenance ligne avionique 
+• Si les travaux concernent : 
+o Avionique / électrique,  
+o Tâches avioniques simples autorisées en ligne,  
+ 
+ 
+4.9.3 APRS / Vol de contrôle 
+La réalisation d’un vol de contrôle est de la responsabilité de l’exploitant. La définition et les 
+exigences réglementaires liées aux vols de contrôle après maintenance (MCF) sont définies 
+dans le règlement AIROPS (EU) n°965/2012.  
+===== PAGE 36 =====
+Module 7.20 V07 
+Page 36 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+A ce titre, l’organisme de maintenance Partie-145 devra se coordonner avec l’organisme 
+agréé Partie-CAMO et l’opérateur pour toutes les phases liées au vol de contrôle par 
+l’organisme Partie-145 (préparation du vol, vol à proprement parlé et opérations post-vol).  
+En cas de vol de contrôle, l'APRS est délivrée avant ce vol, sous réserve de l'exécution 
+satisfaisante de celui-ci. La mention suivante est portée sur le CRM :  
+« PART.145.A.50 - FR.145.xxxx - APRS sous réserve de l'exécution satisfaisante du vol 
+de contrôle » 
+Ou 
+« PART.145.A.50 - FR.145.xxxx – Release to service subject to satisfactory completion 
+of the test flight» 
+ 
+A l'issue du vol de contrôle, deux cas sont à considérer :  
+Il n'y a pas de remarque de l'équipage : La mention « Satisfactory Test Flight » (vol de contrôle 
+satisfaisant) est portée au CRM par l'équipage, et il n'y a pas lieu de prononcer une nouvelle 
+APRS. 
+Dans le cas où l e vol a donné lieu à remarques de la part de l'équipage : l'APRS sera 
+prononcée à l'issue des actions correctives correspondantes.  
+ 
+4.10 Approbation pour remise en service d’un élément d’aéronef (EASA 
+Form 1) 
+Lors des opérations de maintenance en atelier sur des composants / équipements déposés 
+d’un aéronef, la signature d’une EASA Form 1 ne nécessite pas de licence Part -66. Le 
+signataire doit être qualifié, formé et désigné par l’organisme d’entretien Part -145 comme 
+“personnel de certification composants”. 
+4.10.1 Généralités 
+Après toute maintenance réalisée sur un équipement déposé, un certificat libératoire EASA 
+Form 1 (Issue II, en anglais)  est émis avant remise en service.  
+L’EASA Form 1 est délivrée uniquement dans le cadre de l’agrément Part -145 et ne doit 
+pas être utilisée pour l’APRS d’un aéronef. 
+L’utilisation de pièces standards, matériaux et consommables est autorisée uniquement si 
+prévue dans les données d’entretien approuvées et si leur traçabilité est assurée.  
+L’EASA Form 1 est signée manuellement par du personnel habilité. 
+4.10.2 Équipement prélevé en bon état (« serviceable ») 
+Le prélèvement d’un équipement sur aéronef nécessite l’accord de l’exploitant . 
+Avant déclaration « serviceable », l’organisme vérifie : 
+• La conformité de navigabilité (potentiels, AD/CN, modifications, réparations), 
+• L’état physique de l’équipement, 
+• L’absence d’événement pouvant altérer son fonctionnement. 
+===== PAGE 37 =====
+Module 7.20 V07 
+Page 37 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Un équipement ne peut être déclaré « serviceable » que s’il a été déposé par du personnel 
+qualifié, selon des données approuvées, et si les enregistrements de maintenance sont 
+disponibles. 
+Pour un usage interne à la flotte ou pour stockage, l’émission d’une EASA Form 1 n’est pas 
+obligatoire. Une fiche suiveuse “BON ÉTAT / SERVICEABLE”  assure la traçabilité et est 
+validée par le responsable désigné. 
+ 
+4.10.3 Remise en service pour usage interne 
+Lorsqu’un équipement est maintenu pour l’usage propre de l’organisme, une fiche suiveuse 
+“BON ÉTAT / SERVICEABLE” est suffisante. 
+L’équipement est ensuite intégré au stock conformément aux procédures internes. 
+ 
+4.10.4 Installation provisoire sans EASA Form 1 
+En cas de panne hors base, un montage temporaire d’un équipement sans EASA Form 1 
+conforme est autorisé, pour 30 heures de vol maximum  ou jusqu’au retour en base.  
+L’équipement doit être jugé apte au service, l’accord de l’exploitant est requis et la situation 
+clairement mentionnée dans les documents de maintenance. 
+Dès disponibilité d’un équipement conforme, celui-ci est installé et les tests nécessaires sont 
+réalisés. 
+ 
+ 
+
+===== PAGE 38 =====
+Module 7.20 V07 
+Page 38 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Note : La description de l’EASA Form 1 est effectuée dans le module 10 §7.2.6.  
+ 
+  
+===== PAGE 39 =====
+Module 7.20 V07 
+Page 39 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+5 INTERFACE AVEC LES EXPLOITANTS  
+ 
+Dans le cadre réglementaire EASA, l’exploitant est le 
+CAMO, responsable de la navigabilité continue de 
+l’aéronef. 
+L’opérateur est l’utilisateur de l’aéronef, généralement la 
+compagnie aérienne, responsable de l’exploitation des 
+vols. 
+ 
+Dans le cadre réglementaire EASA, plusieurs entités interviennent autour 
+d’un aéronef. 
+Chacune a un rôle précis, et il est important de bien les distinguer pour éviter 
+toute confusion. 
+L’exploitant, représenté par le CAMO, est responsable de la navigabilité continue. 
+L’opérateur est l’utilisateur de l’aéronef, généralement la compagnie, et il est responsable 
+de l’exploitation des vols. 
+L’organisme de maintenance Part-145 réalise les travaux de maintenance commandés et 
+délivre une APRS à l’issue. 
+ 
+5.1 Responsabilités de l’exploitant (CAMO) : 
+• Gérer le programme d’entretien  : il définit quand et comment l’aéronef doit être 
+entretenu. 
+• Gérer et approuver la MEL  : il s’assure que la MEL est conforme et applicable à 
+l’aéronef. 
+• Suivre les reports MEL : il vérifie que les délais de rectification sont respectés. 
+• Gérer les AD : il s’assure que toutes les consignes de navigabilité sont appliquées. 
+• Coordonner avec le Part -145 : il échange avec la maintenance pour planifier les 
+travaux. 
+     Le CAMO est responsable de la navigabilité, pas de l’exploitation des vols. 
+ 
+5.2 Opérateur – Utilisateur (Compagnie) 
+L’opérateur est l’entité qui utilise l’aéronef pour voler. 
+Il est en contact direct avec l’équipage et prend les décisions opérationnelles. 
+Responsabilités de l’opérateur : 
+• Utiliser l’aéronef conformément à la MEL : il respecte les limitations imposées. 
+• Appliquer les restrictions opérationnelles  : par exemple, limitations de conditions 
+météo ou de routes. 
+• Décider d’exploiter ou non l’aéronef : la décision finale de vol lui appartient. 
+• Déclarer les défauts : tout défaut constaté est inscrit dans le Tech Log Book. 
+     L’opérateur n’approuve pas la MEL et ne gère pas la navigabilité continue. 
+  
+
+===== PAGE 40 =====
+Module 7.20 V07 
+Page 40 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+5.3 Tech Log Book (Compte Rendu Matériel) 
+Le Tech Log Book est le document de liaison entre les équipages et les techniciens. Il est 
+utilisé pour signaler les anomalies constatées sur l’aéronef et Il permet à chacun de connaître 
+l’état technique de l’aéronef. 
+ 
+Il est utilisé : 
+• Par l’opérateur pour déclarer les défauts, 
+• Par la maintenance pour inscrire les actions réalisées, 
+• Par le CAMO pour suivre la navigabilité et les reports MEL. 
+ 
+Le CRM permet d’assurer la traçabilité des anomalies et des interventions réalisées. 
+ 
+5.4 Organisme de maintenance Part-145 
+Responsable de la conformité technique 
+L’organisme Part-145 est chargé de réaliser la maintenance selon les données approuvées. 
+Il applique les décisions techniques, mais ne prend jamais de décision d’exploitation. 
+ 
+Responsabilités du Part-145 : 
+• Analyser les défauts : comprendre l’origine et l’impact du défaut. 
+• Appliquer la MEL techniquement : désactivation, placardage, essais, procédures. 
+• Utiliser les données approuvées : AMM, MEL, SB, etc. 
+• Tracer les actions : toutes les actions sont consignées dans le Tech Log Book. 
+     La maintenance applique, elle ne décide pas de voler. 
+ 
+5.5 Responsabilités liées à la MEL 
+La MEL permet d’exploiter un aéronef avec certains équipements inopérants, sous conditions 
+strictes. 
+Elle nécessite une coopération entre les différentes entités. 
+   Exploitant (CAMO) 
+• Gère et approuve la MEL, 
+• Définit les délais et conditions de report, 
+• Suit la levée des reports. 
+   Opérateur (Utilisateur) 
+• Applique les limitations opérationnelles, 
+• Décide de l’exploitation, 
+• Respecte les conditions d’utilisation. 
+   Maintenance Part-145 
+• Réalise les actions techniques MEL, 
+• Vérifie la conformité des actions, 
+• Trace les références MEL appliquées. 
+  
+===== PAGE 41 =====
+Module 7.20 V07 
+Page 41 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+5.6 Approbation pour Remise en Service (APRS) 
+À l’issue des travaux de maintenance, une Approbation pour Remise en Service (APRS) est 
+délivrée par du personnel habilité par l’organisme d’entretien Part 145. 
+L’APRS est délivrée sur le CRM de l’exploitant. 
+Cette approbation atteste que : 
+• Les travaux ont été réalisés conformément aux données approuvées, 
+• L’aéronef est apte à reprendre le service... 
+  
+===== PAGE 42 =====
+Module 7.20 V07 
+Page 42 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+6 INSPECTION D’ENTRETIEN / CONTROLE QUALITE / 
+ASSURANCE QUALITE 
+ 
+6.1 Méthode de capture des erreurs et Inspection indépendante 
+6.1.1 Principe réglementaire  
+La règlementation EASA PART-145.A.48 impose l’utilisation de méthodes de capture 
+d’erreurs lors de l’exécution de la maintenance. 
+Ces méthodes ont pour but de détecter les erreurs de maintenance  avant la remise en 
+service. 
+L’organisme de maintenance doit définir ces méthodes dans ses procédures d’entretien 
+(MOE). 
+ 
+6.1.2 Méthodes de capture d’erreurs  
+Les méthodes de capture d’erreurs sont des actions organisées pour détecter les erreurs 
+humaines. Elles sont définies par l’organisme et appliquées lors de la maintenance. 
+ 
+Une seule action peut ne pas être suffisante. Une combinaison peut être nécessaire, par 
+exemple :  
+• Inspection visuelle,  
+• Contrôle opérationnel,  
+• Test fonctionnel,  
+• Contrôle de réglage (rigging).  
+ 
+6.1.3 Inspection indépendante 
+L’inspection indépendante est une méthode de capture d’erreurs parmi d’autres . 
+Elle est utilisée lorsque le risque lié à la tâche le justifie.  
+ 
+Une inspection indépendante est réalisée par une “personne qualifiée indépendante” . 
+Elle inspecte une tâche effectuée ou supervisée par une “personne autorisée”. 
+• La personne autorisée : 
+o Réalise ou supervise la tâche, 
+o Est entièrement responsable  de sa bonne exécution conformément aux 
+données de maintenance applicables. 
+o  
+• La personne qualifiée indépendante : 
+o Effectue l’inspection et renseigne sur la carte de travail ce qui a été inspecté, 
+o Atteste que la tâche est correctement réalisée et qu’aucune anomalie n’a été 
+trouvée.  
+  
+===== PAGE 43 =====
+Module 7.20 V07 
+Page 43 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+6.1.4 Responsabilités et certification 
+• La personne qualifiée indépendante ne délivre pas le CRS. 
+o Elle n’a donc pas l’obligation de détenir des privilèges de certification. 
+• La signature du CRS reste du ressort de la personne autorisée . 
+→ Elle ne peut signer qu’après une inspection indépendante satisfaisante, lorsque 
+celle-ci est requise.  
+ 
+6.1.5 Traçabilité documentaire 
+Le système de cartes de travail doit enregistrer : 
+✓ L’identité de la personne autorisée, 
+✓ L’identité de la personne qualifiée indépendante, 
+✓ Les détails de l’inspection indépendante. 
+ 
+Cet enregistrement doit être fait avant la délivrance du CRS.  
+ 
+6.1.6 Réinspection  
+Note : les techniques d’inspection sont vu dans le module 7.18. 
+La réinspection est une méthode de capture d’erreurs soumise aux mêmes conditions qu’une 
+inspection indépendante, à la différence que la même personne, en tant que personne 
+autorisée, réalise la tâche de maintenance et effectue elle-même l’inspection.  
+ 
+Elle ne peut être utilisée que dans des circonstances imprévues, lorsqu’une seule personne 
+est disponible, et ne doit pas résulter d’un défaut d’organisation ou d’un manque de personnel 
+qualifié. La délivrance du CRS n’est possible qu’après l’exécution complète de la tâche et une 
+réinspection satisfaisante, et le système de cartes de travail doit enregistrer l’identité et les 
+détails de la réinspection avant la signature du CRS. 
+  
+===== PAGE 44 =====
+Module 7.20 V07 
+Page 44 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+6.2 Qualité / surveillance de la conformité 
+Références :  
+Règlementation PART-145.A.200 – Surveillance de la conformité 
+Guide DSAC / OSAC –G-06-00 Guide du système de gestion. 
+ 
+Les exigences réglementaires sont traduites en procédures internes adaptées à l’organisme. 
+Le mécanicien applique ces procédures dans son travail quotidien. 
+Des contrôles et audits vérifient que le travail réalisé correspond bien aux procédures écrites 
+et que l’organisme reste conforme. 
+ 
+La surveillance de la conformité Part -145.A.200 est un pilier du système de gestion . 
+Elle repose sur : 
+• Des procédures claires et adaptées, 
+• Une vérification indépendante, 
+• Une gestion rigoureuse des écarts, 
+• Et une implication forte du management, 
+Afin de garantir durablement la sécurité des opérations de maintenance et la conformité 
+réglementaire.  
+ 
+6.2.1 Objectif 
+La surveillance de la conformité  a pour objectif principal de garantir que l’organisme de 
+maintenance respecte en permanence : 
+• Les exigences réglementaires EASA Part-145, 
+• Les AMC/GM applicables, 
+• Ainsi que ses propres procédures internes décrites dans le MOE. 
+Elle permet de détecter les écarts , d’en analyser les causes et de mettre en place des 
+actions correctives adaptées, afin d’éviter leur réapparition. 
+Ce dispositif contribue directement au maintien de la sécurité des vols , à la maîtrise des 
+risques et à la pérennité de l’agrément de l’organisme. 
+ 
+6.2.2 Rôle de la surveillance de la conformité 
+La surveillance de la conformité est assurée par le Responsable de la Surveillance de la 
+Conformité (RSC), souvent appelé Responsable Qualité (RQ). 
+Ses responsabilités principales sont : 
+• Vérifier que les activités sont conformes aux exigences réglementaires et internes, 
+• Organiser et piloter les audits et inspections, 
+• Suivre les non-conformités et les actions correctives. 
+Cette fonction doit être : 
+• Indépendante des activités contrôlées, afin de garantir une évaluation objective, 
+• Adaptée à la taille et à la complexité de l’organisme, 
+• Formellement décrite et documentée dans le système de gestion (MOE). 
+ 
+  
+===== PAGE 45 =====
+Module 7.20 V07 
+Page 45 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+6.2.3 Actes de surveillance 
+La surveillance de la conformité s’appuie sur deux types principaux d’actions : 
+  Inspections 
+Les contrôles inopinés ou inspections programmées dans les locaux de l’exploitant permettent 
+de s’assurer de la qualité et de la conformité des opérations réalisées au jour le jour. Orientés 
+sur un domaine de surveillance précis, ces contrôles ne font pas toujours l’objet d’un préavis. 
+Ces inspections peuvent êtres sous plusieurs formes : 
+✓ Observation directe des activités (atelier, ligne, bureaux techniques). 
+✓ Vérification concrète de la conformité des pratiques, outils, documents et enregistrements. 
+ 
+  Audits 
+L’audit est un examen méthodique et indépendant en vue de déterminer si les activités et 
+résultats relatifs à la Conformité sont satisfaits et si ces dispositions sont mises en œuvre de 
+façon efficace et aptes à atteindre les objectifs. 
+Ce processus structuré et documenté comprend : la préparation, la réunion d’ouverture, la 
+collecte de preuves, le débriefing et la rédaction du rapport d’audit. 
+ 
+Les techniques utilisées incluent : 
+• Entretiens avec le personnel, 
+• Revue documentaire, 
+• Échantillonnage d’enregistrements, 
+• Observation des activités en situation réelle. 
+6.2.4 Programme de surveillance 
+Le Responsable de Surveillance de la conformité également appelé responsable Qualité, est 
+responsable d’établir un programme de surveillance. Il planifie les audits et inspections sur 
+l’ensemble des activités de l’organisme ainsi que les activités sous-traitées. 
+Pour les organismes Part-145, toutes les activités doivent être couvertes sur un cycle de 12 
+mois. Ce cycle peut être étendu jusqu’à 24 mois  sous conditions (absence de constats 
+sécurité et accord de l’Autorité). 
+6.2.5 Gestion des non-conformités 
+Les non-conformités sont classées en deux niveaux en fonction de leur gravité : 
+ 
+Lorsqu’une non-conformité est identifiée : 
+• Elle est classée (majeure, mineure, remarque), 
+• Une analyse de la cause racine est réalisée, 
+• Un plan d’actions correctives est défini avec : des responsables, des délais de mise 
+en œuvre. 
+Niveau 1 
+Non-Conformité 
+MAJEURE 
+Non-respect significatif des exigences de la réglementation abaissant le 
+niveau de Sécurité et portant atteinte à la Sécurité des vols. 
+Niveau 2 
+Non-Conformité 
+MINEURE 
+Ecart qui pourrait abaisser le niveau de Sécurité et porter atteinte à la Sécurité 
+du vol. 
+===== PAGE 46 =====
+Module 7.20 V07 
+Page 46 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+Le suivi des actions correctives est obligatoire jusqu’à leur clôture effective . 
+Les constats notifiés par l’Autorité (niveau 1 ou 2) doivent être traités dans les délais 
+convenus. 
+ 
+6.2.6 Système de retour d’informations  
+Le système de retour d’informations permet : 
+• D’informer le Cadre Responsable du niveau de conformité de l’organisme, 
+• De signaler les problèmes de sécurité, 
+• De suivre l’efficacité des actions correctives. 
+Il constitue un élément clé de l’ amélioration continue du système de gestion et renforce la 
+culture de sécurité au sein de l’organisme. 
+  
+===== PAGE 47 =====
+Module 7.20 V07 
+Page 47 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+7 PROCEDURES DE MAINTENANCE SUPPLEMENTAIRE 
+Les procédures de maintenance supplémentaires complètent les procédures générales 
+décrites dans le MOE de l’organisme. 
+Elles permettent de répondre à des situations particulières de maintenance ou à des exigences 
+réglementaires spécifiques liées à des agréments additionnels. 
+ 
+7.1 Procédures de maintenance en ligne  
+Les procédures de maintenance en ligne sont décrites dans la partie L2 du MOE.  
+Elles concernent les opérations de maintenance réalisées sur avion en exploitation, comme 
+les inspections de routine, les interventions de dépannage ou les remplacements 
+d’équipements en escale. 
+Ces procédures précisent les conditions d’intervention, les limites de travaux autorisés et les 
+responsabilités du personnel. 
+Le mécanicien doit appliquer strictement ces procédures lors des opérations de maintenance 
+en ligne. 
+ 
+7.2 Suppléments au MOE dans le cadre des agréments bilatéraux 
+Lorsqu’un organisme possède des agréments bilatéraux avec d’autres autorités, des 
+suppléments au MOE sont requis. 
+Ces suppléments permettent de démontrer la conformité aux exigences spécifiques des 
+autorités étrangères. 
+Ils ne remplacent pas le MOE principal, mais le complètent. 
+ 
+7.3 Différents suppléments au MOE 
+Le MOE EASA décrit les procédures applicables pour les aéronefs et produits relevant de la 
+réglementation européenne. 
+Le MOE FAA Supplement précise les exigences particulières applicables aux travaux réalisés 
+sous agrément FAA, notamment en matière de libération de maintenance et de 
+documentation. 
+Le MOE TCCA Supplement décrit les exigences spécifiques pour les travaux effectués sous 
+agrément canadien. 
+Chaque supplément définit les différences réglementaires, les responsabilités et les 
+procédures à appliquer selon l’autorité concernée. 
+  
+===== PAGE 48 =====
+Module 7.20 V07 
+Page 48 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+8 CONTROLE DES COMPOSANTS A DUREE DE VIE LIMITEE 
+8.1 Principe général 
+Certains composants installés sur un aéronef sont soumis à des contraintes mécaniques, 
+thermiques ou structurelles importantes. 
+ 
+Afin de garantir un niveau de sécurité maximal, ces composants ne sont pas utilisés jusqu’à 
+la panne, mais sont retirés du service avant l’apparition probable d’une défaillance. 
+On définit donc pour ces éléments une durée de vie limitée , appelée également limite de 
+vie, au-delà de laquelle le composant ne peut plus être utilisé. 
+ 
+Le mécanicien avion joue un rôle essentiel dans le contrôle des composants à durée de vie 
+limitée. Il doit notamment : 
+✓ Vérifier les potentiels inscrits dans la documentation, 
+✓ Respecter les instructions de remplacement, 
+✓ Signaler toute anomalie ou incohérence, 
+✓ S’assurer que les composants installés sont conformes et dans leurs limites de vie. 
+Le contrôle des composants à durée de vie limitée est un élément fondamental du maintien 
+de la navigabilité. Il contribue directement à la sécurité des vols, à la fiabilité des aéronefs 
+et au respect de la réglementation. 
+ 
+ 
+8.2 Notion de durée de vie limitée 
+La durée de vie limitée d’un composant est déterminée en prenant en compte deux critères 
+principaux : 
+• Le critère de sécurité 
+Il vise à éviter toute rupture ou défaillance pouvant avoir des conséquences graves sur 
+la sécurité des vols. 
+• Le critère économique 
+Il consiste à exploiter le composant le plus longtemps possible sans compromettre la 
+sécurité. 
+La limite de vie est donc fixée à un point où la probabilité d’apparition d’une défaillance 
+devient supérieure au gain économique attendu . Une marge de sécurité  est 
+systématiquement intégrée dans cette durée afin de tenir compte : 
+• Des dispersions de fabrication, 
+• Des conditions d’utilisation réelles, 
+• Du vieillissement des matériaux. 
+  
+===== PAGE 49 =====
+Module 7.20 V07 
+Page 49 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+8.3 Expression de la durée de vie 
+La durée de vie d’un composant peut être exprimée sous différentes formes, en fonction du 
+type de contraintes qu’il subit. 
+8.3.1 Durée de vie exprimée en cycles 
+Certains composants sont soumis à des efforts répétés à chaque utilisation.  
+Leur durée de vie est alors exprimée en nombre de cycles. 
+Exemples : 
+• Turbines moteurs  : un cycle correspond généralement à un démarrage, un 
+fonctionnement et un arrêt du moteur, 
+• Compresseurs : soumis à des contraintes thermiques et mécaniques importantes à 
+chaque cycle moteur. 
+8.3.2 Durée de vie exprimée en actions spécifiques 
+Pour certains équipements, la durée de vie est liée à une action précise et quantifiable. 
+ 
+Exemple :  Train d’atterrissage  : la durée de vie est exprimée en nombre d’atterrissages , 
+chaque atterrissage générant des efforts importants sur la structure et les amortisseurs. 
+8.3.3 Autres formes de limitation 
+Selon les cas, la durée de vie peut également être exprimée en : 
+• Heures de fonctionnement, 
+• Temps calendaire (années), 
+• Ou une combinaison de plusieurs critères. 
+8.4 Détermination des limites de vie 
+Les limites de vie des composants sont établies par les constructeurs à partir de plusieurs 
+sources : 
+• Calculs de résistance des matériaux, 
+• Essais en laboratoire, 
+• Essais en conditions réelles, 
+• Retour d’expérience en service (service experience). 
+Ces données permettent de définir une limite de vie approuvée , publiée dans la 
+documentation constructeur et validée par l’Autorité. 
+ 
+8.5 Notion de limite de vie 
+La limite de vie correspond : 
+• Soit à une date, 
+• Soit à un potentiel (heures, cycles, atterrissages). 
+À cette limite, le composant doit être : 
+• Impérativement retiré du service,  
+• Remplacé ou envoyé en réparation, selon les instructions applicables. 
+Le dépassement d’une limite de vie constitue une non-conformité réglementaire majeure. 
+  
+===== PAGE 50 =====
+Module 7.20 V07 
+Page 50 sur 50 
+ 
+AIR FORMATION CFM 66 © 2026 
+8.6 Suivi des composants à durée de vie limitée 
+En raison de leur importance pour la sécurité, les composants à durée de vie limitée font l’objet 
+d’un suivi particulier. 
+Ce suivi comprend : 
+• L’enregistrement des heures, cycles ou actions, 
+• La mise à jour des potentiels, 
+• La vérification des limites avant remise en service. 
+Le bureau technique est chargé du suivi des potentiels, de l’anticipation des échéances, et 
+d’informer les services de maintenance. 
+ 
+Il informe le service technique lorsqu’un composant approche de sa limite de vie afin de 
+permettre : 
+• La planification de la maintenance, 
+• La disponibilité des pièces, 
+• L’immobilisation minimale de l’aéronef. 
+ 
+ 
+ 
+*******************Fin du sous module 7.20******************* 
+ 
+ 

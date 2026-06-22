@@ -1,0 +1,4914 @@
+===== PAGE 1 =====
+Module 7.17 V07   Page 1 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Sous-Module 7.17 
+ 
+Assistance au sol 
+et stockage 
+ 
+Licence B1 / B2 
+
+===== PAGE 2 =====
+Module 7.17 V07   Page 2 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 31/08/2011 50,51,52 
+Ajout paragraphes : 5.6.4 Taches 
+d’entretien suite aux interventions de 
+dégivrage / antigivrage des aéronef 
+V05 
+ 12/05/2016 Page de garde et 
+page 1 
+Adresse, signatures et noms modifiés + 
+édition Pied de page modifié sur l’ensemble 
+du document 
+V06 12/06/2017 Toutes  Mise à jour  
+V07 19/02/2026 Toutes Refonte complète  
+ 
+  
+Visa Rédacteur 
+Cyril VERDU / Jean François 
+REIMONENQ 
+Visa Responsable Module / Visa 
+Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+ 
+ 
+ 
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.17 V07   Page 3 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+Catégorie B1 : 80 questions à choix multiples, Temps alloué 100 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+Catégorie B2 :  60 questions à choix multiples, Temps alloué 75 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+ Niveau 
+7.17. Assistance au sol et stockage 
+ 
+A B1 B2 
+Roulage/Tractage des aéronefs et mesures de sécurité associées ; 
+2 2 2 
+Mise sur vérins, calage, arrimage des aéronefs et mesures de sécurité 
+associées ; 
+Méthode de stockage des aéronefs ; 
+Procédures de Ravitaillement/Vidange de carburant ; 
+Procédures de dégivrage/antigivrage ; 
+Alimentation électrique, hydraulique et pneumatique au sol ; 
+Effets des conditions environnementales sur la manutention et 
+l’exploitation des aéronefs. 
+ 
+  
+===== PAGE 4 =====
+Module 7.17 V07   Page 4 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.17 V07   Page 5 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1.1 Roulage des aéronefs et mesures de sécurité associées ; ................................ ..........7 
+1.1.1 Mesure de sécurité aéroportuaire ; .......................................................................... 7 
+1.1.2 Pourquoi le roulage ? ............................................................................................... 9 
+1.1.3 Cadre règlementaire; ............................................................................................. 11 
+1.1.4 Procédure de roulage ............................................................................................ 13 
+1.1.5 Gestes conventionnels de Parcage ....................................................................... 17 
+1.2 Tractage des aéronefs et mesures de sécurité associées ................................ ......... 18 
+1.2.1 Règlementation ...................................................................................................... 18 
+1.2.2 Condition nécessaire du personnel pour effectuer le tractage ............................... 19 
+1.2.3 Les différents engins de tractage et de refoulement .............................................. 20 
+1.2.4 Les précautions de tractage................................................................................... 22 
+1.2.5 Risques liés au tractage ........................................................................................ 25 
+1.2.6 Exemple de procédure complète de tractage ........................................................ 28 
+2/ Mise sur vérins, calage, arrimage des aéronefs et mesures de sécurité associées ; .... 35 
+2.1 Mise sur vérins des aéronefs et mesures de sécurité associées ; ............................ 35 
+2.1.1 Généralités ; .......................................................................................................... 35 
+2.1.2 Les différents moyens de levage ; ......................................................................... 43 
+2.1.3 Vérifications et configuration avant levage ; .......................................................... 46 
+2.1.4 Check-list procédure de levage/remise au sol ; ..................................................... 48 
+2.2 Calage des aéronefs et mesures de sécurité associées ; ................................ .......... 49 
+2.2.1 Généralités ; .......................................................................................................... 49 
+2.2.2 Méthode de calage ; .............................................................................................. 51 
+2.2.3 Précautions à prendre lors du calage ; .................................................................. 55 
+2.2.4 Check-list mise en place des cales ; ...................................................................... 58 
+2.3 Arrimage des aéronefs et mesures de sécurité associées ; ................................ ...... 59 
+2.3.1 Points d’ancrage au sol ; ....................................................................................... 59 
+2.3.2 Outils d’arrimage ; .................................................................................................. 60 
+2.3.3 Procédure d’arrimage ; .......................................................................................... 65 
+3/ Méthodes de stockage des aéronefs ; ................................ ................................ ............... 66 
+3.1 Généralités ; ................................ ................................ ................................ .................. 66 
+3.2 Les différents stockages ; ................................ ................................ ............................ 69 
+3.2.1 La préservation de 0 à 30 jours ; ........................................................................... 69 
+3.2.2 Le stockage court terme entre 30 jours et 90 jours ; .............................................. 70 
+3.2.3 Le stockage long terme au-delà de 90 jours ; ........................................................ 71 
+4/ Procédures de Ravitaillement/Vidange de carburant ; ................................ ..................... 73 
+4.1 Procédures de ravitaillement ; ................................ ................................ ..................... 73 
+4.1.1 Cadre réglementaire .............................................................................................. 73 
+4.1.2 Equipements et installations .................................................................................. 74 
+4.1.3 Les conditions Météorologique .............................................................................. 76 
+4.1.4 Ravitaillement de l’aéronef..................................................................................... 78 
+4.1.5 Gestion des urgences ............................................................................................ 85 
+===== PAGE 6 =====
+Module 7.17 V07   Page 6 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.2 Procédure de vidange de carburant ; ................................ ................................ .......... 86 
+4.2.1 Situations nécessitant une vidange ; ..................................................................... 86 
+4.2.2 Sécurité et gestion des risques ; ............................................................................ 86 
+4.2.3 Méthodes de vidange ; .......................................................................................... 87 
+4.2.4 Exemple de vidange par gravité ............................................................................ 89 
+5/Procédures de dégivrage/antigivrage ; ................................ ................................ .............. 92 
+5.1 Généralités ; ................................ ................................ ................................ .................. 92 
+5.2 Principes d’inspection ; ................................ ................................ ................................  94 
+5.2.1 Inspection de zones ; ............................................................................................. 94 
+5.2.2 Zones critiques ; .................................................................................................... 95 
+5.3 Procédures de dégivrage/antigivrage ; ................................ ................................ ........ 96 
+5.3.1 Dégivrage ; ............................................................................................................ 96 
+5.3.2 Antigivrage ; ........................................................................................................... 97 
+5.3.3 Procédure des équipes de dégivrage/antigivrage au sol; ...................................... 98 
+5.4 Procédures spécifiques post traitement ; ................................ ................................ ... 99 
+6/ Alimentation électrique, hydraulique et pneumatique au sol ; ................................ ...... 100 
+6.1 Alimentation électrique au sol ; ................................ ................................ ................. 101 
+6.1.1 Procédure de mise en place de Groupe de Puissance (GPU ou groupe de parc) ;
+...................................................................................................................................... 102 
+6.2 Alimentation hydraulique au sol ; ................................ ................................ .............. 103 
+6.2.1 Procédure d’alimentation hydraulique au sol (HGPU / Power Pack) ; ................. 104 
+6.3 Alimentation pneumatique au sol ; ................................ ................................ ............ 106 
+6.3.1 Pre-Conditionned Air unit (PCA) ; ........................................................................ 107 
+6.3.2 Air Start Unit (ASU) ; ............................................................................................ 107 
+6.3.4 Procédure d’alimentation pneumatique au sol (ASU / PCA) ................................ 108 
+7/ Effets des conditions environnementales sur la manutention et l’exploitation des aéronefs.
+ 109 
+7.1 Effets des conditions environnementales sur la manutention des aéronefs. ......... 109 
+7.1.1 Les effets de la température ; .............................................................................. 110 
+7.1.2 Effets de l’humidité ; ............................................................................................ 112 
+7.2 Effets des conditions environnementales sur l’exploitation des aéronefs. ............ 117 
+7.2.1 Les précautions et procédure opérationnelles ; ................................................... 117 
+ANNEXES 1 Fiche contre les incursions de pistes : ................................ .......................... 118 
+ANNEXES 2 Fiche des qualités du tractiste : ................................ ................................ ...... 120 
+GESTES CONVENTIONNELS DE TRACTAGE : ................................ ................................ ... 121 
+ANNEXES 3 Adaptateurs mise sur vérins : ................................ ................................ ......... 132 
+ANNEXES 4 Dégivrage/Antigivrage : ................................ ................................ ................... 135 
+ANNEXES 5 Check-List Avitaillement carburant : ................................ ..............................  138 
+ 
+===== PAGE 7 =====
+Module 7.17 V07   Page 7 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1/ Roulage/Tractage des aéronefs et mesures de 
+sécurité associées ; 
+ 
+Rappel des objectifs : connaissance générale des techniques de 
+roulage/tractage des aéronefs et mesures de sécurité associées. Capacité à 
+appliquer cette connaissance. [Niveau 2] 
+ 
+1.1 Roulage des aéronefs et mesures de sécurité associées ; 
+1.1.1 Mesure de sécurité aéroportuaire ; 
+ 
+Le roulage des aéronefs fait référence au déplacement d'un aéronef sur une piste, une aire de 
+stationnement ou une voie de circulation etc. d’une zone aéroportuaire.  
+Il s’agit des phases de déplacement de l’avion par ses propres moyens contrairement au tractage 
+ou repoussage excluant les phases de décollage et l’atterrissage. 
+Le roulage des aéronefs est soumis à règlementation et aux directives des exploitants d’aéroports 
+et des zones aéroportuaires.  
+ 
+ 
+(Exemple de zone aéroportuaire) 
+Éléments principaux : 
+• Piste principale (27/09) en gris foncé 
+• Voies de circulation (Taxiways A, B, C) avec marquage jaune 
+• Points d'attente avec feux rouges (stop bars) avant la 
+piste 
+• Aires de stationnement délimitées 
+• Tour de contrôle avec signaux radio 
+• Panneaux directionnels jaunes (A, B, C) 
+ 
+Mesures de sécurité visibles : 
+• Points d'arrêt obligatoires (STOP) avant accès piste 
+• Distances de sécurité entre aéronefs 
+• Sens de circulation indiqué par flèches vertes 
+• Signalisation claire avec code couleur 
+  
+ 
+ 
+
+===== PAGE 8 =====
+Module 7.17 V07   Page 8 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Procédures opérationnelles 
+ 
+Communications radio obligatoires : 
+ 
+• Autorisation systématique du contrôle au sol (Ground Control)  
+• Lecture répétée (read-back) des instructions 
+• Contact permanent avec la tour de contrôle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Circulation sur un Aéroport 
+
+===== PAGE 9 =====
+Module 7.17 V07   Page 9 sur 138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.2 Pourquoi le roulage ? 
+ 
+ 
+ 
+ 
+ 
+ 
+L’importance essentielle des tests dynamiques 
+ 
+Dans le domaine de la maintenance aéronautique, les tests dynamiques et moteurs ne sont pas 
+une simple formalité : ils représentent une étape absolument indispensable.  
+Ils permettent de s’assurer que l’aéronef fonctionne correctement après une intervention de 
+maintenance, et surtout, qu’il réagit comme prévu dans des conditions réelles de roulage.  
+Contrairement à certaines vérifications qui peuvent se faire à l’arrêt, ces essais nécessitent que 
+l’avion se déplace, car de nombreux systèmes ne révèlent leur b on fonctionnement qu’en 
+mouvement. 
+ 
+ 
+Quand un essai dynamique est-il nécessaire ? 
+ 
+Chaque fois qu’une opération touche aux éléments essentiels de la propulsion, de la direction ou 
+du freinage, un test dynamique s’impose.  
+ 
+ 
+• Du remplacement ou de la réparation du moteur, ou de tout composant propulsif  
+• De travaux sur le train d’atterrissage, qu’il s’agisse des roues, des freins ou des amortisseurs  
+• D’interventions sur le système hydraulique  
+• De réparations concernant la direction au sol (le nose wheel steering)  
+• Ou encore du changement de certains composants avioniques nécessitant une calibration en 
+mouvement. 
+  
+Ces situations ont toutes un point commun : à l’arrêt, il est impossible de reproduire les 
+conditions réelles dans lesquelles ces systèmes fonctionnent. 
+ 
+===== PAGE 10 =====
+Module 7.17 V07   Page 10 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Des vérifications impossibles à réaliser à l’arrêt 
+ 
+Certains tests ne peuvent tout simplement pas être menés moteur coupé ou avion immobilisé. 
+ 
+ 
+ 
+• Le freinage dynamique, qui permet de vérifier l’efficacité des freins sous vitesse et sous charge  
+• Le comportement du train d’atterrissage, notamment l’alignement du train avant et du train 
+principal, la détection de vibrations ou l’usure anormale  
+• Le système de direction au sol, dont la réactivité ne peut être observée que lors de virages en 
+mouvement  
+• L’alignement des gyroscopes, qui exigent un déplacement de l’appareil pour être correctement 
+calibrés  
+• Les systèmes anti-dérapage (anti-skid), dont le fonctionnement ne peut être testé à l’arrêt  
+• Et enfin, la détection de certaines vibrations du moteur, qui ne se manifestent qu’en roulage 
+ 
+ 
+L’importance du diagnostic en conditions réelles 
+ 
+Le test dynamique permet au mécanicien de retrouver des sensations et des repères que les 
+instruments seuls ne suffisent pas à fournir. 
+ 
+Durant le roulage, il peut : 
+ 
+• Ressentir d’éventuelles vibrations anormales, imperceptibles pour un pilote non spécialisé  
+• Écouter les bruits caractéristiques du moteur ou du train d’atterrissage, indicateurs précieux d’un 
+défaut mécanique  
+• Observer les paramètres en temps réel, selon les protocoles de maintenance établis  
+• Comparer ces valeurs aux références attendues après l’intervention  
+• Et ainsi, valider immédiatement la conformité de la réparation ou identifier un problème persistant. 
+ 
+ 
+ 
+ 
+ 
+  
+Essai freinage lors d’un RTO  
+===== PAGE 11 =====
+Module 7.17 V07   Page 11 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.3 Cadre règlementaire; 
+ 
+ 
+ 
+ 
+ 
+ 
+Le roulage est une opération sensible, soumise à règlementation et à une répartition 
+des responsabilités entre les différents acteurs des opérations aériennes. 
+ 
+La circulation des aéronefs, et des véhicules, sur les zones aéroportuaires sera soumise au strict 
+respect des codes de circulations établis par l’exploitant de la zone. 
+Il sera par exemple, question des priorités de circulations, de points d’arrêts obligatoires etc. 
+Pour aller plus loin : Document SERA complet. 
+ 
+ 
+ 
+Rappel des différents acteurs sur une plateforme aéroportuaire : 
+ 
+L’exploitant de l’aérodrome : 
+ 
+• Assure la conformité des surfaces de manœuvre (état, 
+signalisation, marquage)  
+• Publie les NOTAM ("Notice to Airmen", « messages aux 
+navigants aériens ») - en cas de dégradation  
+• Coordonne avec les services ATC (Air trafic control) et 
+d’urgence. 
+ 
+ 
+ 
+L’exploitant de l’aéronef (pilote-mécanicien / compagnie) : 
+ 
+• Conduit le roulage conformément aux instructions ATC et 
+aux règles de circulation au sol  
+• Reste responsable de la manœuvre et de la sécurité de 
+l’appareil  
+• Doit s’assurer de la lisibilité du balisage et du respect des 
+limitations de masse ou de dimensions 
+ 
+ 
+ 
+Le contrôle au sol (Ground control) : 
+ 
+• Délivre les autorisations de roulage (clearances)  
+• Gère la séparation et le séquencement des aéronefs   
+• N’assume aucune responsabilité d’exploitation sur les aéronefs ou les 
+surfaces.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Conformément à la règlementation 
+
+===== PAGE 12 =====
+Module 7.17 V07   Page 12 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+L’exploitant s’assure qu’un avion n’effectue une opération de roulage sur l’aire de 
+mouvement d’un aérodrome que si la personne aux commandes : 
+ 
+Est un pilote ou technicien qualifié ou a été désigné par l’exploitant et : 
+ 
+➢ Formé à faire rouler l’avion au sol 
+➢ Formé pour utiliser la radiotéléphonie, si les communications radio sont nécessaire 
+➢ A reçu une formation concernant le plan de l’aérodrome, les routes, la signalisation, les 
+marques, le balisage lumineux, la signalisation, les instructions du contrôle de la circulation 
+aérienne (ATC), la phraséologie et les procédures 
+➢ Est capable de se conformer aux normes opérationnelles requises pour déplacer de 
+manière sûre l’avion sur l’aérodrome  
+ 
+ 
+        Cas particulier pour l’hélicoptère : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le mécanicien ne peut pas effectuer le roulage sur un hélicoptère sauf : 
+ 
+Dans certains centres de maintenance (grandes bases militaires ou civiles certifiées EASA Part-
+145), 
+des mécaniciens spécialement habilités peuvent effectuer un roulage technique pour : 
+ 
+• Vérifier le comportement du train d’atterrissage, des freins, de la direction au sol ; 
+• Tester les vibrations moteur ou le système anti-couple à faible vitesse. 
+ 
+Ces personnels sont formés comme “ techniciens roulage”, ont passé un stage spécifique de 
+pilotage au sol, et disposent d’un permis de roulage délivré par l’exploitant ou l’autorité. 
+ 
+Mais c’est une exception : la grande majorité des mécaniciens n’ont pas cette qualification. 
+ 
+ 
+ 
+ Raisons de cette restriction 
+ 
+• Le roulage d’un hélicoptère implique un contrôle précis du pas collectif, cyclique et du 
+palonnier : une erreur minime peut faire basculer ou soulever involontairement l’appareil. 
+• Le risque de basculement dynamique ou de résonance au sol est élevé à faible vitesse 
+si les gestes ne sont pas maîtrisés. 
+• Le roulage engage la responsabilité du commandant de bord, donc il faut être licencié 
+comme pilote. 
+Législation applicable AIROPS 
+ 
+ 
+
+===== PAGE 13 =====
+Module 7.17 V07   Page 13 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.4 Procédure de roulage  
+ 
+Cette procédure s’applique à : 
+• Tous les mouvements au sol sous puissance propre de l’aéronef 
+• Réalisés par un pilote qualifié ou un technicien habilité au roulage (permis de circulation 
+aéronautique / autorisation de roulage maintenance)  
+• Dans les zones techniques ou opérationnelles de l’aérodrome 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Avant tout déplacement  
+ 
+ 
+ 
+   Documents et autorisations 
+ 
+• Vérifier que le roulage est autorisé par la tour de contrôle ou le service de coordination sol. 
+• S’assurer que l’autorisation de roulage maintenance est valide (si applicable). 
+• Consulter la check-list de roulage maintenance ou pré-vol appropriée. 
+ 
+   Inspection extérieure 
+ 
+• Vérifier l’absence d’obstacle autour de l’avion (outillage, véhicules, cales, cônes). 
+• Confirmer le dégagement de la trajectoire prévue vers la zone de point fixe. 
+• S’assurer que les portes, trappes et capots sont fermés et sécurisés. 
+• Vérifier la présence de personnel au sol positionné et briefé (mécanicien, signaleur). 
+ 
+   Contrôles cabine / cockpit 
+ 
+• Freins de parc libérés ou testés selon la phase. 
+• Pressions hydrauliques normales. 
+• Instruments et radios sous tension si nécessaires à la communication sol. 
+• Commandes de vol libres et vérifiées. 
+• Vérification du système d’interphonie / liaison radio avec le sol ou la tour. 
+ 
+  
+Vérifications préalables 
+ 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.17 V07   Page 14 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Autorisation et mise en mouvement 
+ 
+• Demander l’autorisation de roulage à l’ATC ou au responsable piste maintenance 
+• Vérifier secteurs dégagés avant toute mise en puissance 
+• Annoncer “mise en mouvement” au personnel sol 
+• Démarrer le roulage en douceur avec une poussée minimale suffisante 
+ 
+ 
+      b. Contrôle de la trajectoire 
+ 
+• Maintenir une vitesse de roulage adaptée (max. 15 kt ou selon consignes locales) 
+• Utiliser la direction au sol (palonnier ou tiller) pour garder l’axe de circulation 
+• Vérifier le fonctionnement des freins à faible vitesse 
+• Éviter tout virage brusque ou freinage brutal 
+ 
+ 
+   c. Communication et coordination 
+ 
+• Maintenir un contact radio constant avec la tour ou le superviseur sol 
+• Signaler tout incident, anomalie ou vibration anormale 
+• Respecter les instructions d’arrêt, de passage ou de croisement d’autres appareils 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Déroulement du roulage 
+ 
+ 
+
+===== PAGE 15 =====
+Module 7.17 V07   Page 15 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Positionnement 
+ 
+• S’arrêter à l’emplacement prévu, face au vent si possible. 
+• Laisser une distance de sécurité suffisante entre  les ailes, la queue et les obstacles (souffle 
+réacteur). 
+ 
+        Sécurisation 
+ 
+• Freins de parc serrés. 
+• Vérifier que le personnel sol est dégagé avant d’augmenter la puissance moteur. 
+• Vérifier la tenue de l’avion (pas de dérive due au vent). 
+• Passer en configuration “essai moteur” selon la check-list correspondante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Confirmer la mise en position au contrôle sol. 
+• Appliquer la check-list “tests moteurs / essais dynamiques” correspondante. 
+• S’assurer qu’aucune personne ou véhicule ne se trouve dans la zone de souffle. 
+• Réaliser les tests nécessaires selon les procédures de maintenance. 
+ 
+  
+Arrivée et positionnement en zone de point fixe 
+ 
+Fin de roulage et mise au point fixe 
+ 
+
+===== PAGE 16 =====
+Module 7.17 V07   Page 16 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Sécurité et précautions 
+ 
+Risque Mesure préventive 
+Collision au sol Respect strict des trajectoires et vitesses 
+limitées 
+Projection de FOD (Foreign Object 
+Damage) 
+Vérifier propreté de la zone et 
+éloignement du personnel 
+Perte de contrôle directionnel Vérification freins, vitesse lente, 
+correction douce 
+Incendie moteur Extincteurs prêts et opérateurs sol en 
+position 
+ 
+RISQUES LORS DU ROULAGE ? 
+ 
+Voici des exemples récents d’incidents lors des opérations de roulage. 
+ 
+1. URAL Airlines A320 – Koltsovo International Airport, Russie 
+• Date : 19 mai 2024. 
+• Description : un aéronef A320 de URAL Airlines démarre son roulage, un agent au sol se trouvait 
+encore devant le train avant. 
+• L’aéronef roule et blesse gravement un agent au sol. 
+• Le rôle de la phase de roulage est déterminant : l’aéronef était en mouvement mais ne devait 
+pas encore rouler tant que la zone n’était pas dégagée. 
+• Enseignement : importance de la coordination entre équipage et personnel au sol + visibilité 
+du conducteur/commandant de bord sur la zone avant le roulage. 
+ 
+2. Japan Airlines Boeing 787 & Delta Air Lines Boeing 737 – Seattle–Tacoma International 
+Airport (USA) 
+• Date : 5 février 2025. 
+• Description : un B 787 de Japan Airlines, en roulage (arrivée/roulage depuis piste) à Seattle -
+Tacoma, a heurté l’empennage arrière d’un B 737 de Delta qui était stationné. 
+• Aucun blessé mais collision avion-avion au sol. 
+• Enseignement : il montre l’importance de la gestion des mouvements au sol, du contrôle taxi-
+way/parking, des dégagements entre aéronefs et de l’interaction roulage-stationnement. 
+ 
+ 
+ 
+
+===== PAGE 17 =====
+Module 7.17 V07   Page 17 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.5 Gestes conventionnels de Parcage  
+ 
+ 
+Les gestes conventionnels de parcage d'avion (ou " marshaling") constituent un langage visuel 
+standardisé permettant de guider les aéronefs au sol en toute sécurité.  
+Ces signaux sont utilisés par les agents de piste ( marshalers) pour communiquer avec les pilotes 
+lorsque les communications radio sont impossibles ou comme complément visuel. 
+ 
+ 
+Position Initiale 
+ 
+Le parqueur doit se positionner : 
+ 
+• Face à l'avion, légèrement décalé sur la gauche du pilote 
+• À une distance visible (généralement devant l'avion) 
+• Dans le champ de vision direct du cockpit 
+• En zone dégagée, à l'écart des dangers (moteurs, hélices) 
+ 
+ 
+ 
+ 
+NOTA : Voir gestes conventionnels du tractage en ANNEXE 2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Ces gestes qui guident les avions au sol 
+ 
+===== PAGE 18 =====
+Module 7.17 V07   Page 18 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2 Tractage des aéronefs et mesures de sécurité associées 
+1.2.1 Règlementation  
+ 
+  
+ 
+ 
+Avant toute opération de tractage/repoussage, il est indispensable de se référer à la 
+règlementation en vigueur PART 145. 
+Pour cela, vous devrez vous appuyer sur plusieurs types de documents officiels : 
+ 
+- Documentation constructeur :  
+AMM, ATA09 Tractage, ATA10 Parcage. 
+ 
+- Procédures compagnies :  
+Manuel d’exploitation, manuel de procédures sol pour les techniciens aéronefs. 
+ 
+- Procédure aéroport :  
+Manuel d’exploitation. 
+ 
+Le respect de la législation engagera la responsabilité de chaque intervenant lors des opérations 
+de tractages et sera soumis, en France, au respect du code du travail.  
+ 
+ 
+ 
+ 
+ 
+Facteurs principaux d’accidents lors des opérations de tractage 
+ 
+FACTEUR 
+ORGANISATIONNEL 
+FACTEUR HUMAIN ENVIRONNEMENT 
+Procédure inadaptée 
+Absence de formation 
+Absence de plan de 
+circulation, balisage etc. 
+Absence d’autorisation 
+de conduite 
+Vitesse inadaptée 
+Manque de visibilité 
+ 
+ 
+Pente trop importante 
+Rupture mécanique 
+ 
+Nota : Plus de détails sur la recherche de responsabilité sont disponibles : 
+« Module 9 : Les facteurs humains ». 
+ 
+ 
+ 
+  
+Décret nº 2008-244 du 7 mars 2008 
+ 
+===== PAGE 19 =====
+Module 7.17 V07   Page 19 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.2 Condition nécessaire du personnel pour effectuer le tractage 
+  
+- Majeur 18 ans  
+- Autorisation de conduite (Art.R233-13-19) 
+- Evaluation de l’employeur  
+- Contrôle des connaissances et savoir-faire de l’opérateur  
+- Connaissances des lieux et des instructions à respecter  
+- Aptitude médicale et tests psychotechniques  
+ 
+ 
+ 
+ 
+ 
+Cette qualification concerne :  
+ 
+• L’agent conduisant le tracteur (tractiste).  
+• Le convoyeur au poste de pilotage 
+• L’assistant de piste pour l'accueil et la préparation des points de parking. 
+ 
+ 
+ 
+Le roulage tractage d'aéronef est un travail d'équipe :  
+ 
+- Un chef de manœuvre dirige l'opération, il doit être vu ou entendu de tous, il s'assure de la 
+sécurité aux abords de l'appareil, du dégagement de l'aire de manœuvre, c'est lui qui coordonne 
+les actions. 
+ 
+- Le conducteur anticipe les orientations du guide pour diriger l'appareil, le chef de manœuvre 
+se tient à ces cotés. 
+ 
+- L’opérateur au poste pilote en contact visuel et ou radio avec le chef de manœuvre est prêt à 
+intervenir au" frein de park", il surveille la pression du circuit « frein park » est, le maintien à un 
+niveau correct durant toute la manœuvre. 
+ 
+-Cas particulier tractage avec freins INOP : un opérateur accompagne le déplacement avec 
+une cale a proximité de chaque train principal. 
+  
+Le tractage des aéronefs peut être effectué uniquement par le personnel habilité. 
+
+===== PAGE 20 =====
+Module 7.17 V07   Page 20 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.3 Les différents engins de tractage et de refoulement 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les tracteurs conventionnels sont utilisés pour effectuer les manœuvres d'avion en pleine charge 
+(Maxi Taxi Weight) par le train avant. 
+ 
+La liaison tracteur/avion s'effectue par l'intermédiaire d'une barre. 
+Les tracteurs peuvent peser jusqu'à 40 tonnes. 
+ 
+• Les timons sont équipés : 
+D’une tête emboîtable et munie de fusibles. 
+Sur les barres de tractage, d'un câble électrique.       → rédiger sur les différents types de timon 
+et têtes  
+ 
+• Les barres de tractage sont équipées : 
+ 
+De roues pouvant être escamotables pour le remorquage 
+ 
+Ex : TRACMA TD 25 000, SOVAM K200 K250 
+ 
+Nota : La majorité des tracteurs sont équipés d'un groupe électrique embarqué (GPU) pour 
+permettre la prise en charge du réseau avion. 
+Les techniciens devront obligatoirement être formés à l’utilisation des 
+différents moyens présents en exploitation pour assurer un tractage en toute 
+sécurité. 
+ 
+Ex : un tractage à la barre est différent de l’utilisation d’un tracteur 
+« towbarless »  
+ 
+Afin d’effectuer ces opérations de tractage en toute sécurité tout en assurant la 
+sécurité des vols, il est de bonne pratique d’utiliser une check-list afin de 
+d’éviter les facteurs humains. 
+ 
+ 
+Les engins de tractage/push-back avec timon 
+ 
+ 
+ 
+ 
+
+===== PAGE 21 =====
+Module 7.17 V07   Page 21 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les tracteurs à préhension ou à pelle (Towbar Less few Véhicule) sont utilisés pour effectuer les 
+manœuvres d'avion en pleine charge par le train avant ou le train principal gauche. 
+La liaison tracteur/avion s'effectue directement par contact sur le train d'atterrissage. 
+ 
+Ex : 
+ 
+• TRACMA TPX 350 (crabe) et TPX200 : Ces deux tracteurs sont positionnés sur le train 
+avant. 
+• PPU (Power Push Unit) : ce tracteur est utilisé pour le refoulement des avions de moins 
+de 100 tonnes par le train principal (diabolo uniquement). Son poids est de 4 tonnes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ils sont utilisés pour les très petits aéronefs ou dans les clubs d’aviation légère, ce type de 
+remorqueur est souvent actionné manuellement ou électriquement par une ou deux personnes. 
+ 
+  
+Les engins de tractage/push-back sans timon 
+Remorqueur manuel/électrique 
+ 
+
+===== PAGE 22 =====
+Module 7.17 V07   Page 22 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.4 Les précautions de tractage  
+ 
+ 
+ 
+ 
+EPI règlementaires pour effectuer des opérations de tractage d’aéronef. 
+ 
+   
+ 
+Les gants de manutentions devront permettre la mise en place des barres et des timons 
+tout en assurant une protection spécifique (Risques de pincement, écrasement etc.) 
+ 
+ 
+ 
+Afin de garantir la sécurité et l’efficacité des opérations de tractage, une procédure spécifique est 
+définie, précisant les rôles et responsabilités des intervenants.  
+Le conducteur du tracteur est assisté de personnels dont les rôles sont définis ci-dessous. 
+ 
+Rôle Fonction 
+principale 
+Moyens de 
+communication 
+Autorité 
+d'arrêt 
+Responsable 
+de 
+manœuvre 
+Direction, 
+coordination, 
+sécurité globale 
+Radio, gestes Oui 
+Conducteur 
+du tracteur 
+Conduite du convoi 
+selon les ordres 
+reçus 
+Interphone / radio Sur ordre ou 
+urgence 
+Vigies Surveillance des 
+zones aveugles 
+Gestes / radio Oui (en cas 
+de danger) 
+Opérateur 
+frein  
+Action sur freins si 
+demandé 
+Interphone Oui 
+(urgence) 
+  
+Mesures de sécurité 
+Pour le personnel 
+
+===== PAGE 23 =====
+Module 7.17 V07   Page 23 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+Les dispositifs d'orientation des roulettes de nez (hydrauliques ou électriques) doivent être 
+débrayés avant la mise en place de la barre de remorquage.  
+On libère ensuite le « frein de park », on vérifie l’absence de mouvement de l’aéronef et on 
+enlève les cales.  
+ 
+Avant toute opération de tractage il faut s'assurer que : 
+• Les sécurités de trains sont en place, sauf dans le cas du push-back. 
+• La trajectoire de l'avion est dégagée. 
+• Personne ne se tient près et/ou n'est assis sur la barre de tractage 
+• Le tracteur est piloté par du personnel qualifié. 
+• Toutes les portes, trappes sont fermées et verrouillées (sauf cas de maintenance).  
+• Les capots moteurs sont fermés et verrouillés.  
+• Le groupe de park (GPU) est dégagé. 
+ 
+ 
+ 
+ 
+ 
+ 
+La communication radio est obligatoire pour tous déplacements d'avions 
+ 
+Ce sont généralement les fréquences qui permettent la liaison entre le tracteur, l’avion et 
+la tour de contrôle sol. 
+Chaque aéroport dispose d'une fréquence sol différente (Ex : 130.30 Mhz à Orly). 
+Il faut impérativement suivre les ordres de la tour de contrôle (voies, parkings, vitesses, priorités). 
+Les communications doivent être brèves et sans ambiguïtés (utilisation du langage 
+conventionnel). Toutefois dans certaines conditions (panne de VHF, foudre), l'utilisation des 
+signaux conventionnels est recommandée. 
+  
+Avant tractage 
+La Communication 
+
+===== PAGE 24 =====
+Module 7.17 V07   Page 24 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+- Vitesse limitée et conforme à l’AMM et 
+manuel d’exploitation. 
+- Moyens de signalisations et de 
+communications : 
+(Gyrophares, radio, identification visible sur 
+le véhicule etc) 
+- Respect du code de la route applicable 
+- Être en possession de l’autorisation de 
+conduite. 
+ 
+ 
+ 
+Important : Utiliser la check List spécifique au type d’avion à tracter  
+ 
+ 
+ 
+ 
+ 
+  
+Pendant le Tractage 
+
+===== PAGE 25 =====
+Module 7.17 V07   Page 25 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2.5 Risques liés au tractage 
+ 
+ 
+  
+ 
+Boeing 737-800 Standard Pushback 
+Le tractage est une opération sensible demandant la plus grande 
+attention, de la préparation, de la coordination et de l’organisation. 
+ 
+
+===== PAGE 26 =====
+Module 7.17 V07   Page 26 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Voici une liste des principaux risques lors des opérations de tractage d’aéronefs, ainsi 
+que des conséquences potentielles pour chaque risque. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Risques liés à l’attelage et au dételage 
+Mauvais verrouillage de la barre de remorquage ou du système d’attache :  
+➢ Détachement accidentel pendant le tractage, pouvant entraîner des dommages à l’aéronef ou 
+des blessures au personnel. 
+Utilisation d’une barre de remorquage non adaptée. 
+ 
+Risques liés au déplacement 
+Vitesse excessive ou à-coups :  
+➢ Dommages au train d’atterrissage, aux ailes ou au fuselage. 
+➢ Perte de contrôle du tracteur, surtout par mauvais temps (pluie, vent fort, glace). 
+Virages serrés ou mauvais alignement :  
+➢ Risque de cisaillement des roues ou de basculement de l’aéronef. 
+➢ Collision avec d’autres aéronefs, véhicules ou infrastructures. 
+ 
+Risques liés à l’environnement 
+Obstacles non détectés 
+Conditions météo défavorables :  
+➢ Glissade sur sol mouillé ou verglacé, Visibilité réduite (brouillard, pluie). 
+ 
+Risques liés au matériel 
+Défaillance du tracteur :  
+➢ Panne de frein, de direction ou de moteur 
+Batterie déchargée (tracteurs électriques) :  
+➢ Immobilisation en cours de manœuvre 
+ 
+Risques humains 
+Manque de communication :  
+➢ Incompréhension des signaux entre le technicien, le pilote et l’équipe au sol. 
+➢ Mouvements non coordonnés, pouvant causer des blessures ou des dommages. 
+Fatigue ou inattention :  
+➢ Erreurs de manœuvre, oublis de vérifications ou réactions tardives en cas d’urgence. 
+ 
+Risques spécifiques aux tracteurs autonomes 
+Défaillance du système de guidage :  
+➢ Déviation de trajectoire, collision ou blocage de l’aéronef. 
+Interférences électromagnétiques :  
+➢ Perturbation des systèmes de communication ou de navigation de l’aéronef. 
+ 
+Risques chimiques et électriques 
+Exposition aux fluides :  
+➢ Contact avec du carburant, de l’huile ou des liquides 
+hydrauliques lors des vérifications. 
+Chocs électriques :  
+➢ Risque lors de la manipulation de tracteurs électriques ou de systèmes de recharge. 
+ 
+ 
+ 
+ 
+
+===== PAGE 27 =====
+Module 7.17 V07   Page 27 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+• Formation continue : Sensibilisation aux procédures et aux risques spécifiques. 
+• Vérifications systématiques : Utilisation de check-lists avant, pendant et après le tractage. 
+• Équipements de protection : Port de gilets haute visibilité, casques et chaussures de sécurité. 
+• Communication claire : Utilisation de radios ou de signaux standardisés. 
+• Maintenance régulière : Contrôle des tracteurs et des systèmes d’attache. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Mesures préventives recommandées à tous ses risques  
+ 
+ 
+ 
+
+===== PAGE 28 =====
+Module 7.17 V07   Page 28 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.6 Exemple de procédure complète de tractage  
+ 
+ 
+ 
+ 
+ 
+ 
+Vérifications Préalables 
+• Vérifier la disponibilité et l'état du tracteur adapté au type d'aéronef 
+• Contrôler l'état de la barre de tractage (pas de fissures, usure excessive) 
+• Vérifier le niveau de carburant du tracteur 
+• S'assurer que la zone de tractage est dégagée et balisée si nécessaire 
+• Vérifier les conditions météorologiques (vent, visibilité) 
+• Obtenir l'autorisation ATC si requis 
+ 
+Équipe et Équipements 
+Personnel minimum requis : 
+• 1 conducteur de tracteur qualifié 
+• 1 signaleur (minimum) avec gilets haute visibilité 
+• 1 personne au frein de parc (si requis par le type d'aéronef) 
+Équipements de sécurité : 
+• Gilets haute visibilité 
+• Casques de protection 
+• Gants de travail 
+• Protections auditives 
+• Cônes de signalisation 
+• Cales d'aéronef 
+• Radio de communication air-sol 
+Documentation 
+• Fiche technique de l'aéronef (limites de tractage) 
+• Carnet de suivi du tracteur 
+• Formulaire de tractage (à compléter) 
+RAPPEL DE SÉCURITÉ : Le tractage d'aéronef est une opération qui mérite une 
+attention particulière.  
+En cas de doute, ARRÊTEZ l'opération et demandez assistance. La sécurité prime 
+toujours sur le respect des délais. 
+Cette procédure doit être adaptée selon les réglementations locales, les manuels 
+constructeurs et les procédures spécifiques de l'exploitant. 
+ PRÉPARATION PRÉ-TRACTAGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 29 =====
+Module 7.17 V07   Page 29 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ Points à Aborder 
+ 
+• Parcours prévu et destination finale 
+• Signaux manuels standards à utiliser 
+• Obstacles potentiels sur le parcours 
+• Vitesse maximale de tractage (généralement 5-8 km/h) 
+• Procédure d'arrêt d'urgence 
+• Zones de dégagement des réacteurs/hélices 
+• Identification des issues de secours 
+ 
+Signaux Manuels Standards 
+ 
+• Avancer : Bras levés, paumes vers le tracteur, mouvement vers l'arrière 
+• Arrêter : Bras croisés au-dessus de la tête 
+• Reculer : Bras levés, paumes vers soi, mouvement vers l'avant 
+• Tourner à gauche : Bras droit levé, bras gauche pointant vers la gauche 
+• Tourner à droite : Bras gauche levé, bras droit pointant vers la droite 
+• Ralentir : Mouvement des mains vers le bas 
+• Urgence : Mouvement rapide des bras croisés 
+ 
+ 
+  
+BRIEFING DE SÉCURITÉ 
+===== PAGE 30 =====
+Module 7.17 V07   Page 30 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+Préparation de l'Aéronef 
+• Vérifier que tous les moteurs sont arrêtés. 
+• S'assurer que les freins de parc sont SERRÉS.  
+• S'assurer qu'aucune personne n'est à bord (sauf si procédure spécifique). 
+• Vérifier que toutes les portes sont fermées. 
+ 
+Installation de la Barre 
+• Aligner la barre de tractage au timon du train avant de l'aéronef. 
+• Vérifier la déconnection du système de direction (steering). 
+• Connecter la barre au timon de l’aéronef. 
+• Sécuriser avec la goupille et le clip de sécurité. 
+• Connecter la barre à l'oreille du timon du tracteur. 
+• Installer la goupille et le clip de sécurité. 
+• Vérifier visuellement les deux connexions (remonter les roues de la barre si besoin). 
+ 
+Vérifications Finales 
+• Freins de parc du tracteur engagés et désactivation du frein de parc de l’aéronef. 
+• Vérifier que l’aéronef ne bouge pas. 
+• Retirer les cales des roues (à faire au moment du départ). 
+• Contrôler l'angle de braquage maximal autorisé 
+• Vérifier que les câbles d’intercommunications ne sont pas sous tension. 
+• S'assurer que la zone sous l'aéronef est dégagée. 
+• Confirmer la position des vigies. 
+ 
+ 
+  
+CONNEXION DE LA BARRE DE TRACTAGE 
+ 
+===== PAGE 31 =====
+Module 7.17 V07   Page 31 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+Démarrage du Tractage 
+• Communication radio : "Prêt pour le tractage" 
+• Le responsable de manœuvre donne le signal de démarrage. 
+• Démarrer le mouvement TRÈS PROGRESSIVEMENT. 
+• Vérifier l'absence de blocage ou de résistance anormale. 
+• Établir une vitesse de tractage au pas (max 8 km/h sur aire, 3-5 km/h en zone restreinte). 
+ 
+Pendant le Tractage 
+Le conducteur doit : 
+• Maintenir un contact visuel constant avec 
+les vigies et le responsable de manœuvre. 
+• Respecte strictement les signaux 
+conventionnels. 
+• Adapter la vitesse aux conditions (virages, 
+obstacles). 
+• Surveiller les alarmes du tracteur. 
+• Anticiper les virages et ralentir 
+suffisamment. 
+• Ne JAMAIS tourner brusquement. 
+ 
+Les vigies doivent : 
+• Rester toujours visible du conducteur. 
+• Surveiller le dégagement des ailes et 
+empennages. 
+• Anticiper l’alerte de tout obstacle. 
+• Ne jamais se positionner dans les zones 
+dangereuses. 
+  
+ 
+Limitations Opérationnelles 
+• Angle de braquage maximum : Selon le manuel de l'aéronef (généralement 30 à 45° par 
+rapport à l’axe longitudinal de l’avion). 
+• Vitesse maximale : 8 km/h sur aire, au pas en hangar. 
+• Pente maximale : voir manuel. 
+• Conditions de vent : Ne pas tracter par vent > 40 kt (ou selon procédures). 
+• Virages : Toujours effectuer à vitesse réduite. 
+  
+OPERATION DE TRACTAGE 
+ 
+===== PAGE 32 =====
+Module 7.17 V07   Page 32 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+Positionnement Final 
+• Ralentir progressivement à l'approche du point d'arrêt. 
+• Aligner l'aéronef, la barre de tractage et le tracteur avec précision sur la ligne au sol. 
+• Arrêt complet au point de stationnement. 
+• Le responsable de manœuvre signale la fin du tractage. 
+• Installer les cales au train auxiliaire. 
+ 
+Déconnexion 
+• Serrer les freins de parc de l'aéronef. 
+• Installer les cales sur les trains principaux. 
+• Relâcher les freins de parc du tracteur. 
+• Vérifier que l’aéronef ne bouge pas. 
+• Descendre les roues de la barre si besoin. 
+• Déconnecter la barre du tracteur. 
+• Déconnecter la barre de l’aéronef. 
+• Reconnecter la barre au tracteur. 
+• Éloigner le tracteur de l'aéronef. 
+• Retirer le blocage du système de direction (steering). 
+ 
+Vérifications Post-Tractage 
+• Inspecter visuellement le train avant (fuites, dommages). 
+• Vérifier l'absence de débris sous l'aéronef. 
+• Installer les cônes de sécurité. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ARRÊT ET DÉCONNEXION 
+
+===== PAGE 33 =====
+Module 7.17 V07   Page 33 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Formulaire de Tractage 
+En fonction du MANEX compléter obligatoirement : 
+• Date et heure 
+• Immatriculation de l'aéronef 
+• Point de départ et destination 
+• Nom et signature du conducteur 
+• Nom des signaleurs 
+• Identification du tracteur utilisé 
+• Compteur horaire ou kilométrique 
+• Observations éventuelles 
+ 
+Incidents à Rapporter 
+• Contact avec un obstacle 
+• Dépassement d'angle de braquage 
+• Bruit ou résistance anormale 
+• Fuite hydraulique 
+• Dommage visible sur l'aéronef ou l'équipement 
+• Tout événement sortant de la normale 
+ 
+ 
+ 
+Arrêt d'Urgence du tractage : 
+ 
+En cas de : 
+• Obstacle imprévu 
+• Défaillance du tracteur 
+• Perte de communication 
+• Angle de braquage excessif 
+• Bruit anormal 
+ 
+Actions immédiates : 
+1. Tout défaut doit être signaler au conducteur et au responsable de manœuvre. 
+2. ARRÊT IMMÉDIAT du tracteur. 
+3. Serrer le frein de parc du tracteur. 
+4. Ne PAS relâcher les freins de l'aéronef. 
+5. Installer les cales si nécessaire. 
+6. Évaluer la situation avant de continuer. 
+ 
+Défaillance de Freins 
+1. Arrêter immédiatement le tractage. 
+2. Utiliser les cales d'aéronef. 
+3. Demander assistance supplémentaire. 
+4. Ne pas laisser l'appareil sans surveillance. 
+5. Alerter la maintenance du tracteur. 
+ 
+Collision ou Contact 
+1. Arrêt immédiat de toute opération. 
+2. Sécuriser la zone. 
+3. Informer la tour de contrôle ou responsable de la plateforme. 
+4. Ne pas déplacer l'aéronef. 
+5. Documenter avec photos. 
+6. Remplir un rapport d'incident. 
+DOCUMENTATION ET REPORTING 
+PROCÉDURES D'URGENCE 
+
+===== PAGE 34 =====
+Module 7.17 V07   Page 34 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+Tractage en Pente 
+• Vitesse au pas. 
+• Tracter toujours en amont de la pente (tirer en montée, freiner en descente). 
+• Vigies supplémentaires. 
+• Cales disponibles en permanence. 
+ 
+Tractage par Mauvaise Visibilité 
+• Augmenter le nombre de vigies. 
+• Utiliser des moyens intercommunication. 
+• Utiliser lampes torches ou bâtons lumineux. 
+• Réduire la vitesse. 
+• Envisager de reporter si visibilité < 200m. 
+ 
+Tractage dans un Hangar 
+• Vitesse au pas. 
+• Vérifier les dégagements en hauteur et latéraux. 
+• Éclairage supplémentaire si nécessaire. 
+• Vigies à chaque extrémité d'aile. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+CAS PARTICULIERS 
+Aircraft Pushback Procedure 
+ 
+===== PAGE 35 =====
+Module 7.17 V07   Page 35 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2/ Mise sur vérins, calage, arrimage des aéronefs et 
+mesures de sécurité associées ; 
+ 
+Rappel des objectifs : connaissance générale des techniques de mises sur 
+vérins, calage, arrimage des aéronefs et mesures de sécurité associées. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+2.1 Mise sur vérins des aéronefs et mesures de sécurité associées ; 
+2.1.1 Généralités ; 
+Les vérins sont des outillages de levage constitués de 3 ou 4 pieds (tripodes ou quadripodes). 
+La mise sur vérin d’un aéronef est l’opération qui consiste à lever l’aéronef jusqu'à une hauteur 
+définie par l’AMM en fonction de la tâche de maintenance à réaliser. 
+(Exemples : changement d’un train d’atterrissage, maintenance sur amortisseur, changement de roues, 
+changements de freins etc.). 
+ 
+ 
+ 
+ 
+ 
+Ils permettent de lever l’aéronef et de le maintenir à une hauteur spécifique, permettant les 
+interventions. 
+Les vérins devront être compatibles avec l’aéronef qu’ils doivent lever et supporter : 
+-> La hauteur de levage, 
+-> La masse à souler, 
+-> Maintenir la stabilité. 
+(Exemple : On ne peut pas utiliser un vérin prévu pour un B 737 sur un A320) 
+  
+
+===== PAGE 36 =====
+Module 7.17 V07   Page 36 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+   
+ 
+
+===== PAGE 37 =====
+Module 7.17 V07   Page 37 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Environnement : 
+De base, l’opération de levage sera effectuée dans un hangar permettant la manœuvre : 
+➔ Résistance au sol, 
+➔ Hauteur sous plafond compatible, 
+➔ Portes refermables. 
+ 
+Lorsqu’il n’y aura pas d’autre choix, le levage pourra être effectué à l’extérieur mais devra 
+impérativement respecter les consignes du constructeur : 
+➔ Résistance au sol, 
+➔ Vent nul ou dans la limite autorisée 
+ 
+Il faut absolument  éviter les mouvements de l’aéronef qui pourraient générer des 
+contraintes angulaires sur les vérins, risquant leur endommagement et une détérioration de 
+l’aéronef. 
+(Extrait 
+documentation AMP officielle Airbus) 
+ 
+ 
+(Exemple de mise en place dans un hangar) 
+
+===== PAGE 38 =====
+Module 7.17 V07   Page 38 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Points de levage : 
+Les vérins seront installés sous plusieurs points de levage spécifiques, donnés par le 
+fabricant dans l’AMM. 
+Ces points se situeront sur les cadres forts du fuselage ou sur les longerons principaux des 
+voilures. Leur emplacement est repéré par un logo spécifique.  
+ 
+
+===== PAGE 39 =====
+Module 7.17 V07   Page 39 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Béquille de queue : 
+Selon les recommandations du constructeur, il faudra éventuellement prévoir l’utilisation de 
+béquille de queue, « Safety stay » « Horse bench ». 
+Ces outillages ne doivent pas servir au levage.  
+Ils sont des points de stabilité et de sécurité. 
+ 
+ 
+ 
+   
+(Exemples de « horse bench ») 
+  
+
+===== PAGE 40 =====
+Module 7.17 V07   Page 40 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Adaptateurs pour vérins : 
+Pour permettre la mise en place des vérins, il faudra les équiper d’adaptateurs communément 
+appelés « poupées/tulipe » ou « jacking pads/lift pads » 
+Ces outillages permettent la mise en place des vérins sur les points de levage prévus par les 
+fabricants (voir ANNEXE 3). 
+ 
+Les adaptateurs permettent d’utiliser un même modèle de vérins sur plusieurs types d’aéronefs, y 
+compris de fabricants différents. Ils offrent ainsi une compatibilité étendue, permettant à un atelier 
+de maintenance de réduire son nombre d’outillages et de limiter les coûts d’équipement. 
+ 
+ 
+(Exemple de kit de levage complet et polyvalent pour plusieurs types d’avions : Cessna, Grumman 
+Widgeon, Republic Sea Bee etc.) 
+ 
+ 
+ 
+(Mise en place des adaptateurs et des vérins sur A320) 
+  
+
+===== PAGE 41 =====
+Module 7.17 V07   Page 41 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Contrôle de l’équilibre lors de l’opération : 
+L’avion doit être contrôlé en roulis et tangage pendant toute la montée afin d’éviter : 
+• Surcharge d’un point de levage, 
+• Déformation structurelle, 
+• Instabilité latérale, 
+• Basculement au sommet des vérins. 
+ 
+Méthode 1  
+Niveau de référence sur zones structurelles AMM. : 
+• Un niveau à bulle posé sur les références structurelles d’équilibrage : 
+- Rails des sièges (éléments longitudinaux de l’aéronef) 
+Cette méthode permet de contrôler facile d’accès et simple de l’attitude de l’aéronef. 
+ 
+  
+(Exemple de contrôle de niveau longitudinal (Tangage) et transversal (Roulis) pendant le levage d’un TBM 
+960) 
+ 
+ 
+  
+
+===== PAGE 42 =====
+Module 7.17 V07   Page 42 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Méthode 2  
+Attitude Monitor (Airbus A320) 
+• Un clinomètre mécanique est installé dans le ventre mou (belly fairing),  
+• Il permet de lire roulis et tangage sans alimentation électrique. 
+• L’AMM autorise son utilisation pour vérifier l’équilibrage avant, pendant et après le levage. 
+ 
+ 
+  
+
+===== PAGE 43 =====
+Module 7.17 V07   Page 43 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.2 Les différents moyens de levage ; 
+Plusieurs types de moyens existent pour soulever les aéronefs, partiellement ou totalement. 
+Les vérins (tripodes, quadripodes) et les crics. 
+ 
+Les vérins : 
+Ils permettront de soulever l’aéronef complètement ou partiellement en fonction des besoins 
+de l’opération, et de le maintenir en position. 
+Ils sont constitués : 
+-D’un réservoir hydraulique et d’une pompe. 
+-D’une tige filetée avec écrou de sécurité, ou une tige lisse avec goupille de sécurité.   
+-D’un système de déplacement (roues ou roulettes). 
+ 
+Il existe 2 grandes catégories de vérins : 
+a) Les vérins manuels : 
+• Ce sont les plus simples (souvent utilisés pour des petits avions ou pour des opérations 
+légères). 
+• Alimentation : manuelle, par pompe hydraulique à main intégrée. 
+L’opérateur pompe pour mettre le vérin sous pression. 
+ 
+ 
+ 
+ 
+(Vérin à tige filetée) 
+ 
+ 
+(Vérin à tige lisse goupillée) 
+ 
+ 
+  
+
+===== PAGE 44 =====
+Module 7.17 V07   Page 44 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+b) Les vérins motorisés : 
+•  Utilisés pour des avions moyens ou gros porteurs. 
+•  Le vérin reste hydraulique, mais la source d’énergie qui alimente la pompe peut varier : 
+Une pompe hydraulique électrique intégrée ou externe met le fluide sous pression.  
+C’est le cas le plus courant en atelier ou hangar. 
+Certains modèles utilisent un une pompe hydraulique thermique. 
+ 
+ 
+(Exemple de vérin tripode hydraulique pneumatique – source Techman-Head) 
+ 
+ 
+ 
+  
+
+===== PAGE 45 =====
+Module 7.17 V07   Page 45 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les crics : 
+Ils permettront UNIQUEMENT un levage partiel de l’aéronef. 
+Pour une rotation de roue, un changement de freins ou d’autres interventions ne nécessitant pas un 
+levage complet  
+ 
+ 
+ 
+(Exemple de crics hydrauliques) 
+ 
+ 
+  
+
+===== PAGE 46 =====
+Module 7.17 V07   Page 46 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.3 Vérifications et configuration avant levage ; 
+➔ 1/ Couper toutes les énergies (élec/hydraulique), désactiver le frein de parc, positionner 
+l’interrupteur air/sol en mode vol et vérifier les manettes du train.  
+ 
+ 
+ 
+ 
+➔ 2/ Contrôler la conformité du matériel de levage (AMM), sa capacité de charge, la course des 
+vérins et la hauteur disponible dans le hangar. 
+ 
+ 
+ 
+➔ 3/ Tester les vérins à vide, puis vérifier leur stabilité et le verrouillage des mécanismes de 
+sécurité. 
+ 
+➔ 4/ S’assurer de la présence et du bon positionnement des goupilles de sécurité sur le train 
+d’atterrissage. 
+ 
+
+===== PAGE 47 =====
+Module 7.17 V07   Page 47 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+➔ 5/ Installer les adaptateurs prévus par l’AMM. 
+ 
+ 
+ 
+➔ 6/ Contrôler que la masse totale reste dans les limites autorisées et valider que le niveau, 
+longitudinal (axe pointe avant/empennage) et transversal (axe voilure droite/voilure gauche), 
+de l’aéronef est conforme aux plages de stabilité définies. 
+ 
+➔ 7/ Mettre l’aéronef de niveau (méthode 1 ou 2) et positionner les cales avant toute opération 
+de levage. 
+ 
+➔ 8/ Mettre en place les étiquettes « Do not operate » sur les commandes critiques et les zones 
+sensibles du cockpit. 
+ 
+ 
+➔ 9/ Délimiter un périmètre sécurisé : un seul point d’accès avec panneau de signalisation 
+visible, balisage (cônes + rubalise/chaînes) autour des ailes du nez et de l’empennage. 
+ 
+➔ 10/ Confirmer qu’aucune équipe ne travaille sur des tâches incompatibles pendant le levage. 
+
+===== PAGE 48 =====
+Module 7.17 V07   Page 48 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.4 Check-list procédure de levage/remise au sol ; 
+LEVAGE 
+CONFIGURATION AERONEF ET VERIFICATION DU CENTRAGE  
+VERIFICATION ENVIRONNEMENT   
+BALISAGE ET CALES EN PLACE  
+MISE EN PLACE DES ADAPTATEURS DE LEVAGE  
+MISE EN PLACE DES TRIPODES, ALIGNEMENT AVEC L’AERONEF, 
+VERIFICATION DU DEBATTEMENT AVEC L’AERONEF, VERIFICATION 
+PLANEITE DES TRIPODES  
+ 
+CENTRAGE DES TETES DE VERIN ET MISE AU CONTACT  
+RETRAIT DES CALES  
+ORGANISATION : 1 COORDINATEUR ET MINIMUM 2 PAX/VERINS (1 MANIP DU 
+VERIN, 1 SECU) 
+ 
+MISE A NIVEAU DE L’AERONEF AVANT LEVAGE  
+LEVAGE SYNCHRONISE, MONTEE PROGRESSIVE (10CM/10CM ENVIRON)  
+SURVEILLANCE PERMANENTE DU NIVEAU DE L’AERONEF  
+VERROUILLAGE (ECROU OU GOUPILLE DE SECURITE) ET 
+DEPRESSURISATION DES VERINS 
+ 
+MISE EN PLACE DE LA BEQUILLE DE QUEUE (HORSE BENCH/SAFETY STAY)  
+OPERATION DE MAINTENANCE  
+REMISE AU SOL 
+VERIFICATION CONFIGURATION DE L’AERONEF  
+VERIFICATION ZONES DEGAGEE (ESCABEAUX, ACCES, OUTILLAGES, ETC.)  
+MISE EN PRESSION DES VERINS  
+CONTROLE DU NIVEAU DE L’AERONEF  
+DESCENTE PROGRESSIVE ORGANISEE ET COORDONNEE (EFFECTIFS 
+IDENTIQUES AU LEVAGE) 
+ 
+CALAGE UNE FOIS AERONEF AU SOL  
+RETRAIT DES VERINS  
+DEPOSE ADAPTATEURS  
+REMISE EN CONFIGURATION DE L’AERONEF  
+  
+===== PAGE 49 =====
+Module 7.17 V07   Page 49 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2 Calage des aéronefs et mesures de sécurité associées ; 
+2.2.1 Généralités ; 
+Le sol destiné au stationnement d’aéronefs doit être adapté au type d’appareil et à la durée 
+d’immobilisation : 
+Les sols en béton, ou bitume, renforcé (normés OACI Annexe 14 et EASA CS ADR-DSN) sont 
+obligatoires pour les parkings prolongés et les aéronefs lourds, afin d’éviter l’enfoncement, les 
+bosses et les efforts anormaux sur les trains lors du repoussage ou du roulage. 
+ 
+ 
+ 
+Les sols meubles (terre, herbe) ne sont autorisés que pour des stationnements courts, des 
+aéronefs légers, et d’une absence de conditions météo dégradantes (pluies, givre etc.).  
+Leur utilisation nécessite une inspection préalable et une signalisation claire pour limiter les 
+risques d’enfoncement ou de dommage aux trains.  
+ 
+ 
+ 
+Dans tous les cas, l’exploitant doit vérifier la conformité du sol aux normes en vigueur et 
+adapter les procédures en fonction. 
+ 
+  
+
+===== PAGE 50 =====
+Module 7.17 V07   Page 50 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Le calage des aéronefs consiste à les stabiliser et à les immobiliser de manière sécurisée afin de 
+prévenir tout mouvement involontaire pendant les opérations au sol, les travaux de maintenance 
+ou sous l’effet de facteurs externes (vent, pente, etc.).  
+Cette procédure est essentielle pour garantir la sécurité du personnel, de l’appareil et des 
+équipements environnants, conformément aux exigences des AMM et aux normes de sécurité en 
+vigueur. 
+ 
+Les cales pourront être en plastique, composite ou métal. 
+Les cales en bois sont de moins en moins utilisées en maintenance aéronautique car elles 
+glissent facilement lorsqu’elles sont humides ou givrées, vieillissent et se dégradent rapidement, 
+et peuvent produire des débris susceptibles de devenir des FOD. 
+ 
+Les cales doivent être conformes à l’AMM et adaptées à l’aéronef. 
+Elles doivent couvrir au moins la largeur de la roue, avoir une hauteur et une forme empêchant 
+tout franchissement, être compatibles avec la masse de l’avion, rester stables sur sol glissant ou 
+contaminé, et résister à l’usure, aux UV et aux produits chimiques. 
+ 
+ 
+  
+
+===== PAGE 51 =====
+Module 7.17 V07   Page 51 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2.2 Méthode de calage ; 
+ 
+En opération, après l’arrêt de l’aéronef et la mise du frein de parc, il faudra au minimum caler 
+les trains principaux. 
+Il faudra toujours utiliser 2 cales pour pouvoir les installer de part et d’autre des roues, sur la 
+partie extérieure des trains.  
+S’il est présent, le cordon de jonction sera positionné vers l’extérieur, pour éviter tout blocage sur 
+les blocs de freins et autres composants. 
+ 
+ 
+ 
+En cas de trains à plusieurs roues, il faudra englober la première et la dernière roue du train, 
+toujours sur la partie extérieure. 
+ 
+ 
+ 
+  
+
+===== PAGE 52 =====
+Module 7.17 V07   Page 52 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Pendant l’exploitation les constructeurs de gros porteurs recommandent l’utilisation de cales 
+sur le train avant.  
+ 
+ 
+(Exemple Famille Airbus)  
+ 
+Pour des arrêts plus longs, des parkings de nuit, des mises en préservation, du stockage ou 
+par vent fort, il faudra installer davantage de cales. 
+ 
+ 
+(Exemple Famille Airbus)  
+ 
+  
+
+===== PAGE 53 =====
+Module 7.17 V07   Page 53 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les cales devront également être placées de façon spécifique en fonction du sol et de son état : 
+ 
+ 
+ 
+Les cales doivent être le plus centrées possible sur la roue, pour éviter tout mouvements du train, 
+ou glissement de la cale : 
+ 
+ 
+ 
+ 
+
+===== PAGE 54 =====
+Module 7.17 V07   Page 54 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Lors des points fixes, des cales de conception spécifique doivent être utilisées. 
+Elles doivent être lestées et fabriquées en matériaux rigides afin d’éviter toute déformation. 
+En effet, lors de la mise en puissance, les roues principales s’appuient fortement contre les cales. 
+Si celles-ci se déforment excessivement, l’aéronef peut les franchir, ce qui compromet la sécurité 
+du point fixe. 
+Ces cales doivent être installées sur les roues des trains d’atterrissage principaux (MLG) et selon 
+les recommandations du constructeur. 
+ 
+  
+(Source IFLY gse) 
+ 
+ 
+(Exemple de mise en place sur A380) 
+ 
+ 
+  
+
+===== PAGE 55 =====
+Module 7.17 V07   Page 55 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+2.2.3 Précautions à prendre lors du calage ; 
+ 
+Il faudra manipuler les cales avec attention car elles peuvent peser plusieurs dizaines de kilos. 
+Une mauvaise manipulation pourrait causer des blessures. 
+ 
+ 
+ 
+ 
+Exemple :  
+Cales en caoutchouc haute résistance aux normes IATA. 
+Boeing B737 / B767 / B777 /DC10 / MD11 / 
+MD80, tracteurs de piste et avions de taille moyenne. 
+Caractéristiques techniques 
+Longueur : de 25 à 61 cm. 
+Masses : de 5.5 à 20 kg le jeu. 
+Le mécanicien devra vérifier l’état général des cales et s’assurer de l’absence de 
+fissures, de bouts cassés, d’usure excessive. Il faudra, selon les recommandations du 
+fabricant, les isoler et prévoir un remplacement le cas échéant. 
+ 
+  
+  
+
+===== PAGE 56 =====
+Module 7.17 V07   Page 56 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Il ne faudra jamais approcher l’aéronef tant qu’il n’est pas complètement arrêté et que l’équipage 
+n’a pas autorisé l’accès → DANGER DE MORT. 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 57 =====
+Module 7.17 V07   Page 57 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+La communication et la coordination entre le personnel sol et le poste pilote (ou le 
+tractiste) sont essentielles : l’installation des cales doit toujours être autorisée au préalable par 
+le poste pilote, et le personnel sol doit confirmer clairement lorsque les cales sont mises en place 
+ainsi que lorsqu’elles sont retirées. 
+ 
+ 
+ 
+(Exemple : Gestuelle OACI-Pilote-Parqueur, mise en place des cales) 
+ 
+Après avoir actionné le frein de parc et dans la mesure du possible, commencez par positionner 
+les cales sur le train auxiliaire (train avant), puis sur les trains principaux (trains arrière).  
+Cette séquence limite les risques de mouvement intempestif de l’appareil.  
+Toutes ces manipulations doivent être effectuées en conformité avec l’AMM ou le Ground 
+Handling en vigueur. 
+ 
+ 
+L’environnement doit être contrôlé avant la pose des cales : vérifier que la surface est propre 
+et exempte de débris ou d’huile, car une cale placée sur une zone souillée peut glisser. 
+Appliquer la procédure spécifique de l’AMM en cas de pente ; et rester vigilant à la proximité des 
+trappes de train afin d’éviter tout risque de blessure ou de dommages. 
+ 
+ 
+
+===== PAGE 58 =====
+Module 7.17 V07   Page 58 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2.4 Check-list mise en place des cales ; 
+ 
+PREPARATION 
+VERIFIER ZONE DE PARKING : FOD, POLLUTION, ENVIRONNEMENT  
+VERIFIER CONFORMITE DES CALES ET LEUR INTEGRITE  
+MISE EN PLACE 
+ATTENDRE ARRET DE L’AVION ET AUTORISATION D’APPROCHE  
+TOUJOURS UTILISER DEUX CALES PAR ROUE (AVANT + ARRIERE). 
+ 
+ 
+CENTRER LA CALE SUR LA BANDE DE ROULEMENT  
+POSER FERMEMENT EN CONTACT AVEC LA ROUE. 
+ 
+ 
+SI PENTE : CALES PLACEES DANS LE SENS OPPOSE AU MOUVEMENT 
+POSSIBLE 
+ 
+CONFIRMER “CALES EN PLACE” AU POSTE DE PILOTAGE 
+ 
+ 
+VERIFIER STABILITE VISUELLE. 
+ 
+ 
+RETRAIT DES CALES 
+RETIRER UNIQUEMENT SUR ORDRE DU COCKPIT  
+INSPECTION DE LA ROUE CALEE  
+VERIFIER L’ABSENCE DE FOD APRES LE RETRAIT  
+CONFIRMER “CALES RETIREES” AU POSTE DE PILOTAGE 
+ 
+ 
+QUITTER LA ZONE  
+RANGER LES CALES DANS UN ESPACE PREVU (humidité, UV etc.)  
+ 
+ 
+ 
+ 
+  
+===== PAGE 59 =====
+Module 7.17 V07   Page 59 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+2.3 Arrimage des aéronefs et mesures de sécurité associées ; 
+ 
+L’arrimage au sol, réalisé à l’aide de cordes, sangles homologuées, est une procédure destinée à 
+immobiliser l’aéronef par vent fort, rafales ou en cas de parking prolongé. 
+L’arrimage limite les risques de mouvements, d’endommagements structurels et toute possibilité 
+de renversement (notamment pour les aéronefs légers ou les hélicoptères). 
+ 
+Tant que possible, et pour limiter les efforts sur les dispositifs d’arrimage, il faudra 
+positionner l’aéronef face au vent. 
+ 
+ 
+ 
+2.3.1 Points d’ancrage au sol ; 
+Les points d’ancrage au sol utilisés pour l’arrimage d’un aéronef sont des dispositifs intégrés, 
+fixés dans le sol, ou lestés. 
+Ces ancrages doivent être certifiés et capables de résister aux efforts générés par le vent, les 
+rafales et toutes sollicitations pouvant provoquer un déplacement involontaire de l’aéronef. 
+Les ancrages au sol doivent être encastrés au sol pour éviter d’endommager les pneumatiques 
+(ou de blesser le personnel) et clairement identifiés (peinture, marquage normalisé).  
+Ils doivent permettre un arrimage stable de l’aéronef, 
+Les installations aéroportuaires sont généralement dotées de parking dimensionnés pour un type 
+d’aéronef. Charge à l’exploitant de vérifier la compatibilité. 
+ 
+La conception des points d’ancrage varie selon le type de surface : 
+Les sols bétonnés ou bitumés utilisent des anneaux métalliques encastrés ou scellés. 
+ 
+ 
+ 
+ 
+ 
+Si une position de parking n’est pas équipée de points d’ancrage, il est possible d’utiliser des 
+lests adaptés à chaque type d’aéronefs. 
+ 
+
+===== PAGE 60 =====
+Module 7.17 V07   Page 60 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les sols meubles nécessitent des ancres homologuées à enfoncement. 
+ 
+ 
+ 
+Un contrôle régulier de l’état mécanique, de la corrosion et de la solidité de ces ancrages est 
+indispensable, car une défaillance peut entraîner un arrachement en cas de vent fort et 
+provoquer des dégâts ou des accidents.  
+ 
+ 
+2.3.2 Outils d’arrimage ; 
+Pour l’arrimage au sol des aéronefs, les outils principalement utilisés seront des sangles, des 
+cordes.  
+Chaque outil est donné par la documentation technique de l’aéronef. 
+ 
+ 
+  
+
+===== PAGE 61 =====
+Module 7.17 V07   Page 61 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3.2.1 Cordes ; 
+ 
+L’emploi de cordages pour l’arrimage des aéronefs légers est autorisé et règlementé. 
+On se servira de cordes capables de résister à une traction approximative de 1500 kg.  
+ 
+Pour la mise en place des cordes, il faudra les attacher conformément aux recommandations du 
+constructeur. 
+Les nœuds couramment utilisés sont le nœud de chaise, le nœud de cabestan et le nœud de 
+tendeur : 
+ 
+(Exemple : Nœud de chaise) 
+ 
+ 
+(Exemple d’arrimage sur avion léger) 
+ 
+Afin de préserver les cordages et de prolonger leur utilisation, ceux-ci devront être stockés dans 
+des emplacements appropriés. Un contrôle régulier des cordes doit être mis en place afin de 
+garantir leur utilisation. 
+  
+
+===== PAGE 62 =====
+Module 7.17 V07   Page 62 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3.2.2 Chaines et sangles ; 
+ 
+Pour les aéronefs lourds, en fonction des recommandations du constructeur, on utilisera des 
+câbles, des sangles ou des chaînes, placés principalement sur le train auxiliaire. 
+ 
+ 
+ 
+(Arrimage sur ATR) 
+(Exemple sangle outillage Airbus)  
+ 
+ 
+Exemple pour le B747 cargo : 
+Il est demandé d’installer une chaine d’arrimage autour du train auxiliaire pendant les opérations 
+de chargement, ceci afin d’éviter une bascule de l’appareil.  
+ 
+ 
+  
+
+===== PAGE 63 =====
+Module 7.17 V07   Page 63 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3.2.2 Hélicoptères ; 
+ 
+L’arrimage au sol des hélicoptères répond à des exigences particulières (RFM- Rotor Flight 
+Manual) liées à leur forte sensibilité au vent, à leur masse souvent faible et à la présence de 
+rotors pouvant battre ou tourner sous rafales.  
+Le rotor principal doit être systématiquement sécurisé par un verrou ou par des ligatures de 
+pales, tandis que le rotor de queue généralement sans dispositif de blocage est protégé par 
+l’orientation correcte de l’appareil.  
+Les hélicoptères à patins et à roues exigent un arrimage, conforme à la documentation 
+technique.  
+La prévention des mouvements parasites, du battement du rotor et du basculement 
+impose des méthodes d’arrimage plus strictes et systématiques que pour les avions. 
+ 
+ 
+ 
+ 
+Les sangles doivent être installées uniquement sur les points d’ancrage prévus par la structure, 
+en respectant la documentation technique. 
+Les moyens d’arrimage doivent être tendus de manière équilibrée pour éviter toute contrainte 
+excessive sur la cellule ou le moyeu rotor.  
+L’ensemble de ces moyens vise à empêcher tout mouvement parasite, préserver l’intégrité 
+des pales et garantir la sécurité au sol. 
+ 
+ 
+
+===== PAGE 64 =====
+Module 7.17 V07   Page 64 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+
+===== PAGE 65 =====
+Module 7.17 V07   Page 65 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3.3 Procédure d’arrimage ; 
+ 
+Voici un exemple de procédure d’arrimage pour avion, sur sol dur (béton, bitume) : 
+ 
+Pour la mise en place : 
+1/Vérifier l’orientation de l’aéronef face au vent dominant.  
+2/Vérifier le calage de l’aéronef. 
+3/Vérifier les points d’ancrage.  
+4/Fixer la sangle d’amarrage sur le point d’ancrage.  
+5/Fixer la sangle sur les points spécifiques d’arrimage comme décrit dans l’AMM. 
+6/Mettre la sangle en légère tension comme décrit dans la documentation technique. 
+ 
+Pour le retrait : 
+Vérification du centrage. 
+Effectuer un tour d’inspection aéronef. 
+Contrôler la tension des sangles. 
+Retirer les sangles dans l’ordre décrit par la documentation technique. 
+ 
+ 
+  
+===== PAGE 66 =====
+Module 7.17 V07   Page 66 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3/ Méthodes de stockage des aéronefs ; 
+ 
+Rappel des objectifs : connaissance générale des méthodes de stockage des 
+aéronefs. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+3.1 Généralités ; 
+Le stockage d’un aéronef référencé dans l’ATA 10 est l’ensemble des mesures de préservation, 
+de protections, appliquées à un aéronef immobilisé pour une durée définie, afin de maintenir son 
+état de navigabilité en empêchant toute dégradation physique, chimique ou fonctionnelle de ses 
+structures, systèmes, moteurs et équipements. 
+ 
+ 
+ 
+ 
+(Exemple tâche AMM Airbus A330) 
+
+===== PAGE 67 =====
+Module 7.17 V07   Page 67 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Mise en configuration stockage : 
+ 
+La mise en configuration de stockage consiste à positionner et immobiliser l’aéronef selon les 
+exigences constructeur, puis à installer l’ensemble des protections physiques nécessaires. 
+L’objectif est d’isoler l’aéronef de l’environnement extérieur et éviter toute action 
+mécanique. 
+ 
+ 
+ 
+Préservation des systèmes : 
+ 
+La préservation regroupe toutes les actions destinées à empêcher la dégradation interne des 
+systèmes pendant l’immobilisation.  
+Elle concerne notamment les moteurs/APU, les circuits hydrauliques et carburant, les batteries, 
+ainsi que les systèmes électriques, avioniques et commandes de vol qui peuvent être inhibés ou 
+verrouillés.  
+L’objectif est de maintenir l’intégrité des systèmes. 
+ 
+ 
+
+===== PAGE 68 =====
+Module 7.17 V07   Page 68 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Inspections périodiques programmées : 
+ 
+Ces inspections sont définies par l’AMM leur fréquence varie selon le type de stockage. 
+Elles comprennent le contrôle de corrosion, d’humidité, de fuites carburant ou d’hydraulique, de 
+perte de pression pneus, d’affaissement d’amortisseurs, de dégradation des protections ou 
+intrusion d’animaux. Elles incluent aussi la rotation des roues, le contrôle des dessiccants, la 
+ventilation des zones fermées et des vérifications régulières de l’environnement de stockage.  
+Leur objectif est de détecter toute dégradation potentielle. 
+ 
+ 
+ 
+Traçabilité et documentation technique : 
+ 
+Toutes les actions de stockage, inspections et tâches de préservation doivent être consignées 
+par le CAMO.  
+Le renseignement du protocole de stockage garanti la traçabilité (actions réalisées, limites 
+calendaires et conditions environnementales).  
+Elle permet ensuite d’exécuter correctement les procédures de remise en service (Return-To-
+Service). 
+L’objectif est d’assurer un suivi de navigabilité. 
+  
+
+===== PAGE 69 =====
+Module 7.17 V07   Page 69 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2 Les différents stockages ; 
+3.2.1 La préservation de 0 à 30 jours ;  
+Elle doit prévenir la dégradation de l’aéronef (Empêcher l’apparition d’humidité, poussière, 
+contamination ou décharges batterie) pendant une courte période d’immobilisation sans entrer 
+dans un cycle complet de stockage. 
+ 
+D’une durée inférieure ou égale à 30 jours elle est souvent liée à des arrêts opérationnels, 
+des immobilisation hangar, une attente de pièces, au planning de maintenance.  
+Généralement sans retrait majeur de consommables, ni actions lourdes sur les systèmes. 
+ 
+Actions typiques : 
+• Installation de protections légères : 
+o Bouchons et obturateurs sur sondes, prises d’air, pitots (selon environnement). 
+o Housses cockpit si exposition solaire prolongée. 
+ 
+• Frein de parking OFF, calage des roues. 
+ 
+• Vérification : 
+o Niveaux fluides (huile, hydraulique). 
+o Pressions pneus. 
+o Amortisseurs de train. 
+ 
+• Mise à la masse si nécessaire. 
+ 
+• Procédure simple de remise en service (Walk-around + checks visuels + confirm system 
+checks). 
+ 
+ 
+ 
+  
+
+===== PAGE 70 =====
+Module 7.17 V07   Page 70 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2.2 Le stockage court terme entre 30 jours et 90 jours ;  
+Il vise à conserver l’aéronef dans un état de préservation. 
+Il vise à prévenir les débuts de corrosion, la stagnation des fluides, les dommages liés à 
+l’environnement, et assurer un retour en service sans procédures lourdes. 
+D’une durée comprise entre 30 jours et 90 jours, il nécessite des actions périodiques 
+planifiées. (Variable selon les constructeurs) 
+ 
+Actions typiques 
+• Reprend toutes les actions de la préservation de 0 à 30 jours.  
+ 
+• Pose de protections complètes : 
+o Obturation des entrées/sorties moteurs, APU, hélices, rotors. 
+o Gouvernes. 
+ 
+ 
+• Protection cabine/soute (Fermeture contrôlée). 
+ 
+• Mise en préservation du moteur et APU(selon AMM) : 
+o Distribution d’huile préservation ou rotation moteur périodique. 
+o Mise en place de sachet anti-humidité (dessiccant).  
+ 
+• Batterie : 
+o Déconnexion ou cycles charge/maintenance. 
+ 
+• Systèmes hydrauliques : 
+o Pressurisation périodique ou inhibition complète (selon type). 
+ 
+• Visites périodiques typiques : 
+o Inspection fuites (fuel/hydraulique). 
+o Checks corrosion / moisissure. 
+o Rotation roues (pour préserver leur déformation). 
+o Contrôle niveau des amortisseurs.  
+o Contrôle hygrométrique. 
+ 
+ 
+
+===== PAGE 71 =====
+Module 7.17 V07   Page 71 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2.3 Le stockage long terme au-delà de 90 jours ;  
+Permet de placer l’aéronef en état préservé pour plusieurs mois ou années, avec réduction 
+maximale du risque de dégradation physique, chimique, environnementale et mécanique. 
+D’une durée supérieure à 90 jours, il nécessite un environnement contrôlé (hangar ou 
+extérieur spécifique).  
+Il est également soumis à des visites périodiques mais celles-ci seront plus lourdes. 
+Il vise à assurer une protection totale contre les phénomènes d’altération longue : corrosion, 
+fatigue statique, dégradation des fluides, vieillissement joints, contamination carburant, UV, 
+températures extrêmes. 
+ 
+Actions typiques 
+• Reprend toutes les actions du stockage courte durée. 
+ 
+• Vidanges partielles/complètes selon les systèmes (Hydraulique, carburant). 
+ 
+• Maintien en atmosphère sèche : 
+o Changement des dessiccants. 
+o Contrôles hygrométriques. 
+ 
+• Préservation profonde moteur + APU : 
+o Brouillard d’huile inhibante sur le moteur. 
+o Remplacement huile moteur par huile de stockage. 
+ 
+• Retrait ou préservation des batteries (souvent stockées 
+hors avion). 
+ 
+• Vérification structurale périodique plus poussée : 
+o Zones à risque corrosion. 
+o Condensation. 
+o Zones fermées. 
+ 
+• Pneus : 
+o Soulagement par vérins. 
+o Sur gonflage des roues (selon AMM), ou remplacement par des roues de stockage. 
+ 
+• Commandes de vol : 
+o Neutralisation + verrouillages permanents. 
+ 
+• Inspections périodiques programmées : 
+o Toutes les 7, 14, 30, 60 ou 90 jours (Spécifique au constructeur-). 
+ 
+ 
+
+===== PAGE 72 =====
+Module 7.17 V07   Page 72 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+La méthode de stockage employée dépendra du niveau de « Flight-Ready Condition - FRC » 
+demandé par l’exploitant. 
+ 
+Un aéronef est en FRC lorsqu’il peut être remis en service sans procédure lourde, après 
+uniquement : 
+• Retrait des protections, 
+• Inspections visuelles simples, 
+• Vérification des niveaux, 
+• Tests fonctionnels de base. 
+ 
+Autrement dit pas de préservation profonde, pas d’inhibitions majeures, pas de vidanges ou 
+dessiccation extensive. 
+ 
+Les constructeurs définissent des limites de temps au-delà desquelles l’aéronef n’est plus dans 
+un état FRC, car des tâches supplémentaires deviennent obligatoires (préservation, vidanges, 
+inspections profondes, etc.). 
+ 
+ 
+  
+Durée 
+stockage 
+Niveau 
+préservation 
+Flight-
+Ready ? 
+Raisons techniques 
+0–30 j Légère    Oui Systèmes non inhibés ; moteurs non préservés 
+profondément 
+30–90 j Moyenne     Partiel Batteries débranchées, préservation moteur 
+intermédiaire, inspections périodiques 
+> 90 j Profonde   Non Inhibitions, vidanges, dessiccants, préservation 
+moteurs/APU, systèmes hydrauliques modifiés 
+===== PAGE 73 =====
+Module 7.17 V07   Page 73 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+4/ Procédures de Ravitaillement/Vidange de carburant ; 
+ 
+Rappel des objectifs : connaissance générale des techniques de mises sur 
+vérins, calage, arrimage des aéronefs et mesures de sécurité associées. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+4.1 Procédures de ravitaillement ; 
+4.1.1 Cadre réglementaire 
+ 
+L'avitaillement en carburant est encadré par plusieurs normes internationales que tout opérateur 
+doit connaître 
+ 
+En France, les opérations d'avitaillement sont régies par : 
+ 
+ 
+ 
+Ces normes sont obligatoires et leur non-respect peut entraîner des 
+sanctions administratives et pénales. 
+ 
+  
+ 
+• Arrêté du 23 janvier 1980 : Réglementation des infrastructures 
+aéroportuaires 
+• Directives DGAC : Direction Générale de l'Aviation Civile 
+• Règlement UE 139/2014 : Exigences techniques pour les 
+aérodromes 
+ 
+• IATA AHM 945 : Manuel de référence pour la manipulation 
+du carburant en aéroport 
+• NFPA 407 : Standard américain pour le service carburant 
+des aéronefs 
+• API 1529 : Procédures de contrôle qualité et d'exploitation 
+du carburant aviation 
+• ISO 13690 : Norme internationale pour les carburants 
+aviation 
+• Annexe 14 OACI : Réglementation des aérodromes (Volume 
+1) 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 74 =====
+Module 7.17 V07   Page 74 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.1.2 Equipements et installations 
+ 
+ 
+ 
+Citerne Mobile (Camion-Citerne) 
+Caractéristiques techniques : 
+• Capacité : 5 000 à 50 000 litres 
+• Matériaux : Aluminium ou acier inoxydable résistant à la corrosion 
+ 
+Installation Fixe  
+Caractéristiques : 
+• Réseau de canalisations oléo 
+• Bouches de distribution en zone de stationnement 
+• Filtration centralisée haute performance 
+• Comptage automatique intégré 
+• Mise à la terre permanente du système 
+Types de citernes 
+es  
+===== PAGE 75 =====
+Module 7.17 V07   Page 75 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+  
+Le ravitaillement des avions dans les aéroports 
+ 
+
+===== PAGE 76 =====
+Module 7.17 V07   Page 76 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.1.3 Les conditions Météorologique 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUCUNE OPÉRATION D'AVITAILLEMENT N'EST AUTORISÉE DANS LES CAS SUIVANTS 
+ 
+Condition Critère Raison 
+  Orage Rayon de 8 km (5 NM) Risque de foudre et 
+explosion 
+  Activité électrique 
+Éclairs visibles ou 
+tonnerre audible 
+Électricité statique 
+dangereuse 
+      Pluie torrentielle Visibilité < 500 m Difficulté à réaliser 
+l’avitaillement  
+          Vents forts > 50 km/h (27 kt) Risque de débordement 
+et renversement 
+ Verglas/Givrage 
+Présence sur 
+équipements 
+Dysfonctionnement 
+matériel 
+       Brouillard dense Visibilité < 200 m Sécurité compromise 
+ 
+Conditions d'Interdiction Absolue 
+es  
+
+===== PAGE 77 =====
+Module 7.17 V07   Page 77 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+Des précautions renforcées sont nécessaires si : 
+• Température < -20°C : Viscosité accrue du carburant 
+• Température > 40°C : Expansion du carburant dans les réservoirs 
+• Humidité relative > 85% : Risque de condensation dans les réservoirs 
+• Vent > 30 km/h : Surveillance renforcée du débordement 
+• Pression atmosphérique en baisse rapide : Changement météo imminent 
+ 
+ 
+          Surveillance Obligatoire 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Avant toute opération, l'opérateur doit : 
+1.    Consulter le METAR et TAF de l'aérodrome 
+2.    S'assurer du fonctionnement du détecteur de foudre 
+3.    Connaître la procédure d'évacuation d'urgence 
+4.    Port d'EPI appropriés est obligatoire 
+ 
+ 
+En cas de doute sur les conditions météo, se rapprocher du 
+chef des opérations 
+ 
+  
+Conditions Vigilance Accrue 
+es  
+ 
+ 
+
+===== PAGE 78 =====
+Module 7.17 V07   Page 78 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.1.4 Ravitaillement de l’aéronef 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Vérifications Documentaires 
+Avant de commencer, s'assurer de disposer de : 
+• ✓ Ordre d'avitaillement signé par le commandant de 
+bord 
+• ✓ Type de carburant confirmé (Jet A-1 / Avgas 100LL) 
+• ✓ Quantité précise demandée 
+• ✓ Certificat qualité carburant (< 24 heures) 
+• ✓ Fiche de sécurité du produit 
+ 
+B. Vérifications Techniques du système d’avitaillement : 
+ 
+ 
+ 
+ 
+ 
+ 
+Procéder dans l'ordre suivant : 
+1. Contrôle visuel de la citerne : Absence de fuite, propreté générale 
+2. Test de filtration : Vérifier l'indicateur de colmatage (vert = OK) 
+3. Contrôle échantillon : Prélever un échantillon dans un récipient transparent  
+o Vérifier la clarté du carburant 
+o S'assurer de l'absence d'eau (fond du récipient) 
+o Pas de particules en suspension 
+4. Test FSII : Si requis, vérifier l'inhibiteur de givrage (Fuel System Icing Inhibitor) 
+5. Étanchéité des raccords : Inspection visuelle complète 
+  
+Préparation et Contrôles Préalables 
+es  
+ 
+ 
+
+===== PAGE 79 =====
+Module 7.17 V07   Page 79 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+       IMPÉRATIF DE SÉCURITÉ : 
+ 
+Le Périmètre de Sécurité Incendie est une 
+zone non matérialisée durant la phase 
+d’avitaillement en carburant, comprise à 
+l’intérieur de la courbe enveloppant 
+extérieurement, à une distance de 3 mètres 
+des éléments suivants :  
+• La bouche de l’oléo réseau signalée au 
+sol par une croix, inscrite dans un carré 
+rouge 
+• Les réservoirs de l’aéronef, mises à l’air 
+libre 
+• Les véhicules avitailleurs ainsi que les 
+conduites d’avitaillement 
+• Les citernes hors sol 
+ 
+ 
+ 
+• Installer les panneaux "INTERDICTION DE FUMER" visibles 
+• Placer les cales sous les roues de l'aéronef 
+• EXTINCTION OBLIGATOIRE : Moteurs et APU 
+• Couper l'électricité de bord (sauf nécessité opérationnelle) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Mise en Sécurité de la Zone 
+ 
+ 
+ 
+ 
+
+===== PAGE 80 =====
+Module 7.17 V07   Page 80 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+  
+Voir : Check List en annexe 5 (imprimable) 
+Ordre strict des opérations de l’arrivée de la citerne au début de l’avitaillement de 
+l’aéronef. 
+Dans le cas on le mécanicien conduit la citerne d’avitaillement (cas le plus complet) 
+ÉTAPE 1 : Arrivée de la citerne aux abords de l’aéronef  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Placer la citerne à 3-5 mètres de l'aéronef ou équipement d’avitaillement adapté 
+• Serrer le frein à main de la citerne  
+• Installer les cales sous les roues de la citerne 
+ 
+ÉTAPE 2 : Mise à la terre (Obligatoire) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CETTE ÉTAPE EST CRITIQUE - ELLE PRÉVIENT LES ÉTINCELLES   
+1. Connecter le câble de la citerne à la borne de masse au sol 
+2. Connecter le câble de l'aéronef à la citerne OU à une borne de masse 
+3. Attendre 30 secondes d'ouvrir les trappes (dissipation charges statiques) 
+Mise en Place et Connexion 
+ 
+ 
+  
+
+===== PAGE 81 =====
+Module 7.17 V07   Page 81 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ÉTAPE 3 : Connexion pistolet (plein par gravité) ou Coupling (plein sous pression) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Ouvrir la trappe carburant de l'aéronef avec précaution 
+2. Inspecter l'orifice de remplissage (propreté, absence de corps étranger) 
+3. Connecter le coupling ou pistolet de remplissage (sous pression ou par gravité) 
+4. Vérifier l'absence de fuite au niveau du raccord (test visuel et tactile) 
+ 
+ 
+  
+ 
+ 
+Connection pistolet plein sous pression 
+===== PAGE 82 =====
+Module 7.17 V07   Page 82 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ETAPE 4 : Opération de Remplissage 
+Nota : En fonction du type d’aéronef présélectionner le plein sur le panneau (plein sous 
+pression) 
+Procédure de débit progressif :  
+• DÉMARRAGE : 
+1. Ouvrir progressivement la vanne de remplissage 
+2. Commencer avec un débit réduit  
+ 
+Éviter les contres pressions 
+ 
+• DÉBIT NORMAL : Augmenter progressivement jusqu'au débit nominal 
+ 
+SURVEILLANCE CONTINUE  
+L'opérateur doit constamment surveiller : 
+•        Le compteur (quantité livrée) 
+•        Le niveau dans les réservoirs (si indicateurs visibles) 
+•        L'absence de fuite ou d'écoulement anormal 
+•        Le comportement  de l'aéronef (affaissement du train 
+d'atterrissage, porte ouverte) 
+•        L'environnement immédiat (conditions météo, personnes) 
+ETAPE 5 : Fin de remplissage 
+• Ralentir le débit avant la quantité finale 
+• Arrêter avec précision selon la quantité commandée 
+ 
+ Le débit dépend du type d'aéronef et des spécifications 
+constructeur 
+ 
+ 
+ 
+
+===== PAGE 83 =====
+Module 7.17 V07   Page 83 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ETAPE 6 : Fin d'Opération 
+Procédure de déconnexion : 
+1. Fermer la vanne de la citerne complètement 
+2. Purger la tuyauterie (pour le plein sous pression) 
+3. Déconnecter le pistolet ou coupling en récupérant les gouttes résiduelles (bac de 
+récupération) 
+4. Fermer la trappe carburant de l'aéronef en s'assurant du verrouillage 
+5. Déconnecter la mise à la terre dans l'ordre inverse de la connexion :  
+➢ L'aéronef 
+➢ La citerne 
+ETAPE 7 : Remise des documents au commandant de bord  
+         Documents obligatoires à fournir : 
+• ✓ Densité du carburant à température mesurée 
+• ✓ Température du carburant au moment du plein 
+• ✓ Quantité exacte livrée (en litres) 
+• ✓ Bon de livraison signé par l'opérateur  
+ 
+ 
+ 
+ 
+Exemple de procédure complète de remplissage carburant sous pression 
+AIRBUS A320 
+===== PAGE 84 =====
+Module 7.17 V07   Page 84 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+  
+
+===== PAGE 85 =====
+Module 7.17 V07   Page 85 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.1.5 Gestion des urgences 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Actions immédiates : 
+1. ARRÊT immédiat de l’avitaillement 
+2. Fermeture de toutes les vannes 
+3. Donner l’alerte (Ops, pompier, aéroport) 
+4. Faire évacuer le périmètre 
+5. Mise en œuvre des moyens d'absorption (terre de diatomée, boudins)  
+ 
+ 
+Procédure d'urgence : 
+1. ARRÊT immédiat des opérations  
+2. Déclenchement de l'alarme incendie/ Appel des secours (18 ou 112) 
+3. Utilisation des extincteurs CO₂ ou poudre (JAMAIS D'EAU) 
+4. Évacuation générale 
+ 
+ 
+ 
+Les opérations d’avitaillements sont arrêtées 
+En exemple : 
+• Dès détection d'orage à moins de 15 km : arrêt 
+préventif 
+• À 10 km : déconnexion obligatoire 
+• À 8 km : évacuation complète de la zone 
+Ce qui fait office de consignes sont les règles aéroportuaires  
+Fuite de Carburant 
+ 
+Début d'Incendie 
+Orage Approchant 
+ 
+ 
+ 
+ 
+
+===== PAGE 86 =====
+Module 7.17 V07   Page 86 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.2 Procédure de vidange de carburant ; 
+4.2.1 Situations nécessitant une vidange ; 
+ 
+La vidange du carburant d'un aéronef est une opération moins fréquente que le ravitaillement 
+mais tout aussi importante et délicate.  
+Plusieurs situations peuvent la rendre nécessaire : 
+ 
+• Contamination du carburant  
+• Erreur de ravitaillement  
+• Travaux de maintenance  
+• Stockage prolongé  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2.2 Sécurité et gestion des risques ; 
+ 
+La vidange tout comme le ravitaillement des aéronefs présentent plusieurs dangers 
+majeurs qui doivent être parfaitement compris pour être maîtrisés. 
+ 
+ 
+• Risque d'incendie et d'explosion  
+• Risque arc électrique (ex : électricité statique…) 
+• Toxicité des carburants  
+• Risques environnementaux  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 87 =====
+Module 7.17 V07   Page 87 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.2.3 Méthodes de vidange ; 
+ 
+Plusieurs méthodes peuvent être utilisées pour vidanger le carburant d'un aéronef, chacune 
+ayant ses avantages et ses contraintes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elle est particulièrement adaptée pour vérifier la présence d’eau, vidanger de petites quantités ou 
+pour évacuer les dernières traces de carburant après une vidange par pompage. 
+ 
+C'est la méthode la plus simple et la plus sûre.  
+Tous les aéronefs sont équipés de points de purge (drains) situés aux points bas de chaque 
+réservoir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En ouvrant ces drains, le carburant s'écoule par gravité dans des conteneurs placés en dessous. 
+Cette méthode est lente car le débit dépend uniquement de la gravité et de la section des 
+conduites de purge, mais elle ne nécessite aucun équipement complexe et présente des risques 
+minimums de génération d'électricité statique.  
+ 
+ 
+ 
+ 
+Vidange par gravité via les drains 
+ 
+ 
+  
+
+===== PAGE 88 =====
+Module 7.17 V07   Page 88 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Pour vidanger de grandes quantités rapidement, on peut utiliser des équipements de pompage 
+spécialisés.  
+Ces équipements peuvent être connectés aux points de ravitaillement ou à d'autres points 
+d'accès des systèmes carburant.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le « Defueling » permet de transférer le carburant de l'aéronef vers un camion -citerne ou des 
+réservoirs de stockage.  
+Cette méthode est beaucoup plus rapide mais nécessite l’utilisation des pompes carburants et du 
+système de l’aéronef. 
+Aussi des précautions supplémentaires concernant l'électricité statique car le mouvement rapide 
+du carburant génère des charges électriques importantes.  
+Les équipements utilisés doivent être certifiés pour cet usage et les procédures de mise à la masse 
+encore plus rigoureuses. 
+ 
+ 
+  
+Vidange par pompage 
+ 
+ 
+Photo a ajouter sans drois 
+===== PAGE 89 =====
+Module 7.17 V07   Page 89 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.2.4 Exemple de vidange par gravité 
+ 
+ 
+ 
+Avant de commencer toute vidange, une autorisation formelle doit être obtenue du chef d'atelier.  
+Une fiche de travail ou un ordre de travail doit être émis documentant la raison de la vidange et 
+les procédures à suivre.  
+ 
+ 
+ 
+Le manuel de maintenance de l'aéronef (AMM) doit être appliqué pour : 
+ 
+• Les procédures spécifiques au type d'aéronef 
+• Emplacements des drains 
+• Les séquences de vidange peuvent varier. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Un périmètre de sécurité incendie doit être établie autour 
+de l'aéronef.  
+Pendant une vidange, le risque est accru car du 
+carburant peut être présent au sol.  
+ 
+Toute source d'ignition potentielle doit être identifiée et 
+éliminée.  
+ 
+ 
+En extérieur : 
+Les conditions météorologiques doivent être prises en 
+compte. 
+Il faut éviter les opérations de vidange par temps : 
+ 
+• D’orage en raison du risque de foudre, 
+• Temps de pluie qui compliquerait les opérations. 
+ 
+   
+  
+Phase de préparation 
+ 
+ 
+ 
+
+===== PAGE 90 =====
+Module 7.17 V07   Page 90 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les conteneurs de récupération doivent être préparés et : 
+ 
+• Approuvés pour le stockage de carburant 
+• Propres 
+• En bon état 
+• Clairement identifiés (les étiquettes réglementaires appropriées) 
+• Leur capacité totale doit être suffisante pour recevoir tout le carburant à vidange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Du matériel absorbant en quantité suffisante doit être disponible :  
+ 
+• Boudins absorbants à placer autour de la zone de travail  
+• Coussins et granulés absorbants pour nettoyer les écoulements, 
+• Sacs étanches pour recueillir les absorbants contaminés. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le personnel impliqué doit porter l'équipement de protection complète : 
+ 
+• Gants résistants aux hydrocarbures 
+• Lunettes de protection ou visière 
+• Chaussures antistatiques 
+• Vêtements appropriés 
+ 
+ 
+En cas de vidange en grandes quantités, un appareil respiratoire peut être nécessaire 
+si la ventilation est insuffisante. 
+ 
+ 
+  
+ 
+ 
+  
+ 
+
+===== PAGE 91 =====
+Module 7.17 V07   Page 91 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+Les opérations commencent toujours par les points de purge les plus bas de chaque 
+réservoir, car c'est là que l'eau et les contaminants lourds s'accumulent.  
+ 
+ 
+ 
+Les drains sont ouverts progressivement pour contrôler le débit 
+initial.  
+Une ouverture trop brutale pourrait causer un écoulement turbulent et des 
+éclaboussures. 
+ 
+ 
+ 
+ 
+Le carburant est dirigé vers les conteneurs en utilisant des tuyaux si nécessaire pour éviter les 
+éclaboussures et les déversements. 
+ 
+ 
+ 
+ 
+S'il devient trop important et risque de déborder les conteneurs, les drains doivent être 
+partiellement fermés pour ralentir l'écoulement.  
+ 
+La qualité du carburant écoulé est observée visuellement pendant toute l'opération.  
+ 
+Exemple de l’eau : 
+La présence d'eau se manifeste par un aspect trouble ou par une séparation visible de deux 
+phases dans le conteneur (l'eau étant plus dense reste au fond).  
+ 
+La présence de particules, de couleurs anormales, ou d'odeurs inhabituelles doit être notée. 
+ 
+Des échantillons peuvent être prélevés à différents moments de la 
+vidange pour documentation et analyse ultérieure si nécessaire. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ces échantillons sont placés dans des flacons propres, 
+étiquetés avec la date, l'heure, l'identification de l'aéronef et du 
+réservoir. 
+ 
+ 
+Pour assurer une traçabilité complète, il est recommandé : 
+ 
+• Vidanger les réservoirs un par un plutôt que de tous les ouvrir simultanément 
+(l'origine d'une contamination) si elle est limitée à certains réservoirs. 
+ 
+Il peut être nécessaire d'incliner légèrement l'aéronef en utilisant des vérins ou 
+en jouant sur la position du train d'atterrissage pour faciliter l'écoulement vers 
+les drains. 
+Déroulement de la vidange 
+ 
+ 
+ 
+ 
+Le débit est surveillé en permanence. 
+ 
+
+===== PAGE 92 =====
+Module 7.17 V07   Page 92 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5/Procédures de dégivrage/antigivrage ; 
+ 
+Rappel des objectifs : connaissance générale des procédures de 
+dégivrage/antigivrage. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+5.1 Généralités ; 
+Le givre sur un aéronef est dangereux. Avant le décollage, l’avion doit être complètement dégivré 
+et/ou antigivré, comme l’exigent toutes les autorités aéronautiques nationales. 
+ 
+ 
+(Exemple de mise en conformité règlementaire pour les vol réguliers) 
+ 
+« L’objectif est d’obtenir des performances aussi proches de l'aérodynamique d'origine de 
+l'avion sans givrage que les techniques de dégivrage/antigivrage le permettent. » 
+C’est le « Clean Aircraft Concept » : le concept de l’avion propre 
+ 
+La présence de givre entraîne : 
+- augmentation de la masse, 
+- augmentation de la traînée, 
+- déformation des profils des ailes et empennages.  
+Même une fine couche suffit à rendre la surface rugueuse, perturbant l’écoulement de l’air :  
+Il devient turbulent au lieu d’être laminaire, ce qui réduit fortement la portance. 
+ 
+Les conséquences : 
+- diminution de la portance (jusqu’à 50 %),  
+- hausse de la vitesse de décrochage (≈ 30 %),  
+- perte de maniabilité,  
+- vibrations et un risque de blocage des commandes de vol. 
+ 
+ 
+  
+
+===== PAGE 93 =====
+Module 7.17 V07   Page 93 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+La quantité de glace sur les surfaces aura pour effet : 
+- une diminution du taux de montée ; 
+- une diminution de la vitesse horizontale ; 
+- une augmentation de la vitesse de décrochage ; 
+- une diminution du plafond pratique. 
+ 
+ 
+-Cz : coefficient de portance  
+-i : incidence  
+ 
+On remarque bien l’impact sur la portance et le décrochage précoce (due à l’influence 
+directe sur l’incidence). 
+ 
+Le dégivrage/antigivrage au sol vise à éliminer toute contamination gelée avant le décollage 
+afin de restaurer la configuration aérodynamique d’origine. 
+L’application contrôlée de fluides dégivrants (type I) et antigivrants (type II, III, IV) sur les 
+surfaces critiques, permet de retrouver la fenêtre complète de performances de l’aéronef : 
+portance nominale, vitesse de décrochage normale et efficacité optimale des commandes de vol. 
+ 
+ 
+  
+
+===== PAGE 94 =====
+Module 7.17 V07   Page 94 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.2 Principes d’inspection ; 
+5.2.1 Inspection de zones ; 
+Un tour avion sera effectué afin de détecter toute contamination gelée sur les surfaces critiques. 
+L’inspection, à la fois visuelle et tactile, permettra aux techniciens de vérifier l’absence de givre, 
+sur l’ensemble des zones sensibles de l’aéronef. 
+ 
+ 
+ 
+(Exemple de tour avion et de procédure de dégivrage/antigivrage) 
+  
+
+===== PAGE 95 =====
+Module 7.17 V07   Page 95 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.2.2 Zones critiques ; 
+Une contamination de ces zones sera rédhibitoire, on les distingue ainsi : 
+ 
+- Surfaces aérodynamiques :  
+Elles sont conçues pour générer des forces 
+aérodynamiques (portance, traînée, moments). 
+Concerne, les voilures, les empênages horizontaux et 
+verticaux. 
+Il faudra vérifier les extrados et intrados. 
+Les espaces entre les parties mobiles des commandes de 
+vol devront être vérifiés car une contamination dans ces 
+zones pourrait engendrer un blocage des commandes. 
+ 
+- Atterrisseurs :  
+Une contamination sur cette zone pourrait créer des 
+blocages mécaniques d’éléments mobile, empêcher une 
+rentrée nominale du train et empêcher un freinage 
+efficace.  
+ 
+- Les Pitot et sondes : 
+Le givrage des sondes rend inexactes les informations 
+fournies au système principal de l'avion. 
+Le givrage provoque des indications fausses de vitesse et 
+d’altitude, imposant le passage sur le système de secours, 
+lequel pouvant aussi être affecté par le givre. 
+ 
+- Les entrées d’air moteur ou les pâles : 
+Le givre peut se fixer sur les entrées d’air.  
+Ainsi il y aura une déformation et réduction du diamètre 
+des entrées d’air moteur ce qui entraine une diminution du 
+débit d’air, pouvant mener à un pompage moteur. 
+ 
+Le givre peut également se fixer sur les hélices, aubes. 
+Le givre modifie le profil aérodynamique des pales et des 
+aubes, augmentant leur masse et la traînée : 
+- hausse du couple résistant, 
+- possible dissymétrie de puissance, 
+ 
+Le dépôt asymétrique crée un balourd : 
+- source de vibrations, 
+- surcharges mécaniques. 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 96 =====
+Module 7.17 V07   Page 96 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Il faudra également inspecter les autres zones de l’aéronef, même si celles-ci ne sont pas jugées 
+critiques Concept de l’avion propre. 
+ 
+Radôme avant : 
+Le givre sur le radôme avant doit être entièrement retiré car il perturbera 
+le fonctionnement du radar météo, altèrera l’aérodynamique du fuselage 
+l’avion, et pourra causer des dommages si des blocs de givres sont 
+éjecter vers l’arrière.  
+ 
+Les pare-brise : 
+Le givre réduit la visibilité, ce qui est critique pour les phases de roulage, 
+décollage et atterrissage. 
+Si le givre n’est pas éliminé au sol il peut continuer à s’accumuler en vol, 
+même avec son système antigivrage actif. 
+ 
+Fuselage :  
+Il n’est pas une surface critique de vol mais la masse 
+supplémentaire de givre sur le fuselage représenterait une 
+surcharge dangereuse.  
+Le givre altèrera le profil aérodynamique du fuselage et 
+augmentera la trainée de l’aéronef. 
+ 
+ 
+ 
+NOTA : Dans tous les cas, la responsabilité de la demande de traitement dégivrant/antigivrant 
+incombera au pilote commandant l’appareil ou exploitant. 
+5.3 Procédures de dégivrage/antigivrage ; 
+5.3.1 Dégivrage ; 
+Plusieurs méthodes de dégivrage au sol existent, et elles seront fonction des aéronefs, des 
+moyens des exploitants et des conditions météorologiques : 
+ 
+• Mécaniques : balais, bâches,  
+• Thermiques : air chaud pulsé (surtout utilisé pour les moteurs et jambes de train), 
+• Chimiques : liquide de dégivrage Type I chauffé à base de Glycol et d’eau. 
+ 
+ 
+  
+ 
+  
+
+===== PAGE 97 =====
+Module 7.17 V07   Page 97 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.3.2 Antigivrage ; 
+Les fluides d’antigivrage protègent l’aéronef contre la formation de givre pendant qu’il est au 
+sol, avant et pendant le décollage. 
+En vol, c’est le système d’antigivrage de l’avion qui prend le relais pour empêcher le givre 
+(voir module 11.12). 
+ 
+ 
+NOTA :  
+L’antigivrage ne pourra pas être appliqué tant que le dégivrage n’aura pas été effectué. 
+Certains éléments feront l’objet d’une attention particulière lors du dégivrage/antigivrage (voir 
+ANNEXE 4 
+ 
+Utilisation des fluides : 
+ 
+VISCOSITE 
+ 
+DEGIVRAGE ANTIGIVRAGE 
+Type I Type II Type III Type IV 
+Fluide non visqueux. 
+Newtonien. 
+Couleur orange. 
+ 
+Fluide visqueux. 
+Non newtonien. 
+Couleur jaune pâle. 
+Fluide visqueux. 
+Non newtonien. 
+Couleur jaune ou 
+dorée, moins visqueux 
+que le Type II et IV. 
+ 
+Fluide visqueux. 
+Non newtonien. 
+Couleur verte. 
+Plus visqueux que le 
+Type II. 
+Chauffé (60-80°C) et 
+pulvérisé sous 
+pression pour 
+enlever le givre. 
+Ne reste pas sur les 
+surfaces. 
+Protection très 
+courte (HOT≤15 min 
+en fonction des 
+conditions) 
+ 
+Pulvérisé sur les 
+surfaces pour 
+former une couche 
+protectrice contre le 
+givre.  
+Utilisé en aviation 
+commerciale, mais 
+HOT limitée par 
+rapport au Type IV 
+ 
+Pulvérisé sur les 
+surfaces pour former 
+une couche 
+protectrice contre le 
+givre. 
+Peu utiliser car 
+destiné aux avions 
+légers avec vitesse 
+de rotation faible  
+(env 80kt)  
+Pulvérisé sur les 
+surfaces pour former 
+une couche 
+protectrice contre le 
+givre.  
+Principalement 
+utilisé dans 
+l’aviation 
+commerciale. 
+Meilleure HOT. 
+ 
+ 
+ 
+NOTA : Le Holdover Time (HOT) est la durée pendant laquelle un fluide de 
+dégivrage/antigivrage protège les surfaces d’un aéronef contre la reformation de glace, de givre 
+ou de neige après son application.  
+Le HOT est impacté par les conditions climatiques changeantes. 
+  
+
+===== PAGE 98 =====
+Module 7.17 V07   Page 98 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.3.3 Procédure des équipes de dégivrage/antigivrage au sol; 
+1 Préparation 
+• Météo  temps de traitement et HOT. 
+• Manuel de l’aéronef  zones sensibles  
+• Matériel. 
+ 
+2. Application des Fluides 
+Dégivrage :  
+o Moyens mécaniques et/ou fluide Type I.  
+Antigivrage :  
+o Fluide Type II, III ou IV. 
+ 
+ 
+3. Vérifications Post-Application 
+• Inspection visuelle  absence de glace résiduelle ou de zones non traitées. 
+• Communication avec l’équipage  Bon de dégivrage (voir ANNEXE 4) 
+• Documentation  noter dans le logbook. 
+ 
+NOTA : il est possible, en fonction des conditions météo et des moyens à disposition, de réaliser 
+un dégivrage/antigivrage en 1 étape (voir ANNEXE 4) 
+ 
+. Précautions et Bonnes Pratiques : 
+• Environnement :  
+Travailler dans une zone dédiée et sécurisée (risque de glissade, 
+projection de fluides). 
+Éviter la contamination des sols. 
+ 
+• Sécurité :  
+Porter des EPI (gants, lunettes, vêtements imperméables). 
+Respecter les fiches de données de sécurité (FDS) des fluides. 
+ 
+• Coordination :  
+Collaborer avec les équipages de vol et les services météo. 
+Suivre les procédures de l’exploitant. 
+ 
+5. Erreurs à Éviter 
+  Appliquer un fluide inadapté (ex. : Type I pour de l’antigivrage longue durée). 
+  Négliger les zones difficiles d’accès (ex. : gouvernes, entrées d’air moteur). 
+  Oublier de documenter l’opération (obligation légale). 
+  Travailler sans EPI (risque chimique et thermique). 
+ 
+  
+  
+
+===== PAGE 99 =====
+Module 7.17 V07   Page 99 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.4 Procédures spécifiques post traitement ; 
+Les études ont montré que l’application répétée de fluides de dégivrage et d’antigivrage, 
+combinée à d’autres produits utilisés au sol (pistes, taxiways), peut provoquer l’accumulation de 
+résidus dans certaines zones de l’aéronef, compromettant sa navigabilité. 
+ 
+Leur réhydratation (pluie, neige, lavage, humidité), peu les faire geler et entraîner : 
+• Des blocages ou déséquilibres sur les parties mobiles, 
+• L’obstruction de trous de drainage, 
+• Des anomalies cachées dans les commandes de vol. 
+ 
+    
+(Exemples de résidus et de fluide réhydratés retrouvés lors d’inspections de maintenance) 
+ 
+La détection et la suppression de ces résidus constituent des tâches d’entretien nécessitant 
+une APRS (Approbation pour Remise en Service) par un organisme agréé : 
+• Partie 145 pour le transport aérien commercial, 
+• Partie 145, Partie M/F ou mécanicien indépendant pour l’aviation générale. 
+ 
+Ces inspections et tâches additionnelles sont précisées dans le manuel de maintenance de 
+l’aéronef, et varient selon le type d’appareil  
+ 
+Principales actions après dégivrage/antigivrage : 
+• Inspection post-dégivrage : contrôle ciblé des commandes de vol, moteurs, hélices, systèmes 
+anémométriques et fonds de coque (zones non pressurisées : cône arrière, baie de train, etc.). 
+• Inspection du train d’atterrissage et lubrification des éléments exposés. 
+• Rinçage des moteurs pour éliminer les résidus de fluides. 
+• Lavage complet de l’avion pour prévenir la corrosion et les dépôts. 
+ 
+Après une opération de dégivrage ou d’antigivrage, un rapport TLB (Technical Log Book) est 
+transmis au CAMO (Continuing Airworthiness Management Organisation). 
+ 
+Le CAMO évalue la situation et décide, selon les recommandations du constructeur, de 
+déclencher des inspections complémentaires afin de garantir la navigabilité de l’aéronef. 
+ 
+ 
+  
+
+===== PAGE 100 =====
+Module 7.17 V07   Page 100 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6/ Alimentation électrique, hydraulique et pneumatique 
+au sol ; 
+ 
+Rappel des objectifs : connaissance générale des procédures d’alimentation 
+électriques, hydrauliques et pneumatiques au sol. Capacité à appliquer cette 
+connaissance. [Niveau 2] 
+ 
+L’utilisation des moyens d’alimentation électrique, hydraulique et pneumatique au sol fait 
+partie des compétences fondamentales du mécanicien. 
+Ces équipements permettent d’assurer les opérations de maintenance (Tests, 
+préparations techniques etc.) sans utiliser les moteurs, l’APU (Auxiliary Power Unit) et les 
+batteries, ce qui réduit la consommation carburant, l’usure des systèmes. 
+ 
+ 
+ 
+Pour les aéronefs, ces moyens au sol remplissent des fonctions indispensables : 
+ 
+- Alimentation électrique (AC/DC) externe (GPU ou Groupe de parc) :  
+Mise sous tension pour tests avioniques, mise en route des systèmes, charges 
+batteries, essais fonctionnels. 
+- Alimentation hydraulique externe (HPU ou banc hydraulique) :  
+Pressurisation des circuits pour actionner gouvernes, trains, freins, servocommandes 
+ou vérins. 
+- Alimentation pneumatique externe (air HP ou groupe de conditionnement d’air) :  
+Assistance au démarrage moteur, alimentation air conditionné, essais des systèmes 
+pneumatiques. 
+  
+
+===== PAGE 101 =====
+Module 7.17 V07   Page 101 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.1 Alimentation électrique au sol ; 
+Les moyens d’alimentation électriques permettent la mise en configuration des aéronefs pour les 
+tâches de maintenance. 
+Les groupes électriques pouvant générer des puissances électriques conséquentes (ex :115V 
+400Hz AC pour l’aviation commerciale) il faudra absolument prendre en compte les dangers liés 
+à de tels moyens, comme la prévention des arcs électriques, des surtensions ou de transferts de 
+charge inappropriés.  
+ 
+Pour cela, il faudra toujours se référer aux manuels constructeurs pour identifier le 
+matériel conforme, ses plages d’utilisation, et ses limitations. 
+ 
+Il existe plusieurs types de puissances utilisées dans l’aéronautique : 
+- 28V DC (aéronefs de petite taille) 
+- 115V 400Hz (aviation commerciale/militaire ou hélicoptères lourds type EC225) 
+- 270V DC 400Hz (aviation commerciale moderne type B787 et militaire type F22 etc.) 
+ 
+Pour répondre aux différents besoins de chaque aéronef, les fabricants ont développé des 
+moyens permettant de couvrir plusieurs puissances différentes. 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 102 =====
+Module 7.17 V07   Page 102 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.1.1 Procédure de mise en place de Groupe de Puissance (GPU ou groupe de 
+parc) ; 
+Vérifications : 
+1. Vérifier la compatibilité du GPU : 
+o Tension requise selon documentation constructeur. 
+o Puissance et courant maximum selon AMM/OMM. 
+2. Positionner le GPU à distance réglementaire : 
+o Zone dégagée, chariot/fourgonnette freinés. 
+o Câble déroulé sans torsion ni tension. 
+3. Couper le GPU et vérifier : 
+o Intégrité des câbles et connecteurs. 
+o Absence de dommages mécaniques. 
+4. Vérifier que l’aéronef est configuré pour l’alimentation externe : 
+o Batteries isolées si exigé. 
+o Sélecteur "External Power" sur OFF. 
+o APU coupée (sauf cas particuliers). 
+ 
+Utilisation : 
+1. Raccorder le câble au connecteur de l’aéronef. 
+2. Valider la connexion (signal « EXT PWR AVAIL »). 
+3. Activer le GPU. 
+4. Passer l’aéronef sur "EXT PWR ON" selon le type. 
+5. Vérifier : 
+o Tension stable, fréquence correcte. 
+o Absence d’alarme BUS ou TRU. 
+o Charge électrique dans les limites du GPU. 
+6. Procéder aux opérations.  
+ 
+ 
+ 
+Limitations : 
+• Le GPU ne doit pas dépasser les tensions admissibles, des tolérances sont données par la 
+documentation technique. 
+• Interdiction d’alimenter simultanément GPU + APU + moteurs. 
+• Ne pas utiliser un GPU pour démarrer une turbine s’il n’est pas certifié « EPU/Start Unit ». 
+• Sur hélicoptères légers : limitation stricte de courant lors du démarrage (protection batterie). 
+ 
+ 
+POINTS D’ATTENTION CRITIQUES   
+ 
+• Ne jamais connecter un GPU sous tension. 
+• Vérifier la polarité pour le 28 V DC. 
+• Sur hélicoptère : s’assurer que le grouper ne se situe pas dans la zone du disque rotor.  
+• Vérifier l’état du connecteur d’alimentation (pas d’oxydation, pas de broche déformée). 
+• Interdiction absolue d’utiliser un câble endommagé. 
+• Sur avion : s’assure que la « BUS TIE » est conforme aux exigences du constructeur avant 
+mise sous tension. 
+ 
+ 
+  
+
+===== PAGE 103 =====
+Module 7.17 V07   Page 103 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2 Alimentation hydraulique au sol ; 
+Les aéronefs nécessitent parfois, au sol, un apport en pression hydraulique pour des opérations 
+de maintenance, de test ou de vérification des circuits hydrauliques. 
+ 
+Le matériel hydraulique comprend des unités fixes ou mobiles (HGPU ou bancs hydrauliques) 
+utilisées pour fournir l’énergie hydraulique nécessaire à la maintenance des aéronefs.  
+Elles permettent d’alimenter et de contrôler les circuits, réaliser les opérations de purge et de 
+remplissage du fluide, et vérifier l’étanchéité des systèmes.  
+Disponibles en différentes configurations de pression, débit et type de pompes, ces unités 
+s’adaptent aux différents aéronefs et permettent de simuler les conditions hydrauliques normales 
+sans mise en route des moteurs ou de l’APU. 
+Le mécanicien devra s’assurer de la compatibilité du moyen avec son aéronef en se 
+conformant à la documentation technique. 
+ 
+  
+(Exemple de banc hydraulique mobile – Source TMH) 
+ 
+ 
+ 
+  
+
+===== PAGE 104 =====
+Module 7.17 V07   Page 104 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2.1 Procédure d’alimentation hydraulique au sol (HGPU / Power Pack) ; 
+Vérification et mise en place du groupe hydraulique : 
+1. Vérifier le type de fluide (Skydrol, HyJet, MIL-H-5606 etc.) et la compatibilité avec l’aéronef. 
+2. Positionner le HGPU à une distance pratique et sécurisée pour l’utilisation. 
+3. Vérifier les flexibles :  
+→Vérifier la classe du banc hydraulique pour éviter de polluer l’aéronef. 
+→Propres, sans abrasion, embouts en bon état. 
+→Vérifier l’état des connecteurs sur l’aéronefs. 
+4. S’assurer que les accumulateurs et réservoirs de l’aéronef sont dépressurisés si requis. 
+5. Mettre en place les protections au sol (bacs de rétention, absorbants). 
+ 
+Utilisation : 
+1. Connecter les flexibles pression/retour à l’aéronef selon AMM. 
+2. Vérifier que les vannes sur le HGPU sont fermées. 
+3. Démarrer le groupe hydraulique. 
+4. Augmenter progressivement la pression au niveau demandé. 
+5. Surveillance permanente : 
+→Niveau et température fluide, 
+→Absence de fuite sur circuits, 
+→Variation de pression anormale. 
+6. Effectuer l’opération de maintenance.  
+7. Après utilisation : 
+→Faire diminuer la pression, 
+→Couper le HGPU, 
+→Purger les flexibles, 
+→Déconnecter et ranger le banc.  
+ 
+ 
+ 
+  
+
+===== PAGE 105 =====
+Module 7.17 V07   Page 105 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Limitations : 
+• Ne pas dépasser la pression maximale de test indiquée par l’AMM. 
+• Ne jamais utiliser un fluide non conforme à la spécification constructeur. 
+• Ne pas utiliser le HGPU pour bouger des gouvernes si pas de corsets installés. 
+→Sur hélicoptères : limitation stricte des mouvements rotors/servos si personnel à 
+proximité. 
+ 
+POINTS D’ATTENTION CRITIQUES   
+ 
+• Les fluides hydrauliques sous pression sont dangereux : 
+o Risque d’injection sous-cutanée, brûlures chimiques, 
+projections → Porter des EPI adaptés ! 
+• Interdiction de connecter un flexible sous pression résiduelle. 
+o Attention aux mouvements des commandes de vol sur certains 
+avions (retour au 0 mécanique lors de la mise en pression). 
+• Vérifier la compatibilité fluide. 
+• Sur hélicoptère : 
+o Attention aux servo vérins du rotor principal et de queue (risque 
+de mouvement intempestif). 
+o Dégager toute zone du rotor avant mise sous pression. 
+ 
+  
+(Exemple de risques avec l’hydraulique) 
+  
+
+===== PAGE 106 =====
+Module 7.17 V07   Page 106 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.3 Alimentation pneumatique au sol ; 
+L’alimentation pneumatique est utilisée dans les opérations au sol, pour des fonctions variées 
+selon les aéronefs. 
+Elle permet la mise opérationnelle au sol des systèmes (tests, démarrage, conditionnement, 
+maintenance), sans nécessiter l’usage des moteurs principaux ou APU. 
+• Les Pré-Conditionned Air unit (PCA)  
+ 
+• Les Air Start Unit (ASU)  
+ 
+• Pour les hélicoptères, le besoin pneumatique est moins critique que pour les avions et leur 
+utilisation est spécifique (Hélicoptères VIP, H225/EC225, S-92 etc.) 
+ 
+ 
+  
+(Exemple de PCA) 
+ 
+ 
+(Exemple d’ASU) 
+  
+
+===== PAGE 107 =====
+Module 7.17 V07   Page 107 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.3.1 Pre-Conditionned Air unit (PCA) ; 
+La Pre-Conditioned Air Unit (PCA) est un équipement de support au sol destiné à fournir de l’air 
+conditionné (refroidi ou chauffé), propre et sec, à basse pression, afin de : 
+• Assurer le conditionnement de la cabine au sol (chauffage ou refroidissement) sans 
+utiliser les moteurs ni l’APU, 
+• Maintenir une température compatible avec la protection des équipements avioniques et 
+électroniques, 
+• Améliorer le confort des équipages et des passagers lors des opérations prolongées au 
+sol ou avant le vol. 
+L’air fourni par une unité PCA ne permet pas le démarrage moteur et n’alimente pas le 
+réseau pneumatique avion. Il est soufflé à faible pression et débit contrôlé, uniquement pour 
+des fonctions de confort ou de protection matérielle. 
+Cet air remplace temporairement : 
+• L’air conditionné normalement produit par le système de conditionnement d’air de 
+l’aéronef, 
+• L’air issu du prélèvement moteur (bleed air) ou de l’APU, lorsque ceux-ci sont arrêtés. 
+La PCA est donc utilisée exclusivement au sol et constitue un moyen de limitation de l’usure des 
+systèmes embarqués, de réduction de la consommation carburant. 
+ 
+ 
+6.3.2 Air Start Unit (ASU) ; 
+L’Air Start Unit (ASU) est un équipement de support au sol capable de fournir de l’air comprimé à 
+haute pression et fort débit, typiquement compris entre 30 et 50 PSI, afin de : 
+• Assurer le démarrage des moteurs sur les aéronefs à turbine, 
+• Alimenter le réseau pneumatique avion lorsque l’APU est indisponible, 
+• Permettre certains essais pneumatiques au sol. 
+Cet air remplace temporairement l’air de prélèvement (bleed air) normalement fourni par : 
+• Les compresseurs moteurs, 
+• L’APU. 
+ 
+  
+
+===== PAGE 108 =====
+Module 7.17 V07   Page 108 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.3.4 Procédure d’alimentation pneumatique au sol (ASU / PCA) 
+Mise en place de l’unité pneumatique ; 
+1. Identifier le besoin : 
+o Démarrage moteur (ASU), 
+o Conditionnement cabine (PCA), 
+o Alimentation pneumatique générale (ASU). 
+2. Vérifier la compatibilité pression/débit selon AMM. 
+3. Positionner l’unité air à distance sécurisée. 
+4. Vérifier les flexibles d’air (absence de fissure, embouts propres). 
+ 
+Procédure d’utilisation ; 
+1. Connecter le flexible d’air sur l’entrée dédiée (ASU ou PCA). 
+2. Vérifier que la vanne de l’unité pneumatique est fermée. 
+3. Démarrer l’unité. 
+4. Ouvrir progressivement la vanne d’air pour atteindre la pression demandée. 
+o ASU : valeurs typiques 30–45 psi selon aéronef. 
+o PCA : pression et débit adaptés au conditionnement cabine. 
+5. Surveiller : 
+o Pression d’alimentation, 
+o Stabilité du débit, 
+o Absence de fuite sur le flexible. 
+6. Une fois l’opération terminée : 
+o Fermer progressivement la 
+vanne, 
+o Couper l’unité, 
+o Purger l’air résiduel, 
+o Déconnecter.  
+ 
+Limitations ; 
+• Pression maximale à respecter strictement selon AMM (surcharge du starter ou risque 
+de surchauffe). 
+• Débit PCA limité pour éviter la condensation excessive dans la cabine. 
+• Interdiction de fournir de l’air de démarrage si moteur/boîte accès non sécurisés. 
+• Sur hélicoptères : 
+o L’utilisation d’air externe pour le démarrage n’est pas systématique, certaines 
+turbines exigent un starter électrique ou interne uniquement. 
+o Suivre strictement AMM/OMM pour éviter une surpression du compresseur. 
+ 
+ 
+POINTS D’ATTENTION CRITIQUES   
+ 
+• L’air comprimé peut provoquer des blessures graves. 
+• Interdiction absolue de manipuler un flexible sous pression.  
+• Sur avion : 
+o Les volets de prélèvement peuvent se fermer automatiquement, 
+risque de contre-pression. 
+ 
+  
+
+===== PAGE 109 =====
+Module 7.17 V07   Page 109 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7/ Effets des conditions environnementales sur la 
+manutention et l’exploitation des aéronefs. 
+ 
+Rappel des objectifs : connaissance générale des effets des conditions 
+environnementales sur la manutention et l’exploitation des aéronefs. Capacité à 
+appliquer cette connaissance. [Niveau 2] 
+ 
+7.1 Effets des conditions environnementales sur la manutention des 
+aéronefs. 
+ 
+ 
+ 
+ 
+L'environnement dans lequel évoluent et stationnent les aéronefs présente de nombreux défis 
+pour les équipes de maintenance.  
+En tant que mécanicien certifié B1 ou B2, votre compréhension approfondie des phénomènes 
+environnementaux et de leurs conséquences sur les structures, systèmes et matériaux de 
+l'aéronef est essentielle pour garantir la sécurité des vols et la pérennité des appareils. 
+ 
+ 
+ 
+  
+Il serait illusoire de vouloir ici dresser la liste exhaustive de toutes les conditions 
+particulières d'environnement induisant des états des situations auxquelles le technicien 
+sera confronté. 
+Dans ce chapitre seront exposés les principales 
+ 
+===== PAGE 110 =====
+Module 7.17 V07   Page 110 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.1.1 Les effets de la température ; 
+ 
+ 
+ 
+La température ambiante constitue l'un des facteurs environnementaux les plus déterminants 
+pour la manutention et l'exploitation des aéronefs. Les variations thermiques, qu'elles soient 
+extrêmes ou soudaines, affectent profondément les propriétés physiques des matériaux ainsi que 
+le fonctionnement des systèmes embarqués. 
+7.1.1.1 Les températures très froides 
+ 
+Lorsque le thermomètre descend en dessous de - 40°C, l'aéronef et ses composants subissent 
+des transformations importantes. 
+ 
+ 
+ 
+ 
+ 
+• Les métaux, notamment les alliages d'aluminium couramment utilisés dans les structures 
+aéronautiques, deviennent plus fragiles et peuvent présenter un risque de rupture fragile 
+ 
+• Les matériaux élastomères, tels que les joints et les flexibles, perdent leur souplesse 
+ 
+• La viscosité des fluides hydrauliques et des lubrifiants augmente drastiquement avec le froid 
+ 
+• Les batteries subissent une perte de capacité significative dans le froid 
+ 
+ 
+• Utiliser des couvertures chauffantes moteur 
+• Préchauffage obligatoire selon AMM 
+• Vérifier la viscosité des fluides 
+• Inspection accrue des flexibles et joints 
+  
+Dommages Potentiels 
+Précautions 
+ 
+
+===== PAGE 111 =====
+Module 7.17 V07   Page 111 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.1.1.2 Les températures élevées 
+ 
+À l'opposé du spectre thermique, les températures dépassant + 40°C présentent leurs propres 
+défis.  
+Les matériaux composites et les produits d'étanchéité peuvent ramollir, perdant temporairement 
+une partie de leurs propriétés mécaniques. L'expansion thermique différentielle entre matériaux 
+de nature différente peut créer des contraintes internes ou modifier les jeux fonctionnels entre 
+composants. 
+ 
+ 
+ 
+ 
+ 
+• Ramollissement des composites et joins  
+• Expansion thermique différentielle 
+• Dégradation accélérée des élastomères 
+• Perte de résistance mécanique temporaire 
+ 
+ 
+ 
+• Surchauffe du moteur et équipements électroniques 
+• Vaporisation du carburant (vaporlock) 
+• Pression excessive dans les circuits fermés 
+• Détérioration des batteries 
+ 
+ 
+ 
+• Éviter l'exposition prolongée au soleil (utiliser des parasols) 
+• Ventilation forcée des compartiments 
+• Surveillance accrue des températures systèmes 
+• Planifier les opérations aux heures les plus fraîches 
+  
+Dommages Potentiels 
+Effets sur les Systèmes 
+Précautions 
+ 
+===== PAGE 112 =====
+Module 7.17 V07   Page 112 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.1.2 Effets de l’humidité ; 
+ 
+ 
+ 
+ 
+ 
+L'humidité atmosphérique, bien que souvent invisible, constitue l'un des ennemis les plus 
+insidieux de l'intégrité structurelle des aéronefs.  
+Son action se déploie généralement sur le long terme mais peut entraîner des conséquences 
+catastrophiques si elle n'est pas correctement maîtrisée. 
+ 
+7.1.2.1 L'humidité élevée ;  
+ 
+Lorsque l'humidité relative dépasse 80%, particulièrement dans les environnements côtiers ou 
+tropicaux, les risques de corrosion augmentent de manière exponentielle.  
+La corrosion des structures métalliques, principalement les alliages d'aluminium, représente une 
+menace permanente pour la sécurité. Elle se développe préférentiellement dans les zones 
+confinées, mal ventilées ou difficilement accessibles lors des inspections visuelles. 
+ 
+ 
+ 
+ 
+ 
+• Corrosion accélérée des structures métalliques 
+• Condensation dans les systèmes carburant et avioniques 
+• Détérioration des équipements électriques 
+• Formation de moisissures dans l'habitacle 
+  
+Dommages Potentiels 
+===== PAGE 113 =====
+Module 7.17 V07   Page 113 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.1.2.2 Variation rapide d’humidité ; 
+ 
+Les changements brutaux d'humidité relative peuvent également poser des problèmes. 
+Le passage d'un environnement sec à un environnement humide, ou inversement, peut 
+provoquer des phénomènes de condensation dans les réservoirs de carburant où l'air 
+emprisonné se charge en humidité. 
+Les systèmes de climatisation peuvent givrer lorsque l'air humide entre en contact avec les 
+surfaces froides des évaporateurs. 
+Certains matériaux, notamment les composites et les produits d'étanchéité, peuvent gonfler ou se 
+rétracter en fonction de l'humidité absorbée, modifiant ainsi les propriétés d'étanchéité des 
+assemblages. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Application de produits anticorrosion (CPC) 
+• Utilisation de déshumidificateurs pour stockage prolongé 
+• Inspection fréquente des drains et purges 
+• Séchage complet après lavage 
+ 
+ 
+ 
+  
+Mesures Préventives 
+ 
+===== PAGE 114 =====
+Module 7.17 V07   Page 114 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.1.3 Effets du vent ; 
+ 
+ 
+ 
+Le vent représente une force invisible mais puissante qui peut transformer rapidement une 
+situation de maintenance routinière en événement dangereux.  
+Sa compréhension et le respect des limitations opérationnelles sont primordiaux pour la sécurité 
+du personnel et de l'aéronef. 
+ 
+7.1.3.1 Vent Fort (>25 nœuds) 
+ 
+Lorsque la vitesse du vent dépasse 25 kts, les risques augmentent significativement.  
+Un aéronef au sol malgré son poids considérable peut être déplacé de manière non contrôlée si 
+les dispositifs d'amarrage sont insuffisants. 
+Le vent exerce des forces importantes sur les grandes surfaces de l'appareil, notamment les 
+ailes, les empennages et le fuselage.  
+Un aéronef en cours de remorquage est particulièrement vulnérable au basculement, surtout si le 
+vent frappe perpendiculairement à son axe longitudinal. 
+ 
+ 
+ 
+• Déplacement non contrôlé de l'aéronef 
+• Basculement lors du remorquage 
+• Endommagement des gouvernes libres 
+• Projection d'objets et FOD (Foreign Object Damage) 
+ 
+ 
+ 
+• Amarrage renforcé obligatoire 
+• Blocage de toutes les gouvernes 
+• Interdiction d'ouverture des portes cargos exposés au vent 
+• Arrêt des opérations en hauteur (nacelles, échelles) 
+ 
+ 
+ 
+7.1.3.2 Vent de Travers ; 
+ 
+ 
+ 
+• Contraintes asymétriques sur le train d'atterrissage 
+• Risque de basculement pendant le roulage/remorquage 
+• Difficulté d'accostage des passerelles 
+ 
+  
+Risques pendant la Manutention 
+Précautions Opérationnelles 
+ 
+Impacts 
+
+===== PAGE 115 =====
+Module 7.17 V07   Page 115 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.1.4 Effets de la pluie et de la neige ; 
+ 
+Les précipitations, sous toutes leurs formes, affectent l'exploitation et la maintenance des 
+aéronefs de multiples façons. Leur gestion appropriée est essentielle pour maintenir la 
+navigabilité et la sécurité opérationnelle. 
+ 
+7.1.4.1 Pluie Intense ; 
+ 
+ 
+ 
+• Contamination des surfaces critiques (Pitots, sondes) 
+• Risque d'ingestion d'eau par les moteurs au sol 
+• Glissement sur surfaces mouillées 
+• Court-circuit électriques potentiels 
+ 
+ 
+ 
+ 
+ 
+• Protection des ouvertures moteur (inlet covers) 
+• Vérification des drains et évacuations 
+• Inspection post-pluie des compartiments 
+• Test des sondes et capteurs 
+ 
+ 
+ 
+ 
+7.1.4.2 Neige et Conditions Givrantes ; 
+ 
+ 
+ 
+• Accumulation de neige perturbant l'aérodynamique 
+• Blocage des gouvernes et volets 
+• Surcharge pondérale 
+• Visibilité réduite des marquages et dommages 
+ 
+ 
+ 
+• Déneigement complet obligatoire avant vol 
+• Inspection minutieuse post-déneigement 
+• Vérification de la liberté de mouvement des gouvernes 
+• Application de fluide antigivrage si nécessaire 
+ 
+  
+Conséquences 
+Précautions 
+Problématiques Majeures 
+ 
+Actions Requises 
+
+===== PAGE 116 =====
+Module 7.17 V07   Page 116 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.1.5 Effets du sable et de la poussière ; 
+ 
+Les environnements poussiéreux et sablonneux imposent des contraintes particulières qui 
+peuvent réduire considérablement la durée de vie des composants et affecter la fiabilité des 
+systèmes si des mesures appropriées ne sont pas mises en œuvre. 
+ 
+  
+ 
+ 
+7.1.5.1 Environnements Désertiques ou Poussiéreux ; 
+ 
+ 
+ 
+• Érosion des bords d'attaque, pales d'hélices et compresseurs/turbines moteurs  
+• Abrasion des vitres et capteurs optiques 
+• Contamination des filtres (air, carburant, hydraulique) 
+• Infiltration dans les roulements et mécanismes 
+• Surchauffe par encrassement des échangeurs thermiques 
+ 
+ 
+ 
+• Inspection fréquente des filtres à air 
+• Nettoyage régulier des compartiments moteurs 
+• Protection des ouvertures lors du stationnement 
+• Lubrification accrue des parties mobiles 
+• Remplacement anticipé des filtres 
+ 
+7.1.5.2 Précautions Opérationnelles ; 
+ 
+• Orientation de l'aéronef face au vent si possible 
+• Ralenti au sol pour minimiser l'aspiration 
+• Utilisation de déflecteurs de jet 
+• Vérification post-vol des ingestions potentielles 
+ 
+  
+Dommages Potentiels 
+Maintenance Préventive  
+ 
+
+===== PAGE 117 =====
+Module 7.17 V07   Page 117 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+7.2 Effets des conditions environnementales sur l’exploitation des 
+aéronefs. 
+7.2.1 Les précautions et procédure opérationnelles ; 
+ 
+La maîtrise théorique des phénomènes environnementaux doit se traduire par l'application 
+rigoureuse de procédures et la mise en œuvre systématique de précautions adaptées à chaque 
+situation. 
+ 
+ 
+ 
+Check-list Environnementale : 
+ 
+ 
+☐ Vérifier les conditions météo actuelles et prévues 
+☐ Identifier les risques spécifiques à l'environnement 
+☐ Consulter l'AMM pour les limitations environnementales 
+☐ Préparer l'équipement de protection approprié 
+☐ Briefer l'équipe sur les précautions spécifiques 
+ 
+Documentation Requise : 
+ 
+• Aircraft Maintenance Manual (AMM) 
+• Environmental Operations Manual 
+• Airworthiness Directives (AD) liées à l'environnement 
+• Service Bulletins applicables 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Pourquoi les avions ne peuvent pas voler 
+quand il fait trop froid ou trop chaud 
+ 
+Avant Toutes Opérations 
+Il faudra réagir sainement et garder à l'esprit que la sécurité est l'affaire de tous 
+===== PAGE 118 =====
+Module 7.17 V07   Page 118 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXES 1 Fiche contre les incursions de pistes : 
+l 
+  
+
+===== PAGE 119 =====
+Module 7.17 V07   Page 119 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ (Retour) 
+  
+
+===== PAGE 120 =====
+Module 7.17 V07   Page 120 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXES 2 Fiche des qualités du tractiste : 
+ 
+ 
+(Retour) 
+ 
+  
+
+===== PAGE 121 =====
+Module 7.17 V07   Page 121 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+GESTES CONVENTIONNELS DE TRACTAGE : 
+Voici les principaux gestes du tractage aéronef (source IATA IGOM) 
+
+===== PAGE 122 =====
+Module 7.17 V07   Page 122 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 123 =====
+Module 7.17 V07   Page 123 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 124 =====
+Module 7.17 V07   Page 124 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 125 =====
+Module 7.17 V07   Page 125 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 126 =====
+Module 7.17 V07   Page 126 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 127 =====
+Module 7.17 V07   Page 127 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 128 =====
+Module 7.17 V07   Page 128 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 129 =====
+Module 7.17 V07   Page 129 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 130 =====
+Module 7.17 V07   Page 130 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+
+===== PAGE 131 =====
+Module 7.17 V07   Page 131 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+(Retour) 
+  
+
+===== PAGE 132 =====
+Module 7.17 V07   Page 132 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXES 3 Adaptateurs mise sur vérins : 
+ 
+ 
+ 
+Retour ► 
+ 
+  
+
+===== PAGE 133 =====
+Module 7.17 V07   Page 133 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+Retour ► 
+ 
+  
+
+===== PAGE 134 =====
+Module 7.17 V07   Page 134 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Retour ► 
+ 
+ 
+ 
+  
+
+===== PAGE 135 =====
+Module 7.17 V07   Page 135 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXES 4 Dégivrage/Antigivrage : 
+ 
+->Exemple d’application de fluide de dégivrage/antigivrage sur A350. 
+ 
+ 
+ 
+ 
+Retour ► 
+  
+
+===== PAGE 136 =====
+Module 7.17 V07   Page 136 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Retour ► 
+  
+
+===== PAGE 137 =====
+Module 7.17 V07   Page 137 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Procédure dégivrage/antigivrage en 1 ou 2 étapes : 
+ 
+Dégivrage/Antigivrage en 1 étape 
+• 1 fluide : Type I (glycol chauffé + eau). 
+• Avantages : Rapide, simple, moins cher. 
+• Inconvénients : Protection courte (quelques min), risque de re-givrage avant décollage. 
+ 
+Dégivrage/Antigivrage en 2 étapes 
+• 2 fluides : Type I +Type II / III / IV. 
+• Avantages : Protection longue, adapté aux intempéries. 
+• Inconvénients : Plus long, plus cher, plus complexe. 
+ 
+Quand utiliser ? 
+• 1 étape : Conditions météo modérées, décollage rapide. 
+• 2 étapes : Intempéries, long délai avant décollage. 
+ 
+Exemple de bon de dégivrage/antigivrage : 
+ 
+Retour ► 
+ 
+  
+
+===== PAGE 138 =====
+Module 7.17 V07   Page 138 sur 
+138 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ANNEXES 5 Check-List Avitaillement carburant : 
+ 
+ 
+Arrivée de la citerne aux abords de l’aéronef 
+ 
+Placer la citerne à 3-5 mètres de l'aéronef ou équipement d’avitaillement adapté  
+Serrer le frein à main de la citerne  
+ 
+ 
+Installer les cales sous les roues de la citerne 
+ 
+ 
+Mise à la terre 
+Connecter le câble de la citerne à la borne de masse au sol  
+Connecter le câble de l'aéronef à la citerne OU à une borne de masse   
+Attendre 30 secondes avant d'ouvrir les trappes (dissipation charges statiques)   
+Connexion pistolet (plein par gravité) ou coupling (plein sous pression)  
+Ouvrir la trappe carburant de l'aéronef avec précaution  
+Inspecter l'orifice de remplissage (propreté, absence de corps étranger)   
+Connecter le couplig ou pistolet de remplissage (sous pression ou par gravité)   
+Vérifier l'absence de fuite au niveau du raccord (test visuel et tactile)  
+Opération de Remplissage 
+Ouvrir progressivement la vanne de remplissage  
+Commencer avec un débit réduit  
+Surveillance continue  
+Fin de remplissage  
+Ralentir le débit avant la quantité finale  
+Arrêter avec précision selon la quantité commandée  
+ Fin d'Opération 
+Fermer la vanne de la citerne complètement  
+Attendre 30 secondes pour la purge du flexible (pour le plein sous pression)   
+Déconnecter le pistolet ou Coupling en récupérant les gouttes résiduelles (bac de 
+récupération 
+ 
+Fermer la trappe carburant de l'aéronef en s'assurant du verrouillage   
+ 

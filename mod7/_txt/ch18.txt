@@ -1,0 +1,3962 @@
+===== PAGE 1 =====
+Module 7.18 V05   Page 1 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Module 7.18 
+ 
+Technique de 
+démontage, 
+inspection, 
+réparation et 
+montage 
+ 
+Licence B1 / B2 
+
+===== PAGE 2 =====
+Module 7.18 V05   Page 2 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V01 30/ 12 / 2009 Toutes  Nouvelle édition 
+V02 12 / 05 / 2016 
+Page de garde et 
+page,  
+ 
+Adresse, signatures et noms modifiés + 
+édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V03 12 / 06 / 2017 Toutes Nouvelle édition 
+V04 19 / 02 / 2026  Toutes Refonte complète, mise à jour 
+    
+ 
+  
+Visa Rédacteur 
+Damien SCHMITZ 
+Visa Responsable 
+Module 
+Laurent 
+VINGADASSALOM 
+Visa Directeur de 
+Formation 
+Laurent 
+VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+   
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.18 V05   Page 3 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+ 
+Catégorie B1 : 80 questions à choix multiples et 2 questions à développement. Temps alloué 100 
+minutes plus 40 min.  
+ 
+Catégorie B2 : 60 questions à choix multiples et 2 questions à développement. Temps alloué 75 minutes 
+plus 40 min 
+ 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+ Niveau 
+MODULE 7.18. TECHNIQUE DE DEMONTAGE, INSPECTION, 
+REPARATION ET MONTAGE 
+ 
+A1 B1 B2 
+a) Types de défaut et techniques d'inspection visuelle. 
+Suppression de la corrosion, évaluation et nouvelle protection ; 
+ 
+b) Méthodes générales de réparation, Manuel de Réparations Structurales ; 
+Programmes de contrôle du vieillissement, de la fatigue et de la corrosion ; 
+ 
+c) Techniques de contrôle non destructif y compris, les méthodes de ressuage 
+pénétrant, de radiographie, des courants de Foucault, des ultrasons et horoscopique ; 
+ 
+d) Techniques de démontage et de remontage ; 
+ 
+e) Techniques de dépannage ; 
+2 
+ 
+ 
+ 
+ 
+- 
+ 
+ 
+- 
+ 
+ 
+ 
+ 
+2 
+ 
+- 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+3 
+ 
+ 
+ 
+ 
+- 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+    
+    
+    
+    
+ 
+  
+===== PAGE 4 =====
+Module 7.18 V05   Page 4 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.18 V05   Page 5 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1. TYPES DE DEFAUT ET TECHNIQUES D’INSPECTION VISUELLE SUPRESSION DE LA 
+CORROSION, EVALUATION ET NOUVELLE PROTECTION ................................ ...............8 
+1.1. Introduction au différent type de défaut ................................ ................................ ....8 
+1.1.1. Les fuites ................................ ................................ ................................ ................... 10 
+1.1.2. Grippage/coincement/blocage ................................ ................................ ................. 11 
+1.1.3. Jeu excessif ................................ ................................ ................................ .............. 11 
+1.1.4. Usure ................................ ................................ ................................ ......................... 12 
+1.1.5. Déformation ................................ ................................ ................................ .............. 12 
+1.1.6. Défauts de montage ................................ ................................ ................................ .. 13 
+1.2. Technique d’inspection visuelle ................................ ................................ .............. 14 
+1.2.1. Introductions aux techniques d’inspection visuelle ................................ .............. 14 
+1.2.1.1. Les techniques d’inspections visuelles ................................ ........................... 14 
+1.2.1.2. Exemple de procédure lié aux inspections ................................ ...................... 15 
+1.2.1.3. Outils d’inspection ................................ ................................ ............................ 17 
+1.2.1.4. Conclusion sur les techniques d’inspection visuelles ................................ ... 18 
+1.3. Corrosion ................................ ................................ ................................ .................. 19 
+1.3.1. Formation de la corrosion ................................ ................................ ........................ 19 
+1.3.1.1. Qu’est-ce que la corrosion ................................ ................................ ................ 19 
+1.3.1.2. Mécanismes de formation de la corrosion ................................ ....................... 21 
+1.3.1.3. Facteur favorisant la corrosion ................................ ................................ ........ 22 
+1.3.1.4. Zones propices à la corrosion sur un aéronef ................................ ................. 24 
+1.3.2. Prévention de la corrosion ................................ ................................ ....................... 25 
+1.3.2.1. Principes de prévention dès la conception ................................ ..................... 25 
+1.3.2.2. Entretien préventif ................................ ................................ ............................. 25 
+1.3.2.3. Programme d’inspection anticorrosion ................................ ........................... 25 
+1.3.3. Types de corrosion et leur identification ................................ ................................  26 
+1.3.3.1. Les différents types de corrosion ................................ ................................ ..... 26 
+1.3.3.2. Aspect des corrosions selon les alliages ................................ ........................ 29 
+1.3.4. Détection et identification de la corrosion ................................ ..............................  30 
+1.3.4.1. Méthodes de détection ................................ ................................ ...................... 30 
+1.3.4.2. Evaluation du degré de corrosion ................................ ................................ .... 30 
+1.3.5. Elimination de la corrosion ................................ ................................ ...................... 31 
+1.3.5.1. Principe général ................................ ................................ ................................ . 31 
+1.3.7. Conclusion sur la corrosion ................................ ................................ .................... 44 
+===== PAGE 6 =====
+Module 7.18 V05   Page 6 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2. METHODES GENERALES DE REPARATION, MANUEL DE REPARATIONS 
+STRUCTURALES ; PROGRAMMES DE CONTROLE DU VIEILLISSEMENT ; DE LA FATIGUE 
+ET DE LA CORROSION ................................ ................................ ................................ ....... 45 
+2.1. Méthodes générales de réparations ................................ ................................ ........... 45 
+2.2. Manuel de réparation structural ................................ ................................ .................. 46 
+2.3. Programme de contrôle du vieillissement de la fatigue et de la corrosion .............. 47 
+2.3.1. Programme de contrôle du vieillissement ................................ ...............................  47 
+2.3.2. Programme de contrôle de la fatigue ................................ ................................ ....... 48 
+2.3.3. Programme de contrôle de la corrosion ................................ ................................ .. 49 
+3. TECHNIQUE DE CONTROLE NON DESTRUCTIF Y COMPRIS LES METHODES DE 
+RESSUAGE PENETRANT, DE RADIOGRAPHIE, DES COURANTS DE FOUCAULT, DES 
+ULTRASONS ET BOROSCOPIQUE ................................ ................................ .................... 53 
+3.1. Méthodes de contrôle non destructif (CND) ................................ ........................... 53 
+3.1.1. Introduction aux méthodes CND ................................ ................................ ............. 53 
+3.2. Classification des défauts ................................ ................................ ........................ 56 
+3.2.1. Origine des défauts ................................ ................................ ................................ .. 56 
+3.2.2. Les défauts de mise en œuvre ................................ ................................ ................. 56 
+3.2.3. Les défauts usinage et assemblage ................................ ................................ ........ 57 
+3.2.4. Les défauts en utilisation ................................ ................................ ......................... 58 
+3.3. Ressuage pénétrant ................................ ................................ ................................ .. 60 
+3.3.1. Principe ................................ ................................ ................................ ..................... 60 
+3.3.2. Une méthode simple et rapide ................................ ................................ ................. 60 
+3.3.3. Mode opératoire ................................ ................................ ................................ ........ 61 
+3.3.4. Ressuage haute (S3) et très haute sensibilité (S4) ................................ ................. 62 
+3.4. Courants de Foucault ................................ ................................ ...............................  63 
+3.4.1. Généralités ................................ ................................ ................................ ................ 63 
+3.4.2. Principe ................................ ................................ ................................ ..................... 64 
+3.4.3. Types de défauts détectables ................................ ................................ .................. 64 
+3.4.4. Applications ................................ ................................ ................................ .............. 65 
+3.4.5. Avantage et inconvénients ................................ ................................ ....................... 67 
+3.5. Radiographie ................................ ................................ ................................ ............. 67 
+3.5.1. Types de défauts détectables ................................ ................................ .................. 67 
+3.5.2. Principe de détection par radiographie ................................ ................................ ... 68 
+3.5.3. Applications ................................ ................................ ................................ .............. 69 
+3.5.4. Conclusions ................................ ................................ ................................ .............. 70 
+3.6. Ultrasons ................................ ................................ ................................ ................... 71 
+3.6.1. Principe ................................ ................................ ................................ ..................... 71 
+===== PAGE 7 =====
+Module 7.18 V05   Page 7 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.6.2. Matériel ................................ ................................ ................................ ...................... 72 
+3.6.3. Applications aéronautiques ................................ ................................ ..................... 72 
+3.6.4. Facteurs influençant la détection ................................ ................................ ............ 72 
+3.6.5. Comparaison Ultrasons vs Radiographie ................................ ...............................  72 
+3.7. Endoscopie ................................ ................................ ................................ ............... 73 
+3.7.1. Les endoscopes rigides ................................ ................................ ........................... 73 
+3.7.2. Les endoscopes souples ................................ ................................ ......................... 74 
+3.8. Méthodes composites ................................ ................................ ..............................  76 
+3.8.1. Tap Test ................................ ................................ ................................ ..................... 76 
+3.8.2. Thermographie infrarouge ................................ ................................ ....................... 76 
+3.8.3. Ultrasons pour composites ................................ ................................ ...................... 76 
+4. TECHNIQUES DE DEMONTAGE ET DE REMONTAGE ................................ ........... 77 
+4.1. Introduction aux techniques de montage/démontage ................................ ........... 77 
+4.2. Phases de démontage ................................ ................................ ..............................  78 
+4.3. Avant montage ................................ ................................ ................................ .......... 79 
+4.4. Montage des organes d’étanchéité ................................ ................................ ......... 80 
+4.4.1. Contrôle de l’état du joint ................................ ................................ ......................... 80 
+4.4.2. Contrôle du logement ................................ ................................ ...............................  80 
+4.4.3. Mise en place du joint torique avec emmanche-joints ................................ ........... 80 
+5. TECHNIQUE DE DEPANNAGE ................................ ................................ ................. 81 
+5.1. Introduction ................................ ................................ ................................ ............... 81 
+5.2. Analyse et essaie ................................ ................................ ................................ ...... 81 
+5.3. Les méthodes de base ................................ ................................ ............................. 83 
+5.3.1. La méthode par dichotomie (half-split) ................................ ................................ ... 83 
+5.3.2. La méthode entrée/sortie ................................ ................................ ......................... 85 
+5.3.3. La méthode par arbre de causes ................................ ................................ ............. 88 
+ANNEXE 1 - TYPES DE DÉFAUTS ................................ ................................ ...................... 91 
+ANNEXE 2 - Prescriptions générales ................................ ................................ ................. 93 
+ANNEXE 3 Types de contrôles en maintenance aéronautique ................................ ........ 94 
+ 
+  
+===== PAGE 8 =====
+Module 7.18 V05   Page 8 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1. TYPES DE DEFAUT ET TECHNIQUES D’INSPECTION 
+VISUELLE SUPRESSION DE LA CORROSION, 
+EVALUATION ET NOUVELLE PROTECTION 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques des 
+types de défaut et techniques d’inspection visuelle suppression de la corrosion, évaluation 
+et nouvelle protection.  Une capacité à combiner et appliquer des éléments de 
+connaissances séparés d'une manière logique et compréhensible. Capacité à appliquer 
+cette connaissance. [Niveau 3] 
+ 
+1.1. Introduction au différent type de défaut 
+ 
+Dans le domaine de la maintenance aéronautique, les structures et composants d'un aéronef sont 
+susceptibles de présenter différents types de défauts au cours de leur exploitation. La détection 
+précoce de ces anomalies est essentielle pour garantir la sécurité des vols et la fiabilité de 
+l'appareil. 
+ 
+Parmi les défauts les plus couramment rencontrés, on distingue lié principalement à la structure : 
+ 
+• Les bosses (Dent) : déformations localisées de la surface suite à un impact, par exemple 
+un choc avec un équipement au sol. 
+ 
+ 
+• Les plis (Crease) : déformations en forme de ligne ou de pliure du matériau, visibles sur 
+des panneaux ayant subi une contrainte excessive. 
+ 
+ 
+• L'abrasion : usure superficielle de la surface par frottement répété, comme l'usure d'un 
+revêtement de protection près d'une trappe. 
+ 
+• Les entailles (Gouge) : enlèvements de matière profonds et irréguliers causés par un 
+objet tranchant, par exemple lors d'une manipulation d'outillage. 
+ 
+ 
+• Les encoches (Nick) : petites entailles généralement situées sur les bords d'une pièce, 
+observables sur des arêtes de panneaux. 
+  
+
+===== PAGE 9 =====
+Module 7.18 V05   Page 9 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Les rayures (Scratch) : marques linéaires superficielles causées par un frottement ou un 
+glissement, fréquentes lors des opérations de maintenance. 
+ 
+• Les fissures (Crack) : ruptures partielles du matériau pouvant évoluer jusqu'à la rupture 
+complète, souvent détectées au niveau des zones de concentration de contraintes comme 
+les trous de rivets. 
+ 
+• La corrosion : dégradation chimique du matériau par réaction avec son environnement, 
+visible sous forme de poudre blanche sur l'aluminium ou de rouille sur l'acier. 
+ 
+ 
+  
+
+===== PAGE 10 =====
+Module 7.18 V05   Page 10 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Le délaminage (Delamination) : concerne principalement les matériaux composites et se 
+manifeste par une séparation des couches constitutives du matériau, détectable par 
+exemple sur des panneaux sandwich en nid d'abeille. 
+ 
+Ces défauts, bien que variés dans leur nature et leur origine, nécessitent tous une attention 
+particulière car ils peuvent compromettre l'intégrité structurale de l'aéronef.  
+En plus de la structure les systèmes avion, sont elle aussi soumis aux mêmes contraintes que la 
+structure et d’autre défauts s’ajoute :  
+1.1.1. Les fuites 
+Les fuites (carburant, hydraulique, huile moteur, pneumatique, oxygène et lubrification), 
+défaut étanchéité. 
+ 
+Les fuites se manifestent par l'écoulement non contrôlé d'un fluide hors de son circuit. Elles 
+représentent l'un des défauts les plus fréquents en maintenance aéronautique. 
+ 
+Carburant 
+Les fuites de carburant apparaissent au niveau des réservoirs, conduites, raccords ou pompes. 
+Elles se détectent par des traces humides, des odeurs caractéristiques ou des taches au sol. Elles 
+constituent un risque d'incendie majeur nécessitant un traitement immédiat. 
+ 
+Huile moteur 
+Les fuites d'huile se produisent aux joints de carter, conduites ou raccords, laissant des traces 
+noirâtres. Une perte importante peut provoquer une détérioration rapide du moteur par manque de 
+lubrification. 
+ 
+Fluide hydraulique 
+Le système hydraulique peut fuir au niveau des vérins, conduites ou raccords. Le fluide laisse des 
+traces rougeâtres ou ambrées. Une perte de pression rend certains systèmes (trains, freins, 
+commandes) inopérants. 
+ 
+Système pneumatique 
+Les fuites d'air sont détectées par un sifflement, une chute de pression ou l'application d'eau 
+savonneuse sur les raccords (formation de bulles). Ce système alimente le dégivrage, la 
+pressurisation et certaines commandes. 
+ 
+Oxygène 
+Les fuites dans les circuits d'oxygène se détectent par une chute de pression aux manomètres. 
+Elles affectent la sécurité de l'équipage et des passagers. 
+ 
+Système de lubrification 
+Des traces de graisse ou d'huile sur les mécanismes indiquent des fuites qui peuvent entraîner 
+grippage ou usure prématurée.   
+
+===== PAGE 11 =====
+Module 7.18 V05   Page 11 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.2. Grippage/coincement/blocage 
+ 
+Ces défauts empêchent le mouvement normal d'un mécanisme. 
+ 
+Le grippage 
+Le mécanisme devient dur à manœuvrer sans être totalement bloqué. Il nécessite un effort 
+anormal pour fonctionner. C'est souvent le signe d'une lubrification insuffisante ou d'une usure 
+inégale. 
+ 
+Le coincement 
+Le mécanisme se bloque de façon intermittente ou à certaines positions. Il peut être causé par 
+une déformation, la présence de corps étrangers ou un jeu incorrect. 
+ 
+Le blocage 
+Le mécanisme est totalement immobilisé. C'est le stade le plus grave, résultant d'un grippage 
+avancé, d'une rupture ou d'un corps étranger volumineux. 
+ 
+Causes principales : 
+• Lubrification insuffisante ou inadaptée 
+• Usure excessive ou corrosion 
+• Corps étrangers (sable, débris) 
+• Désalignement ou serrage excessif 
+ 
+Zones sensibles : commandes de vol, actionneurs de portes, trains d'atterrissage, volets. 
+ 
+1.1.3. Jeu excessif 
+Le jeu est l'espace libre entre deux pièces assemblées. Un certain jeu est normal, mais un jeu 
+excessif traduit une usure ou un défaut de montage. 
+ 
+Manifestations : 
+• Mouvements parasites ou vibrations 
+• Manque de précision dans le fonctionnement 
+• Bruits de claquement 
+• Instabilité de la pièce 
+ 
+Causes : 
+• Usure des surfaces de contact (paliers, roulements) 
+• Desserrage des fixations 
+• Ovalisation des trous 
+• Montage incorrect 
+ 
+Zones critiques : articulations des commandes de vol, biellettes, paliers de train, chapes et axes. 
+Le jeu se mesure manuellement ou avec des calibres. Les valeurs admissibles sont définies dans 
+l'AMM. Les solutions incluent le resserrage, le remplacement des bagues ou l'installation de cales 
+d'ajustement. 
+  
+===== PAGE 12 =====
+Module 7.18 V05   Page 12 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.4. Usure 
+L’usure est la perte progressive de matière due au frottement. Elle fait partie du vieillissement 
+normal mais doit être surveillée. 
+ 
+Types d'usure : 
+• Abrasion : frottement avec des particules abrasives (paliers, articulations) 
+• Adhésive : arrachement de particules entre les métaux en contact (pièces mal lubrifiées) 
+• Fatigue de surface : écaillage par cycles répétés (roulements, engrenages) 
+• Érosion : impact de particules à haute vitesse (bords d'attaque, pales) 
+• Fretting : micro-mouvements par vibrations (assemblages mal serrés), poudre rouge-brun 
+ 
+Signes à détecter : 
+• Surface polie ou brillante 
+• Réduction d'épaisseur 
+• Poudre métallique 
+• Traces de frottement 
+• Jeu anormal 
+ 
+Zones exposées : câbles de commande, paliers, freins, joints, guidages de train. 
+Les manuels de maintenance définissent des limites d'usure. Les pièces doivent être remplacées 
+avant de les atteindre. 
+ 
+1.1.5. Déformation 
+La déformation est un changement de forme par rapport à la géométrie d'origine. 
+ 
+Types de déformations : 
+• Flexion : courbure sous charge transversale (tiges, tubes) 
+• Torsion : vrillage autour de l'axe (arbres de transmission) 
+• Flambage : perte de stabilité sous compression (éléments élancés) 
+• Gauchissement : déformation non uniforme (panneaux minces) 
+• Ovalisation : perte de forme circulaire (tubes sous pression) 
+ 
+Causes : 
+• Charges excessives en service 
+• Chocs ou accidents au sol 
+• Contraintes thermiques (dilatation) 
+• Contraintes résiduelles de fabrication 
+• Corrosion affaiblissant localement le matériau 
+ 
+Détection : 
+• Inspection visuelle (écarts de forme) 
+• Contrôle à la règle ou au gabarit 
+• Mesures dimensionnelles (palmer, pied à coulisse) 
+• Détection de jeux anormaux 
+ 
+Les déformations légères peuvent parfois être corrigées par redressage. Les déformations 
+sévères nécessitent le remplacement de la pièce. 
+  
+===== PAGE 13 =====
+Module 7.18 V05   Page 13 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.6. Défauts de montage 
+Les défauts de montage résultent d'erreurs humaines lors de l'assemblage ou de la maintenance. 
+ 
+Montage à l'envers 
+Une pièce est installée dans le mauvais sens. Exemple : joint asymétrique, clapet anti-retour, 
+rondelle frein. 
+ 
+Mauvaises fixations 
+• Type incorrect : rivet, boulon ou écrou non conforme aux spécifications 
+• Longueur inadaptée : fixation trop courte (prise insuffisante) ou trop longue (interférence) 
+• Mauvais état : fixations corrodées, endommagées ou réutilisées alors qu'elles sont à 
+usage unique 
+ 
+Positionnement incorrect 
+La pièce est installée au mauvais emplacement ou dans la mauvaise orientation. Exemple : câble 
+connecté sur le mauvais raccord, tuyau inversé. 
+ 
+Mauvais alignement 
+Les pièces assemblées ne sont pas correctement alignées, créant des contraintes parasites. 
+Exemple : désalignement de paliers, conduites sous tension. 
+ 
+Non-respect des gardes (clearances) 
+L'espace minimal requis entre pièces n'est pas respecté, provoquant frottements ou interférences. 
+Exemple : câble frottant sur structure, conduites trop proches d'une source de chaleur. 
+ 
+Conséquences : 
+• Fonctionnement dégradé ou impossible 
+• Usure prématurée 
+• Risques de rupture 
+• Non-conformité réglementaire 
+ 
+Prévention : 
+• Suivre scrupuleusement les procédures de l'AMM 
+• Vérifier les numéros de pièce (Part Number) 
+• Respecter les couples de serrage 
+• Effectuer les contrôles finaux avant fermeture 
+• Appliquer le principe du double contrôle pour les tâches critiques 
+ 
+Conclusion 
+Ces défauts des systèmes, bien que différents des dommages structurels, nécessitent la même 
+rigueur dans leur détection et leur traitement. Une inspection méthodique, une bonne 
+connaissance des manifestations de chaque type de défaut et le respect strict des procédures de 
+maintenance sont essentiels pour maintenir la navigabilité de l'aéronef. 
+ 
+  
+===== PAGE 14 =====
+Module 7.18 V05   Page 14 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2. Technique d’inspection visuelle 
+1.2.1. Introductions aux techniques d’inspection visuelle 
+L'inspection visuelle est la méthode de contrôle la plus utilisée en maintenance aéronautique. 
+Elle constitue la première ligne de défense pour détecter les anomalies, défauts et dégradations 
+susceptibles d'affecter la sécurité des vols. 
+ 
+Cette méthode, bien que simple en apparence, nécessite : 
+• Une formation appropriée 
+• De l'expérience 
+• Une méthodologie rigoureuse 
+ 
+Dans ce chapitre, nous étudierons les différentes techniques d'inspection visuelle, leur préparation, et 
+les critères de contrôle à appliquer selon les zones et systèmes inspectés. 
+1.2.1.1. Les techniques d’inspections visuelles  
+General visual inspection 
+ 
+Un examen visuel d'une zone intérieure ou extérieure, d'une installation ou d'un ensemble pour 
+détecter des dommages évidents, des défaillances ou des irrégularités.  
+Ce niveau d'inspection est effectué à distance de contact (portée de main) sauf indication contraire. 
+Un miroir peut être nécessaire pour améliorer l'accès visuel à toutes les surfaces exposées dans la 
+zone d'inspection.  
+Ce niveau d'inspection est réalisé dans des conditions d'éclairage normalement disponibles telles que 
+la lumière du jour, l'éclairage du hangar, une lampe torche ou une baladeuse, et peut nécessiter le 
+retrait ou l'ouverture de panneaux d'accès ou de portes.  
+Des escabeaux, des échelles ou des plateformes peuvent être nécessaires pour se rapprocher de la 
+zone à contrôler. 
+ 
+Detailed visual inspection 
+ 
+Un examen approfondi d'un élément spécifique, d'une installation ou d'un ensemble pour détecter des 
+dommages, des défaillances ou des irrégularités.  
+L'éclairage disponible est normalement complété par une source d'éclairage direct de bonne qualité à 
+une intensité jugée appropriée.  
+Des aides à l'inspection telles que des miroirs, des loupes grossissantes, etc. peuvent être 
+nécessaires.  
+Un nettoyage de surface et des procédures d'accès élaborées peuvent être requis. 
+ 
+Special detailed inspection 
+ 
+Un examen approfondi d'un élément spécifique, d'une installation ou d'un ensemble pour détecter des 
+dommages, des défaillances ou des irrégularités.  
+L'examen est susceptible de faire un usage intensif de techniques d'inspection spécialisées et/ou 
+d'équipements.  
+Un nettoyage minutieux et des procédures d'accès ou de démontage importantes peuvent être requis. 
+  
+===== PAGE 15 =====
+Module 7.18 V05   Page 15 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.1.2. Exemple de procédure lié aux inspections 
+ 
+Dénomination 
+ 
+Définition 
+ 
+Walk around check 
+ 
+ 
+Contrôle visuel d’anomalies évidentes à l’aéronef, exécuté depuis le 
+sol 
+ 
+Zonal inspection 
+ 
+Contrôle visuel de la structure, des éléments, des installations et 
+protection de la surface dans une zone déterminée 
+ 
+ 
+Operational check 
+ 
+ 
+Contrôle technique qu’un système ou une composante fonctionne 
+normalement et correctement, sans vérification des tolérances 
+(commande de vol, freins)  
+ 
+ 
+ 
+Functional check 
+ 
+Contrôle détaillé d’un élément, d’un système ou sous-système, 
+permettant de vérifier si sa capacité de fonctionnement est dans les 
+tolérances fixées, course, débit, température, pression, etc. Les 
+éléments restent installés dans l’avion. 
+ 
+Bench check 
+ 
+Contrôle exécuté au banc d’essai, à l’atelier 
+ 
+ 
+Comportement et méthodes lors des inspections 
+ 
+- Pas de « préjugés ». Il n’est pas permis de partir du principe de facilité que ce contrôle ne 
+décèlera aucune anomalie, puisque dans cette zone il n’y a jamais rien eu. 
+- Sans influences. Pas de distractions ni diversions pendant le contrôle. Il faut se concentrer 
+sur le travail. Si la fatigue se fait sentir, s’accorder une courte pause. 
+- Scrupuleusement et consciencieusement. Un contrôle s’exécute avec un esprit critique, car 
+seul un contrôle consciencieux peut garantir le maintien de la sécurité et de la fiabilité de nos 
+aéronefs. 
+ 
+Commencer par un coup d’œil général de la zone à contrôler afin de déceler des anomalies 
+évidentes, telles que dégâts, fuites, éléments manquants, etc. 
+Continuer avec un contrôle plus détaillé et selon un ordre systématique afin de tout voir (fissures, 
+corrosion) dans la zone à contrôler. Nettoyer selon nécessité. 
+ 
+Contrôler les installations, dégâts, frottements, lubrification, état des câbles et conduites, 
+fixations, etc. 
+ 
+Principalement aux endroits où il existe des efforts importants : 
+- Attache des trains. 
+- Liaison ailes-fuselage. 
+- Fixations moteurs, pylônes. 
+- Vibrations près des pompes. 
+- Supports. 
+- Zone des portes de cabine, des soutes, de service. 
+- Zone des trains (volets). 
+ 
+Points d'attention particuliers : 
+===== PAGE 16 =====
+Module 7.18 V05   Page 16 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+- Rechercher les produits de corrosion 
+- Inspecter sous les zones de rétention 
+- Utiliser un éclairage rasant 
+- Vérifier l'intégrité de la peinture 
+- Inspecter en priorité les zones propices 
+ 
+En complément de l'inspection visuelle, des méthodes de contrôle non destructif peuvent être 
+nécessaires pour détecter la corrosion cachée ou sous-surfacique.  
+  
+===== PAGE 17 =====
+Module 7.18 V05   Page 17 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.1.3. Outils d’inspection 
+Lampe 
+ 
+ 
+ 
+EASA/FAA ne fixent pas de valeur minimale obligatoire en lux pour les inspections visuelles. Les 
+organismes de maintenance doivent s'assurer que l'éclairage est "approprié" et "suffisant" selon la 
+nature de l'inspection. 
+ 
+Les recommandations pratiques de l'industrie suggèrent : 
+ 
+• 300-500 lux minimum pour maintenance générale 
+• 750-1000 lux pour inspections détaillées 
+• 1000-2000 lux pour travaux de précision 
+ 
+Le miroir 
+ 
+Miroir articulé 
+ 
+ 
+ 
+Les réglementations EASA/FAA ne spécifient pas de caractéristiques techniques obligatoires pour les 
+miroirs d'inspection. Les organismes de maintenance doivent s'assurer que l'équipement permet un 
+examen "approprié" et "complet" des surfaces inaccessibles. 
+ 
+Les recommandations pratiques de l'industrie suggèrent : 
+ 
+• Diamètre 50-100 mm pour inspections générales 
+• Miroir articulé avec tige télescopique pour zones confinées 
+• Surface non déformante (miroir plan, pas convexe/concave) 
+• Résistant aux produits chimiques (kérosène, solvants) 
+• Éclairage intégré recommandé pour zones sombres 
+  
+
+===== PAGE 18 =====
+Module 7.18 V05   Page 18 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Types courants : 
+ 
+• Miroir télescopique simple (VGI) 
+• Miroir articulé à LED (DET) 
+• Endoscope rigide avec miroir (SDI) 
+ 
+1.2.1.4. Conclusion sur les techniques d’inspection visuelles 
+Les techniques d'inspection visuelle constituent le socle fondamental de la maintenance aéronautique 
+préventive. 
+ 
+Leur efficacité repose sur trois piliers : 
+ 
+1. La préparation rigoureuse 
+• Documents disponibles 
+• Outillage adapté 
+• Formation appropriée 
+ 
+2. L'application méthodique 
+• Différents types d'inspections (WAC, GVC, TVC, etc.) 
+• Adaptation selon les zones et les besoins 
+ 
+3. Le professionnalisme de l'opérateur 
+• Expérience 
+• Concentration 
+• Absence de préjugés 
+ 
+Limites de l'inspection visuelle : 
+ 
+Bien que l'inspection visuelle présente des limites (détection uniquement superficielle), elle reste 
+indispensable. 
+En cas de doute, elle doit être complétée par des méthodes de contrôle non destructrices plus 
+poussées. 
+La maîtrise de ces techniques est essentielle pour tout personnel de maintenance aéronautique. 
+ 
+  
+===== PAGE 19 =====
+Module 7.18 V05   Page 19 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3. Corrosion 
+ 
+ 
+La corrosion est l'un des défauts les plus insidieux en aéronautique. 
+ 
+Pourquoi est-elle dangereuse ? 
+ 
+Contrairement aux dommages structurels visibles, la corrosion peut se développer de manière 
+invisible : 
+• Sous la peinture en surface externe 
+• Entre deux tôles en face interne 
+• Dans des zones inaccessibles 
+ 
+Elle compromet progressivement l'intégrité de la structure sans signe apparent. 
+ 
+Peut-on l'éviter complètement ? 
+ 
+La corrosion sous ses diverses formes est indésirable dans la construction des avions. 
+Bien que les constructeurs mettent en œuvre de nombreuses mesures préventives (choix des 
+matériaux, traitements de surface, protections), la corrosion reste une menace constante qui 
+nécessite une vigilance permanente. 
+Une détection précoce et un traitement approprié sont essentiels pour maintenir la navigabilité des 
+aéronefs. 
+ 
+1.3.1. Formation de la corrosion 
+1.3.1.1. Qu’est-ce que la corrosion 
+La corrosion est une dégradation chimique ou électrochimique du matériau métallique par 
+réaction avec son environnement. 
+ 
+Manifestation : 
+ 
+Elle se manifeste par une disparition progressive de la matière métallique, qui est remplacée par 
+des produits de corrosion : 
+• Oxydes 
+• Hydroxydes 
+• Sels 
+  
+
+===== PAGE 20 =====
+Module 7.18 V05   Page 20 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Différence avec l'usure mécanique : 
+Contrairement à l'usure mécanique qui enlève de la matière par frottement, la corrosion transforme 
+chimiquement le métal en composés généralement plus volumineux mais moins résistants. 
+ 
+Matériaux sensibles : 
+Les corps simples purs ne sont pas sujets à la corrosion (l'or, par exemple, est inaltérable). 
+En revanche, les alliages métalliques utilisés en aéronautique sont particulièrement sensibles  
+• Aluminium 
+• Acier 
+• Magnésium 
+• Titane 
+ 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.18 V05   Page 21 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.1.2. Mécanismes de formation de la corrosion 
+A) Corrosion électrochimique (la plus fréquente) 
+ 
+Principe de fonctionnement : 
+ 
+La corrosion électrochimique fonctionne comme une pile électrique. 
+ 
+Trois éléments nécessaires : 
+ 
+1. Un électrolyte (eau, humidité, solution saline) 
+2. Une anode (zone qui se corrode - métal moins noble) 
+3. Une cathode (zone protégée - métal plus noble) 
+ 
+Comment ça marche ? 
+La zone anodique se dissout en libérant des électrons qui circulent vers la cathode. 
+Résultat : Le métal de l'anode disparaît progressivement tandis que la cathode reste protégée. 
+ 
+Exemples de couples galvaniques dangereux en aéronautique : 
+ 
+ 
+Anode (se corrode) 
+ 
+Cathode (protégée) Conséquence 
+ 
+Aluminium 
+ 
+Acier Corrosion de l'aluminium 
+Aluminium Cuivre 
+ 
+Corrosion sévère de 
+l'aluminium 
+ 
+ 
+Magnésium 
+ 
+Aluminium Corrosion du magnésium 
+ 
+ 
+B) Corrosion chimique (oxydation directe) 
+ 
+Principe : 
+Réaction directe entre le métal et l'oxygène de l'air, sans besoin d'électrolyte. 
+ 
+Exemples : 
+ 
+Aluminium : 
+• Formation d'une fine couche d'alumine (Al₂O₃) 
+• Cette couche est protectrice 
+• Elle empêche la corrosion de progresser 
+Acier : 
+• Formation de rouille (oxyde de fer) 
+• Cette couche est non protectrice 
+• La corrosion continue de progresser en profondeur 
+  
+===== PAGE 22 =====
+Module 7.18 V05   Page 22 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.1.3. Facteur favorisant la corrosion 
+Facteurs environnementaux principaux : 
+ 
+1. Humidité (facteur n°1) 
+• Condensation dans les zones non ventilées 
+• Pluie, lavage des avions 
+• Humidité relative > 70% 
+ 
+ 
+ 
+2. Sel (chlorures) - extrêmement agressif 
+• Environnement maritime (aéroports côtiers) 
+• Sels de dégivrage en hiver 
+• Brouillard salin 
+ 
+      
+ 
+3. Température 
+• Accélère les réactions chimiques 
+• Zones chaudes du moteur 
+• Cycles thermiques (dilatation/contraction) 
+ 
+  
+
+===== PAGE 23 =====
+Module 7.18 V05   Page 23 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4. Pollution atmosphérique 
+• Dioxyde de soufre (SO₂) 
+• Gaz d'échappement 
+ 
+ 
+ 
+Facteurs liés à la conception et à la maintenance : 
+ 
+1. Zones de rétention d'eau 
+• Angles et recoins mal drainés 
+• Orifices d'écoulement bouchés 
+• Joints détériorés laissant pénétrer l'eau 
+ 
+2. Contact entre métaux incompatibles 
+• Couples galvaniques (voir tableau ci-dessus) 
+ 
+3. Protection insuffisante 
+• Peinture endommagée ou absente 
+• Traitement de surface incomplet 
+• Absence de produits anticorrosion 
+ 
+4. Accumulation de saleté 
+• Poussière de freins (très corrosive) 
+• Déjections d'oiseaux 
+• Fluides hydrauliques ou carburant 
+  
+
+===== PAGE 24 =====
+Module 7.18 V05   Page 24 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.1.4. Zones propices à la corrosion sur un aéronef 
+Principale zone d’inspection :  
+- Zone des toilettes. 
+- Zones des galleys. 
+- Zone des seuils de portes 
+- Zone sur les ailes (longerons avant et arrière) 
+- Réservoir carburant 
+- Zone non pressurisée arrière 
+- Fixation des commandes de vol primaire et secondaire 
+ 
+Toutes les autres zones de l’aéronef ou les saletés peuvent s’accumuler ex : baie de train sont tout 
+aussi à surveiller (boue, liquide dégivrage, poussière de frein, protection insuffisante/usée) 
+ 
+ 
+ 
+Selon le programme de maintenance de l’aéronef (Maintenance Requirement Items (MRI’s)), 
+l’atelier de maintenance effectueras différents types d’inspection visuel. 
+  
+
+===== PAGE 25 =====
+Module 7.18 V05   Page 25 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.2. Prévention de la corrosion 
+1.3.2.1. Principes de prévention dès la conception 
+Par le choix des matières utilisées, leur protection (peinture ou traitement de surface) et leur 
+compatibilité (pas d'effet d'électrolyse) les constructeurs tentent d'éviter la formation de corrosion. Or, 
+malgré toutes ces précautions, la corrosion reste possible.  
+ 
+Des mesures préventives et des soins particuliers sont nécessaires pour lutter contre la corrosion : 
+- Isolation galvanique 
+- Drainage efficace 
+- Ventilation 
+- Traitements de surface 
+- Protections 
+1.3.2.2. Entretien préventif 
+- Nettoyage soigneux des avions. 
+- Retouches des dégâts à la peinture ou au revêtement superficiel. 
+- Vérification des orifices d’écoulement. 
+- Drainage de l’eau et/ou des liquides accumulés. 
+- Nettoyage immédiat des infiltrations/éclaboussures par des produits corrosifs (sel, acide ou 
+autre). 
+- Traitement dès l’apparition de corrosion. 
+- Vérification et enregistrement selon un programme. 
+- Information au et du constructeur. 
+ 
+1.3.2.3. Programme d’inspection anticorrosion 
+Un programme CPCP (Corrosion Prevention and Control Program) doit être établi et suivi 
+rigoureusement pour prévenir et contrôler la corrosion. 
+ 
+Éléments clés du CPCP : 
+ 
+- Inspections zonales régulières 
+- Nettoyage périodique 
+- Contrôle des protections 
+- Formation du personnel 
+- Documentation complète 
+- Retour d'expérience 
+  
+===== PAGE 26 =====
+Module 7.18 V05   Page 26 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+1.3.3. Types de corrosion et leur identification 
+1.3.3.1. Les différents types de corrosion 
+Exemple de corrosion superficielle et non superficielle que l’on peut trouver sur 
+aéronef.  
+ 
+  
+         Superficielle                                                    Plus importante 
+ 
+Corrosion uniforme (de surface) 
+ 
+Description : 
+• Attaque homogène de toute la surface 
+• Aspect terne, mat de la surface 
+• Perte d'épaisseur uniforme, peu de relief 
+Gravité : Faible à moyenne (progression lente, facilement détectable) 
+ 
+ 
+Corrosion par piqûres (pitting)  
+ 
+Description : 
+• Petites cavités profondes en forme de cratères 
+• Diamètre : quelques dixièmes de mm à quelques mm 
+• Profondeur souvent supérieure au diamètre 
+• Surface autour de la piqûre peut paraître saine 
+Danger : Peut perforer rapidement la structure 
+Gravité : ÉLEVÉE 
+ 
+  
+
+===== PAGE 27 =====
+Module 7.18 V05   Page 27 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Corrosion intergranulaire  
+ 
+Description : 
+• Attaque le long des joints de grains du métal 
+• N'attaque pas les grains eux-mêmes 
+• Invisible en surface au début 
+ 
+Signes visuels : 
+• Peu ou pas de signes visibles 
+• Décoloration légère possible 
+• Détection difficile (nécessite ressuage ou ultrasons) 
+ 
+Danger : 
+• Affaiblissement sévère de la structure 
+• Peut provoquer une rupture brutale 
+ 
+Causes : 
+• Traitement thermique incorrect 
+• Contraintes résiduelles 
+ 
+Alliages sensibles : 
+• Alliages d'aluminium 2xxx et 7xxx 
+• Aciers inoxydables 
+ 
+Corrosion exfoliante (feuilletante) 
+ 
+Description : 
+• Se développe sous forme de lamelles parallèles à la surface 
+• Les couches successives du métal se soulèvent comme des feuilles d'un livre 
+ 
+Signes visuels : 
+• Aspect feuilleté, écailleux 
+• Soulèvement de lamelles fines de métal 
+• Produits de corrosion blanchâtres entre les couches 
+• Gonflement apparent de la zone 
+ 
+Alliages sensibles : 
+• Alliages d'aluminium laminés (2024, 7075) 
+ 
+Gravité : Élevée (perte importante de section résistante) 
+ 
+ 
+  
+
+===== PAGE 28 =====
+Module 7.18 V05   Page 28 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Corrosion filiforme 
+ 
+Description : 
+• Se développe sous les revêtements de peinture 
+• Forme de filaments ramifiés 
+• Typique des zones tropicales ou à forte humidité 
+ 
+Signes visuels : 
+• Filaments en forme de vers, de 0,1 à 3 mm de large 
+• Progression sous la peinture 
+• Réseau de lignes sinueuses visibles sous la peinture 
+• Couleur : blanc à brun selon le métal 
+ 
+Gravité : Faible à moyenne (principalement esthétique, mais peut progresser) 
+ 
+Corrosion par crevasse (ou caverneuse) 
+ 
+Description : 
+• Se développe dans les interstices, fentes, sous les joints 
+• Se développe entre surfaces en contact étroit où l'oxygène est limité 
+Signes visuels : 
+• Invisible de l'extérieur au départ 
+• Produits de corrosion qui s'échappent de la crevasse (taches) 
+• Détection : démontage souvent nécessaire 
+ 
+Zones à risque : 
+• Sous les rondelles 
+• Entre tôles rivetées 
+• Sous les joints d'étanchéité 
+• Dans les assemblages 
+Gravité : Élevée (difficile à détecter, zones critiques) 
+ 
+ 
+  
+
+===== PAGE 29 =====
+Module 7.18 V05   Page 29 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Corrosion sous tension (SCC - Stress Corrosion Cracking) -  
+Description : 
+• Combinaison d'une contrainte mécanique (tension) ET d'un environnement corrosif 
+• Provoque la formation de fissures sans perte visible de matière 
+Signes visuels : 
+• Fissures fines, ramifiées 
+• Perpendiculaires à la direction de la contrainte 
+• Peu ou pas de produits de corrosion visibles 
+• Peut provoquer une rupture brutale 
+Conditions nécessaires (les 3 ensemble) : 
+Alliage sensible (Al 7xxx, aciers haute résistance) 
+Contrainte de tension (résiduelle ou appliquée) 
+Environnement corrosif (chlorures) 
+Gravité : CRITIQUE (rupture brutale possible sans signe précurseur) 
+ 
+1.3.3.2. Aspect des corrosions selon les alliages 
+Alliage Aspects des produits de 
+corrosion 
+Principaux types de corrosion 
+observés 
+Aluminium • Poudre blanche ou grise. 
+• Cloque 
+• Corrosions par piqûres 
+• Corrosions inter granulaires et 
+exfoliatrices 
+• Corrosion sous tension 
+Titane • Oxyde noir ou blanc • Oxydation à haute température 
+Magnésium • Flocons poudreux blancs 
+• Points blancs 
+• Corrosions par piqûres 
+• Corrosions généralisées 
+• Corrosions sous tension 
+Acier • Oxyde brun rouge 
+• Corrosions par piqûres 
+• Corrosions inter granulaires 
+• Corrosions généralisées 
+• Corrosions sous tension 
+• (principalement les aciers à haute 
+résistance) 
+Acier inox 
+• Surface rugueuse 
+• Parfois taches rouges 
+marrons ou noires 
+• Corrosions inter granulaires 
+• (traitement thermique défectueux) 
+• Corrosions par piqûres 
+Alliage à base de 
+Nickel • Dépôt vert • Oxydation à haute température 
+Cuivre • Dépôt poudreux bleu ou bleu-
+vert 
+• Corrosions inter granulaires 
+• Corrosions généralisées 
+Cadmium (revêtement) • Oxyde blanc • Corrosions généralisées 
+Chrome (revêtement) • Surface rugueuse • Corrosions par piqûres 
+  
+
+===== PAGE 30 =====
+Module 7.18 V05   Page 30 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.4. Détection et identification de la corrosion 
+1.3.4.1. Méthodes de détection 
+Inspection visuelle 
+Ce sont les contrôles qui interviennent souvent dans la vie des aéronefs. 
+Avantages Inconvénients 
+Les contrôles visuels sont le plus souvent 
+faciles à pratiquer et ne mettent pas en œuvre 
+des matériels complexes. 
+ 
+En cas de doute, après un contrôle visuel litigieux, on 
+devra pratiquer un autre moyen d’investigation 
+(ressuage, radio, etc.) 
+Les contrôles visuels dépendent, pour leur précision, 
+de la qualification et de l’expérience du personnel. 
+ 
+- Les prescriptions doivent être connues. 
+- Les documents de travail doivent être disponibles. 
+- L’exécutant doit avoir la formation correspondante. 
+- L’outillage nécessaire doit être prêt (lampes, miroir, échelles, etc.). 
+1.3.4.2. Evaluation du degré de corrosion 
+Niveau Profondeur Surface Traitement 
+1 - Légère < 0,1 mm < 5 cm² Chimique ou 
+mécanique léger 
+2 - Moyenne 0,1-0,5 mm 5-50 cm² Mécanique + 
+protection 
+3 - Sévère 0,5-1 mm > 50 cm² Décapage profond + 
+contrôle dimensionnel 
+4 - Critique > 10% épaisseur Variable Remplacement ou 
+réparation majeure 
+  
+===== PAGE 31 =====
+Module 7.18 V05   Page 31 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.5. Elimination de la corrosion 
+1.3.5.1. Principe général 
+Les corrosions sont très difficiles à éliminer totalement, il persiste toujours des points invisibles à l'œil 
+qui continuent néanmoins à reparaître dans le temps. 
+ 
+L’élimination (partielle) de la corrosion peut s’effectuer de deux façons : 
+ 
+➔ Mécanique et Chimique. Ces deux méthodes peuvent, cependant, être utilisées con jointement.  
+ 
+➔ La méthode utilisée dépend du type de la structure, de sa localisation, du type et du degré 
+de corrosion. 
+ 
+Pour des corrosions localisées et superficielles, il est nécessaire d’effectuer un assainissement 
+de la zone traitée. 
+➔ Par projection de billes de verre : Particulièrement utilisée sur des grandes surfaces où est 
+située de la corrosion filiforme. 
+ 
+Cette méthode ne supprime pas totalement la corrosion qui recouvre le métal sain.  
+Toutefois, c’est une méthode rapide et qui permet tout de même d’en éliminer une bonne partie. 
+ 
+➔ Par traitement chimique (alodine) cette procédure peut se faire aussi bien sur des surfaces faibles 
+que sur des surfaces importantes. Un rinçage à l'eau est obligatoire. 
+ 
+Dans les cas de corrosion importante et sur les éléments de grande section ou de forte épaisseur. La 
+méthode mécanique est généralement utilisée. Les principales méthodes sont : 
+ 
+Par grattage avec outil motorisé Par grattage manuel 
+- Avec fraises 
+- Disques abrasifs etc. 
+- Pour les corrosions localisées et 
+profondes. 
+- Avec brosse 
+- Toile abrasive fine 
+- Scotch-Brite 7447 
+ 
+A la suite d’une procédure de suppression de corrosion les zones retouchées devront être protégées 
+suivant leur localisation (Primaire, peinture éventuellement). 
+  
+===== PAGE 32 =====
+Module 7.18 V05   Page 32 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+1.3.5.2. Méthodes d’élimination mécaniques 
+ 
+Principe du Traitement mécanique 
+ 
+Le traitement mécanique consiste à enlever physiquement les produits de corrosion (oxydes, 
+hydroxydes d'aluminium) et la matière corrodée pour retrouver le métal sain. C'est toujours la 
+première étape avant tout traitement chimique.  
+L'objectif est d'éliminer la corrosion visible tout en préservant au maximum l'épaisseur de matière 
+structurale. 
+ 
+Le traitement mécanique peut être manuel ou motorisé selon la surface à traiter, l'accessibilité de la 
+zone et l'étendue de la corrosion. 
+Le choix de la méthode et des outils dépend de la profondeur de corrosion, de la criticité de la zone et 
+des limitations définies dans le manuel de réparation structurale de l'avion. 
+ 
+GRATTAGE MANUEL 
+ 
+ 
+ 
+Outils utilisés 
+ 
+Le grattage manuel utilise principalement des abrasifs non métalliques pour éviter toute 
+contamination de l'aluminium. Les Scotch-Brite sont les plus courants en maintenance aéronautique. 
+Ils existent en plusieurs grades d'abrasivité identifiés par couleur et référence selon la norme 3M. 
+ 
+On peut également utiliser des brosses non métalliques en nylon ou fibre de verre pour les zones 
+difficiles d'accès, des grattoirs plastique ou composite pour enlever les dépôts épais sans rayer le 
+métal, et du papier abrasif grain 180 à 320 pour les finitions localisées. 
+      
+  
+
+===== PAGE 33 =====
+Module 7.18 V05   Page 33 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Technique d’application manuelle 
+ 
+Avant de commencer, identifiez précisément l'étendue de la corrosion en inspectant visuellement et 
+en sondant délicatement avec un outil non tranchant. Consultez le SRM pour connaître les limites 
+admissibles de profondeur et déterminer si la zone est critique. Protégez les zones adjacentes avec 
+du ruban adhésif de masquage et installez une bâche pour récupérer les résidus. 
+ 
+Pour le grattage proprement dit, commencez par le centre de la zone corrodée avec un Scotch-Brite 
+7447. Travaillez par mouvements circulaires avec une pression modérée et constante. Évitez les 
+mouvements linéaires qui créent des rayures directionnelles et peuvent initier des fissures. Ne restez 
+jamais longtemps au même endroit pour éviter de creuser localement. Progressez vers l'extérieur en 
+élargissant progressivement la zone traitée jusqu'à atteindre le métal sain brillant. 
+ 
+Nettoyez régulièrement votre Scotch-Brite en le tapotant ou en soufflant à l'air comprimé pour éviter 
+qu'il ne se charge de résidus qui rayeraient la surface. Changez-le dès qu'il est saturé ou usé. 
+Inspectez fréquemment votre progression pour vérifier que vous enlevez bien la corrosion sans créer 
+de dépression excessive. 
+ 
+Le critère d'arrêt est l'obtention d'une surface brillante, uniforme, sans trace d'oxyde ou de piqûre. La 
+couleur doit être celle de l'aluminium sain, argentée et brillante. Si vous observez encore des points 
+sombres ou des piqûres, continuez le traitement. Pour une finition soignée, vous pouvez terminer 
+avec un Scotch-Brite 7446 (vert) ou blanc pour uniformiser l'aspect. 
+ 
+Mesure de profondeur 
+ 
+Pendant et après le traitement, vous devez mesurer la profondeur de matière enlevée pour vérifier 
+que vous restez dans les limites du SRM. Utilisez un comparateur positionné sur la surface non 
+corrodée adjacente comme référence zéro. Mesurez au point le plus profond de la zone traitée. La 
+profondeur mesurée correspond à la perte de matière. 
+ 
+Vous pouvez aussi utiliser une jauge de profondeur micrométrique pour les zones accessibles ou un 
+calibre à ultrasons pour mesurer l'épaisseur résiduelle sans contact, particulièrement utile sur 
+structures minces. Notez toutes vos mesures sur la fiche d'intervention avec leur localisation précise. 
+ 
+  
+
+===== PAGE 34 =====
+Module 7.18 V05   Page 34 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+GRATTAGE MOTORISE 
+ 
+Outils motorisés 
+ 
+Les outils motorisés permettent de traiter des surfaces plus importantes ou des corrosions plus 
+étendues avec un gain de temps significatif. Cependant, ils nécessitent plus de précaution car ils 
+enlèvent la matière plus rapidement et présentent un risque accru de creuser excessivement ou 
+d'échauffer le métal. 
+ 
+La meuleuse pneumatique ou électrique à vitesse variable équipée de disques abrasifs non 
+métalliques (type Scotch-Brite) est l'outil le plus polyvalent. Utilisez une vitesse de rotation entre 3000 
+et 6000 tours/min selon l'abrasivité du disque. Privilégiez toujours une vitesse plus faible pour débuter 
+et augmentez progressivement si nécessaire. 
+ 
+ 
+ 
+La ponceuse orbitale pneumatique avec patin flexible permet un travail plus délicat sur surfaces 
+planes. Elle réduit le risque de creuser localement grâce à son mouvement orbital. La vitesse est 
+généralement non réglable, autour de 10000 oscillations/min. 
+ 
+La brosse rotative nylon ou fibre de verre montée sur perceuse ou meuleuse convient pour nettoyer 
+des zones irrégulières, des angles ou le pourtour de rivets. Utilisez une vitesse modérée pour éviter 
+l'échauffement. Les disques abrasifs à lamelles (flap discs) non métalliques en grain 80 à 120 sont 
+efficaces pour des surfaces importantes mais nécessitent une grande maîtrise car ils enlèvent 
+beaucoup de matière rapidement. 
+ 
+  
+
+===== PAGE 35 =====
+Module 7.18 V05   Page 35 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Technique d’application motorisée 
+ 
+La préparation est identique au traitement manuel mais encore plus importante car les risques sont 
+accrus. Délimitez clairement la zone à traiter et protégez soigneusement les zones adjacentes, 
+particulièrement les surfaces composites qui peuvent être endommagées par contact accidentel. 
+Assurez-vous d'avoir un éclairage optimal et une position de travail stable et confortable. 
+ 
+Pour l'application avec meuleuse, commencez toujours à vitesse réduite et testez sur une zone peu 
+critique pour vous familiariser avec l'outil. Maintenez le disque presque à plat sur la surface avec un 
+angle de 5 à 15 degrés maximum. Ne jamais appuyer perpendiculairement. Déplacez l'outil en 
+mouvements lents et réguliers, en balayage continu. Ne restez jamais statique au même endroit. 
+Exercez une pression légère et constante, laissez l'outil travailler sans forcer. 
+ 
+Arrêtez régulièrement pour inspecter votre progression et vérifier que vous n'enlevez pas trop de 
+matière. Nettoyez fréquemment la zone avec de l'air comprimé pour bien voir l'état de la surface. 
+Mesurez la profondeur régulièrement, au minimum tous les millimètres de profondeur enlevée. Si 
+vous approchez de la limite admissible, passez en manuel pour un contrôle plus fin. 
+ 
+Surveillez constamment la température de la zone travaillée. L'aluminium ne doit jamais devenir trop 
+chaud pour être touché à main nue. Un échauffement excessif peut modifier localement les propriétés 
+mécaniques du métal et créer des contraintes résiduelles. Si la surface chauffe, arrêtez 
+immédiatement et laissez refroidir. Réduisez la vitesse ou la pression d'application. 
+ 
+QUAND ARRETER OU CONSULTER 
+ 
+Vous devez immédiatement arrêter votre traitement et consulter votre superviseur ou l'ingénieur 
+structure dans les situations suivantes.  
+ 
+- Si la profondeur mesurée atteint 80% de la limite admissible du SRM, poursuivre risque de 
+dépasser la limite. Si vous constatez un aspect granuleux friable caractéristique d'une 
+corrosion intergranulaire, ce type de corrosion nécessite une évaluation spécialisée. 
+ 
+  
+
+===== PAGE 36 =====
+Module 7.18 V05   Page 36 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+- Si la corrosion s'étend sous les têtes de rivets ou dans les trous de fixation, une dépose 
+des fixations et une inspection approfondie sont nécessaires. Si vous découvrez des 
+fissures partant de la zone corrodée, cela indique que la corrosion a créé des 
+concentrations de contraintes ayant initié une fissuration qui nécessite une évaluation de 
+fatigue. 
+ 
+ 
+ 
+ 
+- Si la zone corrodée est plus étendue que ce que l'inspection initiale avait identifié, 
+l'étendue réelle peut dépasser les capacités d'une réparation simple. Si vous êtes sur une 
+zone critique (longeron, nervure principale, cadre de fuselage, attache moteur) et que vous 
+avez un doute sur l'acceptabilité, la moindre incertitude sur une zone critique nécessite 
+une validation ingénierie. 
+ 
+  
+
+===== PAGE 37 =====
+Module 7.18 V05   Page 37 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+CONTROLE QUALITE APRES TRAITEMENT 
+ 
+Inspection visuelle 
+ 
+Une fois le traitement mécanique terminé, nettoyez soigneusement la zone avec de l'air comprimé 
+pour éliminer toute poussière et tous résidus d'abrasifs. Essuyez avec un chiffon propre et sec. 
+Inspectez la surface sous éclairage optimal, idéalement avec une lampe torche puissante rasante qui 
+révèle les moindres irrégularités. 
+ 
+Vérifiez que la surface présente un aspect uniforme, brillant, de couleur aluminium sain sans zones 
+ternes. Aucune trace d'oxyde, de piqûre ou de point sombre ne doit subsister. La transition entre zone 
+traitée et zone saine doit être progressive, sans marche ni dénivellation brutale.  
+ 
+Recherchez particulièrement les défauts suivants :  
+- Piqûres résiduelles non traitées indiquant une corrosion subsistante,  
+- Rayures profondes créées par un outil trop abrasif ou une technique incorrecte,  
+- Zones en dépression excessive témoignant d'un grattage trop agressif localisé, 
+- Aspect granuleux friable évoquant une corrosion intergranulaire. 
+ 
+Mesures dimensionnelles 
+ 
+Mesurez systématiquement la profondeur maximale de matière enlevée avec un comparateur ou une 
+jauge micrométrique. Reportez cette mesure sur votre fiche d'intervention avec la localisation précise 
+(repérage par rapport à un rivet ou une nervure par exemple). Comparez cette profondeur avec les 
+limites admissibles du SRM. 
+ 
+Si la profondeur mesurée est : 
+- Inférieure à 50% de la limite admissible, la réparation peut généralement se faire 
+simplement par traitement chimique et repeinture sans doublement.  
+ 
+- Entre 50% et 100% de la limite, un doublement de renforts peut être nécessaire selon la 
+zone et les spécifications du SRM.  
+ 
+- Au-delà de 100% de la limite, la réparation n'est pas admissible telle quelle et nécessite 
+une étude de réparation spécifique ou un remplacement de panneau. 
+  
+===== PAGE 38 =====
+Module 7.18 V05   Page 38 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.5.3. Méthodes d’élimination chimiques 
+ 
+La réparation de corrosion sur aluminium nécessite deux traitements chimiques complémentaires qui 
+ont des rôles bien distincts. 
+ 
+La solution phosphorique est un nettoyant chimique. C'est de l'acide phosphorique dilué à 10-15% 
+qui dissout les produits de corrosion et prépare la surface métallique. Son action est temporaire, elle 
+ne protège que quelques heures. On l'utilise après le décapage mécanique pour éliminer les 
+dernières traces d'oxydes et obtenir une surface propre. 
+ 
+L'Alodine est un traitement de conversion chimique qui transforme la surface de l'aluminium en une 
+couche protectrice. Cette couche, très fine (moins de 2,5 microns), protège contre la corrosion 
+pendant plusieurs jours et constitue une excellente base d'accrochage pour la peinture. C'est un 
+mélange complexe contenant du chromate (ou des alternatives sans chrome), de l'acide 
+phosphorique et des fluorures. 
+     
+ 
+Pour bien comprendre la différence : le phosphorique lave et prépare, l'Alodine protège et accroche. 
+Les deux sont indispensables et complémentaires, jamais interchangeables. 
+  
+
+===== PAGE 39 =====
+Module 7.18 V05   Page 39 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+TRAITEMENT A LA SOLUTION PHOSPHORIQUE 
+ 
+La solution phosphorique pour traitement anticorrosion répond aux normes ASTM D1730 et AMS 
+2485. On utilise une concentration de 10 à 15% en solution aqueuse, avec un pH entre 1,5 et 3,0, 
+appliquée à température ambiante. 
+ 
+Pour une retouche locale au pinceau, commencez par décaper mécaniquement la corrosion avec un 
+Scotch-Brite 7447 (gris fin). Enlevez toute la corrosion visible sans trop creuser le métal. 
+Dépoussiérez avec un chiffon propre et sec.  
+Appliquez ensuite la solution phosphorique généreusement au pinceau synthétique en débordant de 
+5 à 10 mm autour de la zone corrodée. La surface doit rester humide pendant 5 à 15 minutes. Si elle 
+commence à sécher, réappliquez du produit. Vous verrez la surface devenir mate et uniforme au fur 
+et à mesure du traitement.  
+Le point critique : ne jamais laisser le produit sécher sur la pièce. 
+ 
+Le rinçage est absolument fondamental. Rincez abondamment à l'eau déminéralisée (ou potable à 
+défaut) pendant au moins 2 à 3 minutes en continu. Il ne doit rester aucun résidu visqueux ou collant 
+sur la surface. En cas de doute, rincez encore. Séchez ensuite à l'air comprimé filtré et sec, ou avec 
+un séchoir à air chaud sans dépasser 60°C. 
+ 
+ 
+ 
+Le délai impératif à respecter : vous devez appliquer l'Alodine dans les 4 heures maximum qui suivent 
+le traitement phosphorique. Au-delà, l'aluminium s'oxyde à nouveau et il faut recommencer. 
+ 
+Contrôle après grattage 
+ 
+Une fois terminé, vous devez obtenir une surface mate et uniforme, de couleur aluminium légèrement 
+blanchie, sans aucune trace de corrosion résiduelle. Si vous observez des zones brillantes, cela 
+signifie que des résidus n'ont pas été dissous.  
+Des taches sombres indiquent une corrosion résiduelle. Une surface collante au toucher révèle un 
+rinçage insuffisant. Dans tous ces cas, il faut reprendre le traitement. 
+  
+
+===== PAGE 40 =====
+Module 7.18 V05   Page 40 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TRAITEMENT A L’ALODINE 
+ 
+Types et spécifications 
+ 
+L'Alodine existe sous différentes formulations conformes à la norme militaire MIL-DTL-5541F. 
+L'Alodine 1200S (Class 1A) contient du chromate hexavalent Cr VI et donne une couleur dorée ou 
+irisée caractéristique. Ce type offre la meilleure protection anticorrosion mais son usage est restreint 
+par les réglementations environnementales REACH et RoHS.  
+ 
+Application pratique 
+ 
+La surface doit être propre, sèche et exempte de graisse ou d'huile. 
+Pour l'application au pinceau, utilisez un pinceau synthétique propre à poils doux.  
+Appliquez généreusement en couvrant toute la zone plus 10 à 15 mm autour, en croisant les passes 
+(vertical puis horizontal). Point crucial : maintenez la surface humide pendant 2 à 5 minutes en 
+réappliquant si nécessaire, sans frotter.  
+Effectuez minimum trois applications successives. L'Alodine chromate produit une couleur 
+dorée/jaune, tandis que l'Alodine sans chrome reste clair avec un léger reflet bleuté. 
+ 
+       
+ 
+Rincez immédiatement après le temps de contact, avant séchage du produit. Rincez abondamment à 
+l'eau déminéralisée pendant 1 à 2 minutes minimum avec un jet continu couvrant toute la surface. 
+ 
+Pour le séchage, n'essuyez jamais la surface pour ne pas enlever la couche formée. Utilisez 
+uniquement de l'air comprimé sec et filtré à pression modérée (2-3 bars), ou un séchoir à air chaud 
+(max 65°C, à 30 cm minimum). Si nécessaire, laissez sécher à l'air dans une zone propre, sèche et à 
+l'abri de la poussière. 
+  
+
+===== PAGE 41 =====
+Module 7.18 V05   Page 41 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Contrôle du résultat 
+ 
+Pour un Alodine chromate type 1200S, vous devez obtenir une couleur dorée à jaune ou irisée, 
+uniforme sur toute la surface sans zones blanches ou grises. Pour un Alodine sans chrome type 1600 
+ou 5200, le résultat est incolore à légèrement bleuté avec un aspect légèrement brillant et uniforme.  
+Dans tous les cas, il ne doit y avoir ni taches, ni coulures, ni zones non traitées, ni poudre blanche. 
+ 
+Si vous observez des zones blanches ou une absence de couleur, la surface n'était pas propre ou 
+était grasse. Il faut dégraisser et recommencer. Une couleur très pâle indique un temps de contact 
+insuffisant, il faut réappliquer.  
+La présence d'une poudre blanche révèle un sur-traitement (temps trop long), il faut rincer et 
+recommencer. Des taches ou un aspect non uniforme proviennent d'une application irrégulière. Si la 
+couleur part au rinçage, c'est que vous avez rincé trop agressivement. 
+ 
+ 
+ 
+ 
+SEQUENCE COMPLETE SUR AVION 
+ 
+Cas pratique : corrosion sur panneau d'intrados d'aile 
+ 
+Vous détectez une corrosion superficielle de 30x40 mm lors d'une visite. 
+ 
+Préparation Consultez le SRM pour vérifier la profondeur maximale admissible et les procédures 
+spécifiques. Rassemblez le matériel : Scotch-Brite 7447, solution phosphorique, Alodine, pinceaux 
+synthétiques, eau déminéralisée, chiffons non pelucheux, air comprimé et EPI. Protégez la zone 
+environnante avec une bâche. 
+ 
+Décapage mécanique Utilisez le Scotch-Brite en mouvements circulaires à pression modérée 
+jusqu'à voir l'aluminium sain et brillant. Mesurez la profondeur et vérifiez qu'elle reste dans les limites 
+SRM. Dépoussiérez avec un chiffon sec. Contrôlez que toute la corrosion est enlevée et que la 
+surface est propre et sèche. 
+ 
+Traitement phosphorique Appliquez généreusement la solution phosphorique en débordant de 5 à 
+10 mm. Maintenez humide pendant 10 minutes. La surface deviendra mate. Rincez abondamment à 
+l'eau déminéralisée (2-3 minutes) et séchez à l'air comprimé. Vérifiez l'absence de corrosion 
+résiduelle. 
+  
+
+===== PAGE 42 =====
+Module 7.18 V05   Page 42 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Application Alodine (dans les 4 heures) Appliquez en 3-4 passes croisées en maintenant humide 
+3-5 minutes, en débordant de 10-15 mm. L'Alodine chromate doit donner une couleur dorée/jaune 
+(gris = problème). Rincez doucement à l'eau déminéralisée (1-2 minutes) sans frotter. Séchez à l'air 
+comprimé sans essuyer. Vérifiez la couleur uniforme et la couverture complète. 
+ 
+Protection finale (sous 24-48h) Appliquez le primaire époxy anticorrosion (minimum 2 couches) puis 
+la peinture de finition selon le schéma applicable. 
+ 
+ 
+ 
+Documentation et traçabilité 
+ 
+Sur votre fiche de travail, inscrivez la date et l'heure de chaque étape, les références et numéros de 
+lot des produits utilisés, la profondeur de corrosion que vous avez mesurée, vos observations 
+(couleur de l'Alodine, défauts éventuels) et apposez votre visa. Prenez des photos avant traitement, 
+après décapage, après application de l'Alodine et après la peinture finale. 
+ 
+ 
+1.3.5.4. Après l’élimination : contrôle et décision 
+ 
+Si la corrosion est trop importante et ne peut être éliminée correctement sans mettre en péril 
+l’intégrité de la structure, il y aura nécessité de pressentir une réparation provisoire par pièce en 
+surépaisseur ou une réparation définitive. 
+ 
+1.3.6. Protection anticorrosion 
+ 
+1.3.6.1. Contrôle dimensionnel  
+ 
+Mesure épaisseur résiduelle : 
+ 
+• Palmer (±0,01 mm), jauge profondeur, ultrasons 
+• 3-5 mesures en différents points 
+• Calcul perte : P = (e_nom - e_moy) / e_nom × 100% 
+ 
+Critères décision : 
+ 
+• < 5% : acceptable, protection et remise en service 
+• 5-10% : surveillance renforcée ou renfort selon SRM 
+10% : réparation structurale ou remplacement 
+  
+
+===== PAGE 43 =====
+Module 7.18 V05   Page 43 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.6.2. Application des protections anticorrosion 
+ 
+Étape 1 : Conversion chimique Alodine 
+ 
+• Application 1-5 minutes (immersion ou pinceau) 
+• Rinçage eau déminéralisée 1-2 minutes 
+• Séchage complet (air comprimé ou étuve 40-50°C) 
+• Aspect : film doré-irisé, épaisseur 0,5-1,5 μm 
+ 
+Étape 2 : Primaire époxy anticorrosion 
+ 
+• Produits types : AkzoNobel Aerodur 2100, PPG CA7233 
+• Application : pistolet HVLP ou pinceau (retouches) 
+• 2 couches, épaisseur totale sèche : 50-80 μm 
+• Séchage : 24h à 20°C ou 4-6h à 60°C 
+ 
+Étape 3 : Peinture finition polyurethane 
+ 
+• 2-3 couches fines 
+• Épaisseur totale : 60-100 μm 
+• Séchage final : 48h à 20°C avant vol 
+ 
+Contrôle qualité : 
+• Épaisseur : jauge magnétique 
+• Adhérence : test quadrillage si zone critique 
+• Aspect : brillant homogène, sans coulures 
+ 
+1.3.6.3. Traçabilité 
+ 
+Fiche d'intervention : 
+ 
+• Date, opérateur, aéronef, localisation 
+• Méthode traitement, épaisseur résiduelle 
+• Produits appliqués (références, lots) 
+• Photos avant/après 
+  
+===== PAGE 44 =====
+Module 7.18 V05   Page 44 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3.7. Conclusion sur la corrosion 
+La corrosion est l'un des défauts les plus insidieux en aéronautique. 
+ 
+Elle est souvent invisible : 
+• En face externe sous la peinture 
+• En face interne entre deux tôles rivetées 
+• Dans les zones confinées et mal ventilées 
+ 
+La corrosion peut agir seule en dégradant progressivement la structure, ou en synergie avec la 
+fatigue pour amorcer des fissures. 
+Les criques apparaissent généralement au niveau des rivets, zones fragilisées par l'action simultanée 
+de la fatigue et de la corrosion. 
+ 
+Résultat : Ces défauts fragilisent la structure jusqu'à la rupture potentielle. 
+ 
+Moyens de détection 
+ 
+Première ligne de défense : 
+• Inspection visuelle 
+ 
+Méthodes complémentaires : 
+• Courants de Foucault 
+• Radiographie 
+• Ultrasons 
+• Endoscopie 
+ 
+Les 5 clés de la lutte anticorrosion 
+ 
+1. Prévention 
+• Conception adaptée 
+• Entretien préventif rigoureux 
+ 
+2. Détection précoce 
+• Inspections régulières et systématiques 
+• Programme CPCP bien suivi 
+ 
+3. Traitement rapide 
+• Dès l'apparition de la corrosion 
+• Avant qu'elle ne s'étende 
+ 
+4. Protection durable 
+• Application correcte du système de protection en 3 étapes :  
+o Alodine 
+o Primaire époxy 
+o Peinture de finition 
+ 
+5. Traçabilité 
+• Documentation complète de chaque intervention 
+• Suivi dans le temps 
+La vigilance constante et la rigueur dans l'application des procédures de contrôle et de traitement 
+sont essentielles pour maintenir l'intégrité structurale et la navigabilité des aéronefs. 
+Un programme CPCP bien conçu et scrupuleusement suivi est la meilleure défense contre la 
+corrosion. 
+  
+===== PAGE 45 =====
+Module 7.18 V05   Page 45 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2. METHODES GENERALES DE REPARATION, MANUEL 
+DE REPARATIONS STRUCTURALES ; PROGRAMMES 
+DE CONTROLE DU VIEILLISSEMENT ; DE LA FATIGUE 
+ET DE LA CORROSION 
+Rappel des objectifs : connaissance générale des types de défectuosités et techniques 
+d’inspection visuelle suppression de la corrosion, évaluation et nouvelle protection. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+ 
+2.1. Méthodes générales de réparations 
+Toutes les données de réparation structurale sont décrites par le constructeur dans le SRM 
+ou le chapitre ATA 51 de l'AMM.  
+Tout dommage structural hors tolérance dont la réparation n'est pas décrite dans le SRM 
+devra être identifié et documenté pour analyse par le bureau d'études et envoyé chez le 
+constructeur afin de définir une solution de réparation selon un procédé approuvé. 
+ 
+Cas d’une crique ou déchirure 
+ 
+Quelle que soit la crique constatée, celle-ci devra toujours être arrêtée par un trou d’arrêt à 
+chacune de ses extrémités.  
+Ces trous d’arrêt devront tangenter les extrémités de la crique. Une excellente finition de ces 
+trous d’arrêt (fraisage, toile très fine) est nécessaire afin d’éviter toute amorce de crique 
+nouvelle.  
+Dans le doute du point de l’extrémité de la crique, il pourra être fait appel à des contrôles non 
+destructifs pour en connaître exactement son extrémité. 
+ 
+Si une crique se situe dans une zone pressurisée, une réparation provisoire ou définitive 
+sera exigée immédiatement. 
+ 
+Dans le cas de déchirure sur revêtement, il sera nécessaire de découper proprement la 
+partie déchirée en exécutant des arrondis d’au moins 12 mm de rayon dans les angles, afin 
+d’éviter une évolution éventuelle du dégât, et ceci avant de pratiquer la réparation provisoire. 
+ 
+ 
+ 
+  
+
+===== PAGE 46 =====
+Module 7.18 V05   Page 46 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Exemple pour une réparation composite 
+ 
+ 
+ 
+Exemple d’un délaminage 
+ 
+ 
+2.2. Manuel de réparation structural 
+Les réparations structurales sur aéronefs certifiés EASA sont régies par le cadre 
+réglementaire européen harmonisé, en vigueur depuis 2008. Ce cadre remplace les 
+anciennes réglementations nationales et s'applique à tous les États membres de l'Union 
+Européenne et pays associés. 
+ 
+Réglementations applicables : 
+ 
+• EASA Part-M : Gestion du maintien de la navigabilité continue (Regulation (EU) No 
+1321/2014) 
+• EASA Part-145 : Exigences pour les organismes de maintenance agréés 
+ 
+Le manuel de réparation structurale (SRM : Structural Repair Manual) constitue un 
+recueil des recommandations du constructeur pour l’évaluation des dommages et la 
+conception des réparations permettant de répondre aux problèmes courants rencontrés en 
+service.  
+ 
+Lorsqu’un dommage n’entre pas dans les tolérances du SRM une solution nouvelle 
+doit être définie et approuvé. En générale le constructeur de l’aéronef est capable de 
+fournir une méthode approuvée. Dans d’autres cas le part 145 fait appel à un DOA (Design 
+Organisation Approval)   
+
+===== PAGE 47 =====
+Module 7.18 V05   Page 47 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3. Programme de contrôle du vieillissement de la fatigue et de la 
+corrosion 
+2.3.1. Programme de contrôle du vieillissement 
+ 
+Introduction aux programmes de contrôle structurel 
+ 
+Les aéronefs modernes sont conçus pour des durées de vie spécifiques, mais leur 
+exploitation réelle peut dépasser les prévisions initiales. Le vieillissement de la structure, 
+l'accumulation de cycles de fatigue et la corrosion progressive nécessitent des programmes 
+de surveillance structurés et rigoureux. 
+ 
+Les programmes de contrôle structurels visent à : 
+ 
+- Maintenir l'intégrité structurale tout au long de la vie de l'aéronef 
+- Détecter précocement les dégradations 
+- Prévenir les défaillances catastrophiques 
+- Optimiser les coûts de maintenance 
+  
+
+===== PAGE 48 =====
+Module 7.18 V05   Page 48 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+DÉFINITION : 
+ 
+Le vieillissement d'un aéronef se caractérise par la dégradation progressive de ses 
+propriétés structurales et matérielles due à : 
+ 
+- L'âge calendaire (temps écoulé depuis fabrication) 
+- Les cycles de pressurisation/dépressurisation 
+- Les conditions d'exploitation (climat, atterrissages, charges) 
+- L'environnement corrosif 
+ 
+Le constructeur fournit les données de limitation pour la structure au chapitre ATA04 du 
+manuel d’entretien (AMM). 
+ 
+Le constructeur fournit un programme de surveillance pour la structure décrit dans l’ATA05 
+du manuel d’entretien. 
+ 
+En générale les zones qui requièrent une attention particulière au vieillissement sont : 
+ 
+- La partie pressurisé du fuselage (pressurisation répétée) 
+- Les longerons de voilure (flexion cyclique) 
+- Les points d'attache train d'atterrissage, dérive, voilure et moteur 
+- Les zones sensible à la corrosion 
+2.3.2. Programme de contrôle de la fatigue  
+PRINCIPES FONDAMENTAUX : 
+ 
+La fatigue des matériaux résulte de l'application répétée de charges, même inférieures à la 
+limite élastique. Chaque cycle de contrainte consomme une partie de la durée de vie en 
+fatigue. 
+ 
+LOI DE FATIGUE - Relation de Basquin : 
+σ × N^b = C 
+ 
+Où : 
+σ = amplitude de contrainte 
+N = nombre de cycles jusqu'à rupture 
+b, C = constantes du matériau 
+ 
+COURBE S-N (Stress-Number of cycles) : 
+Représente la résistance en fatigue en fonction du nombre de cycles. 
+ 
+Exemple aluminium 2024-T3 : 
+300 MPa → 10³ cycles (fatigue oligocyclique) 
+200 MPa → 10⁵ cycles 
+100 MPa → 10⁷ cycles (endurance) 
+  
+===== PAGE 49 =====
+Module 7.18 V05   Page 49 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUIVI DES CYCLES : 
+ 
+Comptage individuel par élément critique : 
+ 
+- Cycles de vol (décollage → atterrissage) 
+- Cycles de pressurisation (montée → descente) 
+- Facteur de charge 
+ 
+ 
+MÉTHODE DE SURVEILLANCE : 
+ 
+Approche "Safe-Life" : 
+ 
+La Pièce dimensionnée pour durer toute la vie de l'aéronef 
+Il faut la remplacer avant atteinte durée de vie calculée 
+Le Coefficient de sécurité : facteur 4 (scatter factor) 
+ 
+Approche "Fail-Safe" : 
+ 
+La structure est redondante 
+La rupture d'un élément peut être compensée par les autres 
+Une inspection régulière doit être effectué pour détecter les défaillances partielles 
+ 
+Approche "Damage Tolerance": 
+ 
+Hypothèse : défaut initial présent 
+Calculer la propagation de crique 
+Effectuer une inspection avant la taille critique 
+2.3.3. Programme de contrôle de la corrosion 
+Selon l'AMC 20-20 B de l'EASA : Le CPCP (Corrosion Prevention and Control Program) est 
+une approche systématique pour prévenir et contrôler la corrosion dans la structure primaire 
+de l'avion. 
+ 
+Développé par le constructeur, il est personnalisé selon : 
+- Âge de la flotte 
+- Conditions d'exploitation (environnement marin, désertique, tropical) 
+- Historique de corrosion dans la compagnie 
+  
+
+===== PAGE 50 =====
+Module 7.18 V05   Page 50 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ZONES CPCP (Task Areas / Corrosion-Prone Areas): 
+ 
+Zones à haute susceptibilité (inspection plus fréquente) : 
+• Compartiments toilettes et offices 
+• Compartiments batteries 
+• Puisards et zones de drainage 
+• Soutes cargo inférieures 
+ 
+Zones à susceptibilité modérée : 
+• Structure intrados voilure 
+• Fuselage inférieur 
+• Puits de trains 
+ 
+Zones à surveillance standard : 
+• Extrados voilure 
+• Fuselage supérieur 
+• Empennages 
+ 
+TÂCHES CPCP SELON AMC 20-20B : 
+ 
+GVI (General Visual Inspection) 
+ 
+ 
+ 
+Intervalles : 12 à 48 mois selon zones- Inspection visuelle à distance de toucher. 
+ 
+- Éclairage normal, miroirs autorisés 
+- Ouverture panneaux d'accès rapide 
+- Détection corrosion externe et accessible 
+ 
+DET (Detailed Inspection)   
+ 
+Intervalles : 12 à 72 mois selon criticité 
+ 
+- Démontage panneaux nécessaire 
+- Nettoyage préalable des surfaces 
+- Éclairage supplémentaire intensif 
+- Loupes, miroirs, endoscopes 
+- Inspection visuelle ET tactile 
+  
+
+===== PAGE 51 =====
+Module 7.18 V05   Page 51 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SDI (Special Detailed Inspection) 
+ 
+Intervalles : Selon seuils heures/cycles TCH 
+ 
+- CND obligatoire (UT, ET, PT, MT, RT) 
+- Mesures d'épaisseur systématiques 
+- Personnel qualifié NDT requis 
+- Démontage extensif 
+Zonal InspectionsIntervalles :  
+ 
+Selon MSG-3 (24-36 mois typique) 
+ 
+- GVI sélectionnées par zone 
+- Vérification systèmes et structure 
+- Coordonné avec letter checks 
+ 
+ACTIONS PRÉVENTIVES CPCP : 
+ 
+Nettoyage : 
+- Lavage extérieur : 1-3 mois (selon environnement) 
+- Compartiments internes : selon MPD 
+- Vérification drains : A-check + inspections zonales 
+ 
+Traitement : 
+- Anticorrosion (LPS3, ACF50) : 24-36 mois 
+- Retouches peinture : dès détection 
+- Intervalles ajustés selon exposition 
+  
+===== PAGE 52 =====
+Module 7.18 V05   Page 52 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les programmes de contrôle structurel doivent être adaptés en fonction des 
+conditions climatiques et environnementales dans lesquelles l'aéronef est exploité. 
+Chaque type d'environnement soumet la structure à des contraintes spécifiques 
+nécessitant une surveillance renforcée de zones particulières. 
+ 
+Environnement marin et côtier 
+Les aéronefs opérant près des côtes ou en zones maritimes sont exposés aux embruns 
+salés et à l'humidité élevée, facteurs très agressifs pour la corrosion. Les inspections 
+anticorrosion (CPCP) doivent être intensifiées, notamment sur les structures du fuselage 
+inférieur, les trains d'atterrissage et les attaches métalliques. Les intervalles de nettoyage et 
+d'application des protections anticorrosion sont raccourcis (lavages tous les 15 jours au lieu 
+de 1 mois, traitement LPS/ACF50 tous les 18 mois au lieu de 36 mois). 
+ 
+Environnement désertique et zones sablonneuses 
+L'exploitation dans les régions désertiques expose l'aéronef aux tempêtes de sable et aux 
+particules abrasives en suspension.  
+Ces conditions provoquent une usure accélérée des joints dynamiques, des surfaces de 
+guidage et des systèmes de lubrification. Les inspections doivent se concentrer sur l'état des 
+joints d'étanchéité, la contamination des systèmes hydrauliques et pneumatiques, et l'érosion 
+des bords d'attaque. Les filtres à air doivent être changés plus fréquemment et les lubrifiants 
+contrôlés régulièrement pour détecter toute contamination par des particules. 
+ 
+Environnement tropical et zones à forte humidité 
+Les climats tropicaux combinent chaleur, humidité élevée et pluies abondantes, créant des 
+conditions idéales pour la corrosion filiforme sous peinture et le développement de 
+moisissures.  
+Les inspections portent particulièrement sur les zones confinées mal ventilées (soutes, 
+compartiments électroniques), les drains et évacuations d'eau, et l'intégrité des revêtements 
+de peinture. La vérification du bon fonctionnement des systèmes de drainage et de 
+ventilation est cruciale. 
+ 
+Environnement polaire et zones de grand froid 
+Les températures extrêmement basses fragilisent certains matériaux (risque de rupture 
+fragile), tandis que les cycles répétés de gel-dégel favorisent la progression de fissures 
+existantes et l'infiltration d'humidité dans les structures composites. L'utilisation intensive de 
+produits dégivrants chimiques (glycol) accélère la corrosion de certains alliages métalliques.  
+Les inspections se concentrent sur les éléments exposés aux produits dégivrants (intrados 
+de voilure, nacelles moteurs), les systèmes de drainage (risque de gel et obstruction), et les 
+zones susceptibles de retenir l'humidité qui gèle puis dégèle. 
+ 
+ 
+Documentation et traçabilité 
+L'environnement d'exploitation doit être clairement identifié dans le dossier de l'aéronef et 
+pris en compte lors de l'élaboration du programme de maintenance. Les opérateurs doivent 
+informer le constructeur et les autorités des conditions d'exploitation particulières afin 
+d'ajuster les intervalles d'inspection et les procédures de contrôle.  
+ 
+Un historique détaillé des zones d'opération permet d'anticiper les dégradations spécifiques 
+et d'optimiser la surveillance préventive. 
+  
+===== PAGE 53 =====
+Module 7.18 V05   Page 53 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3. TECHNIQUE DE CONTROLE NON DESTRUCTIF Y 
+COMPRIS LES METHODES DE RESSUAGE 
+PENETRANT, DE RADIOGRAPHIE, DES COURANTS 
+DE FOUCAULT, DES ULTRASONS ET 
+BOROSCOPIQUE 
+ 
+Rappel des objectifs : connaissance générale des techniques de contrôle non 
+destructif y compris les méthodes de ressuage, radiographie, courants de foucault, 
+ultrason et boroscopique. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+ 
+ 
+3.1. Méthodes de contrôle non destructif (CND) 
+ 
+3.1.1. Introduction aux méthodes CND 
+ 
+Qu'est-ce que le contrôle non destructif (CND) ? 
+ 
+Le contrôle non destructif, également appelé essai non destructif, désigne l'ensemble des méthodes 
+permettant d'inspecter et d'évaluer l'intégrité d'une structure, d'un composant ou d'un matériau sans 
+l'endommager ni le détruire. 
+ 
+ 
+Contrairement aux essais destructifs (traction, compression, rupture), les méthodes CND permettent 
+de contrôler les pièces en service, qui peuvent ensuite continuer à être utilisées normalement. 
+  
+
+===== PAGE 54 =====
+Module 7.18 V05   Page 54 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Pourquoi le CND est-il essentiel en aéronautique ? 
+ 
+En maintenance aéronautique, l'inspection visuelle constitue la première ligne de défense pour 
+détecter les anomalies. Cependant, elle présente des limites importantes : 
+ 
+• Détection uniquement superficielle : ne voit que ce qui est visible en surface 
+• Fissures sous-surfaciques invisibles à l'œil nu 
+• Corrosion cachée sous la peinture ou entre deux tôles rivetées 
+• Délaminage des composites invisible de l'extérieur 
+• Défauts internes dans les zones inaccessibles 
+ 
+Les méthodes CND viennent donc compléter l'inspection visuelle pour détecter ces défauts cachés 
+qui pourraient compromettre la sécurité des vols. 
+ 
+Quand utiliser les méthodes CND ? 
+ 
+Les méthodes CND sont mises en œuvre dans les situations suivantes : 
+ 
+Après une inspection visuelle douteuse 
+ 
+Lorsque l'inspection visuelle révèle des signes suspects mais non concluants (décoloration, légère 
+déformation, traces inhabituelles), une méthode CND appropriée permettra de confirmer ou d'infirmer 
+la présence d'un défaut. 
+ 
+Sur les zones critiques à risque élevé 
+ 
+Certaines zones de l'aéronef sont particulièrement sollicitées et sujettes à des défauts potentiels : 
+• Attaches du train d'atterrissage 
+• Jonctions aile-fuselage 
+• Fixations moteurs et pylônes 
+• Zones soumises à des vibrations importantes 
+• Trous de rivets dans les structures fatiguées 
+ 
+Lors des inspections programmées 
+ 
+Les programmes de maintenance (MPD - Maintenance Planning Document) prescrivent des contrôles 
+CND à intervalles réguliers pour surveiller l'évolution de certains défauts ou pour détecter 
+précocement l'apparition de dommages liés à la fatigue ou à la corrosion. 
+  
+===== PAGE 55 =====
+Module 7.18 V05   Page 55 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Après un événement particulier 
+• Atterrissage dur 
+• Impact de foudre 
+• Turbulences sévères 
+• Choc au sol (collision avec un véhicule, équipement) 
+• Impact d'oiseau 
+ 
+      
+ 
+Avant et après une réparation 
+Avant réparation : pour évaluer précisément l'étendue du défaut (profondeur d'une fissure, taille d'un 
+délaminage). 
+ 
+Après réparation : pour s'assurer de l'absence de nouveaux défauts introduits lors de la réparation 
+(fissures dues au meulage, au perçage, au soudage, etc.). 
+ 
+Choix de la méthode CND appropriée 
+ 
+Le choix de la méthode CND dépend de plusieurs facteurs : 
+• Type de défaut recherché : fissure, corrosion, délaminage, porosité 
+• Matériau à contrôler : alliage d'aluminium, acier, titane, composite 
+• Localisation du défaut : surface, sous-surface ou interne 
+• Accessibilité de la zone : accessible directement ou zone confinée 
+• Géométrie de la pièce : plane, courbe, complexe 
+• Temps disponible et coût : certaines méthodes sont rapides (ressuage), d'autres nécessitent 
+plus de temps et d'équipement (radiographie) 
+ 
+Dans les sections suivantes, nous étudierons en détail chaque méthode CND utilisée en maintenance 
+aéronautique, avec leurs principes de fonctionnement, leurs avantages, leurs limites et leurs 
+applications spécifiques. 
+  
+
+===== PAGE 56 =====
+Module 7.18 V05   Page 56 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2. Classification des défauts 
+ 
+Les CND doivent impérativement être mis en œuvre par du personnel certifié dans le secteur 
+d’activité considéré. 
+ 
+Les CND sont présents aux différents stades de la vie d’un produit : 
+- Définition. 
+- Mise en œuvre de la matière. 
+- Fabrication. 
+- Utilisation. 
+3.2.1. Origine des défauts 
+ 
+Les défauts peuvent apparaître à trois stades du cycle de vie des pièces :  
+Lors de la mise en œuvre de la matière, pendant l'usinage et l'assemblage, ou durant l'utilisation 
+de la pièce. 
+ 
+Ces défauts se classent selon leur nature, leur forme, leur position dans la matière et leur orientation. 
+ 
+Pour chaque défaut, trois paramètres principaux doivent être considérés :  
+La nocivité (dangerosité du défaut), la détectabilité (capacité à le détecter) et la dimension (taille 
+du défaut). 
+ 
+3.2.2. Les défauts de mise en œuvre 
+ 
+Matériaux métalliques 
+Les défauts d'élaboration apparaissent lors de la fabrication des lingots ou pièces coulées. On y 
+trouve principalement les retassures (retrait du métal pendant la solidification), les hétérogénéités 
+(mélange d'éléments d'alliage ou porosités dues aux gaz emprisonnés), les peaux d'oxyde en 
+surface, les inclusions de matières étrangères, les gouttes froides (gouttelettes solidifiées 
+rapidement), les criques (fissures externes) et les tapures (déchirures causées par un refroidissement 
+rapide). 
+ 
+Lors de la transformation du lingot en produit semi-fini, d'autres défauts peuvent survenir : criques de 
+forge ou de laminage, repliures (replis du métal), incrustations ou pailles (pellicule de métal oxydé en 
+surface), ainsi que des surchauffes ou brûlures. 
+ 
+           
+ 
+  
+
+===== PAGE 57 =====
+Module 7.18 V05   Page 57 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Matériaux composites 
+Pour les structures monolithiques, les défauts typiques sont les porosités (petites cavités entre 
+couches), les délaminages (décohésion entre plis), les hétérogénéités du taux de résine, les 
+ondulations de fibres ou de plis, les oublis de séparateurs (films protecteurs non retirés) et les criques 
+de la matrice. 
+ 
+Dans les structures sandwiches et collées, on rencontre principalement le non-accostage du 
+revêtement sur le nid d'abeilles, le mauvais positionnement d'inserts, l'écrasement du nid d'abeilles et 
+les épaisseurs de joint de colle non conformes. 
+ 
+3.2.3. Les défauts usinage et assemblage 
+ 
+Lors de l'usinage, des défauts peuvent apparaître tels que des criques d'usinage ou de rectification 
+dues au non-respect des paramètres de coupe, des rayures, ou des brûlures de rectification causées 
+par une lubrification insuffisante. 
+ 
+Les opérations d'assemblage peuvent également générer des défauts, notamment des criques après 
+rivetage ou des défauts de soudage (criques, soufflures, manque de pénétration, caniveaux). 
+ 
+Enfin, certains procédés de fabrication sont à l'origine de défauts spécifiques : criques de fragilisation 
+après traitement de surface, criques après déformation (pliage, galetage, grenaillage), brûlures de 
+trempe ou de traitement électrochimique, et défauts liés aux traitements thermiques ou 
+thermochimiques. 
+   
+  
+
+===== PAGE 58 =====
+Module 7.18 V05   Page 58 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2.4. Les défauts en utilisation 
+ 
+Matériaux métalliques 
+- Criques de fatigue, 
+- Coups/rayures sur matériaux ductiles (Départ de criques du fait de concentrations 
+de contraintes) 
+- Coups et rayures sur matériaux fragiles (microcrique en surface) 
+- Fretting corrosion 
+- Corrosion (intergranulaire, feuilletant, sous contrainte, piqûre) 
+- Foudroiement 
+ 
+ 
+Matériaux composites 
+- Crique interlaminaire ou intra laminaire 
+- Délaminage 
+- Défaut d’adhésion ou de cohésion 
+- Foudroiement 
+- Chocs, impacts 
+ 
+ 
+Notion de nocivité de défaut 
+ 
+La nocivité d'un défaut dépend de plusieurs facteurs : 
+ 
+• Type de défaut (nature, géométrie) 
+• Emplacement du défaut dans la pièce 
+• Dimensionnement et niveau de contrainte de la pièce 
+• Environnement d'exploitation (température, hygrométrie) 
+Les critères d'acceptation des défauts sont fonction du type de défaut (dimension, nature, position) et 
+de la classe de sécurité de la pièce (pièce critique ou autre classe). Ils sont définis par le bureau de 
+calcul.   
+
+===== PAGE 59 =====
+Module 7.18 V05   Page 59 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Notion de détectabilité de défaut 
+ 
+La détectabilité dépend de trois facteurs principaux : 
+ 
+Contrôlabilité de la pièce Cette notion intègre l'accessibilité des zones à contrôler et la compatibilité 
+entre la pièce (géométrie, épaisseur, matériau) et le moyen de CND utilisé. 
+ 
+Si une zone est incontrôlable, trois solutions existent : adapter la définition, surdimensionner la pièce, 
+ou fiabiliser le procédé en maîtrisant ses paramètres et en vérifiant périodiquement l'état des pièces. 
+ 
+Sensibilité du moyen de contrôle CND Elle dépend du principe physique mis en jeu, des 
+performances du matériel utilisé et de la procédure de contrôle retenue. 
+ 
+Les opérateurs CND Les CND doivent être réalisés par des opérateurs certifiés (COSAC pour 
+l'aéronautique) ayant suivi une formation initiale, une pratique professionnelle et un examen 
+(procédure + théorie + pratique). 
+ 
+Le processus de certification comprend 3 niveaux : 
+ 
+• Niveau 1 : Réalise l'inspection avec des documents de contrôle 
+• Niveau 2 : Inspecte et réalise des procédures de contrôle 
+• Niveau 3 : Responsable de la méthode CND (Expert) 
+  
+===== PAGE 60 =====
+Module 7.18 V05   Page 60 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.3. Ressuage pénétrant 
+Le ressuage est une méthode de contrôle utilisée pour la détection de défauts débouchant en surface 
+uniquement.  
+ 
+3.3.1. Principe 
+➔ Un liquide contenant des pigments colorés ou fluorescents et possédant des propriétés bien 
+particulières est appliqué sur la pièce. 
+➔ La surface de cette pièce est ensuite débarrassée du liquide en excès en surface et seul 
+subsiste celui qui est retenu dans les défauts.  
+➔ Le liquide piégé dans le défaut est ensuite aspiré, pour le rendre visible en surface, par une 
+poudre appelée « révélateur » jouant le rôle de buvard.  
+➔ L’examen s’effectue soit en lumière visible si le liquide pénétrant est coloré, soit en lumière 
+ultraviolette si le produit utilisé est fluorescent.  
+ 
+3.3.2. Une méthode simple et rapide 
+En aéronautique, le ressuage utilisé est le ressuage fluorescent, mais certaines applications 
+particulières peuvent amener à l’utilisation de produits colorés. 
+Le ressuage nécessite peu de moyen :  
+- Pénétrant et révélateur en aérosol,  
+- Des chiffons,  
+- De l’eau,  
+- Un projecteur UV.  
+ 
+Il est rapide à mettre en œuvre. 
+ 
+ 
+  
+
+===== PAGE 61 =====
+Module 7.18 V05   Page 61 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.3.3. Mode opératoire 
+Nettoyage de la pièce avec les produits conformes aux spécifications pour dégraisser la pièce et 
+décolmater les éventuels défauts. 
+ 
+Attention : les produits halogénés (contenant du chlore et/ou du soufre) ne doivent pas être utilisés 
+sur le titane et ses alliages et sur les aciers inoxydables. 
+ 
+1. Application du pénétrant 
+ 
+Ce produit est appliqué pendant au moins 20 minutes soit par pulvérisation, en aérosol, au 
+pistolet électrostatique, par application locale au pinceau, ou par immersion dans un bain. 
+(10 minutes immersion + 10 minutes d’égouttage)  
+Il existe deux types de pénétrants : 
+- Les pénétrants pré-émulsionnés qui sont directement lavables à l’eau. 
+- Les pénétrants post émulsionnés qui nécessitent l’application d’un émulsifiant hydrophile 
+(savon) pour les rendre lavables à l’eau.  
+ 
+2. Rinçage 
+ 
+➢ Consiste à éliminer l'excédent de pénétrant en surface de pièce, sans enlever celui dans le 
+défaut. 
+ 
+3. Séchage  
+ 
+➢ Pour sécher la pièce avant application du révélateur. 
+ 
+4. Application du révélateur 
+ 
+ 
+ 
+Le temps de révélation va de quelques secondes pour des défauts relativement importants à 
+quelques dizaines de minutes pour les défauts fins. 
+Il existe deux types de révélateurs principalement : 
+- Les révélateurs humides non aqueux (poudre en suspension dans un solvant) 
+o Ils sont appelés également révélateurs haute sensibilité 
+o leur seul mode d’application se fait uniquement par aérosol. 
+- Les révélateurs secs 
+o Ils sont appelés également révélateurs haute définition 
+o Le mode d’application peut être un compartiment à brouillard ou par pulvérisation 
+électrostatique  
+  
+
+===== PAGE 62 =====
+Module 7.18 V05   Page 62 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+5. Inspection  
+ 
+L’inspection s’effectue dans l’obscurité sous ultraviolets à l’aide d’un projecteur de type « Lampe de 
+WOOD » avec des valeurs d’éclairement à respecter. 
+ 
+3.3.4. Ressuage haute (S3) et très haute sensibilité (S4) 
+Dans ces types de ressuages on a également recours à un liquide pénétrant fluorescent avec une 
+inspection sous ultraviolets, ce sont principalement ces sensibilités qui font appel à un émulsifiant 
+pour le lavage de l’excédent de pénétrant en surface. 
+ 
+Nota : un pénétrant de type coloré a une sensibilité moyenne (S2) et n’est donc pas assimilable à un 
+S3 ou un S4. 
+ 
+Le temps de contact est plus long (minimum 30 minutes) car les défauts recherchés peuvent être 
+plus fins. 
+ 
+Le reste du mode opératoire est identique à un ressuage standard S2. 
+ 
+Domaine d’utilisation 
+Le ressuage s’applique à divers matériaux : métaux, verres, plastiques, céramiques, etc. Et à tous les 
+stades de vie de la pièce : de l’élaboration à la maintenance, en passant par la fabrication : 
+- Pièces brutes de forge ou de fonderie, 
+- Pièces ébauchées ou finies, 
+- Pièces en utilisation ou après réparation. 
+En maintenance, les applications sont nombreuses et visent la détection de défauts de fatigue sur : 
+ferrures, trains d’atterrissage, carters moteurs, supports, aubages, etc. 
+ 
+ 
+Avantages 
+ 
+Inconvénients 
+ 
+Simple, mise en œuvre facile si certaines règles sont respectées et 
+nécessite peu de matériel. 
+Doit être effectuée par du personnel qualifié car si l’une des 
+opérations du mode opératoire est mal effectuée, il y a un risque de 
+non-détection de défaut. 
+Capacité de détection non liée à l’orientation et à la position des 
+défauts sur la surface de la pièce. 
+L’utilisation d’aérosols permet l’examen sans dépose de certaines 
+pièces. 
+ 
+Le ressuage ne décèle pas les 
+défauts internes, ni les défauts 
+débouchant obstrués ou colmatés 
+par des contaminants (graisses, 
+poussières, oxydes, calamine, 
+résidus d’ajustages…) 
+  
+
+===== PAGE 63 =====
+Module 7.18 V05   Page 63 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.4. Courants de Foucault 
+3.4.1. Généralités 
+On appelle courants de Foucault les courants électriques créés dans une masse conductrice, soit 
+par la variation au cours du temps d'un champ magnétique extérieur traversant ce milieu (le flux du 
+champ à travers le milieu), soit par un déplacement de cette masse dans un champ magnétique. Ils 
+sont une conséquence de l'induction électromagnétique. 
+ 
+Les courants de Foucault sont responsables d'une partie des pertes (dites pertes par courants de 
+Foucault) dans les circuits magnétiques des machines électriques alternatives et des 
+transformateurs. C'est la raison pour laquelle les circuits magnétiques sont constitués de tôles 
+feuilletées afin de limiter ces courants et les pertes par effet Joule qui en découlent, ce qui améliore le 
+rendement global des transformateurs. 
+ 
+ 
+ 
+  
+
+===== PAGE 64 =====
+Module 7.18 V05   Page 64 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.4.2. Principe 
+ 
+Le champ magnétique variable au cours du temps est responsable de l'apparition d'une force 
+électromotrice à l'intérieur du milieu conducteur. Cette force électromotrice induit des courants dans la 
+masse.  
+Ces courants ont deux effets : 
+- Ils créent un champ magnétique qui s'oppose à la cause de la variation du champ extérieur 
+(loi de Lenz) ; 
+- Ils provoquent un échauffement par effet Joule de la masse conductrice d'autant plus fort que 
+la vitesse entre l'inducteur et la pièce conductrice est importante. 
+ 
+Lorsque la variation de flux est due à un déplacement du milieu devant un champ magnétique 
+constant, les courants de Foucault sont responsables de l'apparition de forces de Laplace qui 
+s'opposent au déplacement, d'où l'effet de freinage observé sur les systèmes utilisant ce genre de 
+dispositif. 
+ 
+3.4.3. Types de défauts détectables 
+ 
+On peut distinguer trois grands champs d’application :  
+ 
+ 
+Contrôle au stade d’élaboration du 
+produit 
+ 
+Contrôle du produit fini Contrôle en maintenance 
+ 
+- Sur tube, barre, plaque laminée, 
+forgée, extrudée  
+- (Recherche de lignes 
+d’incrustations, repliure, criques 
+de traitement thermique, état de 
+traitement thermique)  
+- Sur produit de fonderie  
+(recherche d’hétérogénéités, 
+fissures, ...) 
+ 
+ 
+- Mesure d’épaisseur 
+- Mesure d’épaisseur 
+de revêtement 
+(peinture, OAC, ...) 
+- Détection de crique 
+d’usinage, de 
+rectification  
+- Tri métallurgique 
+ 
+- Crique de fatigue 
+- Mesure de 
+conductivité 
+(recherche de zone 
+affectée 
+thermiquement) 
+- Recherche de 
+corrosion 
+  
+===== PAGE 65 =====
+Module 7.18 V05   Page 65 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.4.4. Applications 
+ 
+Mesure de conductivité électrique 
+ 
+Le plus souvent ce contrôle est utilisé pour :  
+- Vérifier le traitement thermique 
+- Trier des matériaux 
+- Vérifier certaines zones d’une structure après surchauffe locale lié par exemple à un incendie, 
+à des brûlures de rectification 
+ 
+Facteurs influençant la précision des mesures : 
+- Épaisseur de la pièce  
+- Effet de bord  
+- Effet de courbure  
+- État de surface  
+- Température  
+- Masse magnétique  
+- Étalonnage  
+ 
+Mesure épaisseur de revêtements 
+ 
+Le plus souvent ce contrôle est utilisé pour : 
+- Vérifier des épaisseurs de dépôt (OAC, chromage ...) 
+- Vérifier des épaisseurs de peinture 
+- Vérifier des épaisseurs de plaquage 
+ 
+Facteurs influençant la précision des mesures : 
+- Epaisseur de revêtement 
+- Propriétés électriques du métal de base 
+- Epaisseur du métal de base 
+- Effet de bord 
+- Effet de courbure 
+- Rugosité de la surface 
+- Pression du capteur 
+- Orientation du capteur 
+- Température 
+- Etalonnage, il s’effectue le plus souvent avec des feuilles en matière plastique calibrée 
+(contrôle d’un revêtement non conducteur sur métal de base amagnétique) ou avec des 
+étalons revêtus avec un matériau présentant les mêmes caractéristiques (contrôle de 
+revêtement amagnétique conducteur sur un support amagnétique). 
+ 
+Recherche de corrosion 
+ 
+Les influences de la corrosion s’apparentent à celles que l’on peut observer lors de variation 
+d’épaisseur de tôle. 
+ 
+Facteurs influençant la précision des mesures : 
+- Pièces revêtues (peintures, plaquage), mesurer au préalable l’épaisseur du revêtement. 
+- Assemblage de pièces (cas de corrosion par confinement), disposer d’étalons 
+représentatifs de l’assemblage à contrôler. 
+- Etalonnage, matériau identique à la pièce à contrôler et présentant des réductions 
+d’épaisseur proportionnelles à l’épaisseur de la pièce. 
+  
+===== PAGE 66 =====
+Module 7.18 V05   Page 66 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Recherche de criques 
+ 
+La méthode par courants de Foucault est bien adaptée : 
+- Au contrôle de tubes et barres en cours d’élaboration 
+- À l’examen d’alésage, de congés de raccordement ou de pourtour de rivets (en cours de 
+fabrication ou en maintenance) 
+Les défauts recherchés peuvent être débouchant ou proches de la surface. 
+ 
+Les contrôles peuvent être effectués par : 
+- Des sondes ponctuelles  
+- Des sondes encerclantes  
+- Des sondes rotatives 
+En général, on utilise des sondes différentielles qui présentent l’avantage d’être moins sensibles aux 
+variations lentes d’épaisseur de revêtement (peinture), d’effet de bord, ou de conductivité électrique. 
+ 
+Précautions à prendre : 
+La fréquence de contrôle doit être adaptée en fonction de la profondeur des défauts recherchés. 
+L’utilisation de fréquences basses permet de rechercher des défauts situés dans l’épaisseur de la tôle 
+ou de l’assemblage. En revanche elles présentent l’inconvénient d’être très sensibles aux effets de 
+bord et d’avoir une moins bonne résolution de détection. 
+ 
+Exemples de fréquences types : 
+- Détection de criques débouchantes 500 kHz à 10 Mhz 
+- Détection de criques internes   50 Hz à 1 kHz 
+- Pour l’alliage d’aluminium 2024 l’épaisseur de pénétration à 1 Mhz est de 0.1 mm 
+ 
+Étalonnage : 
+Les étalonnages doivent être réalisés à l’aide de pièce représentative de la structure à contrôler 
+comportant des fentes obtenues par électroérosion ou de criques générées par fatigue. 
+  
+===== PAGE 67 =====
+Module 7.18 V05   Page 67 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.4.5. Avantage et inconvénients 
+ 
+Les méthodes par courants de Foucault s’appliquent à tous les matériaux conducteurs d’électricité. 
+Les défauts recherchés peuvent être débouchant ou sous-jacents. 
+L’orientation préférentielle est perpendiculaire aux lignes de Courants de Foucault. 
+ 
+ 
+Avantages de CF : 
+ 
+Inconvénients des CF : 
+ 
+- Pas de couplant 
+- Grande variété de grandeurs mesurables (conductivité, 
+mesure d’épaisseur, détection de criques, inclusions…) 
+- Vitesse de contrôle rapide et faible coût 
+- Grande sensibilité pour les défauts de surface 
+- Méthode portable et automatisable 
+ 
+- Méthode ponctuelle 
+- Inopérant pour défauts 
+profonds 
+- Effets de bord et de Lift 
+OFF 
+ 
+3.5. Radiographie 
+3.5.1. Types de défauts détectables 
+On peut distinguer trois grands champs d’application :  
+ 
+Contrôle au stade d’élaboration du produit 
+- Sur demi-produits : matriçage et fonderie (Recherche de retassures, criques, hétérogénéité 
+hot tears)  
+- Sur produit composite (recherche d’hétérogénéités, fissures, délaminages, corps étranger 
+lames de cutter) 
+ 
+Contrôle du produit fini : 
+- Défauts de soudure 
+ 
+Contrôle en maintenance : 
+- Criques de fatigue 
+- Recherche de corrosion 
+ 
+  
+
+===== PAGE 68 =====
+Module 7.18 V05   Page 68 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.5.2. Principe de détection par radiographie 
+ 
+Les rayons ionisants sont émis à partir : 
+- D’une source naturelle (iridium, cobalt)  
+- De projection d’électrons accélérés sur une cible (rayons x). 
+ 
+Ces rayons traversent la pièce à contrôler en subissant une atténuation liée : 
+- Aux interactions avec la matière.  
+- À la densité des matériaux constituant la pièce. 
+- À l’épaisseur traversée. 
+ 
+Cette atténuation dépend de l’énergie du rayonnement. Ce rayonnement est ensuite détecté sur un 
+film radiographique. Le développement du film permet de mettre en évidence des variations de 
+densité optique représentant les différentes absorptions rencontrées lors de la traversée de la pièce. 
+La lecture de ces négatifs sur un négatoscope permet de statuer sur la sante de la pièce. 
+ 
+La mise en évidence des défauts est assurée par une variation de densité optique sur le 
+radiogramme (film) suite aux différentes absorptions. 
+La détection des défauts sera d’autant plus aisée que l’orientation des défauts est parallèle au 
+faisceau de rayons X. 
+  
+===== PAGE 69 =====
+Module 7.18 V05   Page 69 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.5.3. Applications 
+Pièces de fonderie (Alliages Aluminium et Magnésium) 
+Pour ces contrôles un document est établi par le fondeur et approuve par le client. 
+ 
+Ce document appelé TRA (Technique de Radiographie Approuvée) définit l’ensemble des cliches 
+radiographiques et les paramètres de tir pour tous les contrôles à effectuer sur la pièce. 
+ 
+Types de défauts recherchés : 
+- Soufflures 
+- Inclusions plus ou moins denses  
+- Porosités gazeuses (ronde allongée) 
+- Retassure (cavités, éponges) 
+- Ségrégation eutectique (magnésium) 
+- Peau d’oxyde (magnésium) 
+- Inclusions de sable 
+ 
+Soudures 
+L’ensemble des paramètres de tir sont consignés dans une fiche de contrôle soudage de la pièce qui 
+précise la classification de la soudure (classification de 1 a 3 par ordre de sévérité fonctionnelle 
+décroissante) 
+ 
+Les critères d’acceptation sont donnés soit à partir des normes soit à partir de l’expérience et des 
+essais mécaniques réalisés (tenue en statique ou fatigue). 
+ 
+Types de défauts recherchés : 
+- Fissures (débouchantes ou non) 
+- Cavités (Soufflures, retassures) 
+- Inclusions solides 
+- Manque de fusion (Collage, Manque de pénétration) 
+- Défaut de forme (Caniveau, désalignement, largeur irrégulière) 
+- Coup d’arc, projection de tungstène, coup, ... 
+Contrôle Micro foyer soudure SFE : 
+ 
+ 
+ 
+ 
+
+===== PAGE 70 =====
+Module 7.18 V05   Page 70 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Maintenance 
+ 
+Les principales applications de la radiographie X en maintenance concernent la recherche : 
+- De criques de fatigue, 
+- De corrosion. 
+ 
+Les criques de fatigues sont en général recherchées dans les zones à concentration de contrainte 
+(trou de fixation, soudure). 
+ 
+Une détection aisée des criques nécessite une connaissance de leur orientation préférentielle de 
+façon à orienter les tirs pour que le plan de la crique soit parallèle à l’axe du faisceau de rayons X. 
+ 
+La détection de la corrosion par radiographie s’apparente à une détection de variation d’épaisseur de 
+matière (variation de la densité du film). 
+ 
+Cependant cette détection est généralement difficile dans le cas de présence de sels de corrosion. 
+ 
+3.5.4. Conclusions 
+ 
+Les méthodes par de Radiographie s’appliquent à tous les matériaux. 
+Les défauts recherchés peuvent être débouchant ou internes. 
+L’orientation préférentielle des défauts est parallèle au faisceau de rayonnement X. 
+ 
+Avantages de la radiographie : 
+- Pas de couplant. 
+- Sensibilité de la méthode. 
+- Méthode volumique. 
+- Nombreuses applications. 
+- Traçabilité du contrôle (archivage film). 
+ 
+Inconvénients de la radiographie : 
+- Mise en œuvre, prix. 
+- Epaisseur à traverser. 
+- Position et orientation des défauts. 
+- Protection contre rayonnement. 
+  
+===== PAGE 71 =====
+Module 7.18 V05   Page 71 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.6. Ultrasons 
+3.6.1. Principe 
+Le contrôle par ultrasons est basé sur la transmission, la réflexion et l'absorption d'une onde 
+ultrasonore se propageant dans la pièce à contrôler.  
+Le train d'onde émis se réfléchit sur les défauts puis revient vers le traducteur (qui joue souvent le 
+rôle d'émetteur et de récepteur). L'interprétation des signaux permet de positionner le défaut et de 
+définir ses dimensions relatives.  
+Cette méthode présente une résolution spatiale élevée et la possibilité de trouver des défauts aussi 
+bien dans le volume de la matière qu'en surface. L'étape d'inversion est simple, du moins pour les 
+pièces géométriquement et matériellement simples.  
+Cette méthode nécessite d'effectuer un balayage mécanique exhaustif de la pièce. Il est d'ailleurs 
+souvent nécessaire de contrôler plusieurs surfaces de la pièce pour pouvoir faire une représentation 
+tridimensionnelle des défauts. 
+ 
+D'autres techniques, telle que la méthode TOFD (Time of flight diffraction), utilisent le principe de 
+diffraction des ondes ultrasonores pour la détection et la caractérisation des défauts.  
+Les développements technologiques récents permettent également la mise en œuvre de 
+"multiéléments", c'est-à-dire l'équivalent de plusieurs capteurs ultrasonores utilisés en même temps, 
+ce qui permet de maîtriser la "forme" du train d'ondes émis.  
+Par comparaison avec le contrôle par radiographie qui est également mis en œuvre pour la recherche 
+de défauts dans le volume de la matière, les principaux avantages et inconvénients sont les suivants : 
+ 
+     
+Avantages : 
+- Ne nécessite qu'une seule face d'accès 
+- Aucun danger lié à l'utilisation de source radioactive et de rayonnements ionisants 
+- Plus grande sensibilité de contrôle sur les pièces de forte épaisseur 
+- Résultat du contrôle en temps réel 
+- Contrôle plus rapide pour des épaisseurs importantes 
+- Meilleure sensibilité de contrôle pour les défauts filiformes (fissures, tapures, criques) 
+d'orientation aléatoire 
+ 
+Inconvénients : 
+- Certains matériaux métalliques sont difficilement contrôlables (matériaux à gros grains) 
+- Contrôle plus lent pour les faibles épaisseurs 
+- Plus faible sensibilité à la détection de porosités 
+  
+
+===== PAGE 72 =====
+Module 7.18 V05   Page 72 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.6.2. Matériel 
+Appareil (défectoscope) : 
+• Affichage A-scan : amplitude vs temps (profondeur) 
+• Écho entrée → échos défauts → écho fond 
+ 
+Transducteurs : 
+• Fréquences : 1-2 MHz (pénétration épaisseurs fortes), 5-10 MHz (résolution fine) 
+• Mono-élément, dual-element, phased array (multi-éléments) 
+ 
+Couplant obligatoire : gel, eau (transmission onde dans pièce) 
+ 
+3.6.3. Applications aéronautiques 
+- Lors de Mesure d’épaisseur de structure (détection corrosion interne) 
+- Lors de détection de délaminages composites 
+- Lors de contrôle de soudures épaisses 
+- Lors d’inspection de disques moteur (forgeages) 
+ 
+3.6.4. Facteurs influençant la détection 
+L’état de surface (rugosité limite pénétration) ;  
+La taille du grain du matériau (gros grains → bruit) ;  
+La géométrie de la pièce (courbure, épaisseur variable) ;  
+L’orientation des défaut (perpendiculaire au faisceau= optimal). 
+ 
+3.6.5. Comparaison Ultrasons vs Radiographie 
+ 
+Critère 
+ 
+Ultrasons Radiographie 
+ 
+Accès 
+ 
+Une face 
+ 
+Deux faces 
+ 
+Sécurité Aucun danger Rayonnements ionisants 
+ 
+Épaisseur forte Excellent Limité 
+ 
+Défauts plans (fissures) Excellent Moyen 
+ 
+Porosités Moyen Excellent 
+ 
+Vitesse Temps réel Lent (développement film) 
+  
+===== PAGE 73 =====
+Module 7.18 V05   Page 73 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.7. Endoscopie 
+ 
+Les endoscopes sont des appareils destinés à examiner les parties inaccessibles à l’œil, telles que 
+des cavités, parties internes des réacteurs.  
+ 
+Ils doivent donc retransmettre une image analysée par l’examinateur et fournir un éclairage à la pièce 
+étudiée. 
+ 
+Ces deux fonctions, éclairage et transmission d’images, sont assurées de plusieurs façons : 
+ 
+- L’éclairage peut être intérieur ou extérieur par ampoule ou par conducteur de lumière. 
+- L’image peut être transmise par des fibres optiques au par un dispositif comportant des 
+miroirs et des lentilles. 
+ 
+    
+ 
+3.7.1. Les endoscopes rigides 
+ 
+L’image est transmise par un dispositif optique comprenant un oculaire et un miroir d’inclinaison 
+ajustable. 
+ 
+L’éclairage est effectué soit par une ampoule située en bout de l'endoscope, alimentée de l'extérieur, 
+soit par des fibres de verre guidant à l'intérieur de l'objet la lumière émise par une source extérieure. 
+Les endoscopes sont de longueur et de diamètres différents suivant l’utilisation.  
+ 
+Ils sont plusieurs types de visions : directe 90°, 80°, 60° et rétrograde. 
+ 
+ 
+  
+
+===== PAGE 74 =====
+Module 7.18 V05   Page 74 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+3.7.2. Les endoscopes souples 
+Ces endoscopes sont apparus avec le développement des fibres optiques. 
+ 
+L’éclairage et la transmission de l'image sont assurés par un ensemble de fibres de verre qui guident 
+la lumière. 
+ 
+Ces fibres sont souples et permettent de réaliser des endoscopes dont la longueur peut atteindre 4 
+mètres.  
+ 
+Les dimensions courantes sont de l’ordre d’une vingtaine de centimètres à un mètre environ. 
+ 
+Endoscope souple avec générateur de lumière 
+ 
+ 
+ 
+Dans ce type d’endoscope, la lumière et l’image sont transmis par un faisceau de fibres dont chacun 
+conduit les rayons. 
+La source lumineuse étant située à l’extérieur de la pièce examinée, ce procédé est appelé procédé à 
+lumière froide. 
+  
+
+===== PAGE 75 =====
+Module 7.18 V05   Page 75 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Avantages 
+ 
+Inconvénients 
+Ces appareils sont 
+faciles d'emploi, 
+nécessitent très peu 
+d'entretien et 
+permettent le contrôle 
+de l'état avec un 
+minimum de 
+démontage. 
+ 
+ 
+Dans tous les usages de ces aides optiques, il y a nécessité d’orifices de visite 
+de diamètre suffisant. 
+Les conditions d’éclairage limitent l’observation des défauts. 
+ 
+- Source lumineuse interne à proscrire absolument dans le cas d’examen 
+d’enceinte renfermant des hydrocarbures, le point chaud constitué par 
+l’ampoule peut amener un risque d’inflammation des vapeurs (réservoirs, 
+par exemple). 
+ 
+L’appréciation de la longueur d’une crique reste délicate du fait des 
+grossissements, malgré l’étalonnage de l’oculaire. 
+La comparaison de la longueur de la fissure avec la longueur critique peut être 
+malaisée. 
+Dans le cas d’un examen à l’aide d’un circuit de télévision, la définition de 
+l’image peut voiler certains détails et fausser l’appréciation des dimensions des 
+défauts. 
+L’appareillage constituant le circuit de télévision, et essentiellement la caméra, 
+est très coûteux. 
+ 
+ 
+Endoscopie moteur Rolls-Royce 
+ 
+ 
+ 
+  
+
+===== PAGE 76 =====
+Module 7.18 V05   Page 76 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.8. Méthodes composites 
+3.8.1. Tap Test 
+Le tap test consiste à percuter légèrement la surface du matériau composite à l'aide d'un petit 
+marteau d'inspection, en écoutant attentivement le son produit. Un son clair indique un matériau sain, 
+tandis qu'un son mat ou sourd est révélateur d'un délaminage potentiel. 
+Cette méthode présente l'avantage d'être simple, rapide et peu coûteuse à mettre en œuvre. Elle 
+comporte néanmoins des limites : les résultats sont subjectifs et dépendent directement de 
+l'expérience de l'opérateur. 
+3.8.2. Thermographie infrarouge 
+La thermographie infrarouge consiste à chauffer la surface du matériau composite puis à observer la 
+répartition thermique à l'aide d'une caméra infrarouge. Les zones délaminées se refroidissent 
+différemment des zones saines, ce qui permet de les identifier. 
+Cette méthode présente l'avantage de permettre l'inspection de grandes surfaces rapidement et sans 
+contact avec le matériau. Elle nécessite cependant un équipement coûteux et des conditions 
+d'utilisation contrôlées. 
+ 
+3.8.3. Ultrasons pour composites 
+La méthode ultrasonique appliquée aux composites repose sur le même principe que celle utilisée 
+pour les métaux, mais est adaptée aux spécificités de ces matériaux. Elle permet de détecter les 
+délaminages internes non visibles à l'œil nu. 
+Cette technique offre une bonne précision de détection ainsi qu'une profondeur de pénétration 
+permettant d'inspecter les couches internes du matériau. 
+  
+
+===== PAGE 77 =====
+Module 7.18 V05   Page 77 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4. TECHNIQUES DE DEMONTAGE ET DE REMONTAGE 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et 
+pratiques du des techniques de démontage et remontage et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière 
+logique et compréhensible  
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+4.1. Introduction aux techniques de montage/démontage  
+ 
+Méthode de travail Toute intervention doit être réalisée conformément à la documentation 
+approuvée. La procédure doit être lue intégralement avant de commencer. La zone de travail doit être 
+préparée en amont : installation de l'établi ou sécurisation de la zone avion, mise en sécurité de 
+l'aéronef, et mise à disposition des moyens de stockage des éléments déposés (boîtes, bouchons, 
+pochettes plastiques). L'outillage nécessaire à la tâche doit être rassemblé avant le début de 
+l'intervention. 
+ 
+Propreté La propreté de la zone de travail doit être maintenue tout au long de l'intervention. Des bacs 
+de récupération de fluides et des chiffons propres doivent être disponibles à proximité du poste de 
+travail. 
+ 
+Organisation Le démontage doit être planifié et organisé en fonction du contexte de l'intervention, 
+qu'elle se déroule en hangar ou en piste. 
+ 
+Identification des matériaux et de la visserie Avant toute intervention, il est nécessaire d'identifier 
+la nature des pièces à manipuler (aluminium, composite, plastique) ainsi que le type de visserie en 
+présence, afin de sélectionner l'outillage adapté. 
+ 
+Desserrage Afin de faciliter le desserrage, les éléments concernés doivent être préalablement 
+nettoyés et débarrassés de toute protection ou peinture. En cas de résistance, il est possible de 
+recourir à un produit dégrippant, puis à un outil à choc, et en dernier recours à l'application de 
+chaleur. Il ne faut jamais forcer sur un élément : tout blocage anormal doit être investigué avant de 
+poursuivre l'intervention. 
+ 
+Sens de serrage et couples Par convention, tout serrage s'effectue dans le sens des aiguilles d'une 
+montre (filetage à droite), le desserrage s'effectuant donc dans le sens inverse. Les serrages doivent 
+être réalisés en quinconce et les couples de serrage prescrits par la documentation constructeur 
+doivent être scrupuleusement respectés. 
+ 
+Repérage des éléments Chaque élément déposé doit être repéré et identifié à chaque étape du 
+démontage, afin de garantir un remontage correct et conforme. 
+ 
+Remontage Lors du remontage, il est impératif de vérifier que tous les éléments d'étanchéité (joints, 
+bagues, etc.) ont bien été remplacés et correctement installés conformément aux exigences de la 
+documentation technique. 
+  
+
+===== PAGE 78 =====
+Module 7.18 V05   Page 78 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+4.2. Phases de démontage 
+Le démontage doit impérativement être réalisé dans l'ordre logique et rationnel décrit dans le manuel 
+de révision. Tout écart par rapport à cette séquence peut entraîner la dépose en force de certains 
+éléments et provoquer leur détérioration. 
+ 
+Les outils prescrits par la documentation doivent être utilisés conformément à l'usage pour lequel ils 
+ont été conçus. Certains d'entre eux sont recouverts d'un revêtement protecteur destiné à éviter de 
+rayer ou d'endommager les pièces travaillées. Cet état de protection doit être vérifié régulièrement 
+afin de garantir une efficacité maximale. Les outils doivent être maintenus en bon état et rangés après 
+chaque utilisation. 
+ 
+Les pièces démontées doivent être déposées sur un établi propre, dans l'ordre de démontage, et 
+identifiées par étiquetage unitaire ou d'ensemble selon les cas. 
+ 
+ 
+  
+
+===== PAGE 79 =====
+Module 7.18 V05   Page 79 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.3. Avant montage 
+Toute opération de montage doit s'appuyer sur la documentation technique applicable (AMM, SRM, 
+CMM, SB, etc.). 
+ 
+Contrôle de l'emballage et des documents Avant toute manipulation, l'emballage doit être examiné 
+afin de détecter toute trace de choc. La présence des documents d'accompagnement obligatoires doit 
+être vérifiée (fiche de modification, étiquette, Form FAA, EASA Form 1, etc.), ainsi que celle des 
+protecteurs et obturateurs d'origine. 
+ 
+Contrôle visuel de l'équipement Un examen visuel minutieux de la pièce ou de l'équipement à 
+monter doit être réalisé. Cet examen porte sur les points suivants : 
+ 
+• Absence de chocs, déformations, oxydation, écaillage de revêtement ou dépôts (abradable, 
+etc.) 
+• Absence de coloration inhabituelle 
+• Absence de rayures sur les zones fortement sollicitées : rayons de raccordement, alvéoles de 
+disques, raccordement pale/pied d'aube, festons de brides, bords d'attaque et de fuite des 
+aubes de compresseur, canalisations et pistes de roulement 
+• État de surface correct sur les plans de joints, faces d'appui, centrages, gorges de joints, 
+curvic couplings, engrenages et cannelures (absence de bavures et de chocs) 
+• Propreté générale : absence de corps étrangers dans les canalisations, taraudages et cavités 
+de carters ; marquages de fabrication effacés ; propreté du conteneur ou de la caisse navette 
+• Absence de produit de protection résiduel (huile, graisse, etc.) 
+• Validité des dates de péremption (joints, etc.) 
+• Qualité et lisibilité du marquage (conformité et lisibilité) 
+ 
+En cas de doute sur la présence d'un défaut, le technicien doit impérativement en référer à sa 
+hiérarchie avant de poursuivre. 
+  
+===== PAGE 80 =====
+Module 7.18 V05   Page 80 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.4. Montage des organes d’étanchéité 
+Après chaque dépose d’un élément équipé d’un joint torique, rebuter systématiquement celui-ci. 
+Vérifier la validité du stockage ; la date de péremption est mentionnée sur la pochette d’emballage. 
+Ne jamais faire passer un joint torique sur des arêtes vives (filetage, etc.). 
+4.4.1. Contrôle de l’état du joint 
+L’élastomère ne doit être ni mou, ni cassant ; être exempt de coupure, déchirure et bavure de 
+moulage. 
+ 
+ 
+4.4.2. Contrôle du logement 
+Vérifier que les portées du joint soient exemptes de toute trace de choc et de rayure.  
+ 
+S’assurer de l’absence d’arête vive pouvant endommager le joint lors de son montage. 
+ 
+Éventuellement, adoucir les angles vifs à la pierre. 
+ 
+4.4.3. Mise en place du joint torique avec emmanche-joints 
+ 
+Avant toute mise en place, l'emmanche-joints ainsi que le logement du joint doivent être 
+soigneusement nettoyés. Le joint torique doit ensuite être enduit du lubrifiant prescrit par le manuel de 
+révision. 
+ 
+L'emmanche-joints est alors mis en place, et le joint est glissé progressivement jusqu'à son logement, 
+en veillant à éviter tout vrillage du tore durant cette opération. L'emmanche-joints est ensuite retiré. 
+ 
+Une vérification finale est obligatoire : s'assurer que le joint torique est correctement positionné dans 
+son logement, que le tore n'est pas vrillé et qu'aucun arrachement ni coupure n'a été occasionné lors 
+du montage. 
+ 
+  
+
+===== PAGE 81 =====
+Module 7.18 V05   Page 81 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5. TECHNIQUE DE DEPANNAGE 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques 
+des techniques de dépannage et une capacité à combiner et appliquer des éléments de 
+connaissances séparés d'une manière logique et compréhensible.  
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+5.1. Introduction 
+ 
+L’expérience ne se transmet pas de façon systématique (et quand la transmission existe elle n'est ni 
+aisée ni rapide). L’expérience du dépannage est de plus en plus longue à acquérir du fait de 
+l’amélioration continue de la fiabilité. Les techniques sont de plus en plus variées et imbriquées. Les 
+coûts de maintenance sont de plus en plus élevés, il est nécessaire de développer et de renforcer 
+l’esprit de méthode.  
+ 
+5.2. Analyse et essaie  
+ 
+Avant toute intervention de dépannage, il est nécessaire de procéder à un essai fonctionnel du 
+système incriminé. Cette étape consiste à vérifier l'état et la position au repos de chaque composant 
+du système, conformément aux données du constructeur (AMM, TSM, Wiring Diagrams). Elle permet 
+d'établir un état de référence avant toute action corrective et d'orienter le diagnostic vers les éléments 
+défaillants. 
+ 
+  
+
+===== PAGE 82 =====
+Module 7.18 V05   Page 82 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+La notion de « système » est fondamentale en dépannage à diagnostic. 
+Tout système est un ensemble structuré, placé dans un environnement, chargé d'agir sur celui-ci 
+et/ou de subir son influence. Il se compose d'éléments reliés entre eux :( équipements, câblages, 
+tuyauteries, connexions, raccords, champs électriques ou électromagnétiques) capables d'exercer 
+des influences réciproques, appelées interactions. 
+L'environnement désigne la partie du milieu extérieur qui subit l'action du système et/ou qui agit sur 
+lui. En aéronautique, cela inclut notamment les systèmes adjacents, l'alimentation électrique ou 
+hydraulique commune, ainsi que les conditions opérationnelles (température, vibrations, cycles de 
+vol). 
+Pour analyser efficacement un système complexe, il est nécessaire de le subdiviser en sous-
+systèmes ou en chaînes fonctionnelles. On distingue généralement : 
+• La chaîne de commande et/ou de signalisation, qui regroupe les éléments chargés d'envoyer 
+un ordre ou un signal (interrupteurs, capteurs, calculateurs, relais de commande). 
+• La chaîne de puissance, qui regroupe les éléments chargés de fournir l'énergie nécessaire à 
+l'action (disjoncteurs, contacteurs, alimentations électriques ou hydrauliques). 
+• La chaîne cinématique ou sous-système commandé, qui regroupe les éléments qui réalisent 
+l'action finale (actionneurs, moteurs, vannes, gouvernes). 
+En dépannage, la notion de fonction prime sur la notion de technologie. Peu importe la nature des 
+composants mis en œuvre (électrique, hydraulique, mécanique ou numérique ) ce qui compte est de 
+comprendre ce que chaque élément est censé faire dans la chaîne fonctionnelle. 
+Il est donc indispensable d'identifier toutes les fonctions du système avant de procéder à tout 
+diagnostic, afin de découper correctement l'ensemble en chaînes d'éléments concourant à une même 
+fonction. 
+Chacune de ces chaînes répond à un objectif fonctionnel distinct et doit être analysée séparément 
+lors du dépannage. 
+Un dépannage efficace repose sur une démarche rigoureuse et structurée. Le technicien doit : 
+• Consulter et exploiter la documentation technique applicable (AMM, TSM, Wiring Diagrams, 
+SB) avant toute intervention. 
+• Identifier clairement la ou les fonctions défaillantes à partir des observations, des alarmes et 
+des comptes rendus de l'équipage ou du personnel opérationnel. 
+• Analyser le système en chaînes fonctionnelles et identifier les points communs avec d'autres 
+systèmes ou circuits partageant la même source d'alimentation ou les mêmes composants 
+(points communs environnementaux). 
+• Appliquer une méthode de localisation de panne adaptée au contexte, telle que la méthode 
+par dichotomie (half-split), la méthode entrée/sortie, ou la méthode par arbre de causes. 
+• Hiérarchiser les actions selon leur impact sur la sécurité, leur urgence et leur importance, 
+conformément aux exigences Part-145 et Part-66. 
+• Tracer toutes les actions réalisées dans les documents de maintenance applicables. ` 
+ 
+Il existe toujours plusieurs approches possibles pour résoudre une panne. Le technicien expérimenté 
+choisit celle qui est la mieux adaptée au contexte technique, opérationnel et réglementaire, en tenant 
+compte des contraintes de temps, de disponibilité des équipements et des impératifs de navigabilité.  
+===== PAGE 83 =====
+Module 7.18 V05   Page 83 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.3. Les méthodes de base 
+ 
+5.3.1. La méthode par dichotomie (half-split) 
+La méthode par dichotomie, également appelée méthode half-split, consiste à diviser le 
+système ou la chaîne fonctionnelle en deux parties égales, puis à tester le point médian afin 
+de déterminer dans quelle moitié se situe la défaillance. On écarte ensuite la moitié saine et 
+on recommence l'opération sur la moitié suspecte, jusqu'à isoler le composant défaillant. 
+Cette approche est particulièrement efficace lorsque la chaîne fonctionnelle est longue et 
+comporte de nombreux éléments en série. Elle permet de réduire significativement le nombre 
+de tests nécessaires et donc le temps de dépannage. En pratique, sur un circuit électrique, 
+cela revient à mesurer la tension ou la continuité en un point intermédiaire du circuit avant de 
+tester chaque composant individuellement. 
+ 
+Représentation schématique : 
+ 
+ 
+ 
+Exemple A320 — Circuit d'éclairage cabine (B1/B2) : 
+ 
+  
+
+===== PAGE 84 =====
+Module 7.18 V05   Page 84 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Un technicien constate que l'éclairage de la cabine passagers est totalement inopérant. Le circuit 
+est alimenté depuis le réseau 115V AC et comporte plusieurs éléments en série :  
+Disjoncteur → contacteur de commande → unité de contrôle (CCU) → ballasts → tubes 
+fluorescents.  
+Plutôt que de tester chaque composant un par un, le technicien applique la méthode half-split. Il 
+mesure la tension en sortie de la CCU, point médian de la chaîne.  
+La tension est présente et correcte : la panne est donc localisée dans la seconde moitié du circuit, 
+entre la CCU et les tubes.  
+Il teste ensuite le point médian de cette seconde moitié, soit en sortie du premier ballast. La 
+tension est absente : le ballast est identifié comme défaillant.  
+Le nombre de mesures effectuées est passé de cinq à deux, réduisant considérablement le temps 
+d'intervention. 
+Exemple B1 / Hélicoptère, circuit de commande de pas collectif : 
+ 
+ 
+ 
+Le technicien détecte un jeu anormal dans la commande de pas collectif.  
+ 
+Il divise la chaîne cinématique en deux parties : la première allant du palonnier jusqu'au point 
+de renvoi central, la seconde du point de renvoi jusqu'au plateau cyclique.  
+ 
+En vérifiant le jeu au point médian, il détermine rapidement dans quelle portion de la tringlerie 
+se situe l'usure ou le palier défaillant. 
+  
+
+===== PAGE 85 =====
+Module 7.18 V05   Page 85 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Exemple B1/B2 / Avion léger, circuit de démarrage moteur : 
+ 
+ 
+ 
+Le démarreur ne s'enclenche pas. Le technicien identifie le point médian du circuit entre la 
+batterie et le démarreur, au niveau du relais de démarrage.  
+ 
+Il vérifie la présence de tension en entrée du relais.  
+ 
+La tension est absente : la défaillance se situe donc entre la batterie et le relais, réduisant 
+immédiatement la zone de recherche à la moitié du circuit. 
+5.3.2. La méthode entrée/sortie 
+La méthode entrée/sortie consiste à analyser le système en partant de ses signaux ou 
+énergies d'entrée et en suivant leur cheminement jusqu'à la sortie attendue. Le technicien 
+vérifie successivement que chaque étape de la chaîne fonctionnelle reçoit bien le signal ou 
+l'énergie en entrée et le restitue correctement en sortie. Dès qu'un élément reçoit un signal 
+correct en entrée mais ne fournit pas la sortie attendue, il est identifié comme défaillant. 
+Cette méthode est particulièrement adaptée aux systèmes séquentiels, c'est-à-dire aux 
+systèmes dont le fonctionnement suit un enchaînement logique et ordonné d'étapes. Elle 
+nécessite une bonne maîtrise des Wiring Diagrams et des schémas fonctionnels du système, 
+ainsi que l'utilisation d'appareils de mesure adaptés (multimètre, oscilloscope, banc de test). 
+Représentation schématique : 
+  
+
+===== PAGE 86 =====
+Module 7.18 V05   Page 86 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Exemple B2 / A320 / Système de sortie des becs de bord d'attaque SLAT (B1) : 
+ 
+Lors d'un essai fonctionnel, le technicien constate que les becs ne se déploient pas à la sélection 
+du levier de becs/volets sur la position 1. Il applique la méthode entrée/sortie en suivant la chaîne 
+fonctionnelle du système.  
+Il vérifie d'abord la chaîne de commande : la position du levier est correctement transmise au 
+SFCC (Slat Flap Control Computer) — entrée OK.  
+Il vérifie ensuite que le SFCC envoie bien un ordre de commande vers le contacteur 
+hydraulique de la SHPV (Slat Hydraulic Power Valve) — sortie SFCC OK.  
+Il contrôle alors l'alimentation et la commande de la SHPV elle-même : l'ordre électrique est 
+reçu en entrée, mais la vanne ne s'ouvre pas — sortie NOK.  
+La SHPV est identifiée comme défaillante.  
+Sans cette méthode structurée, le technicien aurait pu perdre un temps considérable à inspecter 
+les actionneurs mécaniques ou les becs eux-mêmes. 
+Exemple B2 / A320, système ADIRS (Air Data Inertial Reference System) : 
+ 
+Le MCDU affiche un message de défaut sur l'ADR 1. Le technicien suit la chaîne fonctionnelle 
+depuis la sonde Pitot (entrée) jusqu'au calculateur ADIRU (sortie).  
+Il vérifie successivement l'intégrité de la sonde, la continuité du câblage, la tension 
+d'alimentation du calculateur, puis les signaux de sortie vers le PRIM et l'EFIS. La sonde 
+restitue des valeurs cohérentes, le câblage est intact, mais le signal de sortie de l'ADIRU vers le 
+PRIM est absent : le calculateur est identifié comme défaillant. 
+  
+
+===== PAGE 87 =====
+Module 7.18 V05   Page 87 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Exemple B1 / Hélicoptère, système hydraulique de commande de vol : 
+ 
+ 
+ 
+Le technicien constate une réponse lente des servocommandes. Il analyse la chaîne depuis la 
+pompe hydraulique (entrée de pression) jusqu'aux servocommandes (sortie mécanique).  
+Il mesure la pression en sortie de pompe, puis en entrée du filtre hydraulique, puis en entrée des 
+servocommandes.  
+La pression chute significativement entre le filtre et les servocommandes : le filtre est colmaté et 
+identifié comme cause de la défaillance. 
+Exemple B1/B2 / Avion léger, système de volets électriques : 
+ 
+Les volets ne se déploient pas à la sélection. Le technicien analyse la chaîne depuis l'interrupteur 
+de sélection volets (entrée commande) jusqu'au moteur électrique de volets (sortie mécanique).  
+Il vérifie successivement la tension en sortie de l'interrupteur, la continuité jusqu'au relais de 
+commande, la tension d'alimentation du moteur.  
+La tension est présente en entrée du moteur mais celui-ci ne tourne pas : le moteur est défaillant. 
+ 
+  
+
+===== PAGE 88 =====
+Module 7.18 V05   Page 88 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.3.3. La méthode par arbre de causes 
+La méthode par arbre de causes est une approche analytique et descendante qui part du 
+symptôme observé « la panne constatée » pour remonter progressivement vers toutes les 
+causes possibles pouvant l'expliquer. Le technicien construit un arbre logique en 
+décomposant chaque cause potentielle en sous-causes, jusqu'à identifier la cause racine de 
+la défaillance. Cette méthode est particulièrement adaptée aux pannes complexes, 
+intermittentes ou multi-systèmes, pour lesquelles les causes ne sont pas immédiatement 
+évidentes. Elle favorise une réflexion structurée et exhaustive, et permet d'éviter les erreurs 
+de diagnostic liées à une approche trop empirique. En maintenance aéronautique, elle est 
+souvent utilisée en complément des données issues du système de compte rendu matériel 
+(CRM) et des historiques de maintenance enregistrés dans le logiciel de gestion de 
+navigabilité. 
+Représentation schématique : 
+Exemple B2 / A320, panne intermittente sur le système de pressurisation : 
+ 
+L'équipage signale des variations irrégulières de la pression cabine en croisière. Le technicien 
+construit un arbre de causes à partir du symptôme.  
+La première branche explore une défaillance de la chaîne de commande : calculateur CPC 
+défaillant, capteur de pression cabine hors tolérance, ou perte intermittente d'alimentation 
+électrique.    
+
+===== PAGE 89 =====
+Module 7.18 V05   Page 89 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+La deuxième branche explore une défaillance de la chaîne de puissance : outflow valve en 
+position incorrecte, safety valve qui s'ouvre intempestivement.  
+La troisième branche explore l'environnement : joint d'étanchéité de porte dégradé, fuite 
+structurale.  
+L'analyse croisée avec l'historique ACMS et le CRM oriente rapidement le diagnostic vers un 
+capteur de pression cabine dont la dérive a été confirmée par les données enregistrées. 
+Exemple B1 / Hélicoptère, vibrations anormales en vol de translation : 
+ 
+Le pilote signale des vibrations inhabituelles apparaissant uniquement en translation à 80 kt. Le 
+technicien construit un arbre de causes. La première branche explore le rotor principal : 
+déséquilibre des pales, usure des amortisseurs de traînée, jeu dans les butées de pas.  
+La deuxième branche explore la transmission : usure de la boîte de transmission principale, 
+désalignement de l'arbre de transmission.  
+La troisième branche explore le rotor arrière : déséquilibre, jeu dans les paliers.  
+En croisant les fréquences de vibration mesurées avec les fréquences caractéristiques de chaque 
+composant rotatif, le technicien identifie un amortisseur de traînée d'une pale principale 
+présentant une dégradation interne. 
+Exemple B1/B2 — Avion léger, déclenchement intempestif du disjoncteur du circuit avionique : 
+ 
+Le disjoncteur du circuit avionique saute de manière répétée après quelques minutes de vol. Le 
+technicien construit un arbre de causes.   
+
+===== PAGE 90 =====
+Module 7.18 V05   Page 90 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+La première branche explore une surintensité réelle : court-circuit sur le câblage, composant 
+avionique défaillante consommant trop de courant, connecteur oxydé générant une résistance de 
+contact et un échauffement.  
+La deuxième branche explore un disjoncteur défaillant : seuil de déclenchement hors tolérance 
+dû à l'usure ou à la température.  
+La troisième branche explore l'environnement thermique : température élevée dans le tableau de 
+bord réduisant le seuil de déclenchement du disjoncteur.  
+La mesure de la consommation réelle du circuit en condition de vol simulée, combinée à un 
+contrôle du disjoncteur sur banc de test, permet d'identifier un disjoncteur dont le seuil de 
+déclenchement thermique a dérivé hors limites. 
+  
+===== PAGE 91 =====
+Module 7.18 V05   Page 91 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 1 - TYPES DE DÉFAUTS  
+Module 7.18 - Inspection visuelle et CND  
+ 
+1. Structure  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Installation correcte 
+Masticage  
+Produits de protection corrosion  
+Peinture conforme 
+Tension 
+Cintrages, pliages 
+Ondulations 
+Arêtes vives 
+Copeaux entre pièces 
+Ruptures, fissures 
+Griffures, entailles 
+Corrosion 
+Déformations 
+Dégâts dus à la fatigue 
+  
+Éléments concernés  
+Revêtement • Poutres • Nervures • Raidisseurs • Dôme de pression • Parois étanches • Couples • 
+Quille • Renforts • Supports • Cornières • Douilles • Embases  
+  
+2. Boulons, rivets, vis  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Longueur et 
+dimension correctes 
+Filets apparents en tolérances 
+Torquage selon prescription 
+Desserrés 
+De travers 
+Appuis incorrects 
+Cassés 
+Corrodés 
+  
+3. Rondelles et écrous  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Type et dimensions corrects 
+Torquage selon prescriptions 
+Desserrées 
+Faussées 
+Manquantes 
+Trop grandes 
+Voilées 
+Tordues 
+  
+4. Conduites et canalisations  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Correctement fixées 
+Brides montées correctes 
+Distance suffisante structure 
+Protection corrosion 
+Alignement correct 
+Assurances selon prescriptions 
+Tensions 
+Mauvais alignement 
+Raccords desserrés 
+Mauvaise étanchéité 
+Isolations mal fixées 
+Fuites 
+Cassées, fissurées 
+Bosselées, griffées 
+Enfoncées, entailles 
+Corrosion 
+Isolations endommagées 
+Isolation humide 
+  
+5. Tuyauterie souple  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Installation correcte 
+Fixation correcte 
+Distance correcte structure 
+Brides correctes 
+Rayons dans tolérances 
+Pas de torsion ni tension 
+Pré-tension 
+Tordues 
+Lâches 
+Brides desserrées 
+Brides manquantes 
+Raccords pas étanches 
+Usure 
+Frottement 
+Coupures 
+Enflures 
+   
+===== PAGE 92 =====
+Module 7.18 V05   Page 92 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6. Embouts et raccords de conduites  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Serrés 
+Assurances 
+et torquage selon prescriptions 
+Protection 
+corrosion manquante 
+Rondelles manquent 
+Tensions 
+Montage décalé 
+Mal alignés aux passages 
+Fissurés 
+Filetages abîmés 
+Endommagés par outillage 
+  
+7. Brides  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Serrées 
+Type et dimensions corrects 
+Torquage selon prescriptions 
+Tensions 
+Mauvais alignement 
+Raccords desserrés 
+Mauvaise étanchéité 
+Isolations mal fixées 
+Fuites 
+Desserrées 
+Faussées 
+Manquantes 
+Trop grandes 
+Voilées 
+Tordues 
+  
+8. Montage des câbles  
+ 
+STANDARD ANOMALIES DÉGÂTS 
+Tension correcte 
+Éloignés de la structure 
+Broches et goupilles montées 
+Goupilles poulies assurées 
+Tendeurs assurés 
+Câbles conservés 
+Passages installés 
+Cheminement correct 
+Usés, rouillés 
+Détendus 
+Passages/grommets abîmés 
+Passages étanches abîmés 
+Mauvaise tension 
+Passages manquants 
+Câbles croisés 
+Conservation manquante 
+Torons cassés 
+Brins cassés 
+  
+9. Leviers de renvoi, tringles de commande  
+Embouts de tringles, poulies, segments, supports de poulies, actuateurs  
+STANDARD ANOMALIES DÉGÂTS 
+Installations correctes 
+Distance suffisante structure 
+Rotules tournant librement 
+Écrous serrés et assurés 
+Fixation poulies et assurances 
+Tensions 
+Montage mal aligné, décalé 
+Jeux excessifs paliers 
+Fixations qui bougent 
+Assurances manquantes 
+Fuites 
+Fissures 
+Pliés, tordus 
+Paliers usés 
+Poulies endommagées 
+Cassées 
+Corrosion 
+ 
+10. Zones en général  
+STANDARD ANOMALIES DÉGÂTS 
+Intégralité 
+Propreté 
+Protection 
+Corps étrangers enlevés 
+Composants montés correctem
+ent 
+Assurances 
+vis, écrous selon prescriptions 
+Fixations manquantes, desserrées ou non confor
+mes 
+Assurances manquantes 
+Cheminement câbles 
+Frottement câbles 
+Liberté mouvement commandes insuffisante 
+Suintements ou fuites 
+Traitement anti-
+corrosion défectue
+ux 
+Dégâts par corps 
+étrangers 
+Dégâts par 
+manque de soins 
+   
+===== PAGE 93 =====
+Module 7.18 V05   Page 93 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 2 - Prescriptions générales 
+Attention : veiller à ne pas endommager les pièces adjacentes lors de l’enlèvement des dispositifs 
+de freinage. 
+Les dispositifs de freinage tels que fils frein, goupilles seront rebutés systématiquement. 
+Si au cours du démontage, des dispositifs de freinage sont cassés ou, fait plus rare, manquent, en 
+rechercher la cause.  
+Si les morceaux manquants ne sont pas retrouvés lors du démontage, consigner les faits. 
+Au cours des différentes phases de démontage, effectuer un premier examen minutieux des pièces 
+afin de déceler toutes traces de rayures, brûlures et autres défectuosités.  
+Certains défauts sont plus facilement repérés par l’examen des pièces avant nettoyage. 
+Des traces et des particules de métal sont des signes d’avarie exigeant un examen minutieux et 
+immédiat des filtres. 
+On rencontre parfois des difficultés à dévisser des ensembles solidement fixés, surtout dans les 
+parties chaudes du réacteur.  
+Afin d’éviter un grippage, déposer quelques gouttes de dégrippant sur les vis, boulons et écrous de 
+fixation.  
+Attendre que le produit pénètre par capillarité pendant quelques minutes et procéder au desserrage. 
+ 
+ 
+Nota : 
+Dans certains cas, il sera nécessaire de laisser pénétrer le dégrippant pendant plusieurs heures. 
+Les roulements seront démontés en appliquant une pression uniforme afin d’éviter de « fausser » les 
+pièces.  
+Utiliser impérativement les extracteurs prévus à cet effet. Lorsque les roulements sont démontés et 
+identifiés, les placer dans une boîte et les acheminer vers l’atelier spécialisé. 
+Lors du démontage des canalisations, débloquer les éléments de liaison en maintenant les mamelons 
+à l’aide d’une deuxième clé.  
+La dépose d’une canalisation doit s’effectuer sans contrainte. Toutefois, dans certains cas, une légère 
+déformation élastique du tube est admise. 
+Attention : tous les obturateurs doivent être extérieurs. Il y aurait obstruction du circuit dans le cas 
+d’un obturateur intérieur oublié au montage.  
+Tous les orifices seront bouchés au moyen d’obturateurs prévus dans les tableaux de composition 
+illustrés (TCI). 
+Les joints, garnitures d’étanchéité et pièces en caoutchouc seront rebutés systématiquement. 
+(1) ne pas enlever les joints à l’aide d’outils coupants tels qu’une lame ou une pointe à tracer qui 
+risquerait d’endommager les pièces. 
+(2) le démontage des équipements et accessoires équipés de joints toriques ne peut pas toujours 
+s’effectuer sans détruire ces derniers.  
+Il importe donc, après chaque démontage, de vérifier l’état des joints toriques.  
+En cas de détérioration, s’assurer que le joint a été récupéré dans sa totalité, sinon rechercher les 
+morceaux manquants et signaler toute impossibilité de reconstitution du joint. 
+Utiliser les palans et outillages de levage spécifiés pour soulever les éléments les plus lourds, ceci 
+pour éviter de blesser le personnel ou d’endommager ces éléments en les laissant tomber.  
+ 
+ 
+ 
+Attention : repérage des pièces filetées à gauche :  
+On indique à l’intention de l'utilisateur les pièces filetées à gauche par une ou deux saignées légères. 
+La saignée doit rester visible lorsque la pièce est dans son logement. 
+ 
+ 
+ 
+  
+===== PAGE 94 =====
+Module 7.18 V05   Page 94 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 3 Types de contrôles en maintenance 
+aéronautique 
+Maintenance Preflight Check 
+Contrôle exécuté par le personnel technique avant le départ de l'aéronef. Il permet de détecter tout 
+dommage survenu pendant le temps d'arrêt ou lors du dernier vol. 
+ 
+Walk Around Check 
+Contrôle visuel des anomalies évidentes, effectué depuis le sol, sans démontage. 
+ 
+ 
+ 
+Contrôle Visuel Approfondi 
+Contrôle visuel détaillé portant sur l'état des systèmes, des composants et de leurs fixations. Il vise à 
+détecter les fixations incorrectes, les freinages défectueux, les écrous manquants ou desserrés, les 
+défauts d'alignement des conduites, l'état des prises électriques ainsi que les jeux anormaux des 
+câbles et tringles de commande. Il couvre également toute trace de dégâts, fissures, fuites de fluides, 
+usure, corrosion, surchauffe, fatigue ou vieillissement. 
+ 
+L'inspection s'effectue de près, il doit être possible de toucher et tâter les éléments contrôlés. Les 
+pièces masquant l'accès doivent être démontées. Un éclairage concentré est obligatoire et l'utilisation 
+d'un miroir, d'une loupe ou d'un appareil optique est recommandée selon le cas. Un nettoyage 
+préalable de la zone est nécessaire, en veillant aux effets négatifs que celui-ci pourrait avoir sur les 
+surfaces. Les couches de protection doivent être retirées avec un produit approprié. 
+ 
+General Visual Check (GVC) — Structure 
+Le GVC est un contrôle visuel de la structure, décliné en deux variantes. Le GVC External (GVCE) 
+porte sur les éléments externes de structure désignés, en utilisant les moyens d'accès appropriés, 
+sans démontage de pièces. Le GVC Internal (GVCI) porte quant à lui sur les éléments internes, 
+accessibles par les ouvertures d'accès spécifiées, également sans démontage. 
+ 
+Thorough Visual Check (TVC) — Structure 
+Le TVC est un contrôle visuel minutieux de la structure, décliné en trois variantes : le TVCE External 
+pour la partie externe, le TVCI Internal pour la partie interne, et le TVCE Internal pour les anomalies 
+décelables depuis l'extérieur. 
+Dans le cas du TVCI, les parties masquant l'accès doivent être démontées. Le contrôle s'effectue de 
+près, avec un éclairage concentré, un miroir et une loupe si nécessaire. Il porte sur l'état général, les 
+fixations manquantes ou défectueuses, la corrosion, les déformations et la protection anticorrosion. 
+ 
+Operational Check (OPC) 
+Contrôle de fonctionnement d'un système ou d'un élément, permettant de vérifier que la fonction 
+s'exécute normalement. 
+  
+
+===== PAGE 95 =====
+Module 7.18 V05   Page 95 sur 95 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Functional Check (FUC) 
+Essai détaillé d'un élément visant à vérifier que son fonctionnement est dans les tolérances 
+prescrites, notamment en ce qui concerne les courses, le débit, la température et la pression. 
+ 
+Bench Check (BEC) 
+Functional Check réalisé en atelier sur un élément déposé, afin de déterminer s'il est réutilisable en 
+l'état ou s'il nécessite une révision, une réparation ou des réglages préalables. 
+ 
+Special Check (SPC) 
+Contrôle couvrant tout travail ne pouvant être rattaché à aucune autre définition. La tâche est définie 
+dans le document de travail et peut renvoyer à l'AMM (Aircraft Maintenance Manual). 
+ 
+On Condition (selon état) 
+Série de contrôles ou d'essais successifs permettant de vérifier l'état d'un élément, d'un système ou 
+d'une partie de structure, et de déterminer s'il peut continuer son service en l'état ou si une 
+intervention est nécessaire. 
+ 

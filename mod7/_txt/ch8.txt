@@ -1,0 +1,1572 @@
+===== PAGE 1 =====
+         
+ 
+Module 7.8 
+ 
+Rivetage 
+ 
+Licence B1  
+Livret destiné aux stagiaires 
+ 
+Édition 2026  
+AIR FORMATION 
+ 
+Centre de Formation Aéronautique 
+Agréé EASA PART 147 
+ 
+
+===== PAGE 2 =====
+Module 7.8 V07   Page 2 sur 42 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées 
+à des tiers non habilités. 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+BIBLIOGRAPHIE 
+• Documentation constructeur. 
+• Institut Jean Mermoz – Technologie Générale – G. Cassou. 
+ 
+ 
+TABLEAU D'EVOLUTION 
+Révision Date Pages modifiées Synthèse des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 11/05/2016 Page de garde et page 1  
+Page de garde et page 1  : adresse, signatures et 
+noms modifiés + édition  
+Pied de page modifié sur l’ensemble du document    
+V05 01/06/2017 Toutes Nouvelle édition 
+V06 13/06/2024 Toutes Mise en conformité UE 2023 / 989 
+V07  13/02/2026 Toutes Mise à jour du contenu 
+  
+Visa Rédacteur / Responsable Module 
+Laurent VINGADASSALOM 
+Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+   
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, elle ne doit 
+pas être considérée comme une référence technique. 
+===== PAGE 3 =====
+Module 7.8 V07   Page 3 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par 
+des niveaux de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit 
+:  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité 
+du sujet, en utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une 
+capacité à appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels 
+théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, 
+en utilisant, comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques 
+conjointement aux lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des 
+dessins et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière 
+pratique en utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une 
+capacité à combiner et appliquer des éléments de connaissances séparés d'une 
+manière logique et compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres 
+sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet 
+en utilisant les principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules 
+mathématiques en rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des 
+croquis, des dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière 
+pratique en utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de 
+différentes sources et mesures et d’appliquer une action corrective comme il 
+convient. 
+  
+===== PAGE 4 =====
+Module 7.8 V07   Page 4 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+SUJET MODULE 7 : Procédures d’entretien 
+Catégorie B1 : 80 questions à choix multiples, temps alloué 100 minutes.  
+ 2 questions à développement temps alloué 20 minutes/QD. 
+Catégorie B2 : 60 questions à choix multiples, temps alloué 75 minutes.  
+ 2 questions à développement temps alloué 20 minutes/QD. 
+EXIGENCES EN MATIERE DE CONNAISSANCES 
+DE BASE 
+ 
+MODULE 7.8 Rivetage 
+ 
+Niveau 
+A B1 
+Assemblages rivetées, espacement et pas des rivets ;  
+Outils utilisés pour le rivetage et l'embrèvement ;  
+Inspection des assemblages rivetées. 
+1 2 
+ 
+  
+===== PAGE 5 =====
+Module 7.8 V07   Page 5 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Table des matières 
+1 Assemblages rivetées, espacement et pas des rivets. ........................................................ 7 
+1.1 Assemblages rivetées ; ..................................................................................................... 7 
+1.1.1 Généralités ; ................................................................................................................. 7 
+1.1.2 Choix du rivet ; ............................................................................................................. 9 
+1.1.2.1 Rivets standards ; ................................................................................................ 9 
+1.1.2.1.1 Traitement thermique ; .................................................................................... 9 
+1.1.2.1.2 Les « icebox rivets » ........................................................................................ 10 
+1.1.2.1.3 Nomenclature et désignation ; ....................................................................... 10 
+1.1.2.1.4 Dépose de rivet à frapper ; ............................................................................. 12 
+1.1.2.2 Fixations HI-Locks ; ........................................................................................... 13 
+1.1.2.3 Fixations HI-Lite (ASNA 2027-2028 et 2528) ; .............................................. 14 
+1.1.2.4 Fixations LOCK-BOLT ; .................................................................................... 14 
+1.1.2.5 Fixations Taper lock ; ........................................................................................ 16 
+1.1.2.6 Rivet Cherry ;...................................................................................................... 19 
+1.1.2.7 Rivet Cherry Max à bulbe ; ............................................................................... 19 
+1.1.2.6.1 Dépose des rivets type Cherry ; ...................................................................... 20 
+1.1.2.8 Fixation JO BOLT ; ............................................................................................ 21 
+1.1.2.9 Rivet HI-KOR ;.................................................................................................... 21 
+1.1.2.10 Fixation HI SHEAR. ......................................................................................... 21 
+1.1.2.11 Rivets CHOBERT.et BRIV ; ........................................................................... 22 
+1.1.2.12 Système ASP ; ................................................................................................. 22 
+1.1.2.13 Système ASP ; ................................................................................................. 23 
+1.1.2.14 Rivet Nut plate ; ............................................................................................... 24 
+1.2 Espacement et pas des rivets ; ...................................................................................... 24 
+1.2.1 Espacement et pas des rivets ; ......................................................................... 24 
+1.2.2 Opération de rivetage ; ............................................................................................. 26 
+1.2.2.1 Epinglage ; .......................................................................................................... 26 
+1.2.2.2 Moyens Epinglage ; ........................................................................................... 27 
+1.2.2.3 Epinglage ; .......................................................................................................... 27 
+1.2.2.4 Mode d’épinglage ; ............................................................................................ 27 
+1.2.2.5 Méthode générale préparatoire ; ..................................................................... 28 
+1.2.2.6 Pose à froid ......................................................................................................... 28 
+1.2.2.7 Pose à chaud...................................................................................................... 28 
+===== PAGE 6 =====
+Module 7.8 V07   Page 6 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.2.2.8 Rivetage à la main ............................................................................................. 29 
+1.2.2.9 Rivetage machine portative .............................................................................. 29 
+1.2.2.10 Rivetage machine fixe .................................................................................... 29 
+1.2.2.11 Rivetage arasé ................................................................................................. 30 
+1.2.2.12 Rivetage étanche ............................................................................................. 30 
+2 Outils utilisés pour le rivetage et l'embrèvement. ............................................................... 31 
+2.1 Outils utilisés pour le rivetage ; ...................................................................................... 31 
+2.1.1 Outils multi-frappe pour rivets pleins ; ................................................................... 31 
+2.1.3 Outils pour fixations aveugles ; ............................................................................... 34 
+2.1.3.1 Outils d’installation pour fixations Hi lock/Hi lite ; ......................................... 34 
+2.1.3.1.1 Dépose de fixations Hi lite ; ............................................................................ 34 
+2.1.3.2 Outils d’installation pour fixations Jo-Bolt ; .................................................... 35 
+2.1.3.3 Outils d’installation pour fixations Taper lock ; .............................................. 35 
+2.1.3.4 Outils d’installation pour fixations aveugles (lockbolt, cherry etc.) ; .......... 36 
+2.2 Outils utilisés pour l’embrèvement ; .............................................................................. 37 
+3 Inspection des assemblages rivetées. ................................................................................. 38 
+3.1 Généralités ; ...................................................................................................................... 38 
+3.2 Critères d’inspection du rivetage ; ................................................................................. 39 
+3.2.1 Inspection des rivets à frapper ; .............................................................................. 40 
+3.2.2 Inspection des rivets aveugles (Hi-lite, Huk, Nas, Ms, Cherry etc.) ; ................ 41 
+ANNEXES .................................................................................................................................... 43 
+ANNEXE 1 : Choix du type de rivet à frapper ; .................................................................. 44 
+ANNEXE 2 : Couple électrolytique ; ..................................................................................... 45 
+ANNEXE 3 : Fixations aveugle, outillage et contrôle ; ...................................................... 46 
+ 
+  
+===== PAGE 7 =====
+Module 7.8 V07   Page 7 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1 Assemblages rivetées, espacement et pas des 
+rivets. 
+ 
+ 
+Rappel des objectifs : connaissance générale des aspects théoriques et 
+pratiques des assemblage rivetées, espacement et pas des rivets. Capacité 
+à appliquer cette connaissance. [Niveau 2] 
+ 
+1.1 Assemblages rivetées ; 
+1.1.1 Généralités ; 
+ 
+Un Assemblage rivetée est une liaison permanente mécanique entre deux ou plusieurs 
+éléments structuraux de faible épaisseur, réalisée au moyen de rivets.  
+Cette opération va produire un assemblage solide qui ne peut être séparé sans détruire 
+l’attache. 
+ 
+ 
+ 
+Un rivet est un clou en métal tendre que l'on engage dans des trous préalablement percés 
+sur les pièces à assembler. Ce clou porte à l'extrémité opposée à la tête une partie 
+cylindrique débordante dont l'épanouissement exécuté à froid ou à chaud serre 
+énergiquement les parties à assembler.  
+La liaison ainsi réalisée s'appelle rivure. 
+ 
+  
+
+===== PAGE 8 =====
+Module 7.8 V07   Page 8 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+AVANTAGES DU RIVETAGE INCONVENIENTS DU RIVETAGE 
+- Sécurité (Indémontable). 
+- Exécution relativement facile. 
+- Contrôle simple. 
+- Surface extérieure pas nette. 
+- Diminution des sections des tôles due au 
+perçage. 
+- Difficultés d’étanchéité du montage. 
+- Prix de revient élevé 
+(+ de 60 000 rivets utilisés sur un B777) 
+ 
+Les différents types de rivets  standards rencontrés dans le secteur aéronautique sont 
+normalisés et désignés par des symboles correspondant à la forme de la tête. 
+Exemple : F/90 4 x 10 est un rivet à tête fraisée à 90 ° diamètre 4mm et longueur sous 
+tête 10 mm 
+ 
+Apparent : têtes de rivets restent en relief (bombés).  
+ 
+➔ Choisis lorsque : 
+• L’aérodynamique n’est pas critique, 
+• La priorité est donnée à la résistance mécanique. 
+ 
+➔ Applications typiques : 
+• Structures internes, 
+• Cadres, nervures, lisses, 
+• Zones non exposées au flux d’air. 
+ 
+➔ Justification technique : 
+• Aucune perte d’épaisseur de tôle (pas de fraisage), 
+• Meilleure répartition des contraintes, 
+• Pose plus robuste et tolérante. 
+ 
+Fraisé : têtes de rivets noyées dans un logement fraisé ou embrevé*.  
+ 
+➔ Choisis lorsque : 
+• La surface doit rester lisse et affleurante, 
+• L’écoulement de l’air ne doit pas être perturbé. 
+➔ Applications typiques dans l’aéronautique : 
+• Peaux de fuselage pressurisé, 
+• Extrados et intrados d’ailes, 
+• Empennages, 
+• Zones exposées au flux d’air. 
+➔ Justification technique : 
+• Réduction de la traînée, 
+• Limitation des concentrations de contraintes superficielles, 
+• Meilleure tenue à la fatigue sur peau mince (si épaisseur suffisante). 
+ 
+*L’embrèvement consiste à déformer le métal quand un fraisage est impossible. 
+Lorsqu’une tôle est mince,  il est impossible de fraiser celle -ci lors de l’usinage, le trou 
+d’origine serait agrandi. 
+
+===== PAGE 9 =====
+Module 7.8 V07   Page 9 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2 Choix du rivet ; 
+1.1.2.1 Rivets standards ; 
+Le choix du métal du rivet dépend de : 
+- La nature de l'effort exercé, 
+- L’alliage des pièces à assembler. 
+(VOIR ANNEXE 1) 
+ 
+Les têtes de rivets portent une marque permettant  d’identifier la nature du métal et les 
+conditions de la pose (avec ou sans traitement thermique). 
+Exemple :   
+• 2117-T : pas de traitement thermique nécessaire.  
+• 1100 : rivet pour applications légères ou non structurelles.  
+• 2017 et 2024 : alliages à haute résistance et trop durs à travailler tel quel dans leur 
+condition naturelle, ils nécessitent un traitement thermique. 
+ 
+Les rivets les plus courants sont des rivets  en alliages d’aluminium (par exemple 1100, 
+2117, 2017, 2024) ou d’autres matériaux selon l’application (acier, inox, titane, Monel, 
+etc.) 
+On doit utiliser des rivets avec des alliages compatibles avec les pièces à assembler 
+afin d'éviter les risques de corrosion galvanique. (VOIR ANNEXE 2) 
+Suivant ce principe, l es alliages d’aluminium sont communément divisés en 2 
+groupes. 
+  
+ 
+1.1.2.1.1 Traitement thermique ; 
+ 
+Les alliages à haute résistance (2017, 2024) sont généralement fournis dans un état dur 
+(par trempe et vieillissement naturel) qui ne permet pas leur déformation sans risque de 
+fissure pendant le rivetage.  
+Pour faciliter la mise en forme du rivet avant installation, ces rivets doivent être d’abord 
+soumis à un traitement thermique, puis refroidis rapidement : c’est ce que l’on appelle la 
+trempe. 
+Une fois trempés, ces rivets ont une capacité de déformation plus élevée pendant une 
+courte période avant de revenir vers un état dur (phénomène de vieillissement naturel) 
+à température ambiante.  
+
+===== PAGE 10 =====
+Module 7.8 V07   Page 10 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.1.2 Les « icebox rivets » 
+Les rivets tels que les 2017 -T31 et 2024-T31 sont parfois appelés « icebox rivets » : ils 
+sont maintenus à basse température après trempe (réfrigérés) pour ralentir l’effet de 
+vieillissement naturel et conserver une malléabilité suffisante avant pose. 
+             rivet dur (2017 / 2024) →   traitement thermique →  trempe rapide  
+→  « icebox » réfrigérateur →       sortie à t° ambiante →    pose du rivet dans le délai. 
+ 
+1.1.2.1.3 Nomenclature et désignation ;  
+Les marquages sur les têtes des rivets indiquent le matériau dont ils sont faits et, par 
+conséquent, leur résistance. 
+ 
+ 
+ 
+Bien qu'il y ait trois matériaux indiqués par une tête lisse, il est possible de distinguer leur 
+différence par la couleur.  
+(Exemple : Le 1100 est de couleur aluminium ; l'acier doux est de couleur acier typique ; 
+et le rivet en cuivre est de couleur cuivre.)  
+  
+
+===== PAGE 11 =====
+Module 7.8 V07   Page 11 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Un numéro identifie chaque type de rivet afin que l'utilisateur puisse sélectionner le bon. 
+Le type de tête de rivet est identifié par les numéros standards AN ou MS.  
+Les numéros sélectionnés sont en série et chaque série représente un type particulier de 
+tête. 
+Les numéros les plus courants et les types de têtes qu'ils représentent sont : 
+ 
+• AN426 ou MS20426 — rivets à tête fraisée (100°), 
+• AN430 ou MS20430 — rivets à tête ronde, 
+• AN441 — rivets à tête plate, 
+• AN456 — rivets à tête bombée type “brazier”, 
+• AN470 ou MS20470 — rivets à tête universelle. 
+  
+ 
+Des lettres et des chiffres sont également ajoutés à la référence du rivet : 
+• Les lettres désignent la composition de l’alliage 
+• Les chiffres désignent le diamètre et la longueur du rivet 
+ 
+Les lettres couramment utilisées pour la désignation des alliages sont : 
+• A — alliage d’aluminium, composition 1100 ou 3003 
+• AD — alliage d’aluminium, composition 2117-T 
+• D — alliage d’aluminium, composition 2017-T 
+• DD — alliage d’aluminium, composition 2024-T 
+• B — alliage d’aluminium, composition 5056 
+• C — cuivre 
+• M — Monel 
+ 
+NOTA : L’absence de lettre après le numéro de norme AN indique un rivet fabriqué en 
+acier doux. 
+Le premier chiffre  suivant la désignation de la 
+composition du matériau indique le diamètre de 
+la tige du rivet , exprimé en trente-deuxièmes de 
+pouce. 
+Par exemple : 
+• 3 correspond à 3/32 de pouce 
+• 5 correspond à 5/32 de pouce, etc. 
+Exemple de marquage d'identification d'un rivet : 
+AN470AD3-5 — Référence complète 
+AN — Numéro de norme Air Force-Navy 
+470 — Rivet à tête universelle 
+AD — Alliage d'aluminium 2117-T 
+3 — Diamètre de 3/32 pouce 
+5 — Longueur de 5/16 pouce 
+  
+
+===== PAGE 12 =====
+Module 7.8 V07   Page 12 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.1.4 Dépose de rivet à frapper ;  
+Dans le cas d’un e pose non conforme à la suite d’inspection  (voir § 3.2.1), il faudra 
+procéder au retrait de la fixation. 
+ 
+Le contrôle de l’alésage de fera à l’aide d’un tampon de contrôle. 
+Les tolérances seront données dans la documentation constructeur.  
+ 
+À la suite du contrôle ; il y a 2 possibilités : 
+ 
+→Alésage dans la tolérance = pas de changement  de 
+diamètre de fixation. 
+ 
+→Alésage non conforme = il sera nécessaire de passer et côte de réparation, donnée 
+par la documentation du constructeur.  
+Ceci va générer un changement de diamètre de fixation.  
+ 
+ 
+  
+
+===== PAGE 13 =====
+Module 7.8 V07   Page 13 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.2 Fixations HI-Locks ; 
+Le Hi-lock est une fixation de haute résistance et est composé de 2 parties :  
+- Le rivet (a) 
+- La bague ou « collar » (b) 
+ 
+Le rivet 
+L'une de ses extrémités présente une partie filetée pour recevoir l'écrou bague. 
+Le rivet hi -lock le plus utilisé est en acier, certains sont en inox, titane ou en alliage 
+d'aluminium. 
+Il existe 2 catégories : 
+- Hi-lock de cisaillement. 
+- Hi-lock de tension. 
+Formes de tête 
+- Tête plate.  
+- Tête fraisée 100°. 
+- "Tête réduite pour le type cisaillement". 
+- "Tête normale pour le type tension." 
+ 
+L'écrou bague : collar 
+Les écrous de fixation sont en alliage d'aluminium 2024 -T6 pour les hi -locks de 
+cisaillement et en acier pour les hi-locks de tension. 
+La partie supérieure de la bague est taillée en six pans justes au -dessus de la gorge de 
+rupture. 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.8 V07   Page 14 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.3 Fixations HI-Lite (ASNA 2027-2028 et 2528) ; 
+Le HI LITE est développé à la demande des constructeurs, afin d'obtenir un gain de poids, 
+et une installation possible en automatique. 
+➢ Un gain de poids de 13% a été obtenu grâce à 2 solutions complémentaires : 
+1. Gain d'un filet entre le fut et la partie filetée par rapport au HI LOC précédemment 
+étudié. Ceci grâce à un procédé de fabrication différent. 
+2. Gain d'un second filet par le choix d'une matière plus performante, (le 7075 en 
+remplacement du 2024 utilisé sur le HI LOC) permettant de réduire la hauteur d e 
+la bague. 
+ 
+La longueur de la vis est donc réduite d'une valeur égale à 2 filets. 
+ 
+Les caractéristiques de résistance, la gamme des matériaux et les protections du  
+HILITE sont identiques à celles du HI LOC. 
+ 
+→L'interchangeabilité est donc acceptée entre ces 2 fixations 
+ 
+Les HI LITE portent sur leur tête la désignation HST. 
+ 
+1.1.2.4 Fixations LOCK-BOLT ; 
+ 
+  
+La fixation LOCK-BOLT est composée de 2 parties :  
+- Un Rivet.  
+- La bague ou collar.  
+ 
+
+===== PAGE 15 =====
+Module 7.8 V07   Page 15 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Le rivet 
+Le rivet proprement dit, en acier ou en titane ou en alliage d'aluminium. 
+Il existe deux catégories : 
+- Les rivets de cisaillement. 
+- Les rivets de tension. 
+ 
+Le nombre de gorges dont est pourvue la tige du rivet permet le repérage : 
+- 4 ou 5 gorges pour les rivets de tension, 
+- 2 gorges pour les rivets de cisaillement. 
+ 
+Formes de têtes : 
+- Tête plate. 
+- Tête fraisée 100°. 
+ 
+La bague de sertissage (Collar) 
+La forme et la longueur des bagues de sertissage sont différentes suivant que celles -ci 
+sont destinées au cisaillement ou à la tension. 
+La bague d'un lock-bolt de tension est plus longue que celle d'un lock-bolt de cisaillement. 
+Pour les lock-bolts à 5 gorges, les collars sont aussi en 2024-T4 et de couleur bleue. 
+Identification d'un Lock-Bolt : BAC B 30 ou NAS. 
+ 
+NOTA : 
+Le 1er chiffre (ou nombre) qui suit la référence de base indique le Ǿ en 1/32 de pouce. 
+Le 2ème chiffre ou nombre qui suit la référence de base indique la longueur de serrage 
+en 1/16 de pouce. 
+  
+
+===== PAGE 16 =====
+Module 7.8 V07   Page 16 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.5 Fixations Taper lock ; 
+ 
+Autre élément fondamental dans l'assemblage aéronautique, le «  Taper-lock », qui est 
+une sorte de gros boulon en titane légèrement conique. 
+« On place le taper -lock dans un trou plus petit de 120 microns et, au serrage, on crée 
+une pression telle que les molécules ainsi comprimées subissent un effet de forge.  
+En quelque sorte, la pièce mise en place forge le trou dans lequel elle s'encastre !». 
+ 
+Fixation réalisée en acier ou titane.  
+La tige, conique, est montée en force dans l’alésage conique réalisé avec une grande 
+précision dans les éléments à assembler. 
+Elles sont utilisées indifféremment pour les assemblages travaillant en tension ou en 
+cisaillement. 
+L’écrou est équipé d’une rondelle sertie sur l’embase. 
+ 
+Exemple : II y a 53000 Taper locks sur B 747. 
+ 
+Eléments constitutifs 
+La vis Taper Lock est une vis à haute résistance pour ajustage en force.  
+Elle est auto étanche et sa partie lisse est conique. 
+La conicité qui assure le freinage par friction est de 0,250 pouce par pied. 
+ 
+La tête usinée ne présente ni trou, ni fente, ni forme spéciale en vue de l'utilisation d'outils 
+de maintien (à l'exception de la fixation basse interférence) étant donné que la vis ne 
+tournera pas dans le trou pendant le serrage de l'écrou, qui a pour eff et de tirer la vis 
+jusqu'à l'interférence appropriée. 
+ 
+  
+
+===== PAGE 17 =====
+Module 7.8 V07   Page 17 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+L'écrou 
+ 
+Deux sortes d'écrou sont utilisées suivant le défaut de parallélisme. 
+ 
+Défaut inférieur à 2° Ecrou avec rondelle incorporée 
+Un écrou 6 pans pour les Ǿ 3 à 8 
+Rondelle écrou TLN 1000-3 à - 8 
+ 
+Un écrou 12 pans pour les Ǿ 9 à 16 / écrou auto freiné 
+Rondelle écrou TLN 1000-9 à -16 
+ 
+Défaut de 2° à 6° Rondelle écrou à centrage automatique, l'écrou est hexagonal 
+et il fait office de frein 
+Ecrou à centrage automatique TLN 1020-N 
+ 
+ 
+Rondelle à centrage automatique TLN 1020-W 
+  
+ 
+Identification des écrous TLN 1000 (Taper Lock Nut) 
+- Pour les Ǿ de 3/16" à 16/16" et pour les défauts de parallélisme inférieur à 2°. 
+- Ecrous 6 pans pour les Ǿ de 3 à 8 écrous 12 pans pour les Ǿ de 9 à 16. 
+  
+
+===== PAGE 18 =====
+Module 7.8 V07   Page 18 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Identification d'un Taper lock 
+Les taper lock sont classés en 3 groupes standards pour chaque diamètre. 
+Chaque groupe couvre une série d'épaisseurs à serrer. 
+ 
+ 
+1 : Identification du groupe sauf le groupe 1. (Ex : 2 = groupe 2). 
+2 : Identification de la fixation T.L = Taper lock. 
+3 : Identification de la matière par une lettre (sans lettre = Acier). 
+H : acier à haute résistance. 
+C : acier inoxydable - A 286, température moyenne. 
+F : acier inoxydable A 431. 
+M : acier inoxydable M 252, haute température. 
+R : acier inoxydable René 41, haute température. 
+T : alliage de titane 4AL - 4MN (TA4 MN4). 
+V : alliage de titane 6AL - 4V (TAGV). 
+4 : Type et forme de la tête : Ex : 2 : donne tête plate, cisaillement et interférence 
+normale. Les zéros n'apparaissent pas sur la tête de la fixation sauf dans les 500. 
+ 
+5 : Ǿ nominal théorique en 1/16 inch indiqué par un chiffre. 
+6 : longueurs de la partie lisse de la fixation en 1/16 inch. 
+ 
+  
+
+===== PAGE 19 =====
+Module 7.8 V07   Page 19 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.6 Rivet Cherry ; 
+Fixation effectuée par épanouissement et écrasement du bourrelet et par rupture 
+consécutive de la broche. 
+ 
+ 
+ 
+ 
+1.1.2.7 Rivet Cherry Max à bulbe ; 
+Nouvelle fixation qui améliore les caractéristiques installées du rivet. 
+ 
+Les diamètres 3,2 ; 4 et 4,76 mm côtes nominales et réparations se posent sans 
+changement de nez de pose si le nouvel outillage Cherry Max est utilisé. 
+Les rivets Cherry Max à bulbe sont fabriqués en alliage d'aluminium AG5 en monel à la 
+fois dans les Ǿ nominaux et réparation, en inconel dans les Ǿ réparations. 
+ 
+L'outillage simple action Cherry Max est léger, peu encombrant, simple, compact, 
+adaptable selon les cas d'accessibilité. 
+Les rivets Cherry Max peuvent être posés avec la plupart, des outillages existants. 
+ 
+ 
+1-tige entièrement crantée , avec entaille de rupture , 
+bague de cisaillement et un cône intégré d’ajustement de 
+serrage. 
+ 
+2-enclume de pose  assurant un verrouillage mécanique 
+visible à chaque installation du fixateur. 
+ 
+3-bague de verrouillage séparée , visible et inspectable , 
+qui assure le verrouillage mécanique de la tige dans le 
+corps du rivet. 
+ 
+4-corps de rivet  avec un logement usiné dans la tête  
+destiné à recevoir la bague de verrouillage. 
+ 
+ 
+   
+
+===== PAGE 20 =====
+Module 7.8 V07   Page 20 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.6.1 Dépose des rivets type Cherry ; 
+Dans le cas d’un e pose non conforme de rivets type cherry  (Huck, Nas, Ms etc.  voir 
+§3.2.2), il faudra procéder à son retrait de la manière suivante : 
+1. Pointez le centre de la tige. Cela servira de 
+guide pour le perçage ultérieur. 
+ 
+ 
+2. Percez le verrou. Utilisez d'abord un petit 
+foret de centrage pour guider un foret plus gros. 
+Percez jusqu'en dessous de la bague de 
+verrouillage pour détruire le verrou. 
+  
+3. Chassez la tige. Utilisez un chasse-goupille 
+en acier pour pousser la tige par l'orifice caché. 
+ 
+ 
+4. Percez la tête du rivet. Percez la tête à l'aide 
+d'un foret du même diamètre que la tige du 
+rivet ; veillez à ne pas toucher la structure. 
+  
+5. Cassez la tête du rivet à l'aide d'un chasse-
+goupille en faisant levier latéralement. 
+ 
+ 
+6. Chassez le corps du rivet. Chassez le rivet 
+restant à l'aide d'un chasse-goupille. 
+ 
+ 
+ 
+Attention : NE percez PAS complètement le manchon du rivet pour le retirer, car cela 
+pourrait agrandir le trou. 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.8 V07   Page 21 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.8 Fixation JO BOLT ; 
+La fixation Jo Bolt est un rivet aveugle à noyau. 
+Ce rivet travaille au cisaillement et en tension, il permet l'assemblage là où l'accessibilité 
+est limitée à un seul côté. 
+Il y a deux formes de têtes : 
+- Tête hexagonale. 
+- Tête fraisée 100°. 
+ 
+Composé de 3 parties :  
+- Le corps (tête fraisée ou tête hexagonale),  
+- Le manchon de sertissage, 
+- La tige filetée (rivet auto-obturant). Sa tête fraisée avec 
+empreinte cruciforme permet un vissage.  
+ 
+ 
+1.1.2.9 Rivet HI-KOR ; 
+Conçu pour la réparation des réservoirs carburant. 3 parties :  
+- La vis en acier inox ou titane,  
+- Le manchon ou douille en acier inox ou titane, 
+- L’écrou en acier. 
+1.1.2.10 Fixation HI SHEAR. 
+Composé de 2 parties :  
+- Le rivet en acier, 
+- Une bague (collar) en alliage léger).  
+ 
+Le rivet Hi -Shear, essentiellement un boulon threadless, se 
+compose de deux parties : la goupille et le collet.  
+➔ Ces rivets sont classifiés en tant que rivets spéciaux, 
+mais ne sont pas du type sans visibilité.  
+➔ L'accès aux deux côtés du matériel est exigé pour installer le rivet.  
+ 
+À diamètre égal, les rivets présentent une résistance au cisaillement comparable à celle 
+des boulons, tout en ne représentant qu’environ 40 % de la masse d’un boulon. 
+  
+
+===== PAGE 22 =====
+Module 7.8 V07   Page 22 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.11 Rivets CHOBERT.et BRIV ; 
+Rivets tubulaires qui se fixent par expansion d’une broche en acier.  
+ 
+Rivet CHOBERT 
+ 
+ 
+Rivet BRIV  
+ 
+ 
+1.1.2.12 Système ASP ; 
+Le système ASP est une fixation structurale auto -étanche, conçue pour garantir 
+simultanément résistance mécanique et étanchéité. 
+ 
+ 
+ 
+  
+
+===== PAGE 23 =====
+Module 7.8 V07   Page 23 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.13 Système ASP ; 
+Un rivet HUCK est un rivet aveugle à verrouillage mécanique positif, destiné aux efforts 
+élevés et aux environnements vibratoires. 
+La tige comporte 2 épaulements successifs qui assurent un bon gonflement de la douille 
+et un bon remplissage du trou. 
+ 
+Le système ASP est disponible en Aluminium pour un poids le plus léger. 
+En Monel pour la résistance à la corrosion et « A 286 » pour une plus haute résistance à 
+températures élevées. 
+Il peut être installé jusqu' à 5° de déviation sans perte de 
+performance.  
+ 
+ 
+Pose sans et avec rondelle  
+ 
+ 
+  
+
+===== PAGE 24 =====
+Module 7.8 V07   Page 24 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.1.2.14 Rivet Nut plate ; 
+Un « nut plate » est un dispositif de fixation permanent intégrant un écrou, destiné à 
+recevoir une vis ou un boulon lorsqu’un accès arrière est impossible ou non souhaité. 
+Une fois installée, elle permet le montage et démontage répété d’un équipement sans 
+dégradation de la structure. 
+ 
+  
+ 
+ 
+1.2 Espacement et pas des rivets ; 
+1.2.1 Espacement et pas des rivets ; 
+ 
+ESPACEMENT : 
+L'espacement des rivets (spacing) correspond à la distance entre deux lignes de rivets 
+parallèles, il sert à : 
+→Garantir la rigidité globale de l’assemblage, 
+→Éviter le flambage ou la déformation locale, 
+→Utilisé dans les assemblages multi rangées. 
+ 
+ 
+L’espacement entre rivets doit respecter des tolérances strictes pour garantir la résistance 
+mécanique et la répartition des efforts.  
+Il sera STRICTEMENT défini par les documents des constructeurs. 
+En général cet espacement sera compris entre 2.5D et 4D (D = diamètre du rivet). 
+  
+
+===== PAGE 25 =====
+Module 7.8 V07   Page 25 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+DISTANCE AU BORD : 
+La distance au bord (edge distance) correspond à l’écartement mesuré entre l’axe du rivet 
+et le bord du matériau assemblé. Ce paramètre est fondamental dans la conception des 
+assemblages rivetés, il conditionne la résistance d e l’assemblage et permet d’éviter 
+l’arrachement ou la fissuration du bord du matériau. 
+ 
+ 
+Cette valeur sera STRICTEMENT donnée par les documents des constructeurs. 
+En général cette distance au bord est ≥2D et comprise entre 2D et 2.5D. 
+ 
+PAS : 
+Le pas (pitch) correspond à la distance comprise entre les entraxes de rivets d’une même 
+ligne. Il permet de : 
+→Assurer une répartition homogène des efforts, 
+→Éviter la concentration de contraintes. 
+ 
+ 
+Le pas devra STRICTEMENT respecter les tolérances des documents constructeurs. 
+Il sera en général compris entre 5D et 10D pour les zones normales , et entre 4 D et 6D 
+pour les zones étanches/pressurisées (réservoirs, cloisons étanches). 
+ 
+NOTA : Les valeurs de pas, d’espacement et de distance au bord sont imposées par les 
+données approuvées. 
+Les règles “D” servent à comprendre le principe, jamais à se substituer aux 
+documents officiels des constructeurs, les SRM (Structure Repair Manual). 
+  
+
+===== PAGE 26 =====
+Module 7.8 V07   Page 26 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+ 
+Paramètre Définition Valeur généralement 
+admise Risque si non conforme 
+Diamètre du rivet 
+(D) Diamètre nominal de la tige Selon plan / SRM Mauvais rivetage 
+Distance au bord 
+(Edge Distance) 
+Distance entre l’axe du rivet 
+et le bord de la pièce 
+≥ 2D (souvent 2D à 
+2,5D) 
+Arrachement, fissuration 
+du bord 
+Pas (Pitch) 
+Distance axe-à-axe entre 
+deux rivets sur une même 
+ligne 
+5D à 10D  
+(étanche 4D à 6D) 
+Concentration d’efforts / 
+surcharge 
+Espacement 
+(Spacing) 
+Distance axe-à-axe entre 
+deux lignes de rivets 2,5D à 4D Perte de rigidité / 
+flambage local 
+Tolérance 
+d’implantation 
+Écart admissible par rapport 
+à la cote nominale 
+±0,25 mm (±0,010 in) 
+typiquement Rejet / réparation requise 
+1.2.2 Opération de rivetage ; 
+1.2.2.1 Epinglage ; 
+Les assemblages sont souvent effectués après épinglage, avec ou sans mastic 
+d’interposition. 
+Ils sont réalisés à l’aide de : 
+- Boulons (ensembles constitués par 1 vis et par 1 écrou) qui, après serrage 
+maintiennent en contact étroit, les pièces traversées par les vis, 
+- Rivets, écrasés ils assemblent les pièces traversées. 
+ 
+On distingue deux sortes d’assemblages : 
+→Assemblages temporaires : 
+Peuvent être démontés sans destruction d’un élément (ex : clips, boulonnage), 
+→Assemblages permanents  
+Destruction d’un ou de plusieurs éléments lors du démontage (ex : rivetage). 
+ 
+Les éléments utilisés pour les différents assemblages sont conformes à une norme de 
+fabrication. 
+Le Bureau d’Etudes spécifie sur les plans, les différents modes d’assemblages choisis. 
+  
+===== PAGE 27 =====
+Module 7.8 V07   Page 27 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.2.2.2 Moyens Epinglage ; 
+On utilise principalement : 
+- Des vis d’épinglage (épinglage très efficace). 
+- Des agrafes rapides (mise en place efficace et rapide). 
+  
+ 
+Pour obtenir un montage définitif satisfaisant, l’opérateur devra impérativement respecter 
+les règles d’épinglages énoncées dans les documents atelier (gammes, guide et relevé). 
+Plusieurs cas devront être considérés : 
+- Epinglage courant (assemblages non étanches). 
+- Epinglage pour assemblages étanches (interposition de mastic). 
+- Epinglage en vue de fixation sur mastic polymérisé. 
+1.2.2.3 Epinglage ; 
+Il est effectué après pré perçage ou contre perçage et avant fixation définitive. 
+L’épinglage doit permettre une bonne mise en place d’une pièce (sans déformation, ni 
+tension) avant son perçage définitif et un serrage efficace.  
+ 
+ 
+1.2.2.4 Mode d’épinglage ; 
+Epinglage à 100 % : 
+Enlever une vis d’épinglage ou agrafe et remplacer par la fixation définitive. 
+Enlever 50% (1 sur 2) de l’épinglage et remplacer par fixation définitive, enlever 
+ensuite l’épinglage restant et remplacer par fixation définitive. 
+ 
+Épinglage à faible pourcentage : 
+Poser les fixations définitives dans les trous libres puis remplacer les épinglages restant 
+par des fixations définitives.  
+
+===== PAGE 28 =====
+Module 7.8 V07   Page 28 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.2.2.5 Méthode générale préparatoire ; 
+Voici un exemple de mode préparatoire à l’opération de rivetage  
+- Tracer avec un crayon dur et pas avec une pointe (rayure). 
+ 
+- Perçage (avant-trou) en utilisant le guide tripode. 
+ 
+- Chanfreinage pour loger l’arrondi du rivet. 
+Un foret mal affûté provoque l’ovalisation 
+ 
+- Epinglage pour la réunion des tôles (joint plan nécessite une épingle tous les 300 
+mm et un joint galbé tous les 100 ou 150 mm).  
+On commence toujours à épingler par le centre de la tôle pour finir vers les 
+extrémités. L’élimination des copeaux doit être parfaite. 
+ 
+- Contre perçage : pour amener les trous au diamètre permettant la mise en place 
+des rivets ; Le jeu entre les trous et les rivets doit être aussi réduit que possible 
+(0,1 mm pour d < 4 mm et 0,2 mm pour 5 < d < 10 mm. 
+ 
+- Ebavurage du logement de la tête du rivet.  
+Par fraisage : si l’épaisseur de la tôle est suffisante. 
+Par embrèvement : Si l’épaisseur de la tôle est faible.  
+ 
+1.2.2.6 Pose à froid 
+- Rivets en 1050, 5754, 5086 : posés recuits à 400°C pour les gros diamètres 
+- Rivets en 2017, 2024 posés trempés pour les diamètres inférieurs à 3 mm sur 
+trempe fraîche pour les autres. 
+- Rivets en 2117 remplace les 2017sans trempe. 
+- Rivets en 6181 posés sur trempe fraîche pour les très gros diamètres. 
+1.2.2.7 Pose à chaud 
+Rivets en 5084, 5056 posés à 450°C par écrasement à la presse. 
+Rivets en 2017, 6181 posés à la température de trempe. 
+  
+  
+
+===== PAGE 29 =====
+Module 7.8 V07   Page 29 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.2.2.8 Rivetage à la main 
+Nécessite un marteau lourd (100 gr par mm de diamètre). 
+L’outillage est constitué par : 
+La bouterolle qui sert à former la tête du rivet. 
+La contre-bouterolle qui maintient la tête existante durant l’opération du rivetage. 
+Le tire-rivet qui fait coller les tôles entre elles. 
+La tête est ébauchée au marteau et finie à la bouterolle. 
+ 
+ 
+1.2.2.9 Rivetage machine portative 
+Rivets petits diamètres sur tôles minces.  
+ 
+ 
+1.2.2.10 Rivetage machine fixe 
+Perce, chanfreine, ébavure, pose et frappe le rivet. 
+ 
+ 
+  
+
+===== PAGE 30 =====
+Module 7.8 V07   Page 30 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+1.2.2.11 Rivetage arasé 
+Arasement des têtes de rivet pour une surface lisse, en zone aérodynamique 
+principalement. 
+ 
+ 
+ 
+1.2.2.12 Rivetage étanche  
+ 
+• Cabine pressurisée. 
+• Coques d'hydravions. 
+• Réservoirs structuraux.  
+• Rivetage plus serré (2,5d) : Répartition des rivets en quinconce sur une double ligne 
+de rivetage. 
+• Forage du trou plus serré et nécessité d’un alésage. 
+• Interposition d'un mastic entre les éléments du joint. 
+• Pose du rivet dont la tige a été préalablement enduite de ce même produit.  
+• L’écrasement doit être soigneux. 
+ 
+On peut étendre sur le joint une couche de mastic, une fois le rivetage complètement 
+terminé et du coté ou la pression va s'exercer. 
+ 
+ 
+ 
+Les méthodes de rivetages dépendront des constructeurs et de leur 
+documentation technique.  
+IL FAUDRA TOUJOURS S’Y REFERER. 
+ 
+(Exemple DASSAULT : 3jours→ Pré-perçage, Colle PR, Brochage, Perçage définitif , 
+Rivetage.)  
+
+===== PAGE 31 =====
+Module 7.8 V07   Page 31 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+2 Outils utilisés pour le rivetage et l'embrèvement.  
+ 
+ 
+Rappel des objectifs : connaissance générale des aspects théoriques 
+et pratiques d es o utils utilisés pour le rivetage et l'embrèvement . 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+2.1 Outils utilisés pour le rivetage ; 
+2.1.1 Outils multi-frappe pour rivets pleins ; 
+Le rivetage par outil multi frappe consiste à la déformation du rivet par un marteau à riveter 
+et un tas de réaction.  
+ 
+ 
+ 
+Il faudra choisir le pistolet en fonction du diamètre du rivet  
+ 
+ 
+ 
+Pour déformer efficacement les différents types de rivets, il 
+convient d'utiliser le la bouterolle adaptée à la tête du rivet.  
+ 
+Pour s’adapter aux différentes situations de 
+rivetage, il existe un grand nombre de forme de tas 
+différents.  
+En général, et pour assurer une meilleure inertie 
+lors de la frappe, les tas sont en tungstène, un 
+alliage dont la densité est plus élevée que celle de 
+l’acier. 
+  
+
+===== PAGE 32 =====
+Module 7.8 V07   Page 32 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Le marteau à riveter frappe le rivet, tandis que le tas de réaction le maintien en place pour 
+assurer une déformation correcte 
+Il existe deux façons de procéder à un rivetage par déformation  : le rivetage direct et le 
+rivetage indirect. 
+• Le rivetage direct consiste à placer le tas de réaction contre la tête du rivet 
+solide et à appliquer les impacts sur la tige. 
+ 
+ 
+ 
+• Le rivetage indirect consiste à placer le tas de réaction contre la tige du rivet 
+solide et à appliquer les impacts sur la tête du rivet. 
+ 
+ 
+ 
+Il existe également des moyens automatisés  (utilisés par exemple sur les chaines 
+d’assemblage de tronçon Airbus A321 d’Hambourg) 
+ 
+ 
+  
+
+===== PAGE 33 =====
+Module 7.8 V07   Page 33 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+ 
+2.1.2 Pinces manuelles et pneumatiques pour rivets pleins ; 
+Outre les pistolets multi-frappe et tas, il existe des pinces manuelles et pneumatiques pour 
+permettre l’écrasement des rivets pleins.  
+ 
+  
+ 
+Ces pinces communément appelés « C », « Crabe » ou encore « Alligator » permettent 
+de compresser le rivet sans frappe, ni vibration.  
+Il faudra utiliser des bouterolles adaptées en fonction de la tête du rivet.  
+La taille des pinces sera aussi fonction des diamètres des rivets à installer. 
+ 
+ 
+Critère Pince à rivets pleins (manuelle ou 
+pneumatique)  Pistolet à frapper 
+Qualité de pose Très bonne Moyenne à bonne 
+Cadence de pose Moyenne à faible Élevée 
+Contrôle de déformation Excellent Variable 
+Vibrations générées Faibles Élevées 
+Coût initial Moyen à élevé Faible à moyen 
+Ergonomie Bonne (pneumatique) Bonne mais vibrations 
+Accès dans espaces confinés Limité selon modèle Souvent meilleur 
+  
+
+===== PAGE 34 =====
+Module 7.8 V07   Page 34 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+2.1.3 Outils pour fixations aveugles ; 
+2.1.3.1 Outils d’installation pour fixations Hi lock/Hi lite ; 
+Les fixa tions Hi lock et Hi lite seront installées de la même manière avec des outils 
+similaires, voire identiques en fonction des fabricants.  
+Les mécaniciens pourront utiliser des kits d’ouillages à main (cliquet percé + douille + 
+poignée de maintien + clé Allen + gabarit de contrôle). 
+  
+Il existe également un outillage permettant l’installation  à 1 seule main (Omega 
+technologie).  
+ 
+Les industriels ont également développé des outillages pneumatiques pour répondre aux 
+besoins de la production. Ces outils nécessiteront donc une alimentation en air comprimé. 
+ 
+2.1.3.1.1 Dépose de fixations Hi lite ; 
+Dans le cas d’une pose non conforme (§3.2.2), il faudra procéder au remplacement de la 
+fixation. Celle-ci sera retirée avec les mêmes outils d’installation. Il faudra après dépose, 
+contrôler l’alésage du trou avant de pouvoir installer une nouvelle fixation.  
+  
+
+===== PAGE 35 =====
+Module 7.8 V07   Page 35 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+2.1.3.2 Outils d’installation pour fixations Jo-Bolt ; 
+Au même titre que les fixations Hi lite/Hi lock, les fixations Jo -Bolt pourront être 
+assemblées, soit avec des outils manuels, soit avec des outils pneumatiques. 
+  
+ 
+2.1.3.3 Outils d’installation pour fixations Taper lock ; 
+Les fixations Taper lock ne nécessitent pas d’outillages spécifiques 
+dans le  sens ou ces fixations sont serrées comme de simples 
+boulons.  
+Il faudra donc utiliser des clés ou des outils pneumatiques 
+dynamométriques pour installer la fixation. 
+ 
+L’emploi de ces fixations à forte interférence et dans des zones critiques structurelles 
+(jointure voilure, coin de mal le réservoirs etc.)  nécessitent l’emploi de matériels 
+spécifiques semi-automatisés dédiés. 
+ 
+ 
+  
+
+===== PAGE 36 =====
+Module 7.8 V07   Page 36 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+2.1.3.4 Outils d’installation pour fixations aveugles (lockbolt, cherry etc.) ; 
+La très grande majorité des outils utilisés pour ces fixations sont des riveteuses manuelles, 
+pneumatiques ou pneumatiques -hydrauliques à traction axiale, conçues pour tirer une 
+tige, déformer ou sertir un élément (manchon, collet, fût),  verrouiller mécaniquement la 
+fixation, puis rompre la tige à une charge ou position prédéfinie. 
+ 
+ 
+ 
+ 
+NORA : Voir tableau comparatif des fixations aveugles en ANNEXE 3. 
+  
+
+===== PAGE 37 =====
+Module 7.8 V07   Page 37 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+2.2 Outils utilisés pour l’embrèvement ; 
+Lorsqu’une tôle est mince, il est impossible de fraiser celle -ci lors de l’usinage, le trou 
+d’origine serait agrandi. 
+Pour pouvoir poser des rivets fraisés, on effectuera un embrèvement (déformation du 
+métal). 
+ 
+ 
+Il existe deux types d’embrèvement. 
+ 
+Embrèvement dit en ceinture Embrèvement de deux tôles minces 
+C’est quand on a une tôle mince et une tôle épaisse. 
+La tôle épaisse sera fraisée alors que la tôle mince sera 
+emboutie à l’aide d’un outil à embrever (ou embrevoir). 
+A l’opposé de l’embrevoir on positionnera un tire rivet 
+afin d’éviter la déformation de la tôle épaisse. 
+Dans ce cas il n’y a pas de fraisage. 
+Les deux tôles seront embrevées ensemble. 
+On utilisera un embrevoir mâle et un 
+embrevoir femelle. 
+ 
+ 
+Recommandations pour tous les embrèvements 
+- Le perçage du trou sera inférieur au diamètre du rivet.  
+- Ébavurage. 
+- Embrèvement. 
+- Perçage au diamètre définitif. 
+Le principe sera de venir embrever la tôle, grâce à des adaptateurs adaptés au rivet, avec 
+des outils manuels ou pneumatiques. 
+ 
+ 
+  
+
+===== PAGE 38 =====
+Module 7.8 V07   Page 38 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+3 Inspection des assemblages rivetées. 
+ 
+ 
+Rappel des objectifs : connaissance générale des aspects théoriques 
+et pratiques de l’inspection des assemblages rivetées.  
+Capacité à appliquer cette connaissance. [Niveau 2] 
+3.1 Généralités ; 
+L’inspection des jointures rivetées est une tâche critique de maintien de navigabilité, 
+réalisée conformément : 
+• À l’AMM (Aircraft Maintenance Manual), 
+• Au SRM (Structural Repair Manual), 
+• Au programme d’entretien approuvé. 
+Cette inspection vise à détecter les défauts des rivets, les dommages des tôles 
+assemblées, les dégradations liées à la fatigue ou la corrosion ainsi que toute autre défaut 
+ne respectant pas les normes du constructeur. 
+ 
+Selon l’accessibilité et le programme d’entretien, les inspections peuvent être : 
+• Inspection visuelle générale (GVI) 
+Détection rapide d’anomalies évidentes. 
+• Inspection visuelle détaillée (DVI) 
+Examen rapproché avec éclairage adapté et moyens d’agrandissement. 
+  
+ 
+• Inspection spéciale (NDT) 
+Courants de Foucault, ressuage, radiographie, selon exigences AMM/SRM. 
+ 
+  
+
+===== PAGE 39 =====
+Module 7.8 V07   Page 39 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+3.2 Critères d’inspection du rivetage ; 
+De manière générale les défauts suivants engendrent un rejet : 
+• Tout rivet desserré, fissuré ou manquant, 
+• Toute fissure détectée, 
+• Toute corrosion hors limites SRM, 
+• Toute déformation affectant la transmission d’effort. 
+ 
+ 
+Exemple de fissure autour d’un rivet fraisé. 
+ 
+Les réparations (remplacement de rivet, oversize, réparation locale) doivent être 
+réalisées strictement selon SRM. 
+ 
+De manière générale, les zones soumises à surveillances seront : 
+• Zones à fortes vibrations 
+• Environnements corrosifs 
+• Structures pressurisées 
+• Réparations anciennes ou multiples 
+• Mélange de matériaux dissemblables 
+ 
+ 
+Exemple de zones soumises à fortes vibrations pour les avions(a) et les hélicoptères(b) 
+ 
+  
+
+===== PAGE 40 =====
+Module 7.8 V07   Page 40 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+3.2.1 Inspection des rivets à frapper ; 
+Le contrôle de la rivure se fera en fonction de 2 paramètres, la hauteur (H) et le diamètre 
+de la rivure(C). 
+Le rapport entre la hauteur de la rivure et son diamètre dépendra de la longueur de la 
+fixation.  
+Ces valeurs sont fournies dans la documentation officielle du constructeur. 
+ 
+Exemple de valeurs de contrôle de rivure  
+ 
+Pour contrôler ces valeurs, il faudra utiliser des gabarits, ou gauge, de contrôle adapté à 
+la fixation.  
+  
+Il faudra se référer aux documents officiels pour connaître les tolérances et les 
+critères d’acceptation.  
+ 
+Exemple de défauts rencontrés lors du rivetage. 
+  
+
+===== PAGE 41 =====
+Module 7.8 V07   Page 41 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Il faudra également contrôler le désaffleurement de la fixation. 
+Il s’agit de la valeur de dépassement de la tête de la fixation(B) par rapport à la surface 
+de contact (A).  
+ 
+La tolérance de cette valeur dépendra de la zone d’installation de la fixation et de son 
+impact sur le profil aérodynamique (Extrados voilure + critique que structure interne 
+fuselage). 
+ 
+Le désaffleurement est mesuré avec un comparateur.  
+ 
+La valeur de désaffleurement sera donnée par la documentation du constructeur. 
+ 
+3.2.2 Inspection des rivets aveugles (Hi-lite, Huk, Nas, Ms, Cherry etc.) ; 
+L'inspection des fixations aveugles repose principalement sur l'inspection visuelle du 
+collier de verrouillage et de la rupture de tige.  
+ 
+Pour se faire il faudra contrôler , visuellement et à l’aide de gabarit de contrôle adaptés, 
+l’appui de la fixation ainsi que de la hauteur de rupture de la tige de traction. 
+ 
+Les documents du constructeur permettent de connaître les valeurs de ces tolérances. 
+Si celles-ci ne sont pas respectées, il faudra remplacer la fixation. 
+ 
+Exemples de gabarit pour fixations Hi-lite/Hi-lock 
+  
+
+===== PAGE 42 =====
+Module 7.8 V07   Page 42 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+Exemple de principe pour les fixations Cherry max : 
+ 
+ 
+Si les valeurs de contrôle ne respectent pas les tolérances, il faudra procéder au 
+changement de la fixation. 
+ 
+Problème : casse de la tige du rivet en bas 
+(Au-dessus de la limite maximale « b ») 
+ 
+ 
+Problème : espace sous la tête du rivet   
+ 
+ 
+ 
+Les marques d'étirement superficielles qui peuvent apparaître sur la douille du rivet 
+n'altèrent pas la résistance du rivet et sont acceptables (côté bulbe illustré).  
+  
+
+===== PAGE 43 =====
+Module 7.8 V07   Page 43 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+ANNEXES 
+  
+===== PAGE 44 =====
+Module 7.8 V07   Page 44 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+ANNEXE 1 : Choix du type de rivet à frapper ;  
+→RETOUR  
+Matière du rivet Elle sera identique aux tôles utilisées pour la réparation afin d’éviter la corrosion 
+galvanique 
+Traçage du 
+rivetage Tous les traçages sur aluminium se feront au crayon à papier uniquement. 
+Diamètre du 
+rivet 
+Dépend de l’épaisseur à serrer. 
+Favorise l’emploi des mêmes rivets que la zone à réparer en respectant les 
+différentes zones. 
+ 
+II existe deux formules pour le diamètre des rivets.  
+ 
+• Cas de 2 tôles identiques : D = 1.5 à 2.5 e 
+ 
+• Cas de 2 tôles d’épaisseur différente : D = 1.5 à 2 e  
+ 
+e : épaisseur d’une tôle. 
+Longueur du 
+rivet 
+Si la longueur est mal adaptée, on aura un défaut de rivetage : 
+• Rivet trop court : mauvais serrage. 
+• Rivet trop long : risque de rivetage « couché ». 
+ 
+La bonne longueur sera : 
+• Rivure matée : L = E + 1 ,6 d 
+• Rivure fraisée : L = E + 0,7 d 
+ 
+E : épaisseur totale à serrer 
+d : diamètre du rivet 
+La pince p 
+C’est la distance comprise entre le bord de la tôle et l’axe des rivets. 
+p = 2 à 2,5 d. 
+d = diamètre du rivet. 
+Le pas P 
+C’est la distance comprise entre l’axe de deux rivets consécutifs. 
+P = 6 à 8 d  
+d = diamètre du rivet 
+Le matériel 
+employé 
+Marteau pneumatique : outil qui sert à frapper sur la tête du rivet, existe différentes 
+bouterolles suivant la forme et le diamètre des rivets à passer. 
+ 
+Tas : outil qui se positionne sur le rivet à l’opposé du marteau. Le « contre coup » dû 
+au choc du marteau matera le rivet.  
+ 
+Crabe (« c ») :pinces manuelles ou pneumatiques permettant de mater les rivets par 
+écrasement.  
+ 
+Rivure : partie opposée à la tête une fois que le rivet est maté. 2 types (Matée / 
+Fraisée). 
+===== PAGE 45 =====
+Module 7.8 V07   Page 45 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+ANNEXE 2 : Couple électrolytique ;  
+Lorsque deux métaux sont en contact en présence d’un électrolyte, la corrosion 
+galvanique est possible. Le métal ayant le plus fort potentiel négatif d’un groupe 
+galvanique se corrodera plus rapidement. 
+Il faudrait prévenir, si possible, la corrosion pour éviter les fissures, crevasses, les fortes 
+courbures, écailles et autres dépôts de surface entre les interfaces. 
+ 
+ 
+(Source Visselect) 
+→RETOUR 
+  
+
+===== PAGE 46 =====
+Module 7.8 V07   Page 46 sur 46 
+ 
+   
+AIR FORMATION CFM 66 © 2026 
+ 
+ANNEXE 3 : Fixations aveugle, outillage et contrôle ;  
+ 
+Fixation aveugle Outillage 
+principal 
+Type d’outil Principe de pose Contrôles après pose  
+Hi-Lok/Hi-Lite Hi-Lok 
+Installation 
+Tool / 
+Ratchet / 
+Hex Key 
+Manuel Serrage de la bague 
+jusqu’à rupture contrôlée de 
+l’empreinte hexagonale de 
+la broche. 
+• Empreinte hexagonale rompue et absente 
+• Bague correctement en appui 
+• Aucune rotation résiduelle 
+• Dépassement de broche conforme (si 
+visible)  
+• Absence de criques ou marquages 
+Taper-Lok Taper-Lok 
+Installation 
+Tool 
+Manuel / 
+Pneumatique 
+Mise en place conique 
+assurant un ajustement 
+serré dans l’alésage. 
+• Fixation correctement affleurante 
+• Absence de jeu axial ou radial 
+• Aucun endommagement du logement 
+conique 
+CherryMAX / 
+CherryLOCK 
+Cherry 
+Riveter 
+(G83, 
+G704B…) 
+Pneumatique Tirage de la tige, expansion 
+côté aveugle, rupture de la 
+tige en fin de course. 
+• Tige rompue à ras ou selon spécification 
+• Tête formée conforme côté aveugle 
+• Absence de fissures ou bavures 
+• Fixation immobile 
+Jo-Bolt Jo-Bolt 
+Installation 
+Tool 
+Manuel / 
+Pneumatique 
+Expansion du manchon 
+côté aveugle et verrouillage 
+par serrage. 
+• Manchon correctement déployé 
+• Tête en appui 
+• Pas de rotation libre 
+• Rupture ou serrage conforme au type 
+ASP ASP 
+Installation 
+Tool (Air / 
+Air-
+Hydraulic) 
+Pneumatique Tirage de la broche avec 
+collet assurant verrouillage 
+mécanique et étanchéité. 
+• Broche rompue conformément• Collet en 
+place 
+• Absence de fuite (si applicable) • 
+Étanchéité visuelle correcte 
+Huck / Lockbolt Huck Gun 
+(Air-
+Hydraulic) 
+Pneumatique Sertissage du collet, rupture 
+de la tige à charge 
+prédéfinie. 
+• Collet serti uniformément 
+• Tige rompue proprement 
+• Aucune déformation de la structure 
+• Fixation non rotative 
+ 
+→RETOUR 

@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "question": "En zone identifiée CDCCL, lorsqu'un défaut de continuité électrique est détecté sur un câble, quelle action est imposée par le livret ?",
+      "options": {
+        "A": "Procéder au changement pur et simple du câble",
+        "B": "Réparer le câble par épissure sertie agréée",
+        "C": "Isoler le défaut par une gaine thermo-rétractable adaptée"
+      },
+      "correct": "A",
+      "explication": "Le livret précise qu'en zone identifiée CDCCL la réparation de continuité est interdite et qu'il faut procéder au changement pur et simple du câble.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une tresse de métallisation présentant des traces visibles de corrosion doit être :",
+      "options": {
+        "A": "Nettoyée à la brosse laiton puis remontée",
+        "B": "Réparée par ajout d'un brin de cuivre étamé",
+        "C": "Remplacée immédiatement"
+      },
+      "correct": "C",
+      "explication": "Le livret comporte un avertissement CDCCL explicite : « Une métallisation corrodée est à remplacer immédiatement ! » ; en zone CDCCL, le composant représentant un risque doit être remplacé et non réparé.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle tension de test doit être appliquée pour la mesure d'isolement d'un circuit alimenté en 115/200 V AC ?",
+      "options": {
+        "A": "45 V DC",
+        "B": "250 V DC",
+        "C": "500 V DC"
+      },
+      "correct": "C",
+      "explication": "Le livret précise une tension de test de 45 V DC pour les circuits 26 V AC et 28 V DC, et de 500 V DC pour les circuits 115/200 V AC.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un contrôle de métallisation par rapport à la référence aéronef générale (borne négative de la batterie 1), la chute de tension mesurée entre la cosse et la structure ne doit pas excéder :",
+      "options": {
+        "A": "1,5 mV",
+        "B": "0,5 mV",
+        "C": "10 mV"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que la chute de tension ne doit pas excéder 1,5 mV (ou la résistance 0,01 mΩ) entre la cosse et la structure, mesurée par rapport au point de référence général de l'aéronef.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur la tourelle M22520/1-02 de la pince à sertir standard M22520/1-01, à quelle taille de contact correspond le repère de couleur bleue ?",
+      "options": {
+        "A": "Taille 12",
+        "B": "Taille 16",
+        "C": "Taille 20"
+      },
+      "correct": "B",
+      "explication": "Le livret précise le code couleur de la tourelle : barillet en position rouge pour la taille 20, en position bleue pour la taille 16 et en position jaune pour la taille 12.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon le livret, quel est le nombre maximal de câbles autorisé dans un toron et le diamètre maximal correspondant ?",
+      "options": {
+        "A": "75 câbles, diamètre 55 mm maximum",
+        "B": "50 câbles, diamètre 40 mm maximum",
+        "C": "100 câbles, diamètre 75 mm maximum"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que le nombre maximum de câbles dans un toron est de 75 et que ce dernier ne doit pas dépasser 55 mm de diamètre.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un toron de grand diamètre (d), quel pas de frettage faut-il appliquer entre deux frettes successives ?",
+      "options": {
+        "A": "1 à 1,5 d",
+        "B": "0,5 d",
+        "C": "2 à 2,5 d"
+      },
+      "correct": "B",
+      "explication": "Le livret fixe le pas de frettage en fonction du diamètre du toron : 2 à 2,5 d pour les petits diamètres, 1 à 1,5 d pour les moyens et 0,5 d pour les diamètres importants.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lorsqu'une réparation impose un raccourcissement d'un câble coaxial, quelle action le livret rend-il obligatoire ?",
+      "options": {
+        "A": "Sertir un splice de raccordement adapté à l'impédance",
+        "B": "Recalculer l'impédance après réparation et la consigner dans le dossier",
+        "C": "Changer le câble coaxial"
+      },
+      "correct": "C",
+      "explication": "Le livret précise que si une réparation doit entraîner un raccourcissement du câble coaxial, ce dernier doit être changé, car ses caractéristiques s'en trouveraient modifiées et non valides.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour absorber un surplus de longueur sur un câble coaxial entre deux colliers, le livret recommande de former une boucle de rayon de courbure d'environ :",
+      "options": {
+        "A": "3 fois le diamètre du câble",
+        "B": "5 fois le diamètre du câble",
+        "C": "10 fois le diamètre du câble"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que le surplus de longueur peut être absorbé par des vagues entre deux colliers ou par une boucle d'un rayon de courbure d'environ 10 fois le diamètre du câble.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la mise en œuvre d'un manchon auto-soudeur Raychem, quel changement d'aspect indique que la soudure est correctement réalisée ?",
+      "options": {
+        "A": "La gaine devient transparente sans changement de couleur de la soudure",
+        "B": "La soudure passe du gris mat à l'argent brillant et coule vers les extrémités scellées",
+        "C": "La soudure prend une teinte dorée uniforme sur toute la longueur du manchon"
+      },
+      "correct": "B",
+      "explication": "Le livret précise qu'il faut continuer à chauffer jusqu'à ce que la soudure passe du gris mat à l'argent brillant et coule vers les extrémités scellées, signe que la connexion est correctement réalisée.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une connexion enroulée (wrapping) « modifiée », une spire supplémentaire isolée est ajoutée à l'enroulement jointif. Quel est son rôle principal ?",
+      "options": {
+        "A": "Donner une élasticité à la connexion et une résistance aux vibrations",
+        "B": "Améliorer la conductibilité électrique du contact",
+        "C": "Permettre l'identification visuelle du circuit concerné"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que la connexion « modifiée » comporte une spire supplémentaire isolée qui donne une élasticité à la connexion et une résistance aux vibrations.",
+      "source": "M 7.7.pdf",
+      "chapter": "Module 7.7 - Câblage électrique (EWIS)",
+      "date": "2026-06-21"
+    }
+  ]
+}

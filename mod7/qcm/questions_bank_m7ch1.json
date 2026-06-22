@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la signification du terme « WARNING » dans la documentation aéronautique ?",
+      "options": {
+        "A": "Une explication complémentaire facilitant la compréhension de la tâche",
+        "B": "Une situation potentiellement dangereuse pouvant entraîner des lésions corporelles ou des dommages matériels",
+        "C": "Une situation présentant des risques susceptibles de provoquer la mort, des blessures graves ou des dommages matériels"
+      },
+      "correct": "C",
+      "explication": "WARNING indique une situation présentant des risques susceptibles de provoquer la mort, des blessures graves ou des dommages matériels, contrairement à CAUTION (lésions corporelles potentielles) et NOTE (explication complémentaire).",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Quel est le rôle principal d'une étiquette « DANGER » placée dans le poste de pilotage ?",
+      "options": {
+        "A": "Renseigner toute personne pénétrant dans le poste qu'il peut être dangereux de manipuler une commande tant que des travaux sont en cours",
+        "B": "Signaler la présence d'un défaut sur l'aéronef",
+        "C": "Remplacer les outillages de blocage normalement prévus"
+      },
+      "correct": "A",
+      "explication": "L'étiquette DANGER renseigne toute personne pénétrant dans le poste de pilotage qu'il peut être dangereux de manipuler une commande ou un interrupteur tant que des travaux sont en cours. Elle n'exclut PAS la mise en place des outillages de blocage normalement prévus.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Qui est habilité à détruire l'étiquette DANGER ?",
+      "options": {
+        "A": "N'importe quel technicien présent à la fin des travaux",
+        "B": "Le responsable Qualité de l'organisme",
+        "C": "Uniquement le responsable de l'opération, à la fin des travaux"
+      },
+      "correct": "C",
+      "explication": "L'étiquette DANGER devra être détruite dès la fin des travaux et uniquement par le responsable de l'opération.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Quelles sont les tensions électriques standard utilisées sur les aéronefs ?",
+      "options": {
+        "A": "230 V monophasé 50 Hz et 12 V continu",
+        "B": "400 V triphasé 50 Hz et 24 V continu",
+        "C": "115 V triphasé 400 Hz et 28 V continu"
+      },
+      "correct": "C",
+      "explication": "Les tensions standard rencontrées sur aéronef sont 115 V triphasé 400 Hz, 28 V (alternatif 400 Hz ou continu) ; certains avions comme l'A380 et l'A350 utilisent du 230 V triphasé 400/800 Hz.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Lors d'une intervention électrique, quelle est la première mesure d'isolement à prendre ?",
+      "options": {
+        "A": "Tirer les breakers de protection, poser l'étiquette DANGER et éventuellement des clips de blocage",
+        "B": "Couper directement la batterie sans avertir l'équipe",
+        "C": "Démonter immédiatement les connecteurs"
+      },
+      "correct": "A",
+      "explication": "La procédure d'isolement consiste à tirer les breakers du circuit concerné, mettre en place l'étiquette DANGER et, si nécessaire, des clips de blocage pour empêcher la remise sous tension intempestive.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Pourquoi les corps gras sont-ils strictement interdits lors des travaux sur les circuits d'oxygène ?",
+      "options": {
+        "A": "Le contact avec l'oxygène pur peut provoquer une inflammation spontanée",
+        "B": "Ils corrodent les tuyauteries en cuivre",
+        "C": "Ils dégradent les joints en caoutchouc"
+      },
+      "correct": "A",
+      "explication": "Toute présence de corps gras (chiffons, outils, vêtements ou mains souillés) en contact avec l'oxygène provoque une inflammation spontanée, d'où l'interdiction formelle.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Quelle pression résiduelle minimale doit être conservée dans une bouteille d'oxygène ?",
+      "options": {
+        "A": "Environ 50 PSI",
+        "B": "Environ 500 PSI",
+        "C": "0 PSI (vidange complète obligatoire)"
+      },
+      "correct": "A",
+      "explication": "Il ne faut jamais vidanger totalement une bouteille d'oxygène ; une pression minimum de l'ordre de 50 PSI doit être conservée pour éviter des opérations onéreuses de rinçage et d'assèchement.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Quel est le danger MORTEL principal d'un fluide hydraulique sous haute pression ?",
+      "options": {
+        "A": "L'injection sous-cutanée du fluide dans le corps",
+        "B": "L'évaporation rapide du fluide",
+        "C": "La modification du pH de la peau"
+      },
+      "correct": "A",
+      "explication": "Les dangers hydrauliques principaux sont : liquide sous haute pression, risque d'injection sous-cutanée (MORTEL), projections dans les yeux et vapeurs toxiques au contact de parties chaudes.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "En cas de projection de Skydrol dans les yeux, quelle est la procédure correcte ?",
+      "options": {
+        "A": "Frotter les yeux puis aller au travail",
+        "B": "Appliquer une pommade et attendre 24 h",
+        "C": "Laver immédiatement et abondamment à l'eau pendant 10 minutes puis consulter un médecin"
+      },
+      "correct": "C",
+      "explication": "Si du liquide atteint les yeux, il faut laver immédiatement et abondamment à l'eau pendant 10 minutes (lave-visage ou lavabo) puis consulter un médecin pour d'autres soins oculaires.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Avant de pénétrer dans un réservoir de carburant, quel contrôle est obligatoirement effectué ?",
+      "options": {
+        "A": "Un contrôle visuel rapide à l'œil nu",
+        "B": "Un contrôle à l'explosimètre, vérification de la toxicité et ventilation du réservoir",
+        "C": "Un essai de pressurisation du fuselage"
+      },
+      "correct": "B",
+      "explication": "Les travaux dans les réservoirs imposent la ventilation du réservoir, l'utilisation de matériels ATEX, un contrôle à l'explosimètre satisfaisant et la vérification de la toxicité avant d'entrer, équipé d'un masque à adduction d'air et avec surveillance extérieure.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Pour les manipulations dans un réservoir carburant, quel équipement respiratoire faut-il utiliser ?",
+      "options": {
+        "A": "Une bouteille d'oxygène portable",
+        "B": "Un masque à adduction d'air alimenté par un réseau d'air comprimé",
+        "C": "Un demi-masque FFP2 classique"
+      },
+      "correct": "B",
+      "explication": "On pénètre dans un réservoir équipé d'un masque à adduction d'air ; l'adduction s'effectue à partir d'un réseau d'air comprimé. L'utilisation de bouteilles est interdite.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Qu'est-ce qu'un système BRS (Ballistic Recovery System) ?",
+      "options": {
+        "A": "Un système de freinage automatique du train d'atterrissage",
+        "B": "Un dispositif pyrotechnique déployant un parachute de secours sur l'aéronef complet",
+        "C": "Un système anti-incendie moteur"
+      },
+      "correct": "B",
+      "explication": "Le BRS est un dispositif de sécurité pyrotechnique conçu pour déployer un parachute de secours en cas d'urgence critique en vol, permettant à l'aéronef complet et ses occupants de descendre sous voile à vitesse réduite.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Quel est le rayon minimum de la zone d'exclusion autour de l'axe de tir d'un système BRS ?",
+      "options": {
+        "A": "15 mètres",
+        "B": "5 mètres",
+        "C": "50 mètres"
+      },
+      "correct": "A",
+      "explication": "Avant toute intervention, il faut établir un périmètre d'exclusion d'au moins 15 mètres autour de l'axe de sortie de la fusée du BRS, et le baliser avec cônes ou barrières.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Quels sont les feux de classe D rencontrés en maintenance aéronautique ?",
+      "options": {
+        "A": "Kérosène, Skydrol et huiles moteur",
+        "B": "Circuits électriques 115 V / 28 V",
+        "C": "Métaux comme le magnésium (roues freinées) et le lithium (batteries)"
+      },
+      "correct": "C",
+      "explication": "Les classes de feux principales sont : Classe B (kérosène, Skydrol, huiles), Classe C (circuits électriques), Classe D (magnésium des roues freinées, lithium des batteries).",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Quel agent extincteur ne doit JAMAIS être utilisé sur des vêtements en feu imbibés de carburant ?",
+      "options": {
+        "A": "L'eau",
+        "B": "L'extincteur à mousse",
+        "C": "L'extincteur CO2"
+      },
+      "correct": "B",
+      "explication": "Sur des vêtements enflammés, il est précisé de NE PAS UTILISER d'extincteur à mousse ; on peut utiliser couvertures, chiffons secs, CO2 (en protégeant la peau), eau ou extincteur à eau.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Après un essai sur le circuit d'allumage d'un turboréacteur, combien de temps faut-il attendre avant d'intervenir (phénomène d'ionisation) ?",
+      "options": {
+        "A": "1 minute",
+        "B": "Au moins 10 minutes",
+        "C": "1 heure"
+      },
+      "correct": "B",
+      "explication": "Il faut attendre au moins 10 minutes après tout essai sur le circuit d'allumage avant d'intervenir, à cause de l'ionisation. Pour l'APU, c'est 3 minutes après l'arrêt.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Combien de temps les pales d'un turbopropulseur peuvent-elles continuer à tourner après l'arrêt du moteur ?",
+      "options": {
+        "A": "Environ 90 secondes",
+        "B": "Environ 10 secondes",
+        "C": "Environ 10 minutes"
+      },
+      "correct": "A",
+      "explication": "Les pales d'hélice continuent à tourner pendant environ 90 secondes après l'arrêt du moteur, silencieusement et peu visibles, ce qui représente un danger mortel. Il faut toujours contourner les hélices.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "À partir de quel niveau sonore quotidien (8 h) l'ouïe est-elle considérée en danger ?",
+      "options": {
+        "A": "60 dB",
+        "B": "135 dB",
+        "C": "80 dB"
+      },
+      "correct": "C",
+      "explication": "L'ouïe est considérée en danger à partir de 80 dB durant une journée de 8 heures. Au-delà de 135 dB instantanés, toute exposition même très courte est dangereuse.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Selon la règle d'atténuation du bruit, comment évolue le niveau sonore lorsque la distance à la source double ?",
+      "options": {
+        "A": "Il diminue de 3 dB",
+        "B": "Il diminue de 50 %",
+        "C": "Il diminue de 6 dB"
+      },
+      "correct": "C",
+      "explication": "La règle d'atténuation indique une diminution d'environ 6 dB chaque fois que la distance à la source double (ex : 120 dB à 10 m → 114 dB à 20 m → 108 dB à 40 m).",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    },
+    {
+      "question": "Pour tout essai radar météo, quelle distance minimale doit séparer l'aéronef des obstacles, et où doit-il être effectué ?",
+      "options": {
+        "A": "10 m, dans le hangar",
+        "B": "100 m de tout obstacle, hors du hangar, sans personnel dans le faisceau",
+        "C": "500 m, sur la piste en service"
+      },
+      "correct": "B",
+      "explication": "Tout essai radar doit être effectué hors du hangar, à au moins 100 mètres de tout obstacle, aucune personne ne doit stationner dans le champ du faisceau, une vigie est obligatoire, et l'émission radar est interdite pendant les pleins carburants.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-05-25"
+    }
+  ]
+}

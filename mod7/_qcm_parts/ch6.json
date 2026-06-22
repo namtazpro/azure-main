@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question": "Pour la cote tolérancée 128 +0,5 / −0,8 mm, quelle est la cote mini admissible ?",
+      "options": {
+        "A": "127,2 mm",
+        "B": "127,5 mm",
+        "C": "128,5 mm"
+      },
+      "correct": "A",
+      "explication": "Pour la cote 128 +0,5/−0,8 : cote maxi = 128 + 0,5 = 128,5 mm ; cote mini = 128 − 0,8 = 127,2 mm ; tolérance = 1,3 mm. Une pièce mesurée entre 127,2 et 128,5 reste conforme.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle formule donne le diamètre de perçage à appliquer avant de réaliser un taraudage ?",
+      "options": {
+        "A": "Ø perçage = Ø nominal + pas",
+        "B": "Ø perçage = Ø nominal − pas",
+        "C": "Ø perçage = pas / 2"
+      },
+      "correct": "B",
+      "explication": "Pour réaliser un taraudage, il faut percer un alésage dont le diamètre est fonction du diamètre nominal du taraudage selon la formule : Ø de perçage = Ø nominal − pas. Exemple : un M3 × 0,5 nécessite un perçage de 2,5 mm.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans la désignation d'ajustement ISO Ø 80 H8/f7, que représente le « H8 » ?",
+      "options": {
+        "A": "Le diamètre nominal complémentaire",
+        "B": "La position et la qualité de l'IT de l'arbre",
+        "C": "La position et la qualité de l'IT de l'alésage"
+      },
+      "correct": "C",
+      "explication": "Dans la désignation Ø 80 H8/f7 : Ø 80 est le diamètre nominal, H8 désigne la position et la qualité de l'intervalle de tolérance de l'alésage (lettre majuscule), et f7 désigne la position et la qualité de l'IT de l'arbre (lettre minuscule).",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans le système de l'alésage normal (H), un arbre en position « f » donne quel type d'ajustement ?",
+      "options": {
+        "A": "Ajustement serré (montage en force)",
+        "B": "Ajustement avec jeu",
+        "C": "Ajustement incertain"
+      },
+      "correct": "B",
+      "explication": "Dans le système de l'alésage normal (tous les alésages sont H), la position de l'arbre détermine le type d'ajustement : position f = ajustement avec jeu ; position k = ajustement incertain ; position p = ajustement serré.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel ajustement correspond au moyen mnémotechnique « à la main » (hand) ?",
+      "options": {
+        "A": "H7 f6",
+        "B": "H7 g6",
+        "C": "H7 h7"
+      },
+      "correct": "C",
+      "explication": "Moyens mnémotechniques : H7 f6 monté « flottant » ; H7 g6 monté « glissant » ; H7 h7 à la main « hand » ; H7 js5 « juste serré » ; H7 m6 au « maillet » ; H7 p6 à la « presse » ; H7 s6 très « serré ».",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la formule correcte pour calculer le « jeu Maxi » d'un ajustement arbre/alésage ?",
+      "options": {
+        "A": "Jeu Maxi = Alésage Maxi − arbre mini",
+        "B": "Jeu Maxi = Alésage mini − arbre Maxi",
+        "C": "Jeu Maxi = arbre Maxi − Alésage mini"
+      },
+      "correct": "A",
+      "explication": "Pour calculer un jeu : Jeu Maxi = Alésage Maxi − arbre mini ; Jeu mini = Alésage mini − arbre Maxi. Si les deux valeurs sont positives → montage glissant ; négatives → montage serré ; signes opposés → montage incertain.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans le système ISO de tolérances, à quoi correspond la classe de qualité 0 ?",
+      "options": {
+        "A": "La largeur d'intervalle de tolérance la plus large",
+        "B": "La meilleure qualité, avec l'intervalle de tolérance (IT) le plus faible",
+        "C": "La qualité standard utilisée par défaut dans les cartouches"
+      },
+      "correct": "B",
+      "explication": "Le système ISO définit des classes de qualités variant de 0 à 16 ; la classe 0 est la meilleure qualité (IT le plus faible). En pratique, on utilise couramment les classes 5 à 13 ; une qualité 5 est considérée fine, une qualité 11 est large.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quels sont les quatre types d'usure des pièces métalliques identifiés dans le livret ?",
+      "options": {
+        "A": "Abrasive, adhésive, corrosive et par fatigue",
+        "B": "Chimique, thermique, mécanique et électrique",
+        "C": "Superficielle, profonde, ponctuelle et étendue"
+      },
+      "correct": "A",
+      "explication": "Le livret identifie quatre types d'usure pour les pièces métalliques : abrasive (frottement d'aspérités), adhésive (liaisons intermoléculaires, précurseur du grippage), corrosive (réaction chimique) et par fatigue (contraintes cycliques créant et propageant des criques).",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À combien de millimètres correspond 1 inch (1 in) selon la norme ANSI utilisée sur les plans aéronautiques ?",
+      "options": {
+        "A": "24,5 mm",
+        "B": "25,4 mm",
+        "C": "32,0 mm"
+      },
+      "correct": "B",
+      "explication": "Les unités de cotation les plus fréquemment utilisées sont le millimètre (norme ISO-AFNOR) et l'inch (norme ANSI) avec la conversion : 1 in = 25,4 mm. Lorsqu'une dimension est exprimée dans l'une de ces deux unités, l'unité n'est pas indiquée.",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la précision typique d'un micromètre utilisé pour le contrôle dimensionnel ?",
+      "options": {
+        "A": "Au millimètre",
+        "B": "Au 1/100 de millimètre",
+        "C": "Au micron (1/1000 de mm)"
+      },
+      "correct": "C",
+      "explication": "Le micromètre offre une précision au micron et permet de mesurer diamètres et longueurs. À comparer avec : pied à coulisse (2/100 pour la plupart des modèles), comparateur (1/100 ou micron), colonne de mesure (micron), machine à mesurer tridimensionnelle (dixième de micron).",
+      "source": "M 7.6.pdf",
+      "chapter": "Module 7.6 - Ajustements et jeux",
+      "date": "2026-06-21"
+    }
+  ]
+}

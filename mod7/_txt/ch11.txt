@@ -1,0 +1,831 @@
+===== PAGE 1 =====
+Module 7.11 V06   Page 1 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Module 7.11 
+ 
+ ROULEMENTS 
+ 
+Licence B1 
+
+===== PAGE 2 =====
+Module 7.11 V06   Page 2 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 11/05/2016 Page de garde et 
+page 1  
+ Adresse, signatures et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 02/06/2017 Toutes Nouvelle édition 
+V06 19/02/2026 Toutes  Mise à jour  
+    
+ 
+  
+Visa Rédacteur 
+Laurent 
+VINGADASSALOM 
+Visa Responsable Module / 
+Directeur de Formation 
+  
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC  
+   
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.11 V06   Page 3 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+Catégorie B1 : 80 questions à choix multiples, Temps alloué 100 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+Catégorie B2 :  60 questions à choix multiples, Temps alloué 75 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+Module 7.11 ROULEMENTS Niveau 
+A B1 
+Essais, nettoyage et inspection des roulements ;  
+1 2 Exigences pour la lubrification des roulements ;  
+Défauts des roulements et leurs causes ; 
+ 
+  
+===== PAGE 4 =====
+Module 7.11 V06   Page 4 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.11 V06   Page 5 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1 ESSAIS, NETTOYAGE ET INSPECTION DES ROULEMENTS ; ................................ ............6 
+1.1 CONNAISSANCES DES ROULEMENTS ................................ ................................ .........6 
+1.1.1 Composition des roulements ; ................................ ................................ ....................6 
+1.1.2 Les différents types de roulements ; ................................ ................................ ..........7 
+1.1.3 Les charges ; ................................ ................................ ................................ ................8 
+1.1.4 Durée de vie des roulements ; ................................ ................................ ................... 10 
+1.1.5 Notion d’écaillage ; ................................ ................................ ................................ .... 11 
+1.2 ESSAIS ET NETTOYAGE DES ROULEMENTS ; ................................ .......................... 11 
+1.2.1 Nettoyage de roulements ; ................................ ................................ ........................ 12 
+1.2.1.1 Généralités ; ....................................................................................................... 12 
+1.2.1.2 Méthodes de nettoyage ; .................................................................................... 13 
+1.2.1.2 Essais des roulements ; ................................ ................................ ......................... 15 
+1.3 INSPECTION DES ROULEMENTS ; ................................ ................................ .............. 16 
+2 EXIGENCES POUR LA LUBRIFICATION DES ROULEMENTS ; ................................ ......... 18 
+2.1 Objectif de la lubrification ; ................................ ................................ .......................... 18 
+2.2 Méthodes de lubrification ; ................................ ................................ ........................... 19 
+2.2.1 Lubrification avec des graisses ; ............................................................................ 19 
+2.2.2 Lubrification avec des huiles ; ................................................................................ 20 
+3 DEFAUT DES ROULEMENTS ET LEURS CAUSES ; ................................ .......................... 21 
+ 
+  
+===== PAGE 6 =====
+Module 7.11 V06   Page 6 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1 ESSAIS, NETTOYAGE ET INSPECTION DES 
+ROULEMENTS ; 
+ 
+ 
+Rappel des objectifs  : Une connaissance générale des aspects théoriques 
+et pratiques des essais, nettoyages et inspections des roulements  et une 
+capacité à appliquer cette connaissance. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+1.1 CONNAISSANCES DES ROULEMENTS 
+Le roulement est un organe de base qui assure une liaison mobile entre deux éléments d'un 
+mécanisme en rotation l'un par rapport à l'autre. Sa fonction est de permettre la rotation relative 
+de ces éléments, sous charge, avec précision et avec un frottement minimal. 
+Nous trouvons des roulements dans chaque mécanisme mis en rotation. 
+1.1.1 Composition des roulements ; 
+La connaissance de la composition d’un roulement est indispensable pour comprendre son 
+entretien et ses défaillances.  
+Le roulement est composé des éléments suivants : 
+ 
+Deux bagues (en acier) comportant des chemins de roulement (surface sur lesquelles "roulent" 
+les corps roulants) : Bague intérieure (B.I.), Bague extérieure (B.E.). 
+ 
+Des corps roulants (généralement en acier) permettant le mouvement des deux bagues avec un 
+frottement minimal. 
+ 
+Une cage séparant et guidant les corps roulants (en polyamide, tôle acier, laiton ou résine). 
+ 
+La lubrification (graisse ou huile) lutte contre le frottement. Elle assure le fonctionnement optimal 
+et permet la durée de vie maximale du roulement. 
+ 
+Une protection (déflecteur en acier ou joint) assure l’étanchéité afin que les parties actives du 
+roulement (corps roulants, chemins et cage) restent toujours parfaitement propres et bien 
+lubrifiées. 
+ 
+ 
+  
+
+===== PAGE 7 =====
+Module 7.11 V06   Page 7 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Quelques définitions à retenir : 
+Le logement est l'emplacement où s'insère la bague extérieure du roulement. 
+L'arbre est l'axe qui vient s'insérer dans la bague intérieure. 
+Le diamètre primitif est le diamètre fictif passant par le centre des corps roulants. 
+ 
+1.1.2 Les différents types de roulements ; 
+Type de 
+roulement 
+Éléments 
+roulants 
+Charges 
+supportées 
+Caractéristique 
+clé à retenir 
+Utilisation 
+typique Descriptif 
+Roulement à 
+billes à 
+contact 
+oblique 
+Billes 
+Radiales + 
+axiales 
+élevées 
+L’angle de 
+contact permet 
+de supporter 
+l’axial 
+Arbres 
+tournants 
+chargés 
+axialement  
+Roulement à 
+rouleaux 
+cylindriques 
+Rouleaux 
+cylindriques 
+Radiales 
+élevées, 
+axial très 
+limité 
+Capacité radiale 
+supérieure aux 
+billes 
+Boîtes de 
+transmission 
+ 
+Roulement à 
+rouleaux 
+coniques 
+Rouleaux 
+coniques 
+Radiales + 
+axiales 
+élevées 
+Souvent monté 
+par paire 
+Roues et 
+trains 
+d’atterrissage 
+ 
+Roulement à 
+rouleaux 
+sphériques 
+Rouleaux 
+sphériques 
+Radiales 
+très élevées 
++ axiales 
+Auto-aligneur, 
+accepte le 
+désalignement 
+Charges 
+lourdes, 
+structures 
+ 
+Roulement à 
+aiguilles 
+Rouleaux 
+fins 
+Radiales 
+élevées 
+Faible 
+encombrement 
+radial 
+Mécanismes 
+compacts 
+ 
+Butée à 
+billes Billes Axiales 
+uniquement 
+Ne supporte 
+aucune charge 
+radiale 
+Vis, 
+mécanismes 
+de réglage 
+ 
+Butée à 
+rouleaux Rouleaux Axiales 
+élevées 
+Capacité axiale 
+> butée à billes 
+Mécanismes 
+fortement 
+chargés 
+ 
+ 
+  
+
+===== PAGE 8 =====
+Module 7.11 V06   Page 8 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.3 Les charges ; 
+Une charge est une force qui exercée sur le roulement.  
+Selon l'application et donc la charge à laquelle est soumis le roulement, on utilise un type de 
+roulement ou un autre, dont les qualités sont différentes. 
+Il existe quatre principaux types de charges auxquelles les roulements sont soumis : 
+ 
+• Charges radiales : sont des charges qui agissent perpendiculairement à l’axe de rotation. Ces 
+charges sont généralement causées par le poids de l'arbre en rotation et les forces appliquées 
+à l'arbre par les roulements. 
+ 
+• Charges axiales : sont des charges qui agissent parallèlement à l’axe de rotation. Ces charges 
+sont généralement causées par les forces appliquées à l'arbre par les engrenages, les courroies 
+ou d'autres composants connectés à l'arbre. 
+ 
+• Charges de moment  : sont des charges qui font tourner l’arbre. Ces charges sont 
+généralement causées par les forces appliquées à l'arbre par les engrenages, les courroies ou 
+d'autres composants connectés à l'arbre. 
+ 
+  
+
+===== PAGE 9 =====
+Module 7.11 V06   Page 9 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Charges combinées : sont des charges qui sont une combinaison de charges radiales, axiales 
+et de moment. Ces charges sont généralement les plus difficiles à concevoir, car elles peuvent 
+soumettre le roulement à diverses contraintes. 
+ 
+ 
+Chaque application demande des qualités particulières au roulement.  
+Voici comment, schématiquement, on les distingue : 
+ 
+  
+ 
+ 
+ 
+  
+
+===== PAGE 10 =====
+Module 7.11 V06   Page 10 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.4 Durée de vie des roulements ; 
+Chaque roulement a été conçu pour "vivre" dans un environnement défini.  
+Il a une "espérance de vie" car c'est une pièce d'usure vouée à une "mort naturelle".  
+→La durée de vie du roulement correspond à la capacité de résistance à la fatigue.  
+→Plus concrètement au nombre de tours de roulements jusqu'aux premiers signes 
+d'écaillages. 
+ 
+ 
+Les corps roulants, en roulant sur la piste, créent d'importantes contraintes cycliques de 
+compression et cisaillement.  
+De même que les nids de poule sur les routes sont dus aux passages successifs des véhicules, 
+les bagues de roulements se fissurent sous le passage répété des corps roulants.  
+ 
+Dans des conditions normales, le roulement finit par se détériorer :  
+Les contacts entre les corps roulants et les bagues occasionnent de très fortes charges, des 
+contraintes à la fois de compression en surface et de cisaillement en sous-couche.  
+La durée de vie du roulement correspond à la capacité de résistance à ces contraintes. 
+→La durée de vie est une prévision, une donnée statistique.  
+ 
+ 
+ 
+Exemple : Image comparative de roulement aéronautiques usés et neufs. (Source NTN Europe) 
+  
+
+===== PAGE 11 =====
+Module 7.11 V06   Page 11 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.5 Notion d’écaillage ; 
+ Cette "mort naturelle " se concrétise par l'apparition de traces de fatigue. 
+Même utilisé correctement (notamment avec une bonne lubrification), des fissures vont se créer et 
+se développer jusqu'à ce que des morceaux de matière se détachent. C'est le signe de la 
+destruction progressive du roulement jusqu'à sa "mort" annoncée. 
+ 
+ON PARLE ALORS D'ECAILLAGE. 
+ 
+Le chemin de roulement est endommagé. Le roulement perd ses propriétés initiales, il n'est donc 
+plus en mesure de fonctionner normalement.   
+ 
+Les contraintes auxquelles sont soumises les pistes de roulement conduisent à plus ou moins long 
+terme à une fissure au sein de l'acier : des inclusions en sous-couche puis une fissure.   
+ 
+ 
+ 
+Exemple : coupe micrographie d’évolution d’un écaillage. 
+ 
+1.2 ESSAIS ET NETTOYAGE DES ROULEMENTS ; 
+Lorsqu’ils sont correctement installés et efficacement lubrifiés, les roulements nécessitent peu 
+d’interventions pendant leur utilisation, hormis une attention approfondie, afin de garantir une 
+longue durée de vie en service. 
+La majorité des roulements utilisés en ingénierie aéronautique sont de type étanche ou protégé 
+par flasques  
+ 
+Exemple : Roulement étanches et protégés par flasque. 
+ 
+Ces roulements sont conçus pour empêcher la pénétration de corps étrangers, lesquels 
+pourraient endommager ou contaminer les surfaces de contact du roulement. 
+ 
+  
+
+===== PAGE 12 =====
+Module 7.11 V06   Page 12 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.1 Nettoyage de roulements ; 
+1.2.1.1 Généralités ; 
+Avant de pouvoir être contrôlé, un roulement doit être soigneusement nettoyé afin d’éliminer 
+toute saleté et l’ancien lubrifiant. 
+ 
+Lors des opérations de maintenance, le mode de nettoyage d’un roulement dépend directement 
+de sa conception et de son niveau de révision.  
+ 
+On distingue classiquement trois configurations : 
+ 
+1. Non démontables : 
+• Description : composants internes (bagues, éléments roulants, cage) non séparables.  
+• Nettoyage autorisé : externe uniquement (pas d’accès aux éléments internes). 
+• Exemples : roulements rigides à billes et à rouleaux simples, roulements avec flasques fixe.  
+ 
+2. Semi démontables : 
+• Description : certaines parties (ex. cage, sous-ensembles) sont séparables, mais pas 
+l’ensemble complet. 
+• Nettoyage autorisé : partiel interne, attention à l’ordre de remontage. 
+• Exemples : roulements avec flasques ou cages extractibles (selon conception).  
+ 
+3. Démontables 
+• Description : toutes les pièces se séparent (bagues, éléments roulants, cage) pour inspection 
+complète. 
+• Nettoyage autorisé : intégral (interne et externe). 
+• Exemples : roulements à rouleaux coniques, certaines configurations cylindriques.  
+ 
+  
+
+===== PAGE 13 =====
+Module 7.11 V06   Page 13 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les roulements comportant des joints en plastiques (lubrification à vie) ne doivent pas être placés 
+dans les cuves de nettoyage (ultrasons, solvant, bain chaud). 
+ 
+ 
+1.2.1.2 Méthodes de nettoyage ; 
+Le manuel de maintenance prescrit la procédure de nettoyage, y compris l’utilisation éventuelle 
+de solvants.  
+ 
+Nettoyage manuel et chimique :  
+• Retirer l’excédent de graisse à l’aide de chiffons propres et d’air comprimé sec, en 
+veillant à ce que les éléments roulants restent immobiles ou ne tournent que lentement. 
+ 
+• Immerger le roulement dans un solvant approuvé, tel que le white-spirit, afin d’éliminer la 
+graisse restante.  
+ 
+NOTA : Le solvant peut être appliqué sous forme de jet sous pression si nécessaire. 
+ 
+• Sécher le roulement à l’aide d’air comprimé propre, chaud et sec, en évitant à nouveau 
+toute rotation rapide des éléments roulants. 
+ 
+• Lubrifier toutes les surfaces du roulement avec de la graisse (ou de l’huile) afin de 
+prévenir l’apparition de corrosion. 
+ 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.11 V06   Page 14 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+La démagnétisation n'est pas une méthode de nettoyage à proprement parler c'est une étape de 
+contrôle ou de traitement appliquée après certaines opérations de maintenance.  
+ 
+Elle consiste à faire passer la pièce dans un champ magnétique alternatif décroissant jusqu'à annuler 
+le magnétisme résiduel. Après cette opération, on vérifie avec un gaussmètre que le niveau de 
+magnétisme résiduel est inférieur au seuil toléré par la documentation constructeur (AMM ou CMM). 
+ 
+• Les parties démontables des roulements doivent être démagnétisées individuellement.  
+• Les roulements et/ou les pièces qui les composent sont passées au démagnétiseur à une 
+vitesse ne devant pas excéder 3.7m par minute (6 cm/s). 
+• Le champ magnétique résiduel sera vérifié après opération à l'aide d'un gauss mètre. 
+• La valeur doit être inférieure à 5 Gauss ou 400 Amp/m. 
+• Recommencer l'opération de démagnétisation si nécessaire. 
+ 
+ 
+ 
+NOTA : 
+ 
+Si cette opération est omise, les particules métalliques restent adhérentes aux surfaces du 
+roulement (même pendant le lavage) et cela peut provoquer à terme la corrosion du roulement et 
+donc son grippage.  
+Un roulement magnétisé attire les particules métalliques (copeaux, poussières ferreux, débris 
+d'usure) qui se déposent sur les pistes de roulement et entre les billes ou rouleaux. Ces particules 
+agissent comme un abrasif et provoquent une usure accélérée, des rayures sur les pistes, et à 
+terme une défaillance prématurée. En aéronautique, cela peut avoir des conséquences directes 
+sur la navigabilité. 
+ 
+ 
+ 
+S'assurer que le Gauss mètre est étalonné avant de l'utiliser. 
+ 
+  
+
+===== PAGE 15 =====
+Module 7.11 V06   Page 15 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.1.2 Essais des roulements ; 
+Le contrôle d’un roulement se limite généralement à des vérifications de rotation ainsi qu’à la 
+détection d’un jeu excessif ou d’un battement anormal. 
+ 
+La rotation lente des éléments roulants et des pistes de roulement permet de mettre en évidence 
+toute rugosité due à un endommagement, à la corrosion ou à l’usure.  
+Un roulement en état de service doit présenter une rotation fluide et régulière. 
+ 
+Le jeu libre doit être contrôlé à la fois dans les directions radiale et axiale, généralement à l’aide 
+d’un comparateur à cadran (DTI).  
+ 
+Une certaine usure est généralement admissible et dépend de la classe d’ajustement, mais toute 
+usure entraînant un jeu excessif dans le système est inacceptable. 
+ 
+La vitesse d’apparition de cette usure dépend de la vitesse de rotation du roulement : les 
+roulements à grande vitesse se détériorent plus rapidement que ceux qui tournent lentement ou 
+sur des courses inférieures à un tour complet. 
+ 
+Tout roulement présentant le moindre indice de défaillance doit être immédiatement 
+rebuté. 
+ 
+ 
+En raison de leur conception, l’inspection interne des roulements protégés par flasques est 
+limitée.  
+En revanche, les roulements coniques peuvent être démontés, ce qui permet une inspection 
+approfondie des éléments roulants et des surfaces des pistes de roulement. 
+ 
+  
+
+===== PAGE 16 =====
+Module 7.11 V06   Page 16 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3 INSPECTION DES ROULEMENTS ; 
+ 
+Les roulements à billes et à rouleaux, lorsqu’ils sont correctement installés et lubrifiés, ont une 
+longue durée de vie et nécessitent peu d’entretien. Toutefois, une défaillance de roulement peut 
+entraîner des conséquences graves. 
+ 
+C’est pourquoi les manuels de maintenance avion et les programmes d’entretien prévoient 
+des inspections périodiques et lorsque applicable, la lubrification de tous les types de 
+roulements. 
+ 
+Les roulements doivent être inspectés conformément aux instructions du manuel de maintenance 
+afin de détecter : 
+• Usure,  
+• Perte de lubrification, 
+• Contamination, 
+• Ou tout autre défaut susceptible d’entraîner une défaillance en service.  
+ 
+ 
+Exemple d’usure : Dimensions hors tolérances 
+ 
+Il faudra se conformer à la documentation du constructeur, mais généralement les 
+critères de rejets sont les suivants : 
+ 
+Écaillage : Toute écaille > limites AMM 
+ 
+ 
+Fissures : TOUTE fissure visible = REJET 
+ 
+ 
+Brinelage : Empreintes > limites AMM 
+ 
+ 
+Corrosion : Piqûres profondes, réduction section 
+ 
+ 
+ 
+  
+
+===== PAGE 17 =====
+Module 7.11 V06   Page 17 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Décoloration : Bleu, violet, noir 
+ 
+ 
+Érosion électrique : Toute trace 
+ 
+ 
+ 
+ 
+Grippage : Tout signe de fusion 
+ 
+Déformation : Cage, bagues, éléments roulants 
+ 
+ 
+Mais aussi,  
+Contamination sévère : Non nettoyable 
+Test fonctionnel : Bruit, rugosité, blocage 
+Indications NDT : Positives au-delà limites 
+ 
+Pour aller plus loin : PM LTP UM M EA P 4 X 5.5 v1 | 2012-09-30 
+  
+
+===== PAGE 18 =====
+Module 7.11 V06   Page 18 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2 EXIGENCES POUR LA LUBRIFICATION DES 
+ROULEMENTS ;  
+ 
+Rappel des objectifs  : Une connaissance générale des aspects théoriques 
+et pratiques des  spécifications pour la lubrification des roulements et une 
+capacité à appliquer cette connaissance.  
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+2.1 Objectif de la lubrification ; 
+Les roulements (à billes, à rouleaux, coniques ou à aiguilles) assurent des fonctions critiques de 
+guidage, rotation et réduction des frottements. Leur lubrification conditionne directement la 
+durée de vie, la fiabilité et la sécurité des systèmes. 
+ 
+L’objectif est de : 
+ 
+• Réduction des frottements et de l’usure 
+ 
+• Protection contre la corrosion 
+ 
+• Dissipation thermique 
+ 
+• Prévention du grippage et du fretting 
+ 
+• Maintien des performances mécaniques 
+ 
+ 
+ 
+Il existe un grand nombre de graisses et d'huiles pour la lubrification des roulements, ainsi que 
+des lubrifiants solides sélectionnés, par exemple, lorsque le montage est soumis à des conditions 
+de température extrêmes.  
+ 
+Le choix du lubrifiant stipulé par la documentation de travail est fonction, en premier lieu, des 
+conditions de fonctionnement : C'est-à-dire la plage de températures et de vitesse, ainsi que 
+l'influence de l'environnement. 
+ 
+On obtient les températures de fonctionnement les plus favorables  lorsque le roulement 
+reçoit la quantité de lubrifiant minimale nécessaire  pour assurer une lubrification fiable. 
+Cependant, si le lubrifiant doit remplir des fonctions additionnelles, telles que l'étanchéité ou la 
+dissipation de chaleur, des quantités plus importantes sont requises. 
+ 
+Le pouvoir lubrifiant d'une graisse ou d'une huile diminue  dans le temps par suite des 
+contraintes mécaniques, du vieillissement et de la contamination.  
+Il est donc nécessaire de procéder à des appoints de graisse ou à un renouvellement complet 
+de celle-ci, et de filtrer et remplacer l'huile à intervalles réguliers. 
+ 
+Les roulements doivent être re-lubrifiés si la durée de service de la graisse utilisée est plus courte 
+que celle prévue pour le roulement.  
+ 
+La re lubrification doit toujours être effectuée alors que le roulement est encore lubrifié de 
+façon satisfaisante.  
+
+===== PAGE 19 =====
+Module 7.11 V06   Page 19 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les roulements équipés de joints ou de flasques intégrés aux deux extrémités sont fournis 
+graissés.  
+La durée de service de la graisse dans des roulements étanches dépasse souvent celle des 
+roulements eux-mêmes.  
+A de rares exceptions près, aucune disposition n’est donc prévue pour re lubrifier ces roulements. 
+ 
+2.2 Méthodes de lubrification ; 
+• Les roulements pourront être graissés à l’aide de graisses ou d’huiles. 
+• Les références des produits seront fournies par la documentation du constructeur. 
+ 
+2.2.1 Lubrification avec des graisses ; 
+ 
+Il faudra : 
+• Utiliser uniquement la graisse préconisée par le constructeur (ne pas mélanger les 
+graisses). 
+• Ne remplir que 1/3 à 1/2 les espaces libres du logement et du roulement.  
+•  
+NOTA : Si la vitesse de rotation est faible, on peut garnir complètement le roulement pour 
+améliorer l'effet d'étanchéité. 
+Un graissage excessif donne lieu à une augmentation de température, ceci peut provoquer une 
+détérioration du roulement. 
+Les roulements doivent être graissés à des intervalles de temps bien déterminés suivant les 
+instructions techniques. 
+ 
+ 
+  
+
+===== PAGE 20 =====
+Module 7.11 V06   Page 20 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2.2 Lubrification avec des huiles ; 
+Le graissage à l'huile peut être mis en œuvre par barbotage, par circulation ou par brouillard 
+d'huile. Comme pour les graisses, il faudra utiliser l’huile préconisée par la documentation 
+technique, et ne pas mélanger les huiles. 
+ 
+Par circulation : 
+Le niveau de l'huile doit être réglé de telle façon que l'huile ne s'accumule pas dans le logement 
+et s'écoule sans difficulté. 
+ 
+Par barbotage : 
+Le niveau de l'huile à l'arrêt doit être à moitié du corps roulant le plus bas. 
+ 
+ 
+ 
+Voici un exemple d’application par graissage. 
+ 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.11 V06   Page 21 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3 DEFAUT DES ROULEMENTS ET LEURS CAUSES ; 
+ 
+Rappel des objectifs  : Une connaissance générale des aspects théoriques 
+et pratiques la défectuosité des roulements et leurs causes et une capacité à 
+appliquer cette connaissance. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+L’usure prématurée des roulements est possible dans certains cas qu’il convient d’identifier. 
+• Le passage de courant électrique dans les bagues et éléments roulants use les 
+surfaces de contact et le lubrifiant.  
+Cette usure provient d’un processus similaire au soudage à l’arc électrique , qui génère des 
+températures localisées élevées. 
+Dans le cas d’un foudroiement en vol , les roulements présents dans un avion doivent être 
+vérifiés selon une procédure établie afin d’identifier des défaillances éventuelles qui vont jusqu’au 
+soudage des billes dans la cage. 
+ 
+• Les craquelures de fatigue  dans les chemins de roulement  peuvent provenir d’une 
+concentration de contraintes internes, telles que des inclusions de scories.  
+ 
+Lorsque les éléments roulants passent sur les craquelures, des fragments de matériau s’effritent : 
+c’est ce que l’on appelle l’écaillage.  
+L’écaillage s’empire avec le temps et peut à terme entraîner une défaillance du roulement.  
+ 
+• D'autres causes, anormales, peuvent provoquer la détérioration prématurée d'un roulement 
+et affecter sa durée de vie, notamment : 
+ 
+Cause principale Pourcentage approximatif des échecs prématurés* 
+Lubrification inadéquate ~36 % à ~80 % (selon les critères) 
+Fatigue/ Surcharge ~30 % à ~34 % 
+Montage/alignement ~10 % à ~16 % 
+Contamination ~14 % à ~25 % 
+ 
+Ainsi, on définit et choisit un roulement pour qu'il ait la durée de vie souhaité dans les conditions 
+d'utilisation de l'application.  
+ 
+  
+
+===== PAGE 22 =====
+Module 7.11 V06   Page 22 sur 22 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Stockage : 
+Les roulements neufs sont empaquetés afin d’être protéger contre la corrosion pendant au moins 
+un an. 
+Renseignements visibles sur emballage : 
+• Marque. 
+• Références SN. 
+• Date de conditionnement. 
+• Date de fin de garantie de conditionnement.  
+• Numéro individuel PN. 
+ 
+ 
+En conséquence, tous les roulements arrivant à un mois de l’expiration de la garantie de 
+stockage sur l’emballage devront être renvoyé aux fabricants pour être reconditionnés. 

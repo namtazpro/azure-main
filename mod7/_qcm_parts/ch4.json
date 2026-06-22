@@ -1,0 +1,43 @@
+{
+  "questions": [
+    {
+      "question": "À partir de quelle intensité de courant alternatif traversant le corps humain une fibrillation ventriculaire devient-elle possible selon le module ?",
+      "options": {
+        "A": "À partir de 1 mA",
+        "B": "À partir de 5 à 15 mA",
+        "C": "À partir de 30 mA AC (ou 100 mA DC)"
+      },
+      "correct": "C",
+      "explication": "Les effets physiologiques cités sont : < 1 mA picotement, 5 à 15 mA contraction musculaire involontaire, 30 mA AC ou 100 mA DC fibrillation ventriculaire possible.",
+      "source": "M 7.4.pdf",
+      "chapter": "Module 7.4 - Risques pour la sécurité lors de l'utilisation de systèmes électriques et d'équipements de protection",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la déconnexion des câbles d'une batterie principale d'aéronef, dans quel ordre faut-il procéder ?",
+      "options": {
+        "A": "Toujours débrancher le câble négatif (masse) en premier puis le positif ; rebrancher dans l'ordre inverse (positif d'abord, négatif ensuite)",
+        "B": "Toujours débrancher le câble positif en premier puis le négatif ; rebrancher dans le même ordre",
+        "C": "L'ordre est indifférent dès lors que l'outillage utilisé est isolé"
+      },
+      "correct": "A",
+      "explication": "Pour éviter les courts-circuits accidentels lors du retrait du câble positif, on débranche toujours le câble négatif (masse) en premier. Le rebranchement s'effectue dans l'ordre inverse : positif d'abord, puis négatif.",
+      "source": "M 7.4.pdf",
+      "chapter": "Module 7.4 - Risques pour la sécurité lors de l'utilisation de systèmes électriques et d'équipements de protection",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la plage de résistance imposée pour un bracelet antistatique utilisé en zone EPA (Electrostatic Protected Area) ?",
+      "options": {
+        "A": "Entre 100 Ω et 1 kΩ",
+        "B": "Entre 750 kΩ et 10 MΩ",
+        "C": "Supérieure à 100 MΩ"
+      },
+      "correct": "B",
+      "explication": "La résistance du bracelet antistatique doit se situer entre 750 kΩ et 10 MΩ : suffisamment faible pour évacuer les charges statiques vers la masse, suffisamment élevée pour limiter le courant de décharge en cas de contact accidentel avec une tension.",
+      "source": "M 7.4.pdf",
+      "chapter": "Module 7.4 - Risques pour la sécurité lors de l'utilisation de systèmes électriques et d'équipements de protection",
+      "date": "2026-06-21"
+    }
+  ]
+}

@@ -1,0 +1,1841 @@
+===== PAGE 1 =====
+Module 7.6 V08   Page 1 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module 7.6 
+ 
+Jeux et 
+Tolérances 
+ 
+Licence B1 / B2 
+Livret destiné aux stagiaires 
+ 
+Édition 2026  
+AIR FORMATION 
+ 
+Centre de Formation Aéronautique 
+Agréé EASA PART 147 
+ 
+14 Avenue Escadrille Normandie Niémen 
+31700 BLAGNAC - FRANCE 
+
+===== PAGE 2 =====
+Module 7.6 V08   Page 2 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins que celles 
+pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à des tiers non 
+habilités. 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 11/05/2016 Toutes 
+Page de garde et page 1 : adresse, signatures et 
+noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 01/06/2017 Toutes Nouvelle édition 
+ V06 03/02/2023 Toutes Remise au nouveau format et mise à jour du 
+contenu 
+V07 30/05/2024 Toutes UE 2023 /989  
+V08 10/04/2026 Toutes Tableau d’évolution et pied de page 
+ 
+  
+Visa Rédacteur /  Visa Responsable Module 
+ 
+Grégory GERLIN 
+Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+ 
+  
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.6 V08   Page 3 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+SUJET MODULE 7 : Procédures d’entretien 
+ 
+Catégorie B1 : 80 questions à choix multiples et 2 questions à développement. Temps alloué 100 
+minutes. 
+Catégorie B2 : 60 questions à choix multiples et 2 questions à développement. Temps alloué 75 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+7.6 Jeux et Tolérances 
+Niveau 
+B1 B2 
+Tailles de perçage pour les trous de boulons, classes d'ajustement 
+Système commun de jeux et tolérances 
+Programme de jeux et tolérances pour les aéronefs et les moteurs 
+Limites pour le voilement longitudinal de face, la torsion et l'usure 
+Méthodes standards pour la vérification des arbres, roulements et autres pièces. 
+ 
+2 
+ 
+1 
+   
+ 
+  
+===== PAGE 4 =====
+Module 7.6 V08   Page 4 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.6 V08   Page 5 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1. Dimensions ................................ ................................ ................................ .................7 
+1.1. Tolérances dimensionnelles ................................ ................................ ......................7 
+1.2 Définition d’une cote dimensionnelle ................................ ................................ ........7 
+1.3 Composition d’une cote ................................ ................................ .............................7 
+1.4 Dimension tolérancée ................................ ................................ ................................ .8 
+1.5 Unité des dimensions ................................ ................................ ................................ .9 
+2. Tolérances géométriques................................ ................................ ......................... 10 
+2.3 Lecture d’une tolérance géométrique ................................ ................................ .......... 12 
+3 Dimension de perçage pour les alésages de boulons et classes d’ajustement. .. 13 
+3.1 Perçage pour le passage de vis ................................ ................................ ................... 13 
+3.2 Perçage pour taraudage ................................ ................................ ...............................  15 
+4 Système commun de jeux et tolérance ................................ ................................ ... 16 
+4.1 Système ISO de tolérances ................................ ................................ ...................... 16 
+4.2 Ajustement arbre / alésage ................................ ................................ ...................... 17 
+4.3 Principe et désignation d’un ajustement ................................ ................................  17 
+4.4 Différents types d’ajustement ................................ ................................ .................. 18 
+4.5 Système de l’alésage normal ................................ ................................ ................... 19 
+4.6 Système de l’arbre normal ................................ ................................ ....................... 20 
+5 Programme de jeux et tolérances pour les aéronefs et les moteurs..................... 21 
+5.2 Respect des jeux et tolérances en assemblage pour aéronef ...............................  22 
+5.3 Respect des jeux et tolérances en assemblage pour les moteurs ........................ 27 
+6 Limites pour le voilement longitudinal, l’usure et la torsion ................................ . 32 
+6.1 Limites pour le voilement longitudinal ................................ ................................ .... 32 
+6.2 Limites à l’usure ................................ ................................ ................................ ....... 33 
+6.3 Limites à la torsion ................................ ................................ ................................ ... 37 
+6.4 Types de maintenance ................................ ................................ ............................. 38 
+7 Méthodes standards pour la vérification des arbres, roulements, autres pièces 39 
+7.1 Vérification des arbres ................................ ................................ ............................. 39 
+7.2 Vérification des roulements ................................ ................................ ..................... 41 
+7.3 Vérification autres pièces................................ ................................ ......................... 46 
+7.4 Contrôle dimensionnel ................................ ................................ ............................. 47 
+ 
+===== PAGE 6 =====
+Module 7.6 V08   Page 6 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Rappel des objectifs : connaissance générale sur la lecture de documents techniques  
+applicables aux pièces techniques d’aéronefs , tolérances, symboles, positionnement , 
+orientation, organisation des dessins techniques (vues), montage avec jeu x, prise en 
+compte des limites (voilement longitudinal, torsion et usure). Reconnaitre les moyens de 
+contrôle et leur application. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+ 
+ 
+Rappel des objectifs  : familiarisation autour de la lecture de documents techniques 
+applicables aux pièces techniques d’aéronefs, montage avec jeux, considération des 
+limites, (voilement longitudinal, torsion et usure). Reconnaitre les moyens de contrôle. 
+[Niveau 1] 
+  
+
+===== PAGE 7 =====
+Module 7.6 V08   Page 7 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1. Dimensions 
+1.1. Tolérances dimensionnelles 
+En construction mécanique, le bureau d’étude fournit à la production des plans d’exécution de pièces 
+dont les dimensions sont définies par des côtes. Ces dimensions ont une importance majeure pour 
+l’intégration de la pièce dans des ensembles mécaniques com plexes, ou pour remplir les propriétés 
+demandées par la pièce (résistance, poids, etc.…). 
+ 
+Or, dans la pratique il est impossible de réaliser une pièce avec des dimensions exactes. De même, la 
+perpendicularité de deux surfaces, la planéité ou toute autre contrainte géométrique sont également 
+très difficile à réaliser. 
+Pour cela, le bureau d’étude fournit une marge de manœuvre pour la réalisation de ces pièces qui se 
+traduit par le terme de TOLERANCE. 
+La tolérance se définie comme un intervalle de mesure déterminé par le Bureau d’Étude et pour laquelle 
+la valeur est jugée conforme. 
+1.2  Définition d’une cote dimensionnelle 
+La cote a pour rôle de donner une information dimensionnelle ou une indication géométrique 
+liée à une ou plusieurs faces d’une pièce. Un dessin coté permet la fabrication et le contrôle 
+d’une pièce. 
+1.3  Composition d’une cote  
+Une cote est composée des éléments suivants (dans l’ordre) : 
+ 
+- Ligne d’attache permettant d’identifier les limites des surfaces considérées (en trait fin) 
+- Une ligne de cote située au minimum  à 7mm de la pièce et 1mm du bout de la ligne 
+d’attache. 
+- Des flèches aux extrémités en sens opposés (trait fort) angle de flèche 30° à 45°. 
+- La cote (c’est-à-dire la valeur numérique de la dimension considérée) généralement centrée 
+au-dessus et au milieu de la ligne de cote. (Dans certaines configurations la cote peut être 
+inscrite à côté de la ligne de cote). – La tolérance peut également être indiquée dans le coin 
+supérieur droit de la cote. (Si elle n’est pas présente, les tolérances générales sont 
+indiquées dans le cartouche ou renvoi vers des normes type ISO 2768mK par exemple). 
+ 
+Exemple : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+10mm 
+ 0,2mm 
+Faces considérées 
+Ligne d’attache 
+Ligne de cote 
+cote 
+ Tolérance 
+===== PAGE 8 =====
+Module 7.6 V08   Page 8 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.4 Dimension et tolérance 
+ 
+Pour des raisons de coût et de qualité d’usinage, une cote comprend une marge d’erreur compatible 
+avec le fonctionnent, les conditions d’utilisation et l’environnement de la pièce . Cette marge 
+d’erreur est appelée Tolérance. Une cote inscrite entièrement est donc composée d’une cote nominale 
+suivie d’une tolérance. 
+ 
+ 
+128
++0.5
+−0.8 
+ 
+ 
+Pour cette cote de 128
++0.5
+-0.8  mm : 
+- La cote Maxi est de 128,5. 
+- La cote mini est de 127,2mm. 
+- La tolérance est de 1,3mm (écart entre la valeur mini et maxi). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lors du contrôle à l’aide d’un instrument de mesure, une pièce reste correcte lorsque la dimension 
+relevée est comprise entre la cote mini et maxi défini par le constructeur. 
+- Si la dimension relevée est de 127,9 : la pièce reste conforme. 
+- Si la dimension relevée est de 127,1 : la pièce est trop usée et mise au rebut. 
+ 
+ 
+Remarque : La tolérance supérieure d’une cote ne comporte pas obligatoirement un signe « + », la 
+tolérance inférieure ne comporte pas obligatoirement un signe « - ». Une tolérance peut préciser un 
+intervalle avec deux valeurs positive ou négative.  Ce point sera détaillé dans le chapitre type de 
+montage ou classe d’ajustement. 
+ 
+Exemple :      
+ 
+ 
+  
+ 
+ 
+  
+Tolérance 
+Cote nominale 
+ 
+127,2mm 
+128,5mm 
+1,3mm 
+ 
+30mm 
+-0,007 
+-0,018 
+30mm 
++0,018 
++0,007 
+===== PAGE 9 =====
+Module 7.6 V08   Page 9 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.5 Unité des dimensions 
+ 
+Les unités fréquemment utilisées sont : 
+ 
+- Le millimètre, symbole mm, en norme ISO-AFNOR. 
+- L’inch, symbole in, en norme ANSI (inch → pouce, 1 in = 25,4 mm). 
+ 
+ 
+ 
+ 
+Lorsqu’une dimension est exprimée dans l’une de ces deux unités, l’unité n’est pas indiquée. Si une 
+autre unité est utilisée, elle doit être indiquée à la suite de la dimension. 
+RAPPEL : La tolérance peut également être notée dans le cartouche. 
+ 
+  
+
+===== PAGE 10 =====
+Module 7.6 V08   Page 10 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Pièce prévue (plan) Pièce obtenue  
++ 0,1 
+50- 0,2 
++ 0,1 
+50- 0,2 
+contrôles de la cote 
+50,1 
+49,9 
+1 
+2 
+2. Tolérances géométriques 
+2.1. Nécessité de la cotation géométrique 
+ 
+L'utilisation de cote ne permet pas toujours d'obtenir la pièce prévue. Malgré le respect de 
+ces cotes, la pièce est théoriquement bonne, mais elle n'a pas les formes prévues. 
+ 
+ 
+Exemple : On donne une largeur sur une pièce prismatique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D'après le plan fourni, la pièce obtenue est conforme, malgré son aspect.  
+ 
+➔ Dans les relations entre industriels, seules font fois les indications et les cotations figurant 
+sur les plans.  Les dessins en vues projetées ne sont que le support de ces indications et 
+cotations. 
+Si les défauts de la pièce sont légers, ils ne peuvent être mis en évidence par un simple contrôle de 
+cote au pied à coulisse. On peut ne pas les voir, mais ils peuvent gêner ou empêcher le fonctionnement 
+du mécanisme. 
+ 
+Pour éviter ces défauts, il faut préciser des tolérances géométriques : 
+-  indiquer la planéité de la surface. 
+-  indiquer la perpendicularité entre les deux surfaces. 
+  
+Modèle appelé 
+« pièce réel » ou 
+« skin model » 
+Pièce prévue (plan) Pièce obtenue (réelle) 
+Contrôle de la cote 
+===== PAGE 11 =====
+Module 7.6 V08   Page 11 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2 Tableau des tolérances géométriques 
+ 
+  
+
+===== PAGE 12 =====
+Module 7.6 V08   Page 12 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3 Lecture d’une tolérance géométrique 
+Pour éviter les défauts de forme ou de position , on indiquera sur l’une des vues de la pièce les 
+informations suivantes :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1  Surface de référence  
+Le triangle noir indique que la surface désignée est la première surface de référence.  
+Elle est repérée par la lettre A. 
+A  partir de cette surface, d’autres surfaces seront réalisées et contrôlées. 
+2 : Indication de forme 
+On indique dans l’ordre :  
+- Le symbole de la tolérance : Planéité. 
+- L’écart de la tolérance : il  s’agit de l’écart ent re deux plans parallèles d’une longueur d’une 
+longueur définie. Ce qui signifie que la différence entre le point le plus haut et le point le plus 
+bas de la surface désignée ne doit excéder 0,2 mm sur une longueur de 50 mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 : Indication de la position ou orientation 
+On indique dans l’ordre : 
+- Le symbole de la tolérance : Perpendicularité. 
+- L’écart de la tolérance :  il s’agit de l’écart entre deux plans parallèles et perpendiculaire à la 
+surface de référence A. Ce qui signifie que la différence entre le point le plus à gauche et le 
+point le plus à droite de la surface désignée ne doit excéder 0,4 mm. 
+- La lettre de la surface de référence : surface à partir de laquelle est définie la perpendicularité. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
++ 0,1 
+50- 0,2 
+A 0,2 / 50 
+0,4     A 
+2 
+1 
+3 
+ 
+ 
+90º 
+===== PAGE 13 =====
+Module 7.6 V08   Page 13 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3 Dimension de perçage pour les alésages de boulons et classes 
+d’ajustement. 
+3.1 Perçage pour le passage de vis 
+➔ La normalisation des trous de perçage pour boulons a pour but de permettre une standardisation 
+des dimensions employées et garantir les propriétés de serrages demandées aux boulons. 
+ 
+Lamage : Usinage 
+à fond plat afin 
+d’assurer une 
+interface plane 
+entre la zone 
+d’appui sur la face 
+inférieure d’une vis 
+ou rondelle et la 
+pièce. 
+ 
+ 
+ 
+ 
+ 
+ 
+Fraisurage : 
+Usinage de forme 
+conique dont le but 
+est d’augmenter la 
+surface de contact 
+entre la face 
+inferieure d’une 
+tête de fixation 
+(ex :  rivet) 
+Le fraisurage est 
+également utilisé 
+pour ébavurer un 
+perçage 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.6 V08   Page 14 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.1 Dimensionnement lamage et chambrage suivant norme E 25-017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.1.2 Fraisurage  
+ 
+Le fraisurage (ou fraisure) est un chanfrein réalisé sur l’arête d’un trou débouchant. 
+Ce type d’usinage permet l’insertion des rivets ou vis à tête conique. Ce type de montage est souvent 
+utilisé dans l’aéronautique pour que la surface de la fixation soit à effleurement de la pièce fixée. 
+Attention cependant à s’assurer que l’angle de la fraisure corresponde bien à l’angle du rivet ou de la 
+tête de vis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ci-dessus, vue de coupe de différents angles de fraisurage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ci-dessus, un exemple de fixation tête conique assemblées sur cadre de pare-brise.  
+
+===== PAGE 15 =====
+Module 7.6 V08   Page 15 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2 Perçage pour taraudage 
+Le taraudage consiste à transformer un alésage lisse de façon à ce qu’il puisse recevoir une tige filetée. 
+Pour cela, on va utiliser un jeu de trois tarauds : ébaucheur, intermédiaire et finisseur. 
+ 
+Les tarauds sont référencés d'après le diamètre nominal du taraudage (en mm)  et de son pas (distance 
+entre 2 filets).  
+Exemple : Un taraud de 3x0.5 permet de visser des vis de 3mm de diamètre extérieur et de pas 0.5 
+mm. 
+L'instrument qui permet de manipuler les tarauds s'appelle un porte -outil ou tourne à gauche. (Avec 
+lequel du reste on tourne surtout vers la droite).  
+ 
+Pour réaliser un taraudage, il faut percer un alésage dont le diamètre est fonction du diamètre nominal 
+du taraudage en appliquant la formule :  
+ 
+   Ø de perçage = Ø nominal - pas  
+ 
+ 
+ 
+ 
+ 
+Le filetage est une opération consistant à mettre en forme un pas de vis sur la surface externe d’un 
+cylindrique lisse.  Pour cela on utilise une filière. 
+ 
+Les filières sont référencées d'après le diamètre nominal du filetage (en mm) et de son pas (distance  
+entre 2 filets).  L'instrument qui permet de manipuler les filières s'appelle un porte-filière. 
+  
+Ø de PERCAGE pour TARAUDAGE  
+ Ø 
+NOMINAL 
+en mm  
+2,00  2,50  3,00     4,00        5,00  6,00  6,00  6,0
+0  
+   8,00   
+ Pas 
+métrique  
+0,40  0,45  0,50     0,70        0,80  1,00  0,75  0,5
+0  
+   1,25   
+ Ø 
+NOMINAL 
+en inch  
+         1/8     5/32  3/16              1/4     3/8 
+ Nombre 
+de filets 
+par inch  
+         40     40  40              40     32 
+ Ø de 
+PERCAGE 
+en mm  
+1,6  2,1  2,5  2,6  3,3  3,3  4,1  4,2  5,0  5,2  5,5  5,7  6,8  8,8  
+===== PAGE 16 =====
+Module 7.6 V08   Page 16 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4 Système commun de jeux et tolérance 
+ 
+La cotation en mécanique soulève deux problèmes : 
+• Il est impossible d’obtenir deux pièces identiques pour une même cote nominale. 
+• Il est nécessaire d’harmoniser la désignation des côtes et de leur jeu pour rendre les pièces 
+mécaniques compatibles entre elles. 
+Pour cela, la norme ISO définie la notion de qualité d’ajustement qui est la taille de l’intervalle de 
+tolérance, et la position de cet intervalle par rapport à la cote nominale. 
+ 
+4.1 Système ISO de tolérances 
+ 
+Dans le but d’homogénéiser les intervalles de tolérance, le système ISO définit des classes de qualités 
+qui fixent la valeur de l’intervalle de tolérance (IT) en fonction de la dimension nominale. 
+ 
+➢ Les classes de qualités varient de 0 à 16 ; la classe 0 étant la meilleure qualité (IT le plus faible). 
+On utilise couramment les classes de qualité comprises de 5 à 13. 
+ 
+ 
+ 
+  
+
+===== PAGE 17 =====
+Module 7.6 V08   Page 17 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.2 Ajustement arbre / alésage 
+ 
+Dans le cas d’un assemblage arbre et alésage, la normalisation ISO permet de définir des 
+classes d’ajustement afin d’obtenir des combinaisons caractérisant des jeux serrés, glissants 
+ou incertains. 
+Pour la désignation de ces ajustements, on remplace les tolérances chiffrées par une paire 
+de lettres associées à un chiffre. 
+ 
+ 
+4.3 Principe et désignation d’un ajustement 
+ 
+Un ajustement permet de désigner à la fois la cote du contenant (alésage) et celle du contenu (arbre). 
+La désignation ISO 286-1, NF EN 20286-1, est de la forme suivante : 
+ 
+Exemple : 
+Ø 80 H8/f7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note :  Les écarts des alésages sont toujours désignés par une lettre majuscule. 
+            Les écarts des arbres sont toujours désignés par une lettre minuscule. 
+  
+Diamètre 
+Valeur nominale Position et qualité de l’IT de 
+l’alésage 
+Position et qualité de l’IT de 
+l’arbre 
+===== PAGE 18 =====
+Module 7.6 V08   Page 18 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.4 Différents types d’ajustement 
+ 
+Trois types d’ajustements sont possibles : 
+ 
+- Ajustement avec jeu (la pièce peut glisser dans son logement). 
+- Ajustement incertain (la répartition statistique pourra donner une tendance à serrer ou à 
+glisser, mais les deux cas seront possibles). 
+- Ajustement avec serrage (la pièce est montée en force). 
+ 
+ 
+  
+
+===== PAGE 19 =====
+Module 7.6 V08   Page 19 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.5  Système de l’alésage normal 
+ 
+C’est le système le plus utilisé, tous les alésages sont H. 
+ 
+En effet, pour définir l’ajustement d’un couple arbre/alésage pour un même niveau de serrage (ou de 
+jeu), il existe une multitude de possibilités. 
+ 
+Choisir l’ajustement consiste alors à choisir la qualité de l’arbre et de l’alésage et à définir la position 
+de l’intervalle de tolérance de l’arbre en fonction du but recherché : 
+ 
+- Arbre en position f : Ajustement avec jeu. 
+- Arbre en position k : Ajustement incertain. 
+- Arbre en position p : Ajustement serré. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Moyen mnémotechnique : 
+H7 f6 : monté « flottant ». 
+H7 g6 : monté « glissant ». 
+H7 h7 : à la main « hand ». 
+H7 js5 : « juste serré ». 
+H7 m6 : au « maillet ». 
+- H7 p6 à la « presse » 
+- H7 s6 très « serré » 
+ 
+===== PAGE 20 =====
+Module 7.6 V08   Page 20 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.6 Système de l’arbre normal 
+ 
+Utilisé pour certains types de fabrication, tous les arbres sont h. 
+Beaucoup moins utilisé que l’alésage normal, il est utilisé dans certaines applications utilisant des axes 
+issus de barres calibrées h du commerce. 
+ 
+ 
+Ajustements usuels 
+ 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.6 V08   Page 21 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5 Programme de jeux et tolérances pour les aéronefs et 
+les moteurs 
+ 
+5.1 Intérêt du programme  
+ 
+L’intérêt d’un programme de jeu et tolérance pour les aéronefs et moteurs est de ne pas générer 
+d’hyperstaticité au niveau des assemblages. Un assemblage sur -contraint d’un point de vue 
+dimensionnel, et géométrique n’assure pas une souplesse mécanique nécessaire au 
+fonctionnement et à l’utilisation des différents composants. 
+ 
+ 
+ 
+Diagramme de présentation des problématiques. 
+ 
+Pour répondre aux problématiques identifiés dans le graphe ci-dessus, il est nécessaire d’intégrer 
+dans les différentes 
+phases de fabrication de 
+pièces d’aéronefs, la 
+flexibilité intrinsèque à la 
+pièce et de l’inclure au 
+tolérancement. On parle 
+de conformité à 
+l’assemblage et non pas 
+de flexibilité. 
+ 
+ 
+Ci-contre, modélisation 3D 
+d’une structure avion pour 
+laquelle le principe  de 
+flexibilité et de 
+tolérancement a été 
+appliqués. 
+ 
+  
+
+===== PAGE 22 =====
+Module 7.6 V08   Page 22 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.2 Respect des jeux et tolérances en assemblage pour aéronef  
+ 
+Exemple d’un panneau : 
+ 
+Pour un personnel de 
+maintenance, l’exemple du 
+remplacement d’un panneau 
+illustre parfaitement la nécessité 
+du parfait respect des règles 
+d’assemblages. (Diamètre de 
+perçage, outillage, gabarit,  
+etc.…). 
+Pour l’exemple mentionné ci -
+contre, nous souhaitons 
+assembler deux panneaux de 
+structure. 
+ 
+Une liaison mécanique entre 
+ces deux panneaux doit être 
+assurée. Pour cela la pièce 
+ « virole » va être placée sur la 
+partie interne d’un fuselage par 
+exemple. 
+ 
+ 
+Ce respect des exigences garantit la bonne tenue structurale des éléments assemblés dans les 
+différentes conditions d’utilisation pour lequel il est prévu. 
+ 
+L’opération va alors se décomposer comme suit : 
+  
+Illustration d’assemblage d’un panneau 
+===== PAGE 23 =====
+Module 7.6 V08   Page 23 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+En reprenant les figures précédentes et le détail de l’opération de rivetage, il est impératif de respecter 
+les conditions d’assemblages émises par le constructeur afin d’assurer un maintien comme défini par 
+la conception.  
+ 
+Le non-respect des conditions d’assemblages va modifier l’équilibre des jeux et des tolérances. 
+L’assemblage et la tenue structurale finale sera impactée, et la pièce va subir la déformation. 
+ 
+En dessous un exemple d’alignement non respecté entre deux pièces (Jeux et tolérances non 
+respecté) 
+ 
+ 
+ 
+Par exemple un défaut d’alignement d’un panneau sur la virole peut engendrer les défaut suivant  au 
+niveau de l’une des deux pièces (ou les deux): 
+ 
+ 
+ 
+Défaut de vrillage 
+ 
+Défaut « panneau bombé » 
+ 
+Défaut de voilage 
+ 
+ 
+  
+
+===== PAGE 24 =====
+Module 7.6 V08   Page 24 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Bien entendu, ce type de défaut de montage intervient sur tout type de pièce aéronautique, par 
+exemple :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ci-dessus exemple principe d’assemblage permettant de respecter les jeux et tolérance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ci-dessus exemple d’éléments assemblés de treillis 
+ 
+ 
+Principe de montage  : Lors d ’une séquence d’assemblage entre deux équerre s, ou longeron par 
+exemple, s’assurer que les alésages soient dans le même axe. 
+ 
+Si cette condition n’est pas respectée et qu’une surcontrainte apparait liée au montage alors une pièce 
+va subir la déformation (par exemple le longeron). 
+ 
+ 
+     
+Flexion suivant axe Y Flexion suivant axe Z 
+Torsion autour de 
+l’axe X 
+===== PAGE 25 =====
+Module 7.6 V08   Page 25 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Un défaut de voilement longitudinal peut également apparaitre sur l’âme des poutres en application de 
+contraintes mécaniques extrême : 
+ 
+ 
+ 
+Ci-contre un exemple de voilage longitudinal d’une poutre 
+ 
+En résumé, la bonne application de ces règles d’assemblage est une bonne garantie du respect  des 
+jeux et tolérancement définis dès la conception. 
+ 
+  
+
+===== PAGE 26 =====
+Module 7.6 V08   Page 26 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+En synthèse : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Exigences 
+fonctionnelles de 
+l’assemblage 
+& 
+Respect des 
+conditions 
+d’assemblages 
+Analyse 
+ 
+TOLERANCEMENT 
+ 
+Synthèse 
+Spécifications 
+géométriques des 
+pièces 
+L66
+===== PAGE 27 =====
+Module 7.6 V08   Page 27 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.3 Respect des jeux et tolérances en assemblage pour les moteurs  
+ 
+Les moteurs d’un aéronef est constitué de pièces fixes et de pièces tournantes.  Suivant la 
+configuration de l’assemblage la bague interne ou externe peut-être mobile ou fixe. 
+L’assemblage entre les deux lorsque nécessaire se fait par l’intermédiaire de roulement. 
+Ces roulements doivent respecter un certain serrage afin d’assurer correctement leur fonction. A 
+cela s’ajoute une contrainte, le choix des matériaux. Ces derniers doivent assurer le maintien du 
+jeu dans des conditions environnementale difficiles (humidité, température, etc…) 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 28 =====
+Module 7.6 V08   Page 28 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Le rôle d’un roulement est d’assurer un mouvement en rotation entre deux pièces. Pour cela le jeu 
+à appliquer au niveau des bagues dépendra de la fonctionnalité de l’assemblage.  
+ 
+Exemple : Montage d’un roulement en bout d’arbre 
+Ajustement Ø 60 M7/k6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L’ajustement de l’assemblage est Ø 60 M7/k6 
+ 
+ 
+Pour l’indication de l’ajustement, on a : 
+- Ø 60, le diamètre nominal. 
+- M7, la qualité de l’alésage. 
+- k6, la qualité de l’arbre. 
+Une fois démontées, les deux surfaces ont le même diamètre nominal, mais on distingue : 
+- La qualité de l’alésage, composée d’une lettre majuscule suivie d’un chiffre. 
+- La qualité de l’arbre, composée d’une lettre minuscule suivie d’un chiffre. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+S2 
+ 
+ S1 
+S1 et S2 sont deux surfaces 
+cylindriques : 
+- S1, surface de l’arbre 
+- S2, surface de l’alésage de la 
+bague intérieur du roulement 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 29 =====
+Module 7.6 V08   Page 29 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.3.1 Conversion chiffrée des qualités 
+ 
+→ La conversion fait appel à deux tableaux, un pour les alésages, l’autre pour les arbres.  
+En fonction du diamètre nominal (par colonne) et de la qualité (par ligne), l’intersection correspond à la 
+tolérance chiffrée exprimée en micromètre. 
+Pour l’ajustement Ø 60 M7/k6 : 
+- l’alésage Ø 60 M7 donne Ø            donc 
+o l’alésage Maxi = 60. 
+o l’alésage mini = 59,970. 
+ 
+- l’arbre Ø 60 k6 donne Ø             donc 
+o l’arbre Maxi = 60,021. 
+o l’arbre mini = 60,002. 
+ 
+5.3.2 Calcul d’un ajustement 
+ 
+Le calcul du jeu consiste à déterminer l’espace maxi et l’espace mini entre les surfaces 
+d’assemblage S1 et S2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+===== PAGE 30 =====
+Module 7.6 V08   Page 30 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+On obtient les formules : 
+ 
+ 
+ 
+ 
+ 
+ 
+Appliquées au montage de roulement en bout d’arbre Ø 60 M7/k6 : 
+- Jeu Maxi = Alésage Maxi – arbre mini = 60 – 60,002 = -0,002 
+- Jeu mini  = Alésage mini – arbre Maxi = 59,970 – 60,021 = -0,051 
+- Jeu Maxi = - 0,002 
+- Jeu mini = - 0,051 
+ 
+Rappel : Type de montage ou classe d’ajustement 
+A l’issue du calcul du jeu, on obtient deux valeurs, une maxi et une mini. En fonction du signe de la 
+valeur Maxi et du signe de la valeur mini, on aura : 
+Un montage glissant si : 
+▪ Jeu maxi de signe positif (+). 
+▪ Jeu mini de signe positif (+). 
+Un montage serré si : 
+▪ Jeu maxi de signe négatif (-). 
+▪ Jeu mini de signe négatif (-). 
+Un montage incertain si : 
+▪ Jeu maxi de signe positif (+). 
+▪ Jeu mini de signe négatif (-). 
+L’ajustement Ø 60 M7/k6 est de type serré. 
+ 
+Variations des tolérances 
+Les lettres des tolérances indiquent les valeurs approximatives (position) par rapport au diamètre 
+nominal (ligne 0). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Jeu Maxi = Alésage Maxi – arbre mini 
+Jeu mini  = Alésage mini – arbre Maxi 
+Ligne 0 (Ø 
+nominale) D H M 
+    g 
+ d 
+a 
+h js 
+k 
+      z 
+    p 
+ m 
+Z 
+A Tolérances de 
+signe positif 
+Tolérances 
+de signe négatif 
+===== PAGE 31 =====
+Module 7.6 V08   Page 31 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les chiffres des tolérances indiquent la qualité en donnant l’écart normalisé entre la tolérance maxi et 
+la tolérance mini.  
+Une qualité 5 est considérée fine et une qualité 11 est considérée large. 
+Exemple : H 10. 
+- H : position. 
+- 10 : écart, qualité large. 
+ 
+Remarque : 
+Une tolérance d’alésage sera toujours exprimée avec une lettre en MAJUSCULE. 
+Une tolérance d’arbre sera toujours exprimée avec une lettre en minuscule. 
+ 
+ 
+ 
+ 
+ 
+Pour aller plus loin : voir la video 
+  
+
+===== PAGE 32 =====
+Module 7.6 V08   Page 32 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6 Limites pour le voilement longitudinal, l’usure et la 
+torsion  
+ 
+6.1 Limites pour le voilement longitudinal  
+ 
+Définition du voilement  : Le voilement est une déformation de l’ame d’une poutre, d’une plaque 
+métallique, qui, pour absorber la contrainte mécanique subie va devoir onduler. Si on dépasse la limite 
+élastique l’ondulation demeure définitive. 
+ 
+ 
+Un phénomène de voilement apparait lorsque de force de compression opposées vont s’appliquer sur 
+une pièce 
+ 
+ 
+ 
+ 
+ 
+Toute pièce mécanique comporte des limites mécaniques (propriétés plastiques et élastiques). 
+Le voilement longitudinal est une réaction de déformation d’une pièce qui va s’adapter à une pression 
+exercée. Il en résule une courbure généralement dans le sens de la longueur. 
+ 
+Ce type de phénomène intervient lorsque la pression exercée est au-délà des limites fixée par la 
+conception. 
+ 
+ 
+ 
+ 
+ 
+ 
+Représentation schématique d’un phénomène de voilage. 
+Attention à ne pas confondre avec le flambage qui est une courbure généralisée de la pièce (panneau 
+ou plaque).  
+
+===== PAGE 33 =====
+Module 7.6 V08   Page 33 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2 Limites à l’usure  
+ 
+Par définition l’usure est la dégradation de matière soumise à des contraintes mécaniques répétées. 
+ 
+ 
+Différents types d’usures (pièces métalliques): 
+ 
+ 
+ 
+ 
+ 
+Usure abrasive : Dégradation de surface par frottement d’aspérité. 
+ 
+ 
+ 
+ 
+ 
+Usure adhésive : Formation de liaisons intermoléculaires. Avec la présence d’un liant (produit, 
+mastic, ou autre.) Précurseur au grippage lorsque cela engendre un enlèvement de matière. 
+ 
+
+===== PAGE 34 =====
+Module 7.6 V08   Page 34 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+Usure corrosive : Usure liée à une réaction chimique de produit de corrosion. Il y a détachement de 
+matière due à la corrosion. 
+ 
+ 
+ 
+ 
+ 
+Usure par fatigue : Apparaît lors de contraintes cycliques d’amplitudes variables sur de pièces 
+mécaniques. Création et propagation de criques. Cela engendre une rupture mécanique de la 
+pièce. 
+ 
+  
+
+===== PAGE 35 =====
+Module 7.6 V08   Page 35 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2.1 Paramètres ayant une influence sur l’usure : 
+ 
+→ Amplitude du mouvement 
+ 
+→ La charge appliquée 
+ 
+→ La température de contact 
+ 
+→ La fréquence 
+ 
+→ L’environnement 
+ 
+→ La nature des materiaux en contact 
+ 
+→ Le nombre de cycle 
+ 
+ 
+Pour déterminer les limites d’usure d’une pièce en plus des conditions cités ci-dessus il faut y 
+intégrer le temps. 
+ 
+On peut alors déterminer la formule de l’usure comme suit : 
+ 
+ 
+Lu = Pu(t) 
+ 
+Soit 
+ 
+ 
+Limite Usure (Lu) = Paramètre d’usure (Pu) en fonction du temps (t) 
+ 
+ 
+ 
+Pour maitriser une usure il faut : 
+ 
+→ Déterminer expérimentalement la limite admissible 
+ 
+→ Donner une valeur à cette limite 
+ 
+→ Définir un planning d’entretien prenant en compte ces limites 
+ 
+→ Surveiller le rapprochement à cette valeur lors des actions de maintenance. 
+ 
+  
+===== PAGE 36 =====
+Module 7.6 V08   Page 36 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2.2 Autre type d’usure : 
+ 
+Usure de pneumatique : 
+ 
+ 
+Exemple d’usure de pneumatique (source : Documentation « Goodyear » )  
+
+===== PAGE 37 =====
+Module 7.6 V08   Page 37 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.3 Limites à la torsion  
+  
+Déformation donnée à un corps par une déformation longitudinale. 
+La torsion intervient lorsque deux actions mécaniques exterieures à la pièce considérée interviennent 
+(2 couples opposés par exemple) en ayant comme axe la ligne moyenne de la pièce. 
+ 
+Exemple 
+ 
+ 
+ 
+A partir du moment où la déformation d’une pièce reste dans le domaine élastique, alors la poutre 
+pourra reprendre sa forme initiale. 
+ 
+Si la déformation va au-delà de la déformation élastique et qu’elle entre dans le domaine plastique 
+alors une déformation permanente de la poutre apparaitra. 
+ 
+Une pièce seule peut être soumise à des contrainte de torsion, cependant un assemblage complet 
+peut également subir ces déformation, exemple d’un fuselage d’aéronef : 
+ 
+ 
+ 
+ 
+ 
+Ci-dessus modélisation du comportement d’un fuselage pressurisé soumis à une contrainte de 
+torsion. 
+A gauche fuselage sans hublot (version cargo)  
+A droite fuselage avec hublot. 
+  
+
+===== PAGE 38 =====
+Module 7.6 V08   Page 38 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.4 Types de maintenance  
+ 
+ 
+→ Corrective : 
+ 
+Aucun suivi de matériel n’est mis en place 
+Détection d’une défaillance avérée (échauffement, grippage, baisse de performance, vibration 
+anormale, … 
+Intervention corrective, remplacement de pièce, reprise d’usinage, de traitement de surface, 
+recharge matière 
+ 
+→ Préventive systémique : 
+ 
+Visites périodiques permettant de confirmer la limite d’usure définie par le bureau d’étude 
+Détermination de la date d’entretien en fonction des estimations d’usure 
+Réalisation de l’entretien préventif 
+ 
+→ Préventive conditionnelle : 
+ 
+Visites périodiques permettant de confirmer la limite d’usure définie par le bureau d’étude 
+Détermination d’une date d’entretien prévoyant un contrôle d’un paramètre mesurable 
+En fonction du résultat de ce contrôle, l’entretien est réalisé. Remplacement de pièce par 
+exemple. 
+ 
+ 
+Exemple de surveillance d’usure pour un bloc frein 
+ 
+Lors d’une maintenance programmée par exemple, 
+La documentation du constructeur prévoit une mesure du témoin d’usure du bloc frein en carbone. 
+Pour cela, il va falloir mesurer dimensionnellement avec une jauge de profondeur par exemple la 
+longueur X du témoin, si celle-ci est dans les spécifications constructeur, le remplacement des 
+disques n’est pas requis, si la valeur est hors tolérance alors le remplacement des disques de 
+freins est obligatoire. 
+ 
+ 
+ 
+ 
+  
+Témoin d’usure de 
+disque de freins 
+X 
+===== PAGE 39 =====
+Module 7.6 V08   Page 39 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7 Méthodes standards pour la vérification des arbres, 
+roulements, autres pièces 
+ 
+7.1 Vérification des arbres 
+ 
+La première vérification est une inspection visuelle. 
+ 
+→Vérifier l’absence d’usure anormale/excessive. 
+ 
+→ Décoloration locale 
+ 
+→ Trace d’échauffement 
+ 
+→ Dégradation du traitement de surface 
+ 
+→ État de surface dégradée 
+ 
+Des contrôles dimensionnels peuvent également être effectués : 
+ 
+ 
+ 
+Vérification entre-pointe (cylindricité ou battement) 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 40 =====
+Module 7.6 V08   Page 40 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Vérification sur support « V » (cylindricité ou battement) 
+ 
+ 
+ 
+ 
+ 
+Vérification de cintrage 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 41 =====
+Module 7.6 V08   Page 41 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.2 Vérification des roulements 
+ 
+7.2.1 inspection visuelle. 
+ 
+Voici les types de défauts que l’on peut retrouver : 
+ 
+ 
+   
+Réparation interdite 
+ 
+Réparation autorisée suivant 
+application et documentation 
+fabriquant 
+ 
+Réparation autorisée 
+documentation fabriquant 
+ 
+ 
+ 
+Ci-dessous défaut de fatigue 
+ 
+ 
+ 
+Défaut d’abrasion 
+ 
+ 
+  
+
+===== PAGE 42 =====
+Module 7.6 V08   Page 42 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Défaut d’adhésion 
+ 
+ 
+ 
+Défaut de corrosion humide 
+ 
+ 
+ 
+Corrosion de frottement 
+ 
+ 
+  
+
+===== PAGE 43 =====
+Module 7.6 V08   Page 43 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Corrosion de friction 
+ 
+ 
+ 
+Corrosion galvanique 
+ 
+ 
+ 
+Déformation liée à la surcharge 
+ 
+ 
+  
+
+===== PAGE 44 =====
+Module 7.6 V08   Page 44 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Défauts liés au F.O.D. 
+ 
+ 
+ 
+Rupture brutale (choc, impact) Rupture de fatigue 
+ 
+ 
+ 
+Criques liées à une contrainte thermique 
+ 
+  
+
+===== PAGE 45 =====
+Module 7.6 V08   Page 45 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Décoloration de surchauffe Décoloration chimique 
+ 
+  
+
+===== PAGE 46 =====
+Module 7.6 V08   Page 46 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.2.2 Contrôle dynamique  
+ 
+Le contrôle dynamique consiste à faire tourner le roulement afin de détecter un éventuel défaut : 
+ 
+- Claquement 
+- Bruit de frottement 
+- Jeu anormal 
+- Vitesse de rotation irrégulière. 
+ 
+7.3 Vérification autres pièces 
+ 
+Pour effectuer un contrôle quel qu’il soit, il est nécessaire d’avoir à disposition, suivant les 
+cas, une pièce de référence (étalon) et/ou la documentation constructeur. 
+ 
+Contrôler c’est : 
+ 
+ 
+ 
+SENTIR 
+ 
+ 
+ 
+VOIR 
+ 
+ 
+ 
+ 
+TOUCHER 
+ 
+ 
+  
+
+===== PAGE 47 =====
+Module 7.6 V08   Page 47 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+7.4 Contrôle dimensionnel 
+ 
+ 
+Il s’agit de vérifier une valeur numérique à un élément, en utilisant un outil spécifique. 
+ 
+Différents moyens de mesures existent : 
+ 
+ 
+Jauge d’épaisseur 
+ 
+ 
+Permet de comparer un jeu, un écart. 
+Précision mm, dixième ou centième généralement 
+ 
+Pied à Coulisse 
+ 
+Précision : 2/100 pour la plupart des modèles 
+Permet de mesurer : Diamètre, entraxe, longueur, hauteur (fonction jauge) 
+ 
+Micromètre 
+ 
+Précision : micron 
+Permet de mesurer : Diamètre, diamètre, longueur 
+ 
+Comparateur 
+ 
+ 
+Précision : 1/100 ou micron suivant les modèles 
+ 
+Permet de mesurer : Planéité. 
+ 
+Peut-être associé à d’autre outil, vérificateur d’alésage 
+(subito) 
+ 
+  
+
+===== PAGE 48 =====
+Module 7.6 V08   Page 48 sur 48 
+ 
+ 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Réglet 
+ 
+Précision : millimètre 
+Permet de mesurer : Longueur, principalement 
+ 
+ 
+D’autres outils plus complexes existent par exemple : 
+ 
+La colonne de mesure 
+ 
+Précision : micron 
+ 
+Permet de mesurer : Planéité, parallélisme sur marbre, 
+diamètre, entraxe, hauteur 
+ 
+ 
+Machine à mesurer tridimensionnelle 
+ 
+Précision : dixième de micron 
+ 
+Permet de mesurer : Toutes caractéristiques géométriques 
+même les plus complexes (sauf état de surface) 
+ 
+ 

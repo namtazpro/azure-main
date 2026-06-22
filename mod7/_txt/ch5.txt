@@ -1,0 +1,1981 @@
+===== PAGE 1 =====
+Module 7.5 V08   Page 1 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module 7.5 
+ 
+Dessins d’étude 
+Diagrammes 
+& 
+Normes 
+ 
+Licence B1 et B2  
+Livret destiné aux stagiaires 
+ 
+Édition 2026  
+AIR FORMATION 
+ 
+Centre de Formation Aéronautique 
+Agréé EASA PART 147 
+ 
+14 Avenue Escadrille Normandie Niémen 
+31700 BLAGNAC - FRANCE 
+
+===== PAGE 2 =====
+Module 7.5 V08   Page 2 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins que celles 
+pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à des tiers non 
+habilités. 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèse des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 11/05/2016 Toutes 
+  
+Page de garde et page 1 : adresse, 
+signatures et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 24/05/2017 Toutes Nouvelle édition 
+V06 30/05/2024 Toutes UE 2023 989 
+V07 15/10/2024 Page 9 Apport de précision sur le § 1.2.3 
+V08 10/04/2026 Toutes Tableau d’évolution et pied-de-page 
+ 
+ 
+  
+Visa Rédacteur / Responsable Module 
+Laurent VINGADASSALOM 
+Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+  
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.5 V08   Page 3 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : Procédures d’entretien 
+ 
+Catégorie B1 : 80 questions à choix multiples et 2 questions à développement. Temps alloué 100 
+minutes. 
+Catégorie B2 : 60 questions à choix multiples et 2 questions à développement. Temps alloué 75 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+7.5 Dessins d’étude, diagrammes et normes Niveau 
+B1 B2 
+ 
+Types de dessins et diagrammes, leurs symboles, dimensions, tolérances et projections ; 
+Identification des informations du bloc titre ; 
+Présentations de microfilm, microfiche et par ordinateur ; 
+Spécification 100 de l’Association du Transport Aérien (ATA) d’Amérique ; 
+Normes aéronautique et autres applicables, y compris ISO, AN, MS, NAS et MIL ; 
+Schémas de câblage et schémas de principe. 
+ 
+ 
+2 
+ 
+2 
+ 
+  
+===== PAGE 4 =====
+Module 7.5 V08   Page 4 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.5 V08   Page 5 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1.1 Rôle de la représentation ................................ ................................ .............................. 7 
+1.2 Le dessin technique ................................ ................................ ................................ ......8 
+1.2.1 Type de représentation ................................ ................................ ............................... 8 
+1.2.2 Le dessin d’ensemble ................................ ................................ ................................ .8 
+1.2.3 Le dessin de définition ................................ ................................ ................................ 9 
+1.2.4 Le dessin éclaté (ou vue éclatée) ................................ ................................ ...............9 
+1.2.5 Le dessin en perspective (ou vue isométrique) ................................ ........................9 
+1.2.6 Le schéma ................................ ................................ ................................ .................. 10 
+1.2.7 Les abaques ................................ ................................ ................................ ............... 10 
+1.3 Éléments graphiques permanents ................................ ................................ ............. 11 
+1.4 Symbolisation des types de traits ................................ ................................ .............. 13 
+1.5 Symbolisation des vues en coupe ................................ ................................ ............. 14 
+1.6  Dimensions ................................ ................................ ................................ ................. 21 
+1.6.1 Cotation ................................ ................................ ................................ ................. 21 
+1.7 Tolérances ................................ ................................ ................................ ................... 22 
+1.8 Projections ................................ ................................ ................................ ................... 22 
+1.8.1 Position des vues ............................................................................................... 23 
+1.8.2 Correspondance des vues ................................................................................. 23 
+1.8.3 Objectif d'une perspective .................................................................................. 24 
+2. Identification des informations du bloc de titre ................................ ........................... 28 
+2.1 Cartouche................................ ................................ ................................ ...................... 28 
+2.2 Nomenclature ................................ ................................ ................................ ............... 29 
+3. Présentations de microfilm, microfiche et par ordinateur ................................ ........... 30 
+3.1 Microfilm ................................ ................................ ................................ ....................... 30 
+3.2 Microfiche ................................ ................................ ................................ ..................... 31 
+3.3 Représentation par ordinateur ................................ ................................ .................... 32 
+4. Spécification 100 de l’Association du Transport Aérien (ATA) d’Amérique .............. 33 
+5. Normes aéronautiques et autres applicables ................................ ................................  36 
+5.1 Norme ISO ................................ ................................ ................................ .................... 36 
+5.2 Normes CE ................................ ................................ ................................ .................... 36 
+5.3 Norme ATEX ................................ ................................ ................................ ................. 37 
+5.4 Norme AN (Army Navy) ................................ ................................ ................................  38 
+5.5 Norme MS (Military Standart) ................................ ................................ ....................... 38 
+5.6 Norme MIL-standard (MIL) ................................ ................................ ........................... 38 
+5.7 Norme SAE-AS (NAS) ................................ ................................ ................................ ... 38 
+===== PAGE 6 =====
+Module 7.5 V08   Page 6 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6 Schémas de câblage et schémas de principe ................................ ...............................  40 
+6.1 Identification des circuits électriques ................................ ................................ ........ 40 
+6.1.1 Exemple de schéma de câblage ................................ ................................ ............... 40 
+6.2 Schéma de principe ................................ ................................ ................................ ..... 41 
+6.2.1 Schéma de principe d’équipements électroniques ............................................. 41 
+6.2.2    Schéma de principe d’un système avion ............................................................... 41 
+6.2.3 Schéma de principe mixte .................................................................................. 43 
+  
+===== PAGE 7 =====
+Module 7.5 V08   Page 7 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1. Dessins et diagrammes 
+ 
+Rappel des objectifs  : Connaissance générale sur la lecture et la présentation des 
+différents documents techniques. Connaitre le rôle et la fonction de chacun des supports, 
+plan 2D, disposition des vues, contenu du bloc de titre, nomenclature et schéma. 
+Comprendre la nécessité d e l’application de différentes normes, spécification ATA 100. 
+[Niveau 2]. 
+ 
+ 
+ 
+1.1 Rôle de la représentation 
+Le graphisme est l'expression d'un concept au 
+moyen de lignes tracées sur une surface. Au cours 
+des siècles, le dessin a grandement évolué, il se 
+divise en deux grandes classes. 
+- Le dessin artistique qui exprime des idées 
+figuratives ou non figuratives pour des fins 
+culturelles ou commerciales. 
+- Le dessin industriel,  utilisé dans tous les 
+secteurs de l'industrie, transmet des idées 
+d'ordre technique et pratique. 
+ 
+Pour tout objet manufacturé, il y a des dessins qui 
+en décrivent complètement les formes avec 
+précision et communiquent la pensée du 
+dessinateur à ceux qui sont chargés de le réaliser. 
+C'est pourquoi le dessin est le langage de l'industrie. 
+ 
+ 
+ 
+ 
+ 
+ 
+La salle à dessin a subi de profondes transformations depuis des dizaines d'années. Le changement 
+majeur a été le passage du dessin sur la table à l'utilisation de l'ordinateur qui remplace les instruments 
+de dessin conventionnels. Le dessinateur peut maintenant créer et concevoir directement à l'écran de 
+son ordinateur grâce aux commandes d'un programme informatisé. 
+ 
+ 
+ 
+  
+L’homme de Vitruve 
+
+===== PAGE 8 =====
+Module 7.5 V08   Page 8 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2 Le dessin technique 
+Le dessin technique intervient dès que l’on projette de réaliser un produit. Il est un passage obligé dans 
+pratiquement tous les domaines et il est une discipline transversale fondamentale. 
+ 
+Il exige :  
+ 
+- Une grande pluridisciplinarité des connaissances générales, scientifiques et techniques ; 
+- Une importante connaissance en géométrie, en technologie et en normalisation pour maîtriser, 
+lors d’analyses systémiques, les interfaces et les interactions qui interviennent lors du cycle de 
+vie d’un produit.  
+Le dessin technique est à la fois un outil de conception qui permet de représenter une idée mais aussi 
+un outil de communication irremplaçable pour transmettre sans ambigüité cette idée. Tout mécanicien 
+avion doit maitriser parfaitement la lecture d’un dessin technique dans le cadre de ses activités 
+opérationnelle. 
+ 
+ 
+1.2.1 Type de représentation 
+ 
+Il existe quatre types de dessin techniques  : dessin d’ensemble, dessin de définition, dessin éclaté, 
+dessin de perspective. 
+Pour comprendre le positionnement de composants, ou le fonctionnement d’un système on utilisera un 
+schéma. 
+ 
+1.2.2 Le dessin d’ensemble 
+Représentation graphique non 
+schématique, à une échelle définie 
+d’un système technique, machine 
+ou bâtiment. Le niveau de détail de 
+ce type de dessin est laissé à 
+l’appréciation du dessinateur en 
+fonction de l’objectif à atteindre et 
+de la finesse du nivea u de 
+représentation désirée.  Un dessin 
+d’ensemble est associé à une 
+nomenclature. (Voir chapitre 2.1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Dessin d’ensemble d’un turbopropulseur 
+
+===== PAGE 9 =====
+Module 7.5 V08   Page 9 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.3 Le dessin de définition  
+ 
+Ce type de dessin représente avec précision une pièce ou 
+une partie de cette pièce avec précision. On y trouve 
+notamment ses cotations normalisées et les usinages. 
+Il précise également les exigences auxquelles doivent 
+répondre la pièce. Ce type de document est utilisé de manière 
+contractuelle entre le fournisseur et le client. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2.4 Le dessin éclaté (ou vue éclatée)  
+La vue éclatée a pour but de représenter un élément, une 
+pièce intégrée dans son ensemble. Cela permet de situer une 
+pièce vis-à-vis des autres. Généralement en perspective, cet 
+outil permet une appréciation aisée de la composition d’un 
+système ou d’un équipement. Le détail des pièces se retrouve 
+également dans une IPC : Illustrated Part Catalog. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2.5 Le dessin en perspective (ou vue isométrique) 
+Le dessin en perspective ajoute une notion de profondeur 
+tridimensionnelle à l’objet considéré. Ce type de dessin présente 
+l’avantage d’avoir un aperçu proche de la réalité de la pièce ou de 
+l’équipement. Néanmoins il apporte une information limitée quant 
+aux spécificités techniques de la pièce ou de l’équipement. Les 
+perspectives «  pleines » ne permettent pas d’avoir un visuel de 
+l’intérieur du dispositif. Les perspectives par «  transparence » 
+nécessite une vigilance particulière lors de la lecture afin de ne pas 
+confondre des lignes cachées, pointillés, etc.,… 
+ 
+ 
+  
+Vue éclatée d’un conduit de 
+ventilation pour A300-600 ST 
+Dessin de définition d’une 
+pièce usinée 
+Vue en perspective d’un 
+assemblage mécanique 
+
+===== PAGE 10 =====
+Module 7.5 V08   Page 10 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.6 Le schéma 
+Cette représentation utilise des symboles 
+normalisés qui permettent de comprendre 
+la fonction globale et le rôle fonctionnel de 
+chacun des composants d’un système. Il 
+précise également l’agencement des 
+différents composants. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2.7 Les abaques 
+Diagramme permettant de déterminer par lecture d’un 
+tableau ou d’un graphe, les valeurs approximatives d’une 
+ou plusieurs variables. 
+Il s’agit d’un outil de lecture relative. Le résultat lu dans le 
+tableau de résultat est fonction des paramètres choisis en 
+abscisse et ordonné. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Schéma de câblage électrique 
+Abaque d’épaisseur de tôle en fonction de 
+la contrainte géométrique 
+
+===== PAGE 11 =====
+Module 7.5 V08   Page 11 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3 Éléments graphiques permanents 
+Les dessins techniques sont généralement notés sur des supports normalisés appelés communément 
+« plan ». 
+ 
+Ces plans disposent d’éléments graphiques permanents c’est -à-dire des éléments qui sont 
+systématiquement présents. 
+ 
+Ces éléments graphiques permanents sont destinés à faciliter leur microcopie et leur reproduction 
+(graduation centimétrique, repères d’orientation, de centrage) ou la localisation rapide et précise d’un 
+détail du dessin (coordonnées, A1, B1, etc…). 
+ 
+- On retrouve donc sur le model suivant : 
+  
+Description détaillée d’un plan avec mise en évidence des éléments dits « permanents » 
+  
+
+===== PAGE 12 =====
+Module 7.5 V08   Page 12 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+- Le système de coordonnées, lettres (A, B, C...) et chiffres (1, 2, 3...) qui permettent de repérer 
+les différentes parties de la zone dessinée. Ce principe est également utilisé pour les cartes 
+routières. 
+- Le cadre est matérialisé par un trait continu fort tracé sur tout le contour de la feuille.  
+- La graduation centimétrique de référence est utilisée en cas de réduction ou d'agrandissement 
+des dessins. 
+- Le cartouche (ou bloc de titre). 
+- Le repère d'orientation est dirigé vers le dessinateur lors de l'exécution du dessin. Il figure dans 
+la marge et donne le sens de lecture du dessin. Lorsque la feuille est orientée dans le sens 
+horizontal, ce repère doit être positionné sur le cadre dans la partie horizontale de la feuille.  
+- La symbolisation de disposition des vues est normalisée et permet de faire la différence entre 
+la représentation européenne ou américaine. 
+- La convention européenne (ou projection européenne)  : la vue de dessus est placée sous la 
+vue de face, la vue de droite, à gauche de la vue de face... Ce qui revient, entre deux vues, à 
+faire « rouler » la pièce au-dessus du plan sur lequel elle est censée être posée. 
+- La convention américaine (ou projection américaine) : on place la vue de dessus au-dessus de 
+la vue de face, la vue de gauche à sa gauche… Ce qui revient à faire rouler la pièce en dessous 
+du plan. 
+ 
+ 
+Le descriptif du cartouche sera détaillé dans le chapitre 2 .1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Convention européenne :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Représentation des 6 vues suivants la convention européenne.  
+===== PAGE 13 =====
+Module 7.5 V08   Page 13 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.4 Symbolisation des types de traits 
+ 
+Pour effectuer un dessin technique, on utilise un ensemble de traits dont chacun possède une signification bien 
+précise. Un trait se caractérise par :  
+- Sa nature (continu, interrompu, mixte). 
+- Sa largeur (fort, fin). 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.5 V08   Page 14 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.5 Symbolisation des vues en coupe 
+Le but d'une coupe, ou d'une section, est d'améliorer la lisibilité d'un dessin en remplaçant les 
+contours internes cachés par des contours vus plus lisibles. 
+ 
+DEFINITION : 
+Une coupe représente les contours de la pièce situés dans le plan sécant et la partie de la pièce 
+située en arrière de ce plan. 
+ 
+LES HACHURES : 
+Elles symbolisent les traits de la scie. Elles se représentent en traits fins. Pour une même pièce, 
+elles sont identiques.  
+ 
+ 
+ 
+Schéma explicatif de la représentation d’une vue en coupe  
+
+===== PAGE 15 =====
+Module 7.5 V08   Page 15 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Type de hachures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Usage général tout métaux et alliage  
+Métaux et alliages légers 
+Cuivres et ses alliages 
+Matières plastiques ou isolantes 
+Bobinages electro-aimants 
+Anti-friction 
+Verre, porcelaine, céramique 
+Isolant thermique 
+Bois en coupe transversale 
+Bois en coupe longitudinale 
+===== PAGE 16 =====
+Module 7.5 V08   Page 16 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Règles à observer 
+ 
+REGLE 1 : 
+Les hachures ne coupent jamais un trait fort. 
+ 
+ 
+ 
+ 
+ 
+REGLE 2 : 
+Les hachures ne s'arrêtent jamais sur un trait interrompu court. 
+ 
+ 
+ 
+ 
+ 
+REGLE 3 : 
+Les pièces pleines, situées dans le plan de coupe, ne se coupent 
+pas (Exemple : goupilles, clavettes, vis). 
+ 
+ 
+ 
+ 
+REGLES 4 : 
+Les nervures situées dans le plan de coupe, et dont les faces sont 
+parallèles à ce dernier, ne se coupent pas. 
+ 
+ 
+ 
+ 
+Différents types de coupes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Demi-coupe Plan de coupe oblique 
+
+===== PAGE 17 =====
+Module 7.5 V08   Page 17 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Coupe à plans parallèles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lorsqu'il y a assemblage de deux pièces 
+filetées complémentaires (Exemple : vis avec 
+son écrou), la représentation ou le dessin des 
+filetages extérieurs (vis...) l'emporte ou cache 
+toujours la représentation des filetages 
+intérieurs (écrou, trou taraudé.). 
+Exemple : montage d'une vis dans un trou 
+borgne taraudé. 
+ 
+(Pour compléter les informations sur les pas 
+de vis cf «  symbolisation des pièces 
+filetées. ») 
+ 
+ 
+ 
+Coupe à plan parallèle 
+Coupe locale 
+Coupe vis - taraudage 
+
+===== PAGE 18 =====
+Module 7.5 V08   Page 18 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les sections rabattues 
+ 
+Représenter la trace du plan P1 en trait mixte fin. 
+Section directement dessinée sur la vue usuelle par superposition. 
+Pas d’obligation d’indiqué un plan de coupe. 
+Représenter le contour, en trait fin, de la pièce dans P1 après rotation de 90° autour de la trace. 
+Hachurer la partie coupée, en trait fin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les sections sorties 
+Représenter la trace du plan sécant en trait mixte, renforcer en trait fort les extrémités et placer la 
+direction de l'observateur. 
+Représenter le contour de la pièce, en trait fort, après 
+translation puis rotation de 90° autour de la trace. 
+Hachurer la partie coupée, en trait fin. 
+Nommer la section par les mêmes lettres que celles 
+choisies pour la direction de l'observateur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Ci-dessus exemple de coupe à section rabattue 
+Ci-dessus exemple de coupe à section de 
+sortie 
+===== PAGE 19 =====
+Module 7.5 V08   Page 19 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ Symbolisation des pièces filetées 
+ 
+➔ Un filetage est un usinage qui permet entre autres d'assembler deux pièces, par exemple, une 
+vis et un écrou :  il implique un mouvement de translation d’une pièce sur l’autre induit un 
+mouvement de rotation. 
+ 
+Une vis dispose d’un filetage extérieur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                          Un écrou dispose d’un filetage intérieur nommé taraudage  
+ 
+ 
+Le filet est la partie en saillie obtenue en creusant une rainure hélicoïdale sur un cylindre pour la vis 
+ou dans un trou pour l'écrou.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Ci-dessus dessin technique d’un filetage et d’un taraudage 
+ 
+1- Représentation réelle 
+2- Représentation normalisée 
+ 
+ 
+1 
+2 
+ECROU 
+VIS 
+Trou taraudé Tige filetée 
+1 
+===== PAGE 20 =====
+Module 7.5 V08   Page 20 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les filetages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les taraudages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schéma et photo d’un filetage 
+l = longueur filetée 
+ 
+ 
+Schéma et photo d’un trou 
+taraudé (écrou) 
+40 = valeur numérique en mm 
+de la longueur taraudé 
+ 
+ 
+===== PAGE 21 =====
+Module 7.5 V08   Page 21 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.6  Dimensions 
+La mise à l’échelle 
+ 
+Lorsque les objets sont grands (avion, 
+hélicoptères) ou petits (composants, circuits 
+électroniques, ...), il est nécessaire de faire des 
+réductions ou des agrandissements pour les 
+représenter. 
+Inscrite dans le cartouche, l’échelle indique donc 
+le rapport entre les dimensions de l’objet dessiné 
+avec celles de l’objet réel. 
+L’échelle 1 (ou 1 : 1) présente l’avantage de 
+visualiser l’objet à définir en vraie grandeur (VG), 
+sans réduction et sans agrandissement. 
+ 
+Un rapport inferieur à 1 par exemple 1 :2 → 
+Réduction 
+Un rapport supérieur à 1 par exemple 2  :1 → 
+Agrandissement 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.6.1 Cotation 
+Le rôle de la cotation est d’apporter une valeurs chiffrée (dimension) à une caractéristique définie, par 
+exemple, longueur, épaisseur, rugosité, etc,… 
+ 
+Une cote est caractérisée par : 
+ 
+- Une ligne de cote en trait fin 
+- Deux lignes de rappel rapportée aux 
+éléments définis. 
+- Deux flèches précisant les limites de 
+la cote 
+- Un texte, ou une valeurs numérique 
+associée à la caractéristique. 
+- Les lignes de cotes ne doivent  
+pas se chevaucher. 
+ 
+ 
+                   1 
+Echelle =  
+                   4     
+Taille du dessin 
+Taille réelle Exemple de réduction graphique d’un TBM 900.  
+Exemple de cotation d’une pièce mécanique  
+
+===== PAGE 22 =====
+Module 7.5 V08   Page 22 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.7 Tolérances 
+La réalisation de pièces mécaniques à partir de dessins aux dimensions fournie sans tolérance est 
+impossible.  
+ 
+Associée à la cote la tolérance permet de définir un intervalle chiffré dans lequel on juge la pièce 
+conforme ou non. 
+ 
+La valeur relevée se situe dans la tolérance → Conforme 
+La valeur relevée se situe en dehors de la tolérance → Non-conforme. 
+ 
+L’inscription des tolérances sur les dimensions mentionnées au plan s’effectue au choix : 
+ 
+- Sous la forme chiffrée : 
+ 
+ 
+- Sous la forme normalisée (système ISO) avec une qualité de tolérance : 
+ 
+ 
+ 
+Cette partie sera reprise en détail dans le sous module 7.6 Jeux et tolérances. 
+ 
+1.8 Projections 
+Il existe deux normes relatives aux projections, européenne dont française et américaine. 
+La norme européenne utilise un plan de projection sur le plan opposé à la face considérée. 
+La norme américaine utilise un plan de projection du même côté. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+𝐷𝑖𝑚𝑒𝑛𝑠𝑖𝑜𝑛 𝑛𝑜𝑚𝑖𝑛𝑎𝑙𝑒é𝑐𝑎𝑟𝑡 𝑖𝑛𝑓é𝑟𝑖𝑒𝑢𝑟
+é𝑐𝑎𝑟𝑡 𝑠𝑢𝑝é𝑟𝑖𝑒𝑢𝑟   15−0.2
++0.1 
+ 
+25 f 7 
+Vue projetée européenne 
+SYMBOLE 
+ SYMBOLE 
+Vue projetée américaine 
+===== PAGE 23 =====
+Module 7.5 V08   Page 23 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.8.1 Position des vues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.8.2 Correspondance des vues 
+Alignées horizontalement : 
+- Vue de face.  
+- Vue de gauche. 
+- Vue de droite. 
+Alignées verticalement : 
+- Vue de face. 
+- Vue de dessous. 
+- Vus de dessus. 
+La largeur de la vue de gauche 
+(ou de droite) est égale à la 
+hauteur de la vue de dessus. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A- vue de face 
+B- vue de dessus 
+C-vue de gauche 
+D-vue de droite 
+E-vue de dessous 
+F-vue arrière 
+
+===== PAGE 24 =====
+Module 7.5 V08   Page 24 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.8.3 Objectif d'une perspective 
+Les perspectives sont employées quand on estime qu'une représentation complémentaire permet de 
+mieux saisir, et l'aspect général et les formes d'une pièce ou d'un matériel technique. 
+ 
+Les différentes perspectives rencontrées : 
+ 
+- La perspective cavalière : facile et rapide à construire, mais elle déforme l'objet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 25 =====
+Module 7.5 V08   Page 25 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En dessin 2D, cette perspective est d’exécution simple et rapide.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Règles de représentation 
+1 Les surfaces frontales au front de l’observateur sont dessinées en vrai 
+grandeur. 
+2 Les arêtes de bout se dessinent suivant des fuyantes inclinées d’un même 
+angle a et sont réduites dans un même rapport k. 
+Valeurs normalisées : a = 45° ; k = 0.5 
+Exemple de perspective cavalière   
+
+===== PAGE 26 =====
+Module 7.5 V08   Page 26 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+- les perspectives axonométriques : 
+ 
+La perspective axonométrique d'une pièce résulte de sa projection orthogonale sur un plan oblique par 
+rapport à ses faces principales. 
+ 
+Règles de représentation 
+1 Les arêtes verticales restent verticales. 
+2 Toutes les fuyantes sont inclinées de 30° par rapport à l’horizontale. 
+3 Les valeurs des dimensions suivant X, Y et Z sont égales et réduites par le rapport k 
+= 0.816. Pour les schémas, on peut prendre k = 1. 
+ 
+ 
+ 
+Isométrique : exécution simple, convient pour les revues 
+techniques et les dessins de catalogues Cette perspective 
+donne une bonne vision spatiale de l’objet. En revanche,  
+aucunes dimensions linéaires ne sont représentées en vrai 
+grandeur. Angle à 120°. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimétrique : utilisée lorsqu’une des faces doit être mise en valeur par rapport aux autres. 
+ 
+ 
+Trimétrique : exécution longue mais la perspective est très claire. (Angles différents). 
+ 
+ 
+Pour faire la différence, … 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemples de perspectives isométriques : 
+ 
+  
+
+===== PAGE 27 =====
+Module 7.5 V08   Page 27 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Représentation d'une chape en projection orthogonale et en perspective isométrique : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Exemple de plan avec vue isométrique  
+Tuyauterie sur canevas en pré-imprimé  
+Cotation sur vue isométrique  
+vue isométrique d’une vis 
+ vue isométrique avec coupe 
+
+===== PAGE 28 =====
+Module 7.5 V08   Page 28 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2. Identification des informations du bloc de titre 
+2.1 Cartouche  
+ 
+Bien que la forme et le type de cartouche dépende de chaque entreprise, on retrouve dans celui-ci les 
+informations permettant d’exploiter au mieux le dessin. Ainsi, l’échelle, le titre, le numéro de révision, 
+la disposition des vues américaine ou européenne, etc. 
+ 
+Le cartouche est positionné dans l’angle inférieur droit pour les formats A3 à A0 et pour le format A4, il 
+occupe toute la largeur du cadre.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note : La disposition du contenu du cartouche peut parfois présenter certaines différences d’une 
+entreprise à l’autre. Néanmoins, il possèdera toujours les informations principales citées ci-dessus. 
+1- Identité de l’entreprise 
+2- Auteur 
+3- Date de création 
+4- Format d’impression 
+5- Symbole normalisé de 
+l’orientation des vues 
+6- Échelle 
+7- Information tolérance 
+8- Information finition 
+9- Référence du matériaux 
+10-  Désignation de la pièce 
+11- Référence de la pièce 
+12- Tolérance générale 
+13- Traitement (s’il y a lieu) 
+14- Densité du matériau 
+15- Rugosité générale 
+16- Masse 
+17- Logo Client 
+18- Logo logiciel 
+19- Nom projet associé 
+… Indice, intervenant… 
+1 
+2 
+8 
+3 4 
+5 6 
+7 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+9 
+18 19 
+===== PAGE 29 =====
+Module 7.5 V08   Page 29 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2 Nomenclature 
+La nomenclature est la liste complète des pièces qui 
+constituent un ensemble dessiné. Elle est liée au dessin 
+par le repère des pièces. 
+ 
+La nomenclature, utilisée avec un dessin d’ensemble, est 
+une liste complète des éléments (pièces, composants, 
+etc..) qui constituent un dispositif mécanique. 
+ 
+Elle peut donner certaines indications sur ces composants 
+suivant les besoins de l’entreprise : quantité, débit, 
+encombrement, poids, matière, normes, références 
+fournisseurs etc... 
+ 
+Les nomenclatures sont normalement réalisées et lues du 
+bas vers le haut en partant du cartouche. Elles peuvent 
+être établies sur le dessin d’ensemble ou sur des feuilles 
+annexes. 
+ 
+ 
+ 
+ 
+ 
+Exemple de nomenclature sur dessin d’ensemble – en vert. 
+ 
+On remarque la nomenclature en prolongement du cartouche. Notez également les plans de coupe, la 
+symbolisation des vis et des roulements.  
+  
+Exemple dessin 3D avec nomenclature 
+===== PAGE 30 =====
+Module 7.5 V08   Page 30 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3. Présentations de microfilm, microfiche et par ordinateur 
+ 
+3.1 Microfilm 
+ 
+Bien que ce type de support soit de moins en moins utilisé, il est important  d’en connaitre l’existence. 
+Le microfilm nécessite l’utilisation d’un projecteur spécifique afin d’en afficher le contenu. 
+ 
+Différents types de microfilm existent parmi les principaux : 
+ 
+➔ Sa forme la plus courante est un rouleau de film photographique inversible noir et blanc au 
+format 35mm.  
+➔ Une autre forme, plus répandue lorsqu'il s'agit de dessins techniques, est la carte perforée 
+Hollerith, qui ne comporte qu'une vue.  
+ 
+ 
+Le microfilm n'est pas le support de stockage analogique le plus compact, la microfiche l'est davantage. 
+L'un des intérêts majeurs du microfilm noir et blanc est sa grande stabilité dans le temps. Le support 
+est connu, et tant l'expérience que les tests de laboratoire ont démontré qu'il pouvait se conserver, 
+dans des conditions favorables de température et d' humidité, plusieurs centaines d'années. Le 
+microfilm couleur, utilisé pour la reproduction de documents imprimés en couleur, de manuscrits 
+enluminés, de dessins, se dégrade comme tous les films couleur, beaucoup plus rapidement. Seule la 
+conservation dans le froid et l'obscurité permet de lui assurer une durée de vie élevée. 
+  
+Ci-contre différents types de 
+microfilm (rouleau, par plaque, 
+perforée) 
+===== PAGE 31 =====
+Module 7.5 V08   Page 31 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2 Microfiche 
+La microfiche est l'un des plus compacts supports de stockage analogiques couramment utilisés.  
+➔ Utilisée en règle générale dans les institutions (comme les bibliothèques universitaires) qui ne 
+peuvent disposer de l'espace nécessaire au stockage des documents papier correspondants.  
+➔ Chaque microfiche contient de 100 à 130 pages environ en fonction de la taille de l'original.  
+Exemple : Une collection de 20 000 microfiches (soit de 10 000 à 20 000 livres) tient dans un meuble 
+de 1,5 x 0,5 x 2 mètres.  
+Certaines sociétés sont spécialisées dans la fourniture de telles collections. 
+La microfiche sert normalement à reproduire des livres, parfois des périodiques et des journaux.  
+➔ Sa forme la plus courante est une fiche de plastique transparent d'environ 10 x 15 cm (le format 
+normalisé est A6).  
+➔ Le titre de l'ouvrage est d'ordinaire lisible à l'œil nu sur son bandeau. Le format de réduction le 
+plus courant est de 24x, avec 7 rangées de 14 reproductions sur chaque microfiche.  
+➔ Certaines microfiches ont un système d'indexation numérique marqué sur le bord de la fiche ou 
+chaque image, mais ces informations servent moins à l'utilisation de la microfiche elle -même 
+qu'aux impératifs de systèmes de recherche automatisés. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Exemple de microfiche 
+
+===== PAGE 32 =====
+Module 7.5 V08   Page 32 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.3 Représentation par ordinateur 
+ 
+De nos jours, la majorités des dessins techniques sont réalisés à partir d’outil informatiques et de 
+logiciels dédiés (Catia, Solidworks, Autocad,…) 
+ 
+L’intérêt porte sur possibilité d’obtenir une visualisation sous différents angles de vue , de manipuler 
+virtuellement la pièce,  et visualiser l’encombrement des pièces et d’éventuelles difficultés dans leur 
+montage dans un ensemble complexe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ce type de logiciel permet d’extraire des plans de façon «  automatique » en cliquant sur un bouton 
+« mise en plan  », cependant ce choix présente un risque qui est de ne pas mettre en évidence des 
+points critiques de la pièce. Pour cette raison il est préférable que le plan soit réalisé par le concepteur 
+ou le dessinateur/projeteur. 
+ 
+ 
+  
+Exemple de représentation 3D sur logiciel CATIA V5 
+Exemple de représentation 3D sur logiciel CATIA 
+V5 
+avec cote apparente 
+Exemple de préparation de mise en plan 
+sur logiciel Catia V5 
+===== PAGE 33 =====
+Module 7.5 V08   Page 33 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4. Spécification 100 de l’Association du Transport Aérien (ATA) 
+d’Amérique 
+Les Chapitres ATA ou le système ATA sont définis par l'ATA pour Air Transport Association of America, 
+renommée A4A pour Airlines for America. Ces chapitres permettent de regrouper les systèmes 
+aéronautiques dans des rubriques. La dénomination est commune p our les différents acteurs de 
+l'aéronautique tels que l'ingénierie, la maintenance et l'entretien, les pilotes ainsi que pour les manuels 
+de vol et ce pour tous les fabricants tels qu'Airbus ou Boeing. 
+ 
+Voir module 7.21  
+ 
+4. 1 Général 
+Chapitre 
+ATA 
+Dénomination Dénomination en français 
+ATA 05 TIME LIMITS/MAINTENANCE CHECKS Limites de 
+potentiel/vérifications de 
+maintenance 
+ATA 06 DIMENSIONS AND AREAS Dimensions/surfaces 
+ATA 07 LIFTING AND SHORING Levage et mise sur vérins 
+ATA 08 LEVELING AND WEIGHING Centrage/masse 
+ATA 09 TOWING AND TAXIING Remorquage et circulation au 
+sol 
+ATA 10 PARKING, MOORING, STORAGE AND 
+RETURN TO SERVICE 
+Stationnement et amarrage 
+ATA 11 PLACARDS AND MARKINGS Plaquettes et inscriptions 
+ATA 12 SERVICING - ROUTINE MAINTENANCE Maintenance courante 
+ATA 14 HARDWARE Materiel 
+ATA 18 HELICOPTER VIBRATION Analyse des vibrations et du 
+bruit 
+ 
+ 4.2 Systèmes de l'aéronef 
+Chapitre 
+ATA 
+Dénomination Dénomination en français 
+ATA 20 STANDARD PRACTICES – AIRFRAME 
+ 
+ATA 21 AIR CONDITIONING AND 
+PRESSURIZATION 
+Air conditionné et 
+pressurisation 
+ATA 22 AUTOFLIGHT Pilote automatique 
+ATA 23 COMMUNICATIONS Communications 
+ATA 24 ELECTRICAL POWER Génération électrique 
+ATA 25 EQUIPMENT/FURNISHINGS Équipements / 
+Aménagements 
+ATA 26 FIRE PROTECTION Protection incendie 
+ATA 27 FLIGHT CONTROLS Commandes de vol 
+ATA 28 FUEL Carburant 
+ATA 29 HYDRAULIC POWER Génération hydraulique 
+ATA 30 ICE AND RAIN PROTECTION Protection givre et pluie 
+ATA 31 INDICATING / RECORDING SYSTEM Système d'indication / 
+d'enregistrement 
+ATA 32 LANDING GEAR Trains d'atterrissage 
+ATA 33 LIGHTS Éclairage 
+ATA 34 NAVIGATION Navigation 
+ATA 35 OXYGEN Oxygène 
+===== PAGE 34 =====
+Module 7.5 V08   Page 34 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ATA 36 PNEUMATIC Pneumatique 
+ATA 37 VACUUM Dépression 
+ATA 38 WATER/WASTE Eau et toilettes 
+ATA 42 INTEGRATED MODULAR AVIONICS Avionique Modulaire Intégrée 
+ATA 44 CABIN SYSTEM Systèmes de la cabine 
+ATA 45 DIAGNOSTIC AND MAINTENANCE 
+SYSTEM 
+Système de diagnostic et de 
+maintenance 
+ATA 46 INFORMATION SYSTEMS Système d'information 
+ATA 47 NITROGEN GENERATION SYSTEM Système de génération 
+d'Azote 
+ATA 48 IN FLIGHT FUEL DISPENSING Ravitaillement en vol 
+ATA 49 AIRBORNE AUXILIARY POWER Turbine de génération 
+électrique 
+ATA 50 CARGO AND ACCESSORY 
+COMPARTMENTS 
+Compartiment cargo et 
+accessoires 
+ 
+4.3 Structure 
+Chapitre 
+ATA 
+Dénomination Dénomination en français 
+ATA 51 STANDARD PRACTICES AND 
+STRUCTURES - GENERAL 
+Structure générale 
+ATA 52 DOORS Portes 
+ATA 53 FUSELAGE Fuselage 
+ATA 54 NACELLES/PYLONS Nacelles et mâts 
+ATA 55 STABILIZERS Empennage 
+ATA 56 WINDOWS Fenêtres 
+ATA 57 WINGS Ailes 
+ 
+4.4 Moteurs 
+Chapitre ATA 
+Dénomination Dénomination en français 
+ATA 60 STANDARD PRACTICES 
+ 
+ATA 61 PROPELLERS Hélices 
+ATA 62 ROTORS 
+ 
+ATA 63 ROTOR DRIVE SYSTEM 
+ 
+ATA 64 TAIL ROTOR 
+ 
+ATA 65 TAIL ROTOR DRIVE SYSTEM 
+ 
+ATA 66 BLADES & PYLONS FOLDING 
+DEVICE 
+ 
+ATA 67 ROTOR FLIGHT CONTROLS 
+ 
+ATA 70 STANDARD PRACTICES -ENGINES Techniques courantes - 
+moteurs 
+ATA 71 POWER PLANT Groupe propulseur 
+ATA 72 ENGINE Moteur 
+ATA 73 ENGINE - FUEL AND CONTROL Carburant moteur et 
+régulation 
+ATA 74 IGNITION Allumage 
+ATA 75 AIR Air 
+ATA 76 ENGINE CONTROLS Commandes moteur 
+===== PAGE 35 =====
+Module 7.5 V08   Page 35 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ATA 77 ENGINE INDICATING Indications moteur 
+ATA 78 EXHAUST & THRUST REVERSER Echappement & inverseur de 
+poussée 
+ATA 79 OIL Huile 
+ATA 80 STARTING Démarrage 
+ATA 81 TURBINES (RECIPROCATING 
+ENGINES) 
+Moteur à Pistons 
+ATA 82 ENGINE WATER INJECTION Injection d'eau 
+ATA 83 ACCESSORY GEARBOXES Boite à accessoires 
+ATA 84 PROPULSION AUGMENTATION 
+ 
+ATA 89 FLIGHT TEST INSTALLATION Installation d'essais en vol 
+ATA 91 CHARTS Cartes/diagrammes/schémas 
+ATA 92 ELECTRICAL AND ELECTRONIC 
+COMMON INSTALLATION 
+ 
+ 
+  
+===== PAGE 36 =====
+Module 7.5 V08   Page 36 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+5. Normes aéronautiques et autres applicables 
+ 
+5.1 Norme ISO 
+Organisme international qui régit et définit des standards de 
+qualité. La certification ISO garantie donc un procédé 
+d’élaboration, un suivi de fabrication et des caractéristiques bien 
+définies pour les pièces certifiées. 
+La normalisation ISO comporte 17500 normes actives fin 2007. 
+Cela va des normes de grandeur et de mesure, au management 
+environnemental et la sécurité de l’information. 
+Dans le domaine de la conception, les normes ISO définissent la 
+façon de représenter les choses sur un dessin et la façon de le 
+coter. Exemple, les classes d’ajustement d’un arbre et d’un 
+alésage sont issues d’une normalisation ISO (voir module 7.6). 
+  
+ 
+5.2 Normes CE 
+Le marquage CE doit être apposé sur de nombreux produits avant que ceux-ci 
+puissent être vendus dans l' UE. Il indique qu'un produit a été évalué par le 
+fabricant et qu'il a été jugé conforme aux exigences de l'UE en matière de 
+sécurité, de santé et de protection de l'environnement. Le marquage CE est 
+obligatoire pour les produits fabriqués partout dans le monde et qui vont 
+être commercialisés dans l'UE. 
+Le marquage CE n'est obligatoire que pour les produits pour lesquels il existe 
+des spécifications de l'UE et qui requièrent l'apposition du marquage CE. 
+Certains produits sont soumis simultanément à plusieurs exigences de l'UE. 
+Vous devez vous assurer que votre produit satisfait à toutes les exigences 
+requises avant d'y apposer le marquage CE. Il est interdit d'apposer le 
+marquage CE sur des produits pour lesquels il n'existe pas de spécifications de 
+l'UE ou qui ne requièrent pas l'apposition du marquage CE. 
+ 
+ 
+  
+
+===== PAGE 37 =====
+Module 7.5 V08   Page 37 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.3 Norme ATEX 
+➔ La norme européenne ATEX est associée aux produits 
+utilisables en ATmosphères EXplosives.  
+ 
+➔ L’application de la norme ATEX concerne en 
+aéronautique essentiellement les travaux en atelier , les 
+opérations d’avitaillement  et les interventions de 
+maintenance en atmosphères explosives (exemple  : 
+inspection réservoir). 
+ 
+ 
+La norme ATEX est une norme de sécurité pour les zones dangereuses :  
+ 
+- Zone 1 en contact avec gaz et zone 2 proche d'une zone 1. 
+Quelles zones pour quels dangers ? 
+ 
+Concernant les gaz : 
+ 
+Zone 0 : DANGER PERMANENT. 
+Emplacement dans lequel une atmosphère explosive est présente en permanence ou pendant de 
+longues périodes 
+ 
+Zone 1 : DANGER POTENTIEL. 
+Emplacement dans lequel une atmosphère explosive est susceptible de se former en service normal 
+ 
+Zone 2 : DANGER MINIME. 
+Emplacement dans lequel une atmosphère explosive est susceptible de se former en fonctionnement 
+normal et où une telle formation, si elle se produit, ne peut subsister que pendant une courte période. 
+ 
+ 
+Pour mettre un matériel destiné à être utilisé en atmosphère explosible sur le marché de la communauté 
+européenne, le fabricant ou ceux qui font acte de fabrication en assemblant entre eux des matériels de 
+provenances diverses, doivent se conformer aux exigences de la directive 94/9/CE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Exemple d’outils certifiés pour être 
+utilisés en zones ATEX 
+ 
+
+===== PAGE 38 =====
+Module 7.5 V08   Page 38 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.4 Norme AN (Army Navy) 
+Cette norme fait référence aux normes Army Navy principalement développés dans l’aviation militaire 
+américaine pendant la seconde guerre mondiale et au cours des décennies qui ont suivi.Ces normes 
+visent à normaliser les composants électriques et électronique utilisés dans les aéronefs et d’autres 
+équipements militaires. 
+ 
+Les norme AN couvrent un large éventail de composants électriques et électronique comme les 
+connecteurs, les câbles, les résistances, les instruments de bords etc…. 
+Ceci a permis l’interopérabilité des équipements et facilité le remplacement des pièces d’aéronefs. 
+ 
+Les normes AN sont aujourd’hui intégrées dans les normes aéronautique civile et militaire . 
+ 
+5.5 Norme MS (Military Standart) 
+Ce sont des spécifications techniques utilisées par le département de la défense des États Unis pour 
+normaliser des équipements et procédures militaires. 
+Ces normes Ms ont progressivement été remplacées par les normes MIL-STD et SAE AS (Aerospace 
+Standart). Cette transition a été réalisé dans le but de les harmoniser avec les norme industrielles et 
+internationales existantes civil et militaire. 
+ 
+Ces normes permettent notamment de travailler avec une base commune et de garantir la cohérence et 
+l’interopérabilité et la fiabilité des équipements d’aéronefs notamment l’électronique, la mécanique, les 
+matériaux, les procédures d’essais et les normes de qualité. 
+ 
+Au fil du temps de nombreuses normes MS ont été remplacées par : 
+ 
+Des normes MIL-Standard car mieux détaillées et plus adapté à l’industrie de la défense. 
+Des normes SAE-AS pour s’aligner avec les exigences de l’aviation civile. 
+ 
+5.6 Norme MIL-standard (MIL) 
+Ce sont des normes techniques qui permettent de de normaliser divers aspects d’équipement et de 
+procédures militaire. Elle couvre des domaines comme l’ingénierie, la conception, la fabrication, les 
+essais, la maintenance et la logistique. 
+ 
+Bien que les normes MIL-STD soient élaborées par le département de la défense des États Unis , elles 
+sont souvent utilisées a l’échelle internationale, car de nombreuses  entreprises et organismes militaires 
+du  mone entier collabore pour ainsi améliorer l’interopérabilité des systèmes et la coopération. 
+ 
+Ces normes ont un impact significatif sur le développement des normes industrielle aéronautique 
+civiles. 
+ 
+5.7 Norme SAE-AS (NAS) 
+C’est une série de normes techniques élaborées spécifiquement pour l’industrie aérospatiale. Elles sont 
+utilisées pour normaliser divers aspects des équipements, des systèmes et des procédures. Avec un 
+accent sur particulier sur la sécurité, la fiabilité et la conformité réglementaire. Cela couvre les 
+===== PAGE 39 =====
+Module 7.5 V08   Page 39 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+domaines de la conception, la fabrication, la maintenance, la qualité, la documentation technique 
+etc…. 
+Ces normes sont utilisées à l’échelle internationale et permettent de satisfaire aux exigences 
+réglementaires des Autorités de l’aviation civile et militaire telles que la FAA aux États Unis et 
+l’EASA en Europe. 
+  
+===== PAGE 40 =====
+Module 7.5 V08   Page 40 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6 Schémas de câblage et schémas de principe 
+6.1 Identification des circuits électriques 
+Chaque constructeur identifie ses circuits et réseau x en fonction de normes qui lui sont propres. Par 
+exemple, Boeing utilise un système numérique, alors qu’Airbus utilise un système de lettre. 
+6.1.1 Exemple de schéma de câblage 
+Par définition, le schéma de câblage est une représentation graphique  utilisant des symboles 
+normalisés. On utilise pour cela des symboles normalisés représentants les différents composants le 
+tout relié par des lignes représentant les fils représentant les flux. 
+Le but de ce type de schéma est d’obtenir un détail visuel d’un système avec le positionnement relatif 
+des différents composants.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+===== PAGE 41 =====
+Module 7.5 V08   Page 41 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2 Schéma de principe 
+Le schéma de principe a pour rôle de permettre la compréhension d’un système par l’emploi d’une 
+représentation simple et normalisée. 
+6.2.1 Schéma de principe d’équipements électroniques 
+Ce schéma nous montre les transferts d’informations entre les différents calculateurs et les écrans. En 
+pratique, les données seront effectivement transférées par des câbles ARINC. 
+ 
+ 
+Exemple de schéma de principe mettant en évidence les 
+circuits de transfert de données 
+ 
+===== PAGE 42 =====
+Module 7.5 V08   Page 42 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2.2    Schéma de principe d’un système avion 
+Dans cet exemple, nous visualisons de manière simple et normalisée les principaux éléments de la 
+génération électrique d’un avion (ici exemple sur l’A380). 
+ 
+  
+
+===== PAGE 43 =====
+Module 7.5 V08   Page 43 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+6.2.3    Schéma de principe mixte 
+La représentation ci-après fait appel à des vues en perspective de certains composants d’un 
+circuit pour en faciliter la compréhension. Dans cet exemple, un opérateur pourra visualiser des 
+robinets hydrauliques et leur position dans le circuit hydraulique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exemple de schéma de principe mixte « cargo doors » 
+===== PAGE 44 =====
+Module 7.5 V08   Page 44 sur 44 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Dans l’exemple ci -après, nous retrouvons différents flux qui actionnent une servocommande EHA 
+(Electro- Hydrostatic Actuator) d’A380. 
+On notera entre autres  un flux électrique, un flux d’information type ARINC, un flux d’énergie 
+hydraulique, une représentation symbolisée des composants du circuit hydraulique, etc… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exemple de schéma de principe mixte utilisant différents flux 

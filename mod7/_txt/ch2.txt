@@ -1,0 +1,2339 @@
+===== PAGE 1 =====
+Module 7.2 V06   Page 1 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2025 
+Module 7.2 
+ 
+Opération 
+d’atelier 
+ 
+Licence B1 / B2 
+
+===== PAGE 2 =====
+Module 7.2 V06   Page 2 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées 
+à des tiers non habilités. 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes  Nouvelle édition 
+V04 11/05/2016 Page de garde et 
+page 1 
+Adresse, signatures et noms modifiés + 
+édition 
+Pied de page modifié sur l’ensemble du 
+document 
+V05 24/05/2017 Toutes Nouvelle édition 
+V06 13/01/2026 Toutes Mise à jour et ajout de contenus  
+ 
+  
+Visa Rédacteur 
+Damien SCHMITZ 
+Visa Responsable 
+Module 
+Laurent 
+VINGADASSALOM 
+Visa Directeur de 
+Formation 
+Laurent 
+VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+ 
+   
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.2 V06   Page 3 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+Catégorie B1 :  80 questions à choix multiples, Temps alloué 100 minutes. 
+2 questions à développement. Temps alloué 40 minutes. 
+ 
+Catégorie B2 :  60 questions à choix multiples, Temps alloué 75 minutes. 
+    2 questions à développement. Temps alloué 40 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+MODULE 7. Procédures d’entretien Niveau 
+A B1 B2 
+7.2. Opérations d'atelier  
+Soin des outils, contrôle des outils, utilisation des matériels d'atelier ;  
+Dimensions, autorisations et tolérances, normes de travail ; 
+Étalonnage des outils et des équipements, normes d'étalonnage 
+ 
+3 3 3 
+ 
+  
+===== PAGE 4 =====
+Module 7.2 V06   Page 4 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.2 V06   Page 5 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+TABLE DES MATIERES 
+ 
+1. SOIN DES OUTILS, CONTROLE DES OUTILS, UTILISATION DES MATERIELS 
+D'ATELIER ................................ ................................ ................................ .............................8 
+1.1. Soins des outils ................................ ................................ ................................ ..........8 
+1.1.1. Procédure de rangement et organisation ................................ ................................ .8 
+1.1.2. Procédures de nettoyage et maintenance préventive des outils .......................... 10 
+1.1.3. Détection et signalement des défaillances ................................ ............................. 11 
+1.1.4. Gestion des outils défectueux, cassés ou perdus ................................ ................. 15 
+1.1.5. Cas d’outil perdu ................................ ................................ ................................ ...... 16 
+1.2 . Contrôle des outils ................................ ................................ ................................ . 17 
+1.2.1 Contrôle d’inventaire et traçabilité ................................ ................................ .......... 17 
+1.3 Utilisation des matériels d’atelier ................................ ................................ ............ 20 
+1.3.1 Presse hydraulique et mécaniques ................................ ................................ ......... 20 
+1.3.2 Plieuse et cintreuses ................................ ................................ ................................  20 
+1.3.2.1 Principes théoriques du pliage ................................ ................................ ......... 20 
+1.3.3 Perceuses et aléseuses ................................ ................................ ............................ 21 
+1.3.4 Sableuses et équipements de décapage ................................ ................................ . 23 
+1.3.5 Les étaux ................................ ................................ ................................ ................... 24 
+1.4 Consigne de sécurité ................................ ................................ ................................  25 
+1.4.1 Oubli d’outillage ................................ ................................ ................................ ........ 31 
+2 DIMENSIONS, AUTORISATIONS ET TOLERANCES, NORMES DE TRAVAIL ....... 32 
+2.1. La philosophie des tolérances ................................ ................................ .................... 32 
+2.1.1. Pourquoi les tolérances existent ................................ ................................ ............. 32 
+2.1.2. Notation de lecture ................................ ................................ ................................ ... 32 
+2.1.2.1. Tolérance symétrique (notation ±) ................................ ................................ .... 32 
+2.1.2.2. Tolérance asymétrique (limite min/max) ................................ .......................... 32 
+2.1.2.3. Ajustements ISO (pour assemblage) ................................ ................................  33 
+2.1.2.4. Lecture de plans avec tolérances ................................ ................................ ..... 33 
+2.1.3. Limites d’usure et critères de rejet ................................ ................................ .......... 34 
+2.1.3.1. Définition ................................ ................................ ................................ ............ 34 
+2.1.3.2. Sources des limites d’usure ................................ ................................ ............. 34 
+2.1.3.3. Méthodes de contrôle ................................ ................................ ........................ 34 
+2.2. Dimensions en opération d’atelier ................................ ................................ ........... 35 
+2.2.1. Unités de distance en opération d’atelier ................................ ...............................  35 
+2.2.1.1. Système métrique ................................ ................................ ..............................  35 
+===== PAGE 6 =====
+Module 7.2 V06   Page 6 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2.1.2. Système impérial ................................ ................................ ...............................  35 
+2.2.1.3. Formule de conversion ................................ ................................ ..................... 35 
+2.2.2. Unités de poids en opération d’atelier ................................ ................................ .... 36 
+2.2.2.1. Système métrique ................................ ................................ ..............................  36 
+2.2.2.2. Système impérial ................................ ................................ ...............................  36 
+2.2.2.3. Formule de conversion ................................ ................................ ..................... 36 
+2.2.3. Unités de volume (liquides) en opération d’atelier ................................ ................. 37 
+2.2.3.1. Système métrique ................................ ................................ ..............................  37 
+2.2.3.2. Système impérial ................................ ................................ ...............................  37 
+2.2.3.3. Formules de conversion ................................ ................................ ................... 37 
+2.2.4. Unités de couple de serrage ................................ ................................ .................... 37 
+2.2.4.1. Serrage contrôlé ................................ ................................ ................................  37 
+2.2.4.2. Tableau des couples de serrage ................................ ................................ ....... 38 
+2.2.5. Conversions des unités de couple ................................ ................................ .......... 39 
+2.3. MARGES ET TOLERANCES EN OPERATION D’ATELIER ................................ ...... 40 
+2.3.1. Importance de la précision de mesure ................................ ................................ .... 40 
+2.3.1.1. Règle du 1/10ème ................................ ................................ ................................ . 40 
+2.3.1.2. Incertitude de mesure ................................ ................................ ........................ 40 
+2.3.2. Instruments de mesure à lecture directe ................................ ................................  40 
+2.3.2.1. Jeu de cales étalon ................................ ................................ ............................ 40 
+2.3.2.2. Calibre à limites ................................ ................................ ................................ . 41 
+2.3.3. Serrages pour goupillage ................................ ................................ ......................... 42 
+2.3.3.1. Principe du goupillage ................................ ................................ ...................... 42 
+2.3.3.2. Méthode de recherche du trou de goupillage ................................ .................. 43 
+2.3.3.3. Couple et contre-couple ................................ ................................ .................... 43 
+2.4. Normes de travail en opération d’atelier ................................ ................................ . 44 
+2.4.1. Documentation de référence en maintenance aéronautique ................................ . 44 
+2.4.1.1. AMM (Aircraft Maintenance Manual) ................................ ................................  44 
+2.4.1.2. IPC (Illustrated Part List) ................................ ................................ ................... 45 
+2.4.1.3. CMM (Component Maintenance Manual) ................................ ......................... 45 
+2.4.1.4. TSM (Troubleshooting Manual)................................ ................................ ......... 46 
+2.4.1.5. SRM (Structural Repair Manual) ................................ ................................ ....... 46 
+2.4.1.6. MEL (Minimum Equipment List) ................................ ................................ ........ 47 
+2.4.1.7. Utilisation et navigation dans la documentation ................................ ............. 47 
+2.4.2. Normes ISO et AS9100 ................................ ................................ ............................. 48 
+2.4.2.1. Normes ISO 9001 ................................ ................................ ...............................  48 
+2.4.2.2. Normes AS9100 ................................ ................................ ................................ . 48 
+===== PAGE 7 =====
+Module 7.2 V06   Page 7 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.3. Programme FOD (Foreign Object Damage) ................................ ............................ 49 
+2.4.3.1. Définition et enjeux ................................ ................................ ............................ 49 
+2.4.3.2. Sources de FOD en atelier ................................ ................................ ................ 49 
+2.4.3.3. Procédures de prévention FOD ................................ ................................ ........ 49 
+2.4.3.4. Inspection post-intervention ................................ ................................ ............. 50 
+2.4.3.5. Procédure en cas de FOD suspectée ................................ ...............................  50 
+2.4.4. Règle de l’art du mécanicien avion ................................ ................................ ......... 51 
+2.4.4.1. Définition ................................ ................................ ................................ ............ 51 
+2.4.4.2. Bonnes pratiques professionnelles ................................ ................................ . 51 
+2.4.4.3. Jugement technique et prise de décision ................................ ........................ 52 
+2.4.4.4. Standards de qualité non écrits ................................ ................................ ........ 52 
+2.4.4.5. Attitude professionnelle ................................ ................................ .................... 53 
+3. ETALONNAGE DES OUTILS ET DES EQUIPEMENTS, NORMES D’ETALONNAGE54 
+3.1. Objectifs de l'étalonnage : ................................ ................................ ........................... 54 
+3.2. Chaîne de traçabilité métrologique : ................................ ................................ ....... 54 
+3.3. Organismes accrédités : ................................ ................................ .......................... 54 
+3.4. Fréquence d'étalonnage recommandée : ................................ ................................  55 
+3.5. Fréquence et périodicité d’étalonnage ................................ ................................ .... 56 
+ 
+  
+===== PAGE 8 =====
+Module 7.2 V06   Page 8 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1. SOIN DES OUTILS, CONTROLE DES OUTILS, 
+UTILISATION DES MATERIELS D'ATELIER  
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques des 
+outils pour la maintenance des aéronefs.  Une capacité à combiner et appliquer des 
+éléments de connaissances séparés d'une manière logique et compréhensible. Capacité à 
+appliquer cette connaissance. [Niveau 3] 
+ 
+1.1. Soins des outils 
+ 
+1.1.1. Procédure de rangement et organisation 
+Système de rangement normalisé 
+Le rangement des outils doit respecter la norme ISO 14001 relative au management 
+environnemental et les recommandations OACI Annexe 6. Chaque outil sera identifié et rangé de 
+manière normalisé. 
+ 
+Les moyens de normalisation sont :  
+ 
+ 
+ 
+•  
+• Marquage visuel : Silhouettes découpées dans la mousse (elle permettent de voir que 
+l’outil est manquant mais aussi à ce que l’outil soit bien rangé sans risque qu’il s’abime 
+au contact des autres outils) 
+ 
+  
+
+===== PAGE 9 =====
+Module 7.2 V06   Page 9 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+• Codification alphanumérique : 
+Référence attribuer à chaque outil 
+d’une caisse à outil commun ou 
+personnel. Voici quelques 
+exemples : 
+- Puces RFID passives : 
+Fréquence 13,56 MHz, portée 
+de lecture 0-10 cm 
+- Codes-barres DataMatrix : 
+Densité d'information 1556 
+caractères/cm² 
+- Étiquetage laser : Gravure 
+permanente résistante aux 
+solvants industriels 
+ 
+ 
+ 
+• Classification fonctionnelle 
+: Regroupement par famille 
+d'usage. 
+ 
+ 
+ 
+ 
+ Pour aller plus loin : https://www.bv-corporation.com/Duplicator-FR.html  
+
+===== PAGE 10 =====
+Module 7.2 V06   Page 10 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.2. Procédures de nettoyage et maintenance préventive des outils 
+Le nettoyage et l’entretiens des outils sont à réaliser régulièrement.  
+ 
+Les techniciens sont garant de la propreté et du bon maintien de leur outils personnels  
+ 
+ Dans le cas des outils d’atelier le nettoyage et le maintien en bon fonctionnement doit prévues et 
+gérer.  
+ 
+Le nettoyage s'effectue selon des protocoles spécifiques pour chaque outil.  
+ 
+Principe :  
+• Dégraissage : Utilisation de solvants chlorés autorisés 
+(Trichloréthylène remplacé par Perchloréthylène selon 
+directive REACH) 
+ 
+ 
+• Élimination des résidus métalliques : Brossage 
+avec brosse laiton (dureté 80-120 HV) 
+ 
+ 
+• Protection anticorrosion : Application d'inhibiteur de 
+corrosion temporaire (DCI selon MIL-C-16173) 
+ 
+ 
+Résultat si le produit n’est pas 
+appliqué
+ 
+  
+ 
+ 
+Cas des outils de mesure de précision 
+ 
+Une attention particulière est recommandée pour ces outils afin de garantir leur utilisation future pour 
+la maintenance des aéronefs.  
+ 
+Des procédure spécifiques et recommandation du fabricant sont à vérifier.  
+ 
+En principe on procède comme ci-dessous :  
+• Nettoyage sans solvant : Utilisation exclusive d'alcool éthylique à 95° 
+• Séchage contrôlé : Air comprimé exempt d'huile et d'humidité  
+• Stockage en atmosphère contrôlée : Hygrométrie maintenue à 45-55% 
+  
+
+===== PAGE 11 =====
+Module 7.2 V06   Page 11 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.3. Détection et signalement des défaillances 
+Pour les outils spécifiques (Clés dynamométrique, sertisseuse, plieuse, presse) des critères 
+d'inspection sont élaboré par le fabricant.  
+L'inspection suit une grille de contrôle standardisée basée sur les modes de défaillance identifiés par 
+l'analyse FMEA (Failure Modes and Effects Analysis) : 
+ 
+Défauts dimensionnels 
+• Usure géométrique : Mesure au comparateur (résolution 0,01 mm) 
+• Déformation plastique : Contrôle par gabarit de référence 
+• Fissuration : Inspection par ressuage selon EN ISO 3452 
+ 
+Défauts fonctionnels 
+• Perte de couple : Vérification sur banc d'étalonnage 
+• Jeu mécanique excessif : Mesure au micromètre laser 
+• Défaut d'étanchéité : Test de pression différentielle 
+ 
+Le soin des outils s'interface directement avec : 
+ 
+• La métrologie (étalonnage et vérification des instruments de mesure) 
+• Le contrôle qualité (traçabilité des interventions) 
+• La gestion des stocks (optimisation des approvisionnements) 
+• La formation du personnel (maintien des compétences) 
+ 
+Cette approche systémique garantit la conformité aux exigences de navigabilité et contribue à 
+l'amélioration continue des processus de maintenance selon le référentiel Part 145 et les standards 
+industriels de l'aviation civile. 
+ 
+Pour les outils à utilisation régulières une Inspection préalable est systématique.  
+ 
+ 
+ 
+  
+
+===== PAGE 12 =====
+Module 7.2 V06   Page 12 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Avant toute utilisation, chaque outil doit faire l'objet d'un contrôle visuel et fonctionnel selon la 
+procédure. Cette vérification systématique constitue une barrière de sécurité essentielle pour prévenir 
+les défaillances en cours d'intervention et garantir la qualité des opérations de maintenance. 
+ 
+L'opérateur doit examiner visuellement et minutieusement les éléments suivants : 
+ 
+État général de l'outil : 
+ 
+• Absence de fissures, même superficielles, sur toutes les parties de l'outil (corps, manche, 
+partie active) 
+• Absence de déformations permanentes (torsion, flexion, écrasement) 
+• Absence de corrosion excessive (limite acceptable : traces superficielles n'affectant pas la 
+résistance mécanique) 
+• Intégrité des revêtements de protection (peinture, chromage, revêtement anticorrosion) 
+ 
+Parties actives et surfaces de travail : 
+ 
+• Vérification de l'intégrité des surfaces fonctionnelles (mâchoires de clés, becs de pinces, 
+lames de tournevis) 
+• Absence d'éclats, d'ébréchures ou d'arrondissement excessif des arêtes 
+• État des dentures pour les outils crantés (absence de dents cassées ou usées) 
+• Propreté des surfaces actives (absence de corps étrangers, limaille métallique, graisse durcie) 
+ 
+Marquages et identification : 
+ 
+• Lisibilité complète du numéro d'inventaire ou d'identification de l'outil 
+• Présence et lisibilité de la date de dernier étalonnage (pour outils dynamométriques et de 
+mesure) 
+• Visibilité du marquage de capacité maximale ou de gamme d'utilisation 
+• Présence éventuelle d'étiquettes de contrôle ou de vérification périodique 
+ 
+Propreté générale : 
+ 
+• Absence de corps étrangers (copeaux métalliques, résidus de matériaux, poussières) 
+• Absence de graisse excessive ou de lubrifiants contaminés 
+• Absence de traces de produits chimiques incompatibles (solvants, acides) 
+• Propreté des mécanismes mobiles et des articulations 
+  
+
+===== PAGE 13 =====
+Module 7.2 V06   Page 13 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Contrôle fonctionnel 
+ 
+Au-delà de l'aspect visuel, l'opérateur doit vérifier le bon fonctionnement de l'outil : 
+ 
+Mobilité des parties mobiles : 
+- Actionnement fluide et sans point dur des mécanismes (crémaillère, vis, ressorts) 
+- Absence de grippage ou de blocage partiel 
+- Absence de jeu excessif dans les articulations et les guidages 
+- Retour correct des ressorts de rappel (pour pinces, cisailles, cliquets) 
+Mécanismes de blocage et de sécurité : 
+- Fonctionnement correct des systèmes de verrouillage (cliquets de clés 
+dynamométriques) 
+- Enclenchement franc des gâchettes et dispositifs de sécurité 
+- Maintien en position des réglages (pour outils réglables) 
+- Absence de déclenchement intempestif des mécanismes automatiques 
+Câbles, connexions et alimentation : 
+- Pour outils pneumatiques : intégrité des raccords rapides, absence de fuites d'air 
+audibles 
+- Pour outils électriques : état du câble d'alimentation, absence de conducteurs 
+apparents 
+- Vérification de la propreté des connexions et de l'absence d'oxydation 
+- Contrôle du serrage des vis et fixations accessibles 
+Calibration et précision : 
+Pour outils de mesure (pieds à coulisse, micromètres) : vérification de la date de validité d'étalonnage 
+(maximum 12 mois). 
+Pour clés dynamométriques : contrôle de la date de dernier étalonnage (maximum 12 mois ou 5000 
+cycles). 
+Vérification du retour à zéro pour les instruments de mesure. 
+ 
+Contrôle de la cohérence des graduations et des index. 
+  
+ 
+Durant l’utilisation d’un outil d’atelier il est possible qu’il y est des imprévus comme des 
+casses par exemple. A ce moment-là des mesures doivent être prise directement, car il est 
+hors de question de continuer le travail avec du matériel défectueux. 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.2 V06   Page 14 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Critères de refus et mise hors service 
+Tout outil présentant l'un des défauts suivants DOIT être écarté immédiatement et mis hors service : 
+ 
+Défauts critiques entraînant un refus systématique : 
+Des fissures visibles, déformation permanente, usure excédant 10% de la dimension nominale des 
+parties actives, corrosion affectant plus de 5% de la surface active ou pénétrante en profondeur, date 
+d'étalonnage dépassée, rupture partielle ou complète ou du grippage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+À l'issue de chaque utilisation, l'opérateur doit effectuer une série de contrôles et d'actions de 
+maintenance préventive immédiate garantissant la conservation de l'outil en état opérationnel. 
+ 
+Exemple de d’outil non conforme : 
+ 
+                                      
+ 
+Il est impératif d’effectuer un nettoyage post-utilisation doit être effectué avant le rangement de 
+l'outil. 
+ 
+L'opérateur doit procéder à un examen méthodique de l'outil après usage (Détection d'usure 
+anormale, Recherche de déformation ou de dommages, État des revêtements et protections 
+Protection et stockage approprié) 
+ 
+Traçabilité d'utilisation 
+Conformément aux exigences Part 145.A.60, l'opérateur doit enregistrer dans le système de gestion 
+de maintenance (GMAO) les informations suivantes : 
+ 
+Données d'utilisation obligatoires : 
+• Identification de l'opérateur (nom, matricule, qualification) 
+• Numéro d'identification unique de l'outil utilisé 
+• Durée d'utilisation effective (heure de sortie et heure de retour)  
+• Type d'intervention réalisée (référence chapitre ATA, numéro d'ordre de travail) 
+  
+PRIMORDIALE ! 
+Procédure en cas de détection de non-conformité : 
+ 
+Lorsqu'un défaut est constaté lors du contrôle préalable, l'opérateur doit : 
+ 
+1. Ne pas utiliser l'outil et le retirer immédiatement de la zone de travail 
+2. Apposer une étiquette rouge "HORS SERVICE - NE PAS UTILISER" de manière 
+visible 
+3. Signaler la non-conformité au responsable d'atelier ou chef d'équipe 
+4. Enregistrer l'incident dans le système de gestion de maintenance (GMAO) 
+5. Placer l'outil dans la zone de quarantaine dédiée aux outils non conformes 
+6. Sélectionner un outil de remplacement après vérification de son état conforme 
+ 
+===== PAGE 15 =====
+Module 7.2 V06   Page 15 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+État constaté après usage : 
+• Mention "CONFORME" si aucune anomalie détectée 
+• Description précise de toute observation (usure, trace de choc, fonctionnement dégradé) 
+• Déclenchement automatique d'une alerte si anomalie significative 
+• Proposition de mise hors service si défaut critique constaté 
+ 
+Utilité de la traçabilité : 
+• Permet le suivi de l'historique d'utilisation de chaque outil 
+• Facilite la planification des opérations de maintenance préventive 
+• Aide à l'analyse des modes de défaillance récurrents 
+• Constitue une preuve documentaire en cas d'audit ou d'enquête qualité 
+ 
+1.1.4. Gestion des outils défectueux, cassés ou perdus 
+La gestion des outils non conformes constitue un élément majeur de la sécurité des vols et de la 
+qualité de la maintenance aéronautique. Tout écart doit faire l'objet d'une procédure formalisée 
+garantissant la maîtrise des risques associés. 
+ 
+Procédure en cas d'outil défectueux ou cassé 
+Dès la détection d'un défaut rendant l'outil impropre à l'utilisation sûre et conforme, une séquence 
+d'actions immédiates doit être déclenchée par l'opérateur. 
+ 
+Actions immédiates  
+ 
+1) Mise hors service immédiate et sécurisée 
+2) Signalement hiérarchique obligatoire 
+3) Quarantaine physique stricte 
+                                       
+ 
+                                                                                     Bac à outil casé (mise en quarantaine) 
+ 
+Décision et actions associées 
+Au terme de l'analyse, une décision documentée est prise parmi les options suivantes : 
+ 
+OPTION 1 : RÉPARATION de l'outil 
+Cette option est retenue si la réparation est techniquement possible avec des documents approuvés. 
+OPTION 2 : MISE AU REBUT définitive 
+Cette option est appliquée si la réparation est impossible, non économique ou si l'outil présente un 
+défaut critique irréparable. 
+ 
+OPTION 3 : EXPERTISE COMPLÉMENTAIRE (cas exceptionnels) 
+Pour les outils de grande valeur ou en cas de défaillance inexpliquée : 
+• Demande d'expertise au fabricant de l'outil 
+• Réalisation de contrôles non destructifs approfondis (ressuage, ultrasons, radiographie) 
+• Analyse métallurgique en laboratoire (si rupture suspecte) 
+• Analyse de criticité approfondie avant décision finale 
+  
+
+===== PAGE 16 =====
+Module 7.2 V06   Page 16 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.5. Cas d’outil perdu 
+Les conséquences :  
+• Outils pouvant être ingérés par un réacteur  
+• Outils susceptibles de bloquer une commande de vol  
+• Chiffons, fils métalliques, éléments de freinage 
+ 
+ 
+                         
+ 
+ 
+Procédure de remontée de l'événement 
+ 
+Dès la découverte de la perte d'un outil ou de tout autre objet, le technicien doit immédiatement 
+interrompre ses activités et alerter sa hiérarchie directe (chef d'équipe ou responsable de 
+maintenance).  
+ 
+Un rapport d'événement FOD (Foreign Object Damage) doit être rédigé sans délai, comprenant les 
+informations essentielles : l'identité du technicien, la description précise de l'objet perdu (type, 
+dimensions, référence), la zone de travail concernée, l'heure de la découverte et les circonstances de 
+la perte. 
+ 
+ 
+Exemple de fiche à remplir lors d’un FOD 
+ 
+Cette déclaration officielle déclenche automatiquement une procédure de mise en sécurité de 
+l'aéronef, avec immobilisation totale de l'appareil jusqu'à résolution complète du problème. Le 
+système qualité de l'organisme de maintenance doit également être informé pour enregistrer 
+l'événement dans les registres de sécurité et, si nécessaire, informer l'exploitant de l'aéronef et les 
+autorités aéronautiques compétentes selon la gravité de la situation. 
+  
+
+===== PAGE 17 =====
+Module 7.2 V06   Page 17 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Les actions à mener pour retrouver l'outil et conclure la maintenance en cours 
+ 
+Une recherche méthodique et exhaustive doit être organisée immédiatement sous la supervision d'un 
+responsable désigné.  
+L'équipe de recherche commence par circonscrire la zone d'intervention et inspecter visuellement 
+tous les recoins accessibles de l'aéronef où l'outil aurait pu tomber ou être oublié.  
+ 
+   
+ 
+Des moyens techniques peuvent être déployés : lampes d'inspection, miroirs télescopiques, 
+endoscopes, détecteurs de métaux ou caméras boroscopiques pour accéder aux zones confinées. 
+ 
+Si l'objet est retrouvé, il doit être présenté au responsable, qui vérifie son intégrité et valide la reprise 
+des opérations de maintenance. Un rapport de clôture d'événement est alors établi, documentant les 
+circonstances de la découverte et les mesures correctives mises en place pour éviter toute 
+récurrence. 
+ 
+Dans le cas où l'outil demeure introuvable malgré des recherches approfondies, une analyse de 
+risque approfondie doit être menée pour déterminer si l'objet a pu quitter la zone de l'aéronef ou s'il se 
+trouve effectivement à bord. Des démontages supplémentaires peuvent être nécessaires pour 
+accéder à des zones critiques. Ce n'est qu'après validation formelle par le service qualité et le 
+responsable maintenance, attestant avec certitude que l'objet n'est pas dans l'aéronef, que l'appareil 
+pourra être remis en service. Cette validation doit être tracée et documentée dans le dossier de 
+maintenance de l'aéronef. 
+ 
+ 
+1.2 . Contrôle des outils 
+1.2.1 Contrôle d’inventaire et traçabilité 
+Un système de comptage et de vérification des outils sous forme « inventaire » repose sur 
+plusieurs méthodes qui sont complémentaires : 
+ 
+• Contrôle de début de poste : Vérification de la présence de 100% des outils référencés 
+• Contrôle intermédiaire : Pointage toutes les 4 heures pendant les interventions 
+• Contrôle de fin de poste : Recomptage total avec validation croisée 
+ 
+  
+
+===== PAGE 18 =====
+Module 7.2 V06   Page 18 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Procédures de traçabilité des outils 
+ 
+1. Outils personnels 
+ 
+La traçabilité des outils personnels repose sur des inventaires réguliers effectués sur la base d'un 
+relevé personnel. Chaque technicien est responsable de maintenir une liste à jour de ses outils et de 
+vérifier leur présence avant et après chaque intervention. Cette méthode simple permet à chaque 
+mécanicien de s'assurer qu'aucun outil n'a été égaré ou oublié sur un aéronef. 
+ 
+ 
+2. Outils communs 
+ 
+Pour les outils partagés tels que les pompes à graisse ou les kits de purge, un système de jetons 
+personnels est mis en place selon les procédures fixées par l'organisme. Lorsqu'un technicien 
+emprunte un outil commun, il dépose son jeton personnel à l'emplacement de l'outil, indiquant ainsi 
+clairement qui l'a pris et qui doit le ramener. Cette procédure garantit qu'aucun outil partagé ne reste 
+non attribué et facilite la recherche en cas d'oubli. 
+                              
+3. Gestion des entrées et sorties au magasin 
+ 
+Le suivi des outils stockés au magasin est réalisé par le magasinier ou par le technicien lui-même, 
+selon les procédures établies par l'organisation. Le mécanicien doit enregistrer par écrit chaque 
+prélèvement d'outil, en indiquant son identité, la référence de l'outil emprunté, la date et l'heure. Cette 
+traçabilité documentée permet de savoir précisément où se trouve chaque équipement à tout 
+moment.  
+ 
+  
+
+===== PAGE 19 =====
+Module 7.2 V06   Page 19 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4. Remise en état des outils 
+ 
+Avant de restituer un outil commun ou partagé, le technicien a la responsabilité de le remettre en état 
+d'utilisation pour la personne suivante. Cela inclut le nettoyage, la vérification du bon fonctionnement 
+et le rangement approprié. Pour les outils gérés par le magasin, le magasinier récupère l’outil et un 
+compte rendu de l’état fonctionnel et opérationnel de l’outil.  Garantissant ainsi que tous les 
+équipements sortant du magasin sont opérationnels et conformes aux standards de sécurité. 
+ 
+Ces procédures de traçabilité sont essentielles en aéronautique pour prévenir tout risque de corps 
+étranger (FOD - Foreign Object Damage) dans les aéronefs et assurer la sécurité des vols. 
+ 
+ 
+Cas particulier des d'outil spécifique comme (goupille de réglage, corset, gabarit de dépose …)  
+ 
+Un suivie particulier est à réaliser afin de permettre un enregistrement sûr: 
+• Identification de l'opérateur (badge personnel) 
+• Nature de l'intervention (code ATA chapter) 
+• Durée d'utilisation effective 
+• État de l'outil au retour (conforme/non-conforme) 
+ 
+   
+ 
+ 
+ 
+  
+
+===== PAGE 20 =====
+Module 7.2 V06   Page 20 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.3 Utilisation des matériels d’atelier 
+Les ateliers de maintenance aéronautique disposent d'équipements spécialisés permettant la 
+fabrication, la réparation et la modification de pièces d'aéronefs. La maîtrise de ces matériels est 
+essentielle pour garantir la conformité aux standards de l'industrie aéronautique et assurer la sécurité 
+des interventions. Cette section présente les principaux équipements d'atelier, leurs principes de 
+fonctionnement, leurs applications spécifiques et les procédures d'utilisation conformes aux 
+exigences règlementaires. 
+1.3.1 Presse hydraulique et mécaniques 
+Les presses sont utilisées pour en maintenance aéronautique pour : 
+• L'extraction et l'installation de roulements dans les trains d'atterrissage 
+• Le rivetage de structures métalliques (nervures, longerons) 
+• Le formage à froid de tôles d'aluminium 2024-T3 ou 7075-T6 
+• L'emmanchement de bagues et de coussinets dans les ferrures 
+• Le redressage contrôlé de composants déformés.  
+    
+1.3.2 Plieuse et cintreuses 
+1.3.2.1 Principes théoriques du pliage 
+Les plieuse et cintreuse sont utilisé en aéronautique principalement par des chaudronniers pour le 
+cas de réparation structural. Aussi durant la vie d’un avion la structure de l’aéronef peut-être amener 
+à être modifier, pour intégrer des nouveaux systèmes ou pour une utilisation particulière de l’aéronef. 
+ 
+Les types de plieuse utilisées en aéronautique 
+Plieuses à presse : 
+• Capacité : 1 à 6 mètres de longueur 
+• Force : 50 à 300 tonnes 
+• Précision angulaire : ± 0,5° 
+• Utilisées pour les panneaux de fuselage et nervures 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.2 V06   Page 21 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Cintreuses à galets : 
+ 
+• Diamètres de cintrage : 50 mm à 500 mm 
+• Matériaux : tubes hydrauliques, conduites pneumatiques 
+• Précision : ± 1° sur 90° 
+ 
+Cintreuses numériques : 
+ 
+• Programmation multi-axes (jusqu'à 9 axes) 
+• Répétabilité : ± 0,1 mm 
+• Stockage de programmes pour pièces récurrentes 
+ 
+1.3.3 Perceuses et aléseuses 
+Le perçage consiste à créer un trou par enlèvement de matière au moyen d'un foret rotatif. La vitesse 
+de coupe optimale dépend du matériau et du diamètre. 
+ 
+Perceuses à colonne : 
+• Course maximale : 150 à 300 mm 
+• Capacité de perçage : Ø1 à Ø50 mm 
+• Broche CM3 ou CM4 (cône Morse) 
+• Équipées de systèmes de refroidissement par lubrifiant 
+ 
+  
+
+===== PAGE 22 =====
+Module 7.2 V06   Page 22 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Aléseuses horizontales : 
+• Précision d'alésage : IT7 à IT9 
+• Rugosité obtenue : Ra 0,8 à 3,2 μm 
+• Applications : remise en cote de logements de roulements 
+ 
+Perceuses radiales : 
+• Rayon d'action : 1 à 3 mètres 
+• Capacité : jusqu'à Ø80 mm 
+• Utilisées pour les grandes structures (longerons, cadres) 
+ 
+ 
+  
+
+===== PAGE 23 =====
+Module 7.2 V06   Page 23 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.3.4 Sableuses et équipements de décapage 
+Le sablage repose sur la projection à haute vitesse de particules abrasives qui créent une action 
+d'érosion mécanique sur la surface traitée. L'énergie cinétique des particules est donnée par : 
+ 
+E_c = (1/2) × m × v² 
+ 
+• m = masse de la particule (kg) 
+• v = vitesse de projection (m/s, typiquement 50 à 150 m/s) 
+ 
+ 
+L'efficacité du décapage dépend de plusieurs paramètres interconnectés : 
+Taux de décapage (kg/h) = f(P, d, ρ, H, α, t) 
+ 
+• P = pression d'air (bar, généralement 4 à 8 
+bar) 
+• d = diamètre de la buse (mm) 
+• ρ = masse volumique de l'abrasif (kg/m³) 
+• H = dureté de l'abrasif (échelle Mohs) 
+• α = angle de projection (optimal : 60° à 80°) 
+• t = temps de traitement (s) 
+ 
+ 
+Principe d’exécution du décapage 
+ 
+• Effectuer un essai sur pièce témoin ou zone non critique 
+• Maintenir une distance buse-surface constante : 150 à 300 mm 
+• Respecter un angle de projection optimal : 60° à 80° par rapport à la surface 
+• Balayer la surface par passes régulières avec recouvrement de 50% 
+• Eviter un traitement prolongé au même endroit (risque d’échauffement et déformation) 
+• Contrôler visuellement l’avancement du décapage en continue  
+ 
+ 
+   
+ 
+  
+
+===== PAGE 24 =====
+Module 7.2 V06   Page 24 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.3.5 Les étaux 
+Les étaux, également appelés « troisième main », sont indispensables dans un atelier d'outillage ou 
+de fabrication. Ils sont généralement montés sur établi ou autres surfaces de travail solides pour 
+maintenir la pièce ou l'ouvrage fermement en place. 
+La plupart des étaux conviennent à une grande variété de travaux. Choisir l'étau qui convient le mieux 
+tout en étant suffisamment robuste pour le travail à exécuter. 
+        
+ 
+ 
+ 
+Suivant le type d’équipement inséré dans l’étau, il est impératif d’utiliser des mordaches adaptées 
+pour ne pas impacter l’équipement et garantir son maintien dans l’étau. Remplacer les mordaches si 
+elles sont usées. 
+ 
+ 
+ 
+Exemple de Mordaches 
+ 
+                        
+ 
+ 
+ 
+Principe d’utilisation de l’étau 
+• Placer la pièce dans l'étau de manière que toute la surface de serrage participe au maintien 
+de la pièce en place.  
+• Placer la pièce dans l'étau de manière que le travail puisse se faire le plus près possible des 
+mors, afin de prévenir la vibration de la pièce au sciage, limage, etc.  
+• Garder propres, lubrifiées et exemptes de copeaux et de saletés toutes les parties filetées et 
+pièces mobiles de l'étau.  
+ 
+Porter des lunettes de sécurité ou un écran facial lorsqu'on se sert d'outils de frappe ou 
+d'outils mécaniques pour travailler une pièce placée dans un étau. 
+  
+
+===== PAGE 25 =====
+Module 7.2 V06   Page 25 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.4 Consigne de sécurité 
+- Votre santé est un capital inestimable. Protégez-la en utilisant des outils de la meilleure 
+qualité et adaptés aux travaux à effectuer. Le respect de la bonne utilisation d'un outil est 
+votre meilleure garantie. 
+- Ces consignes sont le reflet de l'état de l'art du bon usage d'un outil. Leur respect ne 
+saurait être considéré comme exhaustif des cas de mauvais usage. Elles complètent les 
+précautions que chaque utilisateur doit prendre en fonction des règles et usages de sa 
+profession, de son entreprise et de la réglementation en vigueur dans les différents pays, 
+auxquels elles ne se substituent pas. 
+ 
+PORTEZ DES LUNETTES DE PROTECTION Lors de vos travaux (projection des copeaux ou 
+éclats, poussières, flashes lumineux, UV...). 
+ 
+PORTEZ DES GANTS Pour vous protéger, lors de vos travaux, des coupures, chocs, brûlures. 
+ 
+NE TRAVAILLEZ JAMAIS SOUS TENSION OU À PROXIMITÉ DE MATÉRIEL SOUS TENSION 
+SANS OUTILLAGE 1000 VOLTS Seuls ces outils procurent l'isolation nécessaire pour les travaux 
+sous tension. Les manches et poignées plastiques des autres outils ne sont pas isolants. 
+ 
+ASSUREZ VOTRE ÉQUILIBRE Notamment lors des travaux de puissance (déblocages, 
+tractions...). 
+ 
+MÉNAGEZ VOTRE DOS Lors d'opérations de levage (dos droit, jambes pliées...). 
+ 
+UTILISEZ L'OUTIL ADAPTÉ Chaque outil est conçu pour une fonction déterminée. N'utilisez pas 
+un outil à un usage pour lequel il n'est pas conçu. Seul le bon outil procure sécurité, confort et 
+productivité. 
+ 
+PAS DE BRICOLAGE Ne modifiez pas votre outil (meulage, soudage, chauffe excessive...). Cela 
+modifierait ses caractéristiques et pourrait le fragiliser. 
+ 
+PAS DE RALLONGES N'utilisez pas votre outil au-delà de sa capacité, avec des rallonges ou des 
+chocs.  
+ 
+UN OUTIL PROPRE Nettoyez vos outils pour prévenir "la glisse" et avoir une prise plus sûre. 
+Inspectez-les avant utilisation, ils ne doivent présenter aucune faiblesse (usure excessive, 
+éclats...). Certains mécanismes doivent être nettoyés et lubrifiés régulièrement. 
+ 
+RESPECTEZ ET CONSERVEZ LES NOTICES D'UTILISATION En cas d'utilisation d'un kit 
+d'entretien, utilisez toutes les pièces du kit. 
+  
+
+===== PAGE 26 =====
+Module 7.2 V06   Page 26 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+RANGEMENT SERVANTES 
+- N'ouvrez jamais plusieurs tiroirs chargés en même temps pour éviter le 
+basculement. 
+- Respectez la charge nominale des tiroirs. 
+- Mettez le frein à l'arrêt ; fermez et verrouillez les tiroirs pour les 
+déplacements. 
+- Poussez la servante mais ne la tirez pas vers vous et évitez les objets en 
+équilibre. 
+ 
+MOBILIER D'ATELIER BOÎTES ET COFFRES 
+- Ménagez votre dos : pas de charges trop lourdes. 
+- Ne montez pas sur les contenants. 
+- Protégez vos mains : portez des gants et évitez les outils pointus ou 
+coupants en vrac dans votre caisse à outils 
+ 
+CLÉS AYEZ LES BONS GESTES 
+- Assurez votre équilibre lors d'efforts importants ; tirez la clé vers vous plutôt 
+que de la pousser. 
+- Portez des lunettes et des gants de protection. 
+- Ne pas meuler, souder ou chauffer votre outil, il en serait fragilisé. 
+- Vérifiez l'état de la boulonnerie et de votre outil avant utilisation. 
+ 
+CHOISISSEZ LE BON OUTIL ; PAS DE SURCHARGES 
+- Ne dépassez pas la capacité de votre outil : ni rallonge, ni coups de 
+marteau. 
+- Utilisez toujours la clé correspondant à la dimension de l'écrou.  
+- Pour les efforts puissants, préférez une clé à œil. Lors d'utilisation d'une clé 
+à fourches, engagez à fond la clé sur l'écrou, ne forcez pas en bouts de 
+becs, travaillez dans l'axe 
+ 
+DOUILLES/DOUILLES IMPACT 
+- Verrouillez toujours la douille sur la machine avec la goupille et la bague (les 
+références sont indiquées pour chaque douille). 
+- Ne tenez jamais la douille ou un accessoire quand la machine tourne. 
+- Portez des lunettes et des gants de protection. 
+ 
+DOUILLES À MAIN OU DOUILLES POUR VISSEUSE : NE LES UTILISEZ JAMAIS SUR UNE 
+MACHINE À CHOCS. 
+AYEZ LES BONS GESTES  
+- Assurez votre équilibre, tirez l'outil vers vous plutôt que le pousser. 
+- N'appliquez pas de surcharge, n'utilisez que les rallonges prévues. 
+- Vérifiez que votre cliquet "engage" bien. 
+- Pour la boulonnerie usée ou matée, préférez les douilles 6 pans. 
+- N'utilisez pas d'outils présentant une usure excessive, ou des amorces 
+de rupture. 
+  
+
+===== PAGE 27 =====
+Module 7.2 V06   Page 27 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+TOURNEVIS 
+- Les manches plastiques ne sont pas isolants excepté les outils 1000 
+volts. 
+- Ne laissez pas inutilement la main libre à proximité de la vis pendant le 
+vissage, la lame du tournevis peut riper. 
+- Utilisez des gants de protection. 
+ 
+UTILISEZ LE BON OUTIL  
+- N'utilisez pas le tournevis comme burin, levier ou poinçon. 
+- Sélectionnez la bonne empreinte, et la bonne dimension pour ne pas 
+détériorer la vis et la lame. Ne pas modifier ou chauffer les lames, pour en 
+conserver les performances intactes. 
+- Pour les déblocages puissants, choisissez des tournevis équipés 
+d'hexagones. 
+- Les tournevis manche bois à lame traversante permettent de "décoller" les 
+vis bloquées avec de légers choc. 
+ 
+PINCES 
+- Portez des lunettes de protection, notamment pour couper du fil et lors de la 
+pose de circlips ou de rivets. 
+- Les branches gainées ne sont pas isolantes. Seuls les outils 1000 volts sont 
+conçus pour travailler à proximité de la tension. 
+ 
+UTILISEZ LE BON OUTIL 
+- Respectez les capacités des pinces coupantes (diamètre et dureté du fil). 
+- Ne modifiez pas ou ne chauffez pas les becs, pour ne pas en changer les 
+caractéristiques. 
+- Coupez dans l’axe du fil, ne pas “ tortiller ”, coupez en fond de becs plutôt 
+qu en bout. 
+- Pour la pose de circlips, respectez les capacités de pince et ne serrez que le 
+minimum nécessaire à la pose. 
+- Une pince étau n'est pas un moyen d'assemblage permanent ; les vibrations 
+et chocs peuvent déplacer des pièces. 
+  
+
+===== PAGE 28 =====
+Module 7.2 V06   Page 28 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+MARTEAUX OUTILS DE FRAPPE 
+- Portez des lunettes et des gants de protection. 
+- Jamais "dur sur dur" : ne frappez avec un marteau sur une pièce d'une 
+dureté supérieure à 46 HRc. Sinon, utilisez une massette. 
+- N'utilisez pas d'outils "douteux": masses ébréchées ou mal 
+emmanchées, manches fragilisés, burins ou chasses exagérément 
+champignonnés... Vérifiez l'emmanchement avant utilisation.  
+- Les marteaux peuvent provoquer des étincelles : ne les utilisez pas en 
+environnement inflammable ou déflagrant. 
+                     
+ 
+CHOISISSEZ LE BON OUTIL 
+- Quelle dimension de marteau ? Le diamètre de la surface de frappe doit 
+être environ 10 mm plus grand que celui de la surface d'impact, ne frappez 
+pas avec les bords du marteau. 
+- Préférez les burins et chasses avec protecteur, ils offrent une sécurité et un 
+confort supérieurs. 
+- N'utilisez pas de chasse-goupille pour faire levier. 
+ 
+SCIAGE COUPE PERCAGE ATTENTION : COPEAUX 
+- Portez des lunettes et des gants de protection pour toutes les opérations de 
+sciage, coupe, perçage, taraudage, ou manipulations de tôles ou pièces 
+métalliques en cours d'usinage. 
+- Ne placez pas la main dans la trajectoire de la coupe. Les cisailles sont 
+conçues pour couper la tôle : ne les utiliser pas sur du fil, respectez leurs 
+capacités de cisaillement. 
+PRESSE ET SERRE JOINT PAS AU-DELÀ DE SA CAPACITÉ 
+- Une presse ou un serre-joint n'est pas un moyen d'assemblage 
+permanent, ne les utilisez jamais pour constituer des plates-formes, 
+des rambardes... 
+- Évitez l'utilisation de serre-joints sur des matériaux soumis à des chocs ou à 
+des vibrations : l'assemblage pourrait se "détendre". 
+- N'utilisez pas ces produits pour réaliser des opérations de levage. 
+- Vérifiez toujours l'outil avant utilisation et respectez ses capacités 
+maximales (pas de rallonges ou de chocs). 
+  
+
+===== PAGE 29 =====
+Module 7.2 V06   Page 29 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ÉTAUX 
+- Fixez solidement l'étau sur un support suffisamment dimensionné. 
+- N'utilisez pas de rallonge ou de marteau pour augmenter la force de 
+serrage, et ne faites pas de blocages puissants sur une extrémité des mors. 
+- N'utilisez pas les mors comme enclume. 
+- Ne modifiez ou réparez jamais un étau. 
+- Portez toujours des lunettes et des gants de protection (meulages, sciages, 
+perçages, chocs...) 
+ 
+CHOISISSEZ LE BON OUTIL 
+Préférez un étau à base tournante qui vous permet d'être toujours dans le meilleur axe de travail. 
+SERRAGE CONTROLE PROTÉGEZ VOTRE OUTIL DE PRÉCISION 
+- Pas de surcharge ni de déblocage qui pourrait "forcer" votre outil au-delà de 
+sa capacité maximum. 
+- N'utilisez pas de rallonge sur une clé dynamométrique : cela modifie les 
+rapports de bras de levier et fausse le couple. 
+- Protégez et rangez toujours une clé après utilisation. 
+- Votre clé dynamométrique est un outil de précision, faites vérifier 
+régulièrement la précision de votre clé par le laboratoire accrédité. 
+- Consultez la notice avant utilisation. 
+- Pas de machine Impact sur les multiplicateurs de couple. Un multiplicateur 
+de couple s'utilise avec une clé dynamométrique. 
+ 
+EXTRACTION 
+- Portez des gants, des lunettes de protection et des chaussures de sécurité. 
+- Un extracteur emmagasine des tensions de plusieurs tonnes pendant son 
+utilisation. 
+- Veillez à sa mise en place correcte : bien centré, dans l'axe, avec une bonne 
+prise pour chaque griffe. 
+- Immobilisez-le en rotation si besoin, pour qu'il ne tourne pas pendant le serrage. 
+- "Bâchez" l'extracteur pour le freiner s'il échappait, ne restez pas dans l'axe de  
+l'extraction et limitez au strict nécessaire le nombre de personnes à proximité. 
+ 
+ 
+CHOISISSEZ LE BON OUTIL 
+- Ne dépassez jamais la capacité d'un extracteur. 
+- Préférez un extracteur 3 griffes à un extracteur 2 griffes et utilisez des griffes 
+aussi courtes que possible. 
+- Vérifiez toujours l'état de votre outil avant utilisation et huilez la vis. Le cas 
+échéant, changez les griffes par jeu complet. 
+- Ne modifiez ou ne chauffez jamais les griffes : elles en seraient fragilisées. 
+- Ne manœuvrez pas avec une clé à chocs. 
+- Le cas échéant, utilisez une massette si vous devez taper sur la vis pour 
+décoller la pièce. 
+- Pas de machine Impact sur les casse-écrous. 
+  
+
+===== PAGE 30 =====
+Module 7.2 V06   Page 30 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+MACHINES PNEUMATIQUES 
+- Portez des lunettes et des gants de protection, ainsi qu'un masque 
+antipoussière, pour les travaux de ponçage notamment. 
+- En cas de travaux intensifs, portez des protections acoustiques. 
+- Pensez à la protection des personnes de votre environnement. 
+ 
+AYEZ LES BONS GESTES 
+- Débranchez toujours la machine avant de monter le foret, la meule, la 
+douille Impact. 
+- Respectez les diamètres et les vitesses de rotation pour les accessoires. 
+- Conservez les protections d'origine (carters de meule...). 
+- N'utilisez que des douilles Impact, avec système de verrouillage, sur les 
+boulonneuses pneumatiques. 
+- Consultez la notice de la machine avant utilisation. 
+ 
+TRAVAUX SOUS TENSION OU A PROXIMITE DE LA TENSION 
+- Seuls les outils isolés 1000 volts procurent une isolation contre les 
+risques électriques, jusqu'à 1000 volts alternatifs. Les outils FACOM ISOLÉS 
+1000 volts sont conformes à la norme européenne EN 60900 et ont été testés et 
+vérifiés unitairement. 
+ 
+- Inspectez votre outil après chaque utilisation : ne travaillez plus avec un outil 
+dont la protection est entamée. 
+ 
+- Utilisez les protections complémentaires (gants, tapis, lunettes anti-UV) pour 
+vous protéger des sources électriques. 
+ 
+ 
+TRAVAUX D’ELECTRICITE ET D’ÉLECTRONIQUE 
+- Portez des lunettes de protection, notamment pour tous les travaux qui 
+provoquent des risques de projection (coupe de fil, dénudage, sertissage des 
+cosses, soudage...). Préférez les pinces coupantes à retenue de chute. 
+- Ne travaillez jamais sur des condensateurs chargés ou sur des éléments sous 
+tension avec des outils antistatiques (dissipateurs). 
+ 
+CHOISISSEZ LES BONS OUTILS 
+- Ne posez pas un fer à souder chaud sur une surface fragile ou inflammable, 
+utilisez un support de fer. Ne rangez pas un fer à souder chaud dans une boîte, 
+débranchez après usage. 
+- Pour intervenir sur des composants électroniques sensibles, utilisez des outils 
+antistatiques ESD norme CEI 61340-5-1 et CEI 61340-5-2. 
+  
+
+===== PAGE 31 =====
+Module 7.2 V06   Page 31 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.4.1 Oubli d’outillage 
+La caisse à outils doit être personnelle et les outils doivent être marqués. (Le responsable 
+d'un outil doit être facilement identifié). 
+Les panoplies d’outillage commun doivent avoir des repères de peinture permettant de voir 
+rapidement l'outil manquant. (1 seul emplacement par outil). 
+Un inventaire doit être effectué : 
+- A la prise de poste. 
+- A la fin de poste. 
+- Avant le départ en vol de l'aéronef. 
+- A l'issue d'un dépannage. 
+En cas de manque d'un outil, la recherche doit être effectuée immédiatement. 
+Les portes de visites et trappes ne sont refermées qu'après une inspection visuelle et un 
+contrôle de l'outillage.  
+Les points vitaux de l'aéronef (commande de vol, commande moteur...) doivent être vérifiés 
+particulièrement. 
+  
+===== PAGE 32 =====
+Module 7.2 V06   Page 32 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2 DIMENSIONS, AUTORISATIONS ET TOLERANCES, 
+NORMES DE TRAVAIL 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques des 
+normes de dimensions pour la maintenance des aéronefs.  Une capacité à combiner et 
+appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. Capacité à appliquer cette connaissance. [Niveau 3] 
+ 
+2.1. La philosophie des tolérances 
+2.1.1. Pourquoi les tolérances existent 
+Les tolérances sont des marges d'erreur acceptables définies par le constructeur pour permettre la 
+fabrication et l'assemblage des pièces tout en garantissant leur fonctionnement et la sécurité du vol.  
+ 
+Pourquoi les tolérances existent : 
+ 
+1. Impossibilité de fabrication parfaite : Aucune machine-outil ne peut produire une dimension exacte. 
+Il existe toujours une variation microscopique.  
+2. Coût de fabrication : Une tolérance serrée (±0,01 mm) coûte 10 à 100 fois plus cher qu'une 
+tolérance large (±0,5 mm).  
+3. Assemblage fonctionnel : Les pièces doivent s'emboîter correctement (jeux pour roulements, 
+ajustements serrés pour axes).  
+4. Dilatation thermique : Les matériaux se dilatent avec la température. Une tolérance trop serrée 
+pourrait provoquer un grippage en vol.  
+ 
+Impact sur la navigabilité : 
+ 
+- Une pièce hors tolérance peut provoquer une vibration anormale, une fuite, une défaillance 
+structurale.  
+- Le respect des tolérances est une exigence de navigabilité (Part 145.A.50). 
+ 
+2.1.2. Notation de lecture 
+2.1.2.1. Tolérance symétrique (notation ±) 
+Exemple : Ø 25 ± 0,1 mm  
+- Dimension nominale : 25 mm  
+- Tolérance : ± 0,1 mm  
+- Dimension minimale acceptable : 25 - 0,1 = 24,9 mm  
+- Dimension maximale acceptable : 25 + 0,1 = 25,1 mm  
+ 
+Interprétation : Toute mesure entre 24,9 et 25,1 mm est conforme. 
+2.1.2.2. Tolérance asymétrique (limite min/max) 
+Exemple : Épaisseur tôle : 2,0 / 2,2 mm 
+- Dimension minimale : 2,0 mm  
+- Dimension maximale : 2,2 mm  
+- Tolérance totale : 0,2 mm 
+  
+
+===== PAGE 33 =====
+Module 7.2 V06   Page 33 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.1.2.3. Ajustements ISO (pour assemblage) 
+Les plans utilisent une notation normalisée pour les ajustements :  
+ 
+- H7/g6 : Ajustement glissant (jeu faible, exemple : guidage précis)  
+- H7/k6 : Ajustement serré léger (montage à la presse)  
+- H7/p6 : Ajustement serré fort (emmanchement à chaud) La lettre majuscule (H) désigne l'alésage 
+(trou), la lettre minuscule (g, k, p) désigne l'arbre. 
+2.1.2.4. Lecture de plans avec tolérances 
+Sur un plan aéronautique, on peut trouver :  
+ 
+- Ø 12,5 +0,2 / -0,1 : diamètre nominal 12,5 mm, max 12,7 mm, min 12,4 mm  
+- 150 ± 0,5 : longueur entre 149,5 et 150,5 mm  
+- Jeu fonctionnel : 0,05 à 0,15 mm : le jeu mesuré doit être dans cet intervalle 
+ 
+ 
+  
+
+===== PAGE 34 =====
+Module 7.2 V06   Page 34 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.1.3. Limites d’usure et critères de rejet 
+2.1.3.1. Définition 
+La limite d'usure est la dimension maximale ou minimale, au-delà de laquelle la pièce doit être rejetée 
+ou réparée, même si elle est encore fonctionnelle.  
+ 
+Exemple : 
+- Alésage de roulement : dimension neuve Ø 50 mm (tolérance +0,02 / +0,05)  
+- Limite d'usure SRM : Ø 50,15 mm  
+- Si mesure > 50,15 mm → REJET OBLIGATOIRE 
+ 
+2.1.3.2. Sources des limites d’usure 
+Les limites d'usure sont définies dans :  
+ 
+- SRM (Structural Repair Manual) : pour structures  
+- AMM (Aircraft Maintenance Manual) : pour systèmes  
+- CMM (Component Maintenance Manual) : pour équipements 
+2.1.3.3. Méthodes de contrôle 
+Calibres d'usure :  
+ 
+- Calibre "GO" (entre) : passe si pièce conforme  
+- Calibre "NO GO" (n'entre pas) : ne passe pas si pièce conforme  
+- Si "NO GO" passe → pièce usée → REJET 
+ 
+Gabarits de contrôle : 
+ 
+- Gabarit profilé pour vérifier usure de came, denture, profil de pale  
+- Lumière visible entre gabarit et pièce → usure excessive  
+ 
+Décision :  
+ 
+- Conforme : cote dans tolérance → remise en service  
+- Réparable : cote hors tolérance mais réparation autorisée SRM → réparation  
+- Rejet : au-delà limite d'usure → mise au rebut 
+  
+
+===== PAGE 35 =====
+Module 7.2 V06   Page 35 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2. Dimensions en opération d’atelier 
+2.2.1. Unités de distance en opération d’atelier 
+Les opérations de maintenance aéronautique nécessitent la maîtrise de deux systèmes d'unités : le 
+système métrique (SI) et le système impérial (anglo-saxon). Les avions de conception européenne 
+utilisent généralement le système métrique, tandis que les avions américains (Boeing, Cessna) 
+utilisent le système impérial. Le technicien doit être capable de convertir rapidement entre ces deux 
+systèmes pour interpréter correctement les manuels constructeurs et appliquer les procédures. 
+ 
+2.2.1.1. Système métrique 
+Les unités de base sont :  
+Le Mètre (m) : unité principale de longueur  
+Le Centimètre (cm) : 1 m = 100 cm  
+Le Millimètre (mm) : 1 m = 1000 mm, 1 cm = 10 mm  
+ 
+Le millimètre est l'unité la plus utilisée en atelier pour les mesures de précision (alésages, épaisseurs 
+de tôle, jeux mécaniques). 
+2.2.1.2. Système impérial 
+Les unités de base sont :  
+- Inch (in ou ") : pouce, unité principale  
+- Foot (ft ou ') : pied, 1 ft = 12 inches  
+- Yard (yd): 1 yd = 3 ft = 36 inches (rarement utilisé en aéronautique) 
+2.2.1.3. Formule de conversion 
+ 
+Convertir des millimètres (mm) : 
+ 
+Conversion Formule Exemple 
+mm → inches 1 mm = 0,03937 in 25 mm = 0,984 in 
+mm → feet 1 mm = 0,003281 ft 300 mm = 0,984 ft 
+ 
+Convertir des inches (in) : 
+ 
+Conversion Formule Exemple 
+inches → mm 1 in = 25,4 mm 2 in = 50,8 mm 
+inches → cm 1 in = 2,54 cm 5 in = 12,7 cm 
+ 
+Convertir des feet (ft) : 
+ 
+Conversion Formule Exemple 
+feet → mètres 1 ft = 0,3048 m 10 ft = 3,048 m 
+feet → mm 1 ft = 304,8 mm 1 ft = 609,6 mm 
+ 
+  
+===== PAGE 36 =====
+Module 7.2 V06   Page 36 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2.2. Unités de poids en opération d’atelier 
+Le poids des composants aéronautiques doit être maîtrisé pour le calcul du centrage de l'avion et le 
+respect des limites de masse. Deux systèmes coexistent : le système métrique (kilogramme) et le 
+système impérial (livre, once). 
+ 
+2.2.2.1. Système métrique 
+- Kilogramme (kg) : unité principale  
+- Gramme (g) : 1 kg = 1000 g  
+- Tonne (t) : 1 t = 1000 kg 
+2.2.2.2. Système impérial 
+- Pound (lb ou lbs) : livre, unité principale 
+- Ounce (oz) : once, 1 lb = 16 oz 
+ 
+2.2.2.3. Formule de conversion 
+Convertir des kilogrammes (kg) : 
+ 
+Conversion Formule Exemple 
+kg → pounds 1 kg = 2,205 lb 10 kg = 22,05 lb 
+kg → ounces 1 kg = 35,27 oz 0,5 kg = 17,64 oz 
+ 
+Convertir des pounds (lb) : 
+ 
+Conversion Formule Exemple 
+pounds → kg 1 lb = 0,4536 kg 50 lb = 22,68 kg 
+pounds → ounces 1 lb = 16 oz 2,5 lb = 40 oz 
+ 
+Convertir des ounces (oz) : 
+ 
+Conversion Formule Exemple 
+ounces → grammes 1 oz = 28,35 g 8 oz = 226,8 g 
+ounces → pounds 1 oz = 0,0625 lb 32 z = 2 lb 
+ 
+  
+===== PAGE 37 =====
+Module 7.2 V06   Page 37 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2.3. Unités de volume (liquides) en opération d’atelier 
+Les fluides aéronautiques (carburant, huile hydraulique, huile moteur) sont mesurés en volume. Trois 
+systèmes coexistent : litre (métrique), US gallon (États-Unis), UK gallon (Royaume-Uni et anciennes 
+normes). 
+ 
+2.2.3.1. Système métrique 
+- Litre (L ou l) : unité principale  
+- Millilitre (mL) : 1 L = 1000 mL 
+ 
+2.2.3.2. Système impérial 
+-US Gallon (gal US): gallon américain  
+- UK Gallon (gal UK ou Imperial gallon) : gallon impérial britannique  
+- ATTENTION : 1 gal US ≠ 1 gal UK (différence de 20% !) 
+ 
+2.2.3.3. Formules de conversion 
+Convertir des litres (L) : 
+ 
+Conversion Formule Exemple 
+litres → US gallons 1 L = 0,2642 gal US 100 L = 26,42 gal US 
+litres → UK gallons 1 L = 0,2200 gal UK 100 L = 22,00 gal UK 
+ 
+Convertir des US gallons : 
+ 
+Conversion Formule Exemple 
+US gal → litres 1 gal US = 3,785 L 50 gal US = 189,25 L 
+US gal → UK gal 1 gal US = 0,8327 gal UK 10 gal US = 8,327 gal UK 
+ 
+Convertir des UK gallons : 
+ 
+Conversion Formule Exemple 
+UK gal → litres 1 gal UK = 4,546 L 20 gal UK = 90,92 L 
+UK gal → US gal 1 gal UK = 1,201 gal US 15 al UK = 18,01 
+gal US 
+ 
+2.2.4. Unités de couple de serrage 
+2.2.4.1. Serrage contrôlé 
+Guide de serrage contrôlé Couple de serrage et force de précharge 
+Seule une précharge correcte procure un assemblage fiable : 
+- précharge trop faible : risque de desserrage. 
+- précharge trop forte : risque de déformation des pièces à assembler, ou de rupture de 
+la vis. 
+La précharge est fonction du couple de serrage appliqué sur la vis et du coefficient de frottement. 
+  
+===== PAGE 38 =====
+Module 7.2 V06   Page 38 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2.4.2. Tableau des couples de serrage 
+Les couples de serrage sont calculés à 85 % de la limite élastique (documentation E 25-030). 
+Quel coefficient de frottement ? 
+Choisir le tableau de valeurs en fonction de votre vis (0.10, 0.15, ou 0.20). 
+Exemple : µ = 0.10. 
+Quelle « classe de qualité » de vis ? 
+Les caractéristiques des vis dépendent de leur classe de qualité (les vis 12.9 étant «les plus 
+performantes»). 
+Choisir la colonne correspondant à la classe de votre vis. Exemple : vis d 10, qualité de vis 8,8. 
+Ils sont indiqués, pour chaque type de vis, en Newton x mètre (N.m).  
+Dans l'exemple, on appliquera un couple de serrage de 36 N.m sur la vis. 
+ 
+µ = 0,10 tableau de serrage pour visserie phosphatée ou zinguée, lubrification adaptée de bonne 
+qualité (µ=coefficient de frottement 
+  
+
+===== PAGE 39 =====
+Module 7.2 V06   Page 39 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.2.5. Conversions des unités de couple  
+L’unité internationale est le N.m (Newton x mètre). 
+ 
+Convertir des N.m 
+Newton-mètre en Kilogramme-force 
+mètre 
+1 N.m = 0,102 kgf.m 
+Newton-mètre en Pound-force foot 1 N.m = 0,738 lbf.ft 
+Newton-mètre en Pound-force inch 1 N.m = 8,851 lbf.in 
+Newton-mètre en Ounce-force inch 1 N.m = 141.61 ozf.in 
+ 
+ 
+Convertir des kgf.m 
+Kilogramme-force mètre en Newton-
+mètre 
+1 kgf.m = 9.81 N.m 
+Kilogramme-force mètre en Pound-
+force foot 
+1 kgf.m = 7.23 lbf.ft 
+Kilogramme-force mètre en Pound-
+force inch 
+1 kgf.m = 86,8 lbf.in 
+ 
+ 
+Convertir des lbf.ft 
+Pound-force foot en Newton-mètre 1 lbf.ft = 1.35 N.m 
+Pound-force foot en Kilogramme-force 
+mètre 
+1 lbf.ft = 0.138 kgf.m 
+Pound-force foot en Pound-force inch 1 lbf.ft = 12 lbf.in 
+ 
+ 
+Convertir des Ibf.in 
+Pound-force inch en Newton-mètre 1 lbf.in = 0.1129 N.m 
+Pound-force inch en Kilogramme-force 
+mètre 
+1 lbf.in = 0,0115 kgf.m 
+Pound-force inch en Pound-force foot 1 lbf.in = 0,083 lbf.ft 
+Pound-force inch en Ounce-force inch 2 lbf.in = 16 ozf.in 
+ 
+  
+
+===== PAGE 40 =====
+Module 7.2 V06   Page 40 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.3. MARGES ET TOLERANCES EN OPERATION D’ATELIER 
+2.3.1. Importance de la précision de mesure 
+2.3.1.1. Règle du 1/10ème  
+Pour mesurer une tolérance, l'instrument doit avoir une précision au moins 10 fois supérieure à la 
+tolérance à vérifier.  
+Exemple :  
+- Tolérance à contrôler : ± 0,1 mm → Instrument nécessaire : résolution ≤ 0,01 mm (palmer)  
+- Tolérance large : ± 0,5 mm → Pied à coulisse (résolution 0,05 mm) suffisant 
+ 
+2.3.1.2. Incertitude de mesure 
+Toute mesure comporte une incertitude due à :  
+- La précision de l'instrument  
+- La température (dilatation des pièces et de l'instrument)  
+- La pression de mesure (déformation élastique)  
+- L'usure de l'instrument  
+ 
+Formule simplifiée de l'incertitude : 
+U = √(u₁² + u₂² + u₃²) 
+ 
+Où :  
+- u₁ = incertitude de l'instrument (donnée constructeur)  
+- u₂ = incertitude de température (coefficient de dilatation × variation de T°)  
+- u₃ = incertitude de répétabilité (écart-type de plusieurs mesures) 
+ 
+2.3.2. Instruments de mesure à lecture directe 
+2.3.2.1. Jeu de cales étalon 
+Matière : 
+La matière utilisée pour la fabrication doit avoir : 
+- Une bonne stabilité dimensionnelle afin de ne pas générer des écarts avec sa 
+longueur initiale.  
+- Une bonne résistance à l'usure. 
+ 
+Les cales étalon sont généralement en Acier, les faces mesurantes doivent avoir une dureté 
+Vickers d’au moins 800 HRV30.  
+Il existe des cales de précision en céramique avec une très haute dureté ce qui garantit une très 
+bonne stabilité. 
+En principe, le fini des deux faces mesurantes permet une adhérence naturelle sous l'action des 
+forces moléculaire entre deux cales. 
+  
+
+===== PAGE 41 =====
+Module 7.2 V06   Page 41 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Classes de précision : 
+Cas de la norme française NF E 11-010.  
+Il y a six classes de précisions (par ordre croissant de précision) :  
+- 00 : cale de haute précision. 
+- K : étalon primaire pour étalonnage d'autres cales étalon (en entreprise). 
+- 0 : travaux précis de laboratoire. 
+- 1 : réglage précis pour travaux de mesure sur marbre ou étalon de transfert. 
+- 2 : réglages précis en atelier. 
+- 3 : vérification et réglage de machine. 
+ 
+ 
+2.3.2.2. Calibre à limites 
+➔ Outils de contrôle utilisés dans l'industrie mécaniques permettant de vérifier de façon simple le 
+respect des exigences fonctionnelles des pièces après usinage.  
+➔ Utilisés en cours de process de production ou de réception. 
+ 
+Généralité et principe : 
+Le principe du contrôle d'une grandeur mécanique par calibre à limite est basé sur l'utilisation d'un 
+calibre entre et d'un calibre n’entre pas (parfois appelés GO et NO GO).  
+➔ Ce contrôle ne donne pas de renseignement sur la valeur de la grandeur.  
+➔ Il renseigne sur le fait que la grandeur mesurée est dans la tolérance spécifiée et nécessaire 
+pour assurer le fonctionnement d'un ensemble mécanique. 
+ 
+ 
+C'est donc en principe un contrôle de fabrication ou même de réception mais ce n'est pas une 
+mesure. Les calibres à limite ne sont pas des appareils mesureurs (un pied à coulisse par exemple). 
+Son avantage : 
+➔ Simplicité et la rapidité de la mesure.  
+Elle permet un tri des pièces mais elle ne permettra pas de faire un diagnostic sur une éventuelle 
+non-conformité. 
+  
+
+===== PAGE 42 =====
+Module 7.2 V06   Page 42 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+La grandeur mesurée est dite dans la tolérance si : 
+➔ Le calibre entre n'interfère pas avec la grandeur, c’est-à-dire pénètre. 
+➔ Le calibre n’entre pas n'interfère pas avec la grandeur, c’est-à-dire ne pénètre pas. 
+ 
+Mesure intérieure (Exemple : alésage) : pièce dans la tolérance. 
+ 
+ 
+2.3.3. Serrages pour goupillage 
+2.3.3.1. Principe du goupillage 
+Le goupillage est une sécurisation anti-desserrage d'un assemblage vissé. Une goupille (fendue ou 
+cylindrique) traverse l'écrou et la vis pour empêcher toute rotation.  
+ 
+Types de goupilles : 
+- Goupille fendue : la plus courante, s'ouvre après insertion  
+- Goupille cylindrique : pour trous calibrés précis 
+  
+
+===== PAGE 43 =====
+Module 7.2 V06   Page 43 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.3.3.2. Méthode de recherche du trou de goupillage 
+Le problème : après serrage au couple, le trou de l'écrou ne s'aligne pas toujours avec le trou de la 
+vis.  
+ 
+Procédure : 
+  
+1. Serrer au couple nominal (indiqué AMM, exemple : 45 N.m)  
+ 
+2. Vérifier alignement : essayer d'insérer la goupille - Si goupille passe → OK, ouvrir la goupille - 
+Si goupille ne passe pas → passer à l'étape 3  
+ 
+ 
+3. Serrage supplémentaire autorisé : 
+- Serrer DANS LE SENS DU VISSAGE jusqu'à alignement du trou 
+- Limite angulaire : généralement **maximum 30° à 60°** selon documentation 
+constructeur 
+- INTERDIT de desserrer** pour aligner (perte de précharge) 
+ 
+4. Si limite angulaire dépassée : 
+- Desserrer complètement 
+- Remplacer écrou ou vis par un élément avec trou dans position différente (si autorisé) 
+- Consulter AMM/SRM 
+2.3.3.3. Couple et contre-couple 
+Pour certains assemblages critiques, le manuel peut imposer un contre-couple :  
+ 
+- Serrer au couple nominal  
+- Desserrer légèrement (10-20°)  
+- Resserrer au couple nominal  
+- But : éliminer frottements parasites, homogénéiser précharge  
+ 
+Applications : 
+ 
+- Biellettes de commande de vol  
+- Fixations train d'atterrissage  
+- Assemblages soumis à vibrations 
+  
+===== PAGE 44 =====
+Module 7.2 V06   Page 44 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4. Normes de travail en opération d’atelier 
+2.4.1. Documentation de référence en maintenance aéronautique 
+La maintenance aéronautique repose sur une documentation technique stricte fournie par le 
+constructeur de l'aéronef ou de l'équipement. Le technicien doit savoir identifier, consulter et 
+interpréter ces documents pour effectuer toute intervention dans les règles de l'art. 
+2.4.1.1. AMM (Aircraft Maintenance Manual) 
+Définition : Manuel de maintenance de l'aéronef, document principal pour toutes les opérations de 
+maintenance programmée et corrective. 
+ 
+ 
+Contenu : 
+• Procédures de dépose/repose de composants 
+• Inspections périodiques 
+• Réglages et ajustements 
+• Couples de serrage spécifiques 
+• Consommables et lubrifiants autorisés 
+ 
+Structure : Organisé selon le système ATA 100 (chapitres numérotés par système) : 
+• ATA 27 : commandes de vol 
+• ATA 32 : train d'atterrissage 
+• ATA 71 : groupe motopropulseur 
+• etc. 
+ 
+Utilisation pratique : Pour déposer un volet, le technicien consulte : AMM → Chapitre ATA 57 → 
+Task "Removal" 
+  
+
+===== PAGE 45 =====
+Module 7.2 V06   Page 45 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.1.2. IPC (Illustrated Part List) 
+Définition : Catalogue illustré des pièces de rechange, permettant d'identifier les références 
+constructeur (Part Number). 
+ 
+ 
+Contenu : 
+• Vues éclatées de tous les ensembles 
+• Numéros de pièce (P/N : Part Number) 
+• Nomenclature complète 
+• Quantités nécessaires par avion 
+ 
+Utilisation pratique : Pour commander un roulement de train : IPC → ATA 32 → Vue éclatée → 
+Repère 15 → P/N : 123-45678-01 
+2.4.1.3. CMM (Component Maintenance Manual) 
+Définition : Manuel de maintenance d'un équipement amovible (pompe hydraulique, générateur, 
+actionneur). 
+ 
+Contenu : 
+• Démontage complet de l'équipement 
+• Inspection détaillée (limites d'usure, critères de rejet) 
+• Réparations autorisées 
+• Essais fonctionnels après réparation 
+• Étalonnages 
+ 
+Utilisation pratique : Pour réviser une pompe hydraulique en atelier : CMM pompe P/N xxx → 
+Section "Overhaul procedure" 
+  
+
+===== PAGE 46 =====
+Module 7.2 V06   Page 46 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.1.4. TSM (Troubleshooting Manual) 
+Définition : Manuel de dépannage, guide méthodique pour diagnostiquer une panne. 
+ 
+Contenu : 
+• Arbres de diagnostic (organigrammes logiques) 
+• Tests fonctionnels à effectuer 
+• Mesures électriques attendues 
+• Actions correctives 
+ 
+Utilisation pratique : Défaut "volet ne rentre pas" : TSM → ATA 57 → Symptôme "Flap 
+inoperative" → Tests séquentiels 
+ 
+2.4.1.5. SRM (Structural Repair Manual) 
+Définition : Manuel de réparation structurale, décrit les réparations autorisées sur la structure de 
+l'avion (fuselage, voilure, empennage). 
+ 
+ 
+Contenu : 
+• Limites d'usure et de corrosion acceptables 
+• Méthodes de réparation par patch, doubler, rivetage 
+• Calculs de résistance 
+• Zones de réparation interdites (critical areas) 
+ 
+Utilisation pratique : Corrosion détectée sur longeron : SRM → ATA 53 → "Corrosion limits" → 
+Décision : réparable ou rejet 
+  
+
+===== PAGE 47 =====
+Module 7.2 V06   Page 47 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.1.6. MEL (Minimum Equipment List) 
+Définition : Liste d'équipements minimaux, définit les équipements pouvant être en panne tout en 
+autorisant le vol sous conditions. 
+ 
+ 
+Contenu : 
+• Équipements obligatoires pour le vol (GO) 
+• Équipements dont la panne autorise le vol temporairement (NO GO sous conditions) 
+• Durée maximale de report de réparation (3 jours, 10 jours, etc.) 
+• Procédures opérationnelles compensatoires 
+Utilisation pratique : Panne d'un feu de navigation : MEL → Item 33-XX → "OK pour vol de jour, 
+10 jours max, report MEL" 
+ 
+2.4.1.7. Utilisation et navigation dans la documentation 
+Règles générales : 
+• Toujours utiliser la dernière révision du document (vérifier numéro de révision et date) 
+• Noter la révision utilisée sur la fiche de travail (traçabilité) 
+• En cas de doute, consulter le manuel plutôt que se fier à la mémoire 
+• Ne jamais annoter ou modifier un manuel (utiliser des post-its amovibles) 
+ 
+Structure de recherche : 
+1. Identifier le système concerné (code ATA) 
+2. Identifier le type de tâche (removal, installation, inspection, adjustment) 
+3. Lire intégralement la procédure avant de commencer 
+4. Suivre pas à pas les étapes numérotées 
+5. Cocher chaque étape effectuée 
+ 
+  
+
+===== PAGE 48 =====
+Module 7.2 V06   Page 48 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.2. Normes ISO et AS9100 
+2.4.2.1. Normes ISO 9001 
+ 
+Définition : Norme internationale de management de la qualité, applicable à tous secteurs 
+industriels. 
+ 
+Principes fondamentaux : 
+• Orientation client : satisfaire les exigences 
+• Leadership : engagement de la direction 
+• Implication du personnel : chacun responsable de la qualité 
+• Approche processus : maîtriser chaque étape 
+• Amélioration continue : analyser, corriger, progresser 
+• Prise de décision fondée sur des preuves (traçabilité, enregistrements) 
+• Management des relations avec les parties intéressées 
+ 
+Application en atelier : 
+• Procédures documentées pour chaque opération 
+• Traçabilité des interventions (qui, quand, quoi) 
+• Contrôle des instruments de mesure (étalonnage) 
+• Gestion des non-conformités (fiche de non-conformité) 
+• Audits qualité internes 
+2.4.2.2. Normes AS9100 
+ 
+Définition : Déclinaison de l'ISO 9001 adaptées aux exigences aéronautiques, spatiales et défense. 
+Ajoute des exigences spécifiques à la navigabilité et à la sécurité. 
+ 
+Exigences supplémentaires AS9100 : 
+• Gestion de la configuration (suivi des modifications) 
+• Traçabilité totale des pièces (de la matière première à l'installation) 
+• Contrôle strict des sous-traitants 
+• Prévention des pièces contrefaites (AOG : Aircraft On Ground, suspicion) 
+• Gestion du FOD (Foreign Object Damage) 
+• Sensibilisation à la sécurité des vols 
+ 
+Application pratique : Un atelier certifié AS9100 garantit que chaque intervention respecte les 
+standards aéronautiques et que la traçabilité est totale (numéro de lot matière, n° série pièce, 
+opérateur qualifié, contrôleur identifié). 
+  
+
+===== PAGE 49 =====
+Module 7.2 V06   Page 49 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.3. Programme FOD (Foreign Object Damage) 
+2.4.3.1. Définition et enjeux 
+FOD (Foreign Object Damage) : Dommage causé à un aéronef par un objet étranger (outil, débris, 
+boulon, chiffon, etc.). 
+ 
+Enjeux sécuritaires : 
+• Ingestion réacteur : destruction pale, arrêt moteur, accident 
+• Blocage commande de vol : perte de contrôle 
+• Perforation réservoir : fuite carburant, incendie 
+• Dommage surface portante : dégradation aérodynamique 
+ 
+Coût annuel estimé pour l'industrie aéronautique mondiale : 4 milliards de dollars 
+2.4.3.2. Sources de FOD en atelier 
+Outils oubliés : 
+• Tournevis, clés, douilles laissés dans compartiments, trappes, capots 
+• Outils tombés dans zones inaccessibles 
+ 
+ 
+Débris métalliques : 
+• Copeaux de perçage, limaille, éclats de rivet 
+• Fils de freinage coupés 
+• Rondelles, goupilles, écrous tombés 
+ 
+ 
+Matériaux divers : 
+• Chiffons, gants, emballages plastique 
+• Ruban adhésif, étiquettes détachées 
+• Joints toriques, bagues élastiques 
+2.4.3.3. Procédures de prévention FOD 
+Avant intervention : 
+• Inventaire outils au départ (comptage, contrôle panoplie) 
+• Préparation zone de travail propre (bâche si nécessaire) 
+Identification zone d'intervention (signalisation)  
+  
+
+===== PAGE 50 =====
+Module 7.2 V06   Page 50 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Pendant intervention : 
+• Outils utilisés restent dans la zone de travail visible 
+• Évacuation immédiate des copeaux et débris (aspirateur, balayette) 
+• Obturation temporaire des orifices ouverts (bouchons, scotch aluminium) 
+• Contrôle visuel permanent de la zone 
+ 
+Après intervention : 
+• Inspection visuelle complète de la zone (lampe torche) 
+• Contrôle inventaire outils au retour (comptage) 
+• Nettoyage final (aspiration, chiffon propre) 
+• Retrait bâches et protections 
+• Signature "FOD check complete" sur fiche de travail 
+2.4.3.4. Inspection post-intervention 
+Toute zone ouverte doit faire l'objet d'une inspection FOD avant refermeture : 
+ 
+• Inspection visuelle directe (œil + lampe) 
+• Inspection miroir et lampe pour zones cachées 
+• Passage de main (toucher) si accessible 
+• Aimant pour collecter petites pièces métalliques tombées 
+• Vérification absence corps étranger avant refermeture trappe 
+2.4.3.5. Procédure en cas de FOD suspectée 
+Si outil manquant en fin d'intervention : 
+ 
+1. ARRÊT IMMÉDIAT de toute activité 
+ 
+2. Signalement responsable atelier et chef équipe 
+ 
+3. Recherche systématique dans la zone d'intervention  
+ 
+4. Inspection complète de l'aéronef si outil non retrouvé : 
+• Vérification compartiments adjacents 
+• Inspection commandes de vol (mobilité complète) 
+• Vérification entrée d'air moteur 
+• Inspection réservoirs si intervention proximité 
+ 
+5. Enregistrement de l'événement : fiche de non-conformité 
+ 
+6. Décision navigabilité :  
+o Outil retrouvé → reprise intervention normale 
+o Outil non retrouvé → INTERDICTION DE VOL jusqu'à résolution 
+ 
+7. Actions correctives : analyse cause, mesures pour éviter récurrence 
+ 
+Si objet étranger détecté pendant inspection : 
+• Retrait immédiat avec précaution (pinces, aimant) 
+• Identification de l'objet (référence si pièce d'avion) 
+• Vérification absence de dommage causé (inspection visuelle, ressuage si zone critique) 
+• Signalement et enregistrement 
+  
+===== PAGE 51 =====
+Module 7.2 V06   Page 51 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.4. Règle de l’art du mécanicien avion 
+2.4.4.1. Définition  
+La "règle de l'art" regroupe l'ensemble des bonnes pratiques professionnelles non écrites qui 
+complètent les procédures formelles. C'est le savoir-faire acquis par l'expérience et transmis par les 
+anciens, garantissant un travail de qualité même en l'absence de procédure détaillée. 
+2.4.4.2. Bonnes pratiques professionnelles 
+Propreté et ordre : 
+• Zone de travail toujours propre et rangée 
+• Outils nettoyés après usage 
+• Déchets évacués immédiatement 
+• Chiffons propres et non pelucheux 
+ 
+Méthode et rigueur : 
+• Lire la procédure AVANT de commencer 
+• Préparer tous les outils et consommables nécessaires 
+• Travailler méthodiquement, étape par étape 
+• Cocher les étapes effectuées 
+• Ne jamais improviser ou "bricoler" 
+ 
+Respect du matériel : 
+• Utiliser l'outil adapté (pas de substitution) 
+• Ne pas forcer excessivement 
+• Protéger les surfaces finies (mordaches, chiffons) 
+• Manipuler les pièces avec soin (éviter rayures, chocs) 
+ 
+Sécurité : 
+• EPI (Équipements de Protection Individuelle) systématiques 
+• Consignation électrique, hydraulique, pneumatique avant intervention 
+• Cales de sécurité pour surfaces mobiles (gouvernes, capots) 
+• Signalisation "travaux en cours" 
+  
+===== PAGE 52 =====
+Module 7.2 V06   Page 52 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.4.3. Jugement technique et prise de décision 
+Le technicien doit développer un jugement professionnel face à des situations non décrites dans les 
+manuels : 
+ 
+Exemples de situations nécessitant du jugement : 
+ 
+Cas 1 : Usure limite 
+• Pièce mesurée : 12,48 mm 
+• Limite d'usure SRM : 12,50 mm 
+• Décision : bien que "conforme", la pièce est très proche de la limite → SIGNALER au 
+responsable technique, proposer remplacement préventif 
+ 
+Cas 2 : Corrosion légère 
+• Corrosion superficielle détectée hors zone critique 
+• SRM : "légère corrosion autorisée si profondeur < 0,1 mm" 
+• Décision : mesurer profondeur, photographier, enregistrer dans historique avion, programmer 
+surveillance rapprochée 
+ 
+Cas 3 : Procédure ambiguë 
+• Manuel indique "serrer fermement" sans valeur de couple 
+• Décision : chercher valeur dans tableau général des couples (selon diamètre vis et matière), 
+ou consulter responsable technique, JAMAIS improviser 
+ 
+Cas 4 : Pièce non conforme à la réception 
+• Joint torique livré semble trop dur (stockage prolongé suspecté) 
+• Décision : refuser la pièce, demander certificat de conformité récent, ne jamais installer une 
+pièce douteuse même si "elle a l'air bien" 
+2.4.4.4. Standards de qualité non écrits 
+Finition du travail : 
+• Câbles électriques : cheminement propre, colliers tous les 15-20 cm, rayon de courbure 
+respecté 
+• Tuyauteries : pas de torsion, pente pour purge respectée, colliers non serrés excessivement 
+• Sécurité par freinage : fil de freinage tendu sans excès, boucles propres, extrémités repliées 
+• Colliers de serrage : alignés, espacement régulier, esthétique soignée 
+ 
+Vérifications spontanées : 
+• Après serrage : vérifier visuellement l'engagement complet de l'écrou 
+• Après connexion électrique : tester continuité 
+• Après intervention hydraulique : vérifier absence de fuite (essuyer, attendre, réinspecter) 
+• Après fermeture trappe : vérifier verrouillage correct (essayer d'ouvrir sans outil) 
+ 
+Anticipation : 
+• Commander les pièces d'usure prévisibles en même temps que l'intervention principale 
+• Signaler les anomalies détectées même si hors périmètre de l'intervention en cours 
+• Proposer des actions préventives (remplacement pièce proche limite d'usure lors d'une 
+intervention lourde) 
+ 
+Transmission de l'information : 
+• Compléter lisiblement les fiches de travail 
+• Annoter les schémas si nécessaire 
+• Briefer l'équipe suivante en cas de passation de poste 
+• Signaler tout point particulier au chef d'équipe  
+===== PAGE 53 =====
+Module 7.2 V06   Page 53 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.4.4.5. Attitude professionnelle 
+Rigueur : 
+➔ Ne jamais "oublier" une étape pour gagner du temps 
+➔ Recontrôler son travail avant de le déclarer terminé 
+➔ Accepter les contrôles qualité sans les percevoir comme une défiance 
+ 
+Humilité : 
+➔ Poser des questions en cas de doute (aucune question n'est stupide) 
+➔ Reconnaître une erreur immédiatement (ne jamais la cacher) 
+➔ Apprendre de ses erreurs et de celles des autres (retours d'expérience) 
+ 
+Communication : 
+➔ Signaler immédiatement toute anomalie ou difficulté 
+➔ Rendre compte de l'avancement des travaux 
+➔ Alerter en cas de retard prévisible 
+➔ Participer aux briefings sécurité et qualité 
+ 
+Responsabilité : 
+➔ Chaque geste a un impact sur la sécurité du vol 
+➔ "C'est moi qui ai fait cette intervention, j'en suis responsable" 
+➔ Signer les fiches de travail avec fierté professionnelle 
+➔ Refuser d'exécuter une tâche si les conditions de sécurité ne sont pas réunies 
+ 
+ 
+ 
+  
+
+===== PAGE 54 =====
+Module 7.2 V06   Page 54 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3. ETALONNAGE DES OUTILS  ET DES 
+EQUIPEMENTS, NORMES D’ETALONNAGE 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et pratiques des 
+normes d’étalonnage pour la maintenance des aéronefs.  Une capacité à combiner et 
+appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. Capacité à appliquer cette connaissance. [Niveau 3] 
+ 
+L'étalonnage est l'opération qui établit la relation entre les valeurs indiquées par un instrument de 
+mesure et les valeurs connues d'une grandeur de référence, appelée étalon. Cette procédure garantit 
+la fiabilité et la traçabilité des mesures effectuées en maintenance aéronautique. 
+ 
+3.1. Objectifs de l'étalonnage : 
+ 
+• Assurer la précision des instruments de mesure 
+• Garantir la conformité aux exigences réglementaires  
+• Prévenir les erreurs de mesure pouvant compromettre la sécurité des vols 
+• Documenter la traçabilité métrologique 
+ 
+Exemple : les règles sont poinçonnées DRIRE, attestant ainsi de leur conformité.  
+3.2. Chaîne de traçabilité métrologique : 
+ 
+La traçabilité repose sur une chaîne hiérarchique ininterrompue reliant l'instrument utilisé en atelier 
+aux étalons nationaux et internationaux : 
+ 
+1. Étalons primaires internationaux : Conservés par le Bureau International des Poids et 
+Mesures (BIPM) 
+2. Étalons nationaux : Gérés par les laboratoires nationaux (ex : LNE en France) 
+3. Étalons de référence : Détenus par les laboratoires accrédités (COFRAC) 
+4. Étalons de travail : Utilisés en atelier pour l'étalonnage des instruments courants 
+5. Instruments de mesure : Outils utilisés quotidiennement par les techniciens 
+Chaque niveau est étalonné par référence au niveau supérieur, garantissant ainsi la cohérence des 
+mesures à l'échelle mondiale. 
+ 
+3.3. Organismes accrédités : 
+ 
+Le COFRAC (Comité Français d'Accréditation) est l'organisme français désigné pour accréditer les 
+laboratoires d'étalonnage selon la norme ISO/IEC 17025. Un certificat d'étalonnage COFRAC atteste 
+que : 
+• L'étalonnage a été réalisé selon des procédures normalisées 
+• Les incertitudes de mesure sont documentées 
+• La traçabilité au Système International d'unités (SI) est assurée 
+• Le laboratoire est soumis à des audits réguliers  
+
+===== PAGE 55 =====
+Module 7.2 V06   Page 55 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.4. Fréquence d'étalonnage recommandée : 
+ 
+La périodicité dépend de plusieurs facteurs : fréquence d'utilisation, conditions environnementales, 
+criticité de l'application, et historique de dérive de l'instrument. Les intervalles typiques sont définis 
+dans la section 3.5 
+ 
+Exemple du contrôle des clés dynamométriques 
+ 
+Des appareils de contrôle sont destinés à la vérification de l'exactitude des clés 
+dynamométriques. 
+Ces contrôleurs sont construits suivant le principe du pendule. La force du couple est appliquée avec 
+la clé à vérifier sur la prise d'entrée de l'appareil. Le pendule s'écarte en déplaçant un index devant 
+des graduations étalonnées. 
+Le couple de sortie comparé à celui indiqué sur la clé dynamométrique permet de contrôler 
+l'exactitude de cette dernière. 
+ 
+Contrôle des clés suivant la norme ISO 6789 : 
+- La norme impose le contrôle à 20 %, 60 % et 100 % de la capacité maxi des clés. 
+- 5 déclenchements tests doivent être effectués pour chacune de ces valeurs. 
+- La norme définit les tolérances pour chaque type d'outil (± 4 %, ±6 %,…). 
+ 
+Exemple avec un appareil en mode iso 
+- Entrez la capacité maximale de l'outil. 
+- Entrez la tolérance définit par la norme suivant le type d'outil. 
+- L'appareil guide l'utilisateur : 
+o 1er déclenchement à X N.m, 5ème déclenchement. 
+o Idem pour les trois valeurs cibles indiquées par l'appareil. 
+o Imprimez le constat sur votre imprimante directement connectée à 
+l'appareil. 
+ 
+ 
+ 
+Exemple avec bancs d’essai pour le contrôle des clés dynamométrique.  
+ 
+Le banc permet l’application du couple suivant une vitesse constante, 
+comme le stipule la norme ISO 6789. 
+ 
+➔ Réglage de l'inclinaison verticale et horizontale de la clé pour 
+rester dans les tolérances de la norme. 
+➔ Précision métrologique, fiabilité des tests.  
+➔ Application du couple sans efforts. 
+ 
+ 
+ 
+Le respect des systèmes de management de la qualité ISO 9000 implique : 
+ 
+La vérification périodique : 
+➔ Des outils dynamométriques. 
+➔ L’étalonnage des appareils de contrôle de couple.  
+ 
+La périodicité sera fonction de la fréquence d'utilisation en  règle générale : 
+➔ De 3 à 6 mois en utilisation intensive,  
+➔ 1 an après la première utilisation, 
+➔ Tous les ans en utilisation courante, 
+➔ Tous les 2 ans en utilisation occasionnelle.  
+
+===== PAGE 56 =====
+Module 7.2 V06   Page 56 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+3.5. Fréquence et périodicité d’étalonnage 
+Planification des contrôles périodiques : 
+ 
+La périodicité d'étalonnage doit être établie en fonction des critères suivants : 
+ 
+Facteur Impact sur la périodicité 
+Fréquence d'utilisation 
+ 
+Utilisation intensive → contrôle tous les 6 mois 
+ 
+Utilisation courante → contrôle annuel 
+ 
+Utilisation occasionnelle → contrôle tous les 2 
+ans 
+ 
+Criticité de la mesure 
+ 
+Tâches critiques (sécurité vol) → Périodicité à 
+définir par l’organisme 
+ 
+Historique de dérive 
+ 
+Instruments stables → allongement possible 
+ 
+Instruments instables → périodicité renforcée 
+ 
+Exigences constructeur 
+ 
+Respecter les recommandations du fabricant 
+ 
+Conditions d'environnement 
+ 
+Environnement sévère → contrôles plus 
+fréquents 
+ 
+ 
+Périodicités standards en maintenance aéronautique : 
+ 
+• Clés dynamométriques : 12 mois ou 5000 cycles (selon premier atteint) 
+• Instruments de mesure dimensionnelle (pieds à coulisse, palmers) : 12 mois 
+• Cales étalon : 12 à 36 mois selon classe de précision 
+• Règles et réglets : 24 mois 
+• Manomètres et testeurs de pression : 12 mois 
+ 
+Enregistrement et traçabilité : 
+ 
+Chaque instrument doit posséder une fiche de vie individuelle comprenant : 
+ 
+• Identification unique de l'instrument (numéro d'inventaire) 
+• Marque, modèle, numéro de série 
+• Étendue de mesure et résolution 
+• Historique complet des étalonnages (dates, résultats, laboratoire) 
+• Certificats d'étalonnage archivés 
+• Événements particuliers (réparation, choc, anomalie) 
+  
+===== PAGE 57 =====
+Module 7.2 V06   Page 57 sur 57 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Identification visuelle : 
+ 
+Une étiquette autocollante indélébile doit être apposée sur chaque instrument étalonné mentionnant : 
+ 
+• Date du dernier étalonnage 
+• Date limite de validité (prochaine échéance) 
+• Organisme ayant réalisé l'étalonnage 
+• Numéro de certificat 
+ 
+Exemple d'étiquette : 
+ 
+CONTROLE DE VALIDITE DE L’OUTILLAGE 
+ÉTALONNÉ LE : 15/01/2025 
+VALABLE JUSQU'AU : 15/01/2026 
+LABO : COFRAC N°2-CFM66 
+CERTIFICAT : 2025-001234 
+ 
+Gestion des instruments hors tolérance : 
+ 
+Lorsqu'un instrument présente un écart hors tolérance lors d'un étalonnage : 
+ 
+1. Mise hors service immédiate : Apposer une étiquette rouge "HORS SERVICE" 
+2. Enquête de traçabilité : Identifier toutes les mesures effectuées depuis le dernier étalonnage 
+conforme 
+3. Analyse d'impact : Évaluer si des pièces non conformes ont pu être acceptées ou des pièces 
+conformes rejetées 
+4. Actions correctives :  
+o Réajustement de l'instrument si possible 
+o Réétalonnage après réparation 
+o Mise au rebut si non réparable 
+5. Revalidation des mesures critiques : Recontrôler les pièces concernées si nécessaire 
+6. Révision de la périodicité : Réduire l'intervalle d'étalonnage en cas de dérives répétées 
+ 
+L'organisme de maintenance doit conserver : 
+ 
+• Les certificats d'étalonnage pendant toute la durée de vie de l'instrument + 2 ans après sa 
+mise au rebut 
+• Les fiches de vie des instruments 
+• Les procédures d'étalonnage interne (si applicable) 
+• Les enregistrements des vérifications intermédiaires 
+ 
+Un système informatisé efficace doit permettre : 
+ 
+• Alertes automatiques 1 mois avant échéance d'étalonnage 
+• Blocage de l'utilisation des instruments périmés 
+• Édition de la liste des instruments à étalonner 
+• Statistiques de dérive pour optimiser les périodicités  
+• Suivi des coûts d'étalonnage 
+ 

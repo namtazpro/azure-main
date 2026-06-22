@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question": "Combien de temps les hélices d'un turbopropulseur peuvent-elles continuer à tourner après l'arrêt du moteur ?",
+      "options": {
+        "A": "Environ 30 secondes",
+        "B": "Environ 90 secondes",
+        "C": "Environ 5 minutes"
+      },
+      "correct": "B",
+      "explication": "Les pales d'hélices d'un turbopropulseur restent silencieuses et peu visibles pendant leur rotation et continuent à tourner pendant environ 90 secondes après l'arrêt du moteur. Il ne faut jamais pénétrer dans le périmètre de sécurité tant qu'elles ne sont pas complètement arrêtées.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le temps maximum dans lequel s'effectue la mise en inversion ou le retour d'inversion d'un inverseur de poussée ?",
+      "options": {
+        "A": "2 secondes maximum",
+        "B": "5 secondes maximum",
+        "C": "10 secondes maximum"
+      },
+      "correct": "A",
+      "explication": "La mise en inversion ou le retour d'inversion d'un inverseur de poussée se fait en 2 secondes maximum. Pendant cette manœuvre, il est interdit de mettre les mains dans les coquilles (risque d'écrasement) et une liaison interphone sol/poste est indispensable.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après l'arrêt d'un APU, combien de temps faut-il attendre avant d'intervenir sur son circuit d'allumage ?",
+      "options": {
+        "A": "30 secondes",
+        "B": "3 minutes",
+        "C": "10 minutes"
+      },
+      "correct": "B",
+      "explication": "Il ne faut pas intervenir sur le circuit d'allumage de l'APU pendant son fonctionnement et il faut attendre 3 minutes après son arrêt. La tension très élevée fournie par la boîte haute énergie peut être mortelle.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En cas d'activation accidentelle d'un système BRS, dans quel rayon faut-il évacuer immédiatement ?",
+      "options": {
+        "A": "15 mètres",
+        "B": "30 mètres",
+        "C": "50 mètres"
+      },
+      "correct": "C",
+      "explication": "Dès le déclenchement ou le moindre signe suspect (fumée, sifflement, odeur de poudre), il faut évacuer immédiatement la zone dans un rayon de 50 mètres et donner l'alerte générale. À ne pas confondre avec le périmètre d'exclusion de 15 m établi pendant les travaux planifiés.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quelle classe de marchandises dangereuses appartient un système BRS pour son transport ?",
+      "options": {
+        "A": "Classe 1.4S (matières explosives)",
+        "B": "Classe 2.1 (gaz inflammables)",
+        "C": "Classe 9 (matières dangereuses diverses)"
+      },
+      "correct": "A",
+      "explication": "Les systèmes pyrotechniques BRS sont classés « marchandises dangereuses classe 1.4S ». Leur transport est soumis à la réglementation TMD (ADR routier, RID rail, IATA aérien) et nécessite un emballage UN homologué pour explosifs et un certificat ADR pour le chauffeur.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la durée de vie typique de la charge pyrotechnique d'un système BRS, au-delà de laquelle un remplacement est obligatoire ?",
+      "options": {
+        "A": "Généralement 10 à 15 ans",
+        "B": "25 ans renouvelables",
+        "C": "Durée illimitée tant que l'inspection visuelle est satisfaisante"
+      },
+      "correct": "A",
+      "explication": "Les systèmes pyrotechniques BRS ont une durée de vie limitée, généralement 10 à 15 ans. Au-delà, leur remplacement est obligatoire par le constructeur ou un organisme agréé. La date de péremption de la charge doit être vérifiée lors des inspections approfondies.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Jusqu'à quelle température peuvent monter les tuyauteries lors d'un essai de conditionnement d'air avec réacteur ou APU en route ?",
+      "options": {
+        "A": "Jusqu'à environ 50 °C",
+        "B": "Jusqu'à environ 100 °C",
+        "C": "Jusqu'à environ 200 °C"
+      },
+      "correct": "C",
+      "explication": "Lors des essais de conditionnement d'air avec réacteur ou APU en route, la plage de température sur les tuyauteries peut varier jusqu'à 200 °C, d'où le risque de brûlures graves par contact. Les consignes de sécurité doivent être respectées pour toute intervention sur le circuit.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quels articles du Code du travail sont soumis les travaux dans les réservoirs de carburant ?",
+      "options": {
+        "A": "Articles R 232.2 et R 232.3",
+        "B": "Articles R 4412-1 et suivants",
+        "C": "Articles L 232-5 et L 232-6"
+      },
+      "correct": "A",
+      "explication": "Les travaux dans les réservoirs de carburant sont soumis à la réglementation du Code du travail Art. R 232.2 et R 232.3. Ils imposent ventilation, matériels ATEX, contrôle à l'explosimètre, vérification de la toxicité et surveillance extérieure obligatoire.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi un allumeur de réacteur démonté ne doit-il être tenu que par son connecteur, sans toucher aux électrodes ?",
+      "options": {
+        "A": "Pour éviter de casser les électrodes en céramique",
+        "B": "Pour éviter une électrocution due à une charge résiduelle",
+        "C": "Parce que les électrodes contiennent du béryllium (matériau toxique)"
+      },
+      "correct": "C",
+      "explication": "Les électrodes des allumeurs contiennent du béryllium, un matériau toxique. Il faut donc tenir l'allumeur uniquement par son connecteur, ne pas toucher aux électrodes, et placer les allumeurs démontés dans un sac en plastique fermé.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un essai de pressurisation, quel est le risque principal d'un fonctionnement intempestif de la vanne de régulation si l'aéronef est en position « vol » (déclenchement du relais air/sol) ?",
+      "options": {
+        "A": "Un court-circuit du circuit de pressurisation",
+        "B": "L'éclatement des tympans et la perte de connaissance des intervenants",
+        "C": "Une fuite de carburant vers la soute électronique"
+      },
+      "correct": "B",
+      "explication": "Lors d'un essai de pressurisation avec aéronef en position vol (déclenchement du relais air/sol), un fonctionnement intempestif de la vanne de régulation présente un risque d'éclatement des tympans et de perte de connaissance des personnes présentes à bord. Toute approche ou accès sur un aéronef en essai de pressurisation représente un danger d'accident.",
+      "source": "M 7.1.pdf",
+      "chapter": "Module 7.1 - Mesures de sécurité aéronefs et ateliers",
+      "date": "2026-06-21"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "questions": [
+    {
+      "question": "Quels types de contrôles doivent être prévus lors de l'inspection complète d'un ressort aéronautique ?",
+      "options": {
+        "A": "Uniquement une inspection visuelle des extrémités et de la rectitude",
+        "B": "Uniquement un contrôle dimensionnel comparé aux limites du constructeur",
+        "C": "Une inspection visuelle, un contrôle dimensionnel et un contrôle fonctionnel (effort/raideur, capacité de rappel, charge spécifiée)"
+      },
+      "correct": "C",
+      "explication": "Les contrôles définis par le module comprennent l'inspection visuelle (fissures, criques, corrosion, déformations, état des extrémités), le contrôle dimensionnel (longueur libre, diamètres, nombre de spires actives) et le contrôle fonctionnel (effort/raideur, rappel, tension ou compression sous charge spécifiée).",
+      "source": "M 7.10.pdf",
+      "chapter": "Module 7.10 - Ressorts",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la règle à appliquer en cas d'anomalie constatée lors de l'inspection visuelle d'un ressort ?",
+      "options": {
+        "A": "Réparer le ressort par redressement ou nettoyage local et le remettre en service",
+        "B": "Remplacer systématiquement le ressort",
+        "C": "Le maintenir en service sous surveillance jusqu'à la prochaine visite programmée"
+      },
+      "correct": "B",
+      "explication": "Le module rappelle explicitement que TOUTE ANOMALIE NECESSITE LE REMPLACEMENT DU RESSORT. Toute dimension hors tolérance impose également le remplacement.",
+      "source": "M 7.10.pdf",
+      "chapter": "Module 7.10 - Ressorts",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelles dimensions principales doit-on relever lors du contrôle dimensionnel d'un ressort hélicoïdal au pied à coulisse ?",
+      "options": {
+        "A": "La hauteur du ressort détendu (Ho), le pas (P) et le diamètre des spires (d)",
+        "B": "Uniquement le diamètre extérieur des spires",
+        "C": "La masse du ressort et son angle d'enroulement"
+      },
+      "correct": "A",
+      "explication": "Le contrôle dimensionnel se fait au pied à coulisse (ou autre instrument de mesure) sur la hauteur détendue Ho, le pas P et le diamètre des spires d ; toute dimension hors tolérance impose le remplacement.",
+      "source": "M 7.10.pdf",
+      "chapter": "Module 7.10 - Ressorts",
+      "date": "2026-06-21"
+    }
+  ]
+}

@@ -1,0 +1,1192 @@
+===== PAGE 1 =====
+Module 7 V06   Page 1 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+      
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Module 7.13 
+ 
+Câbles de 
+commande 
+ 
+Licence B1 / B2 
+
+===== PAGE 2 =====
+Module 7 V06   Page 2 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes Nouvelle édition 
+V04 11/05/2016 
+Page de garde et page 
+1  
+ 
+Adresse, signatures et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document 
+V05 06/06/2017 Toutes Nouvelle édition 
+V06 02/04/2026 Toutes Révision du contenus 
+    
+ 
+  
+Visa Rédacteur 
+Cyril VERDU 
+Visa Responsable Module  
+/ Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+  
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7 V06   Page 3 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+Catégorie B1 : 80 questions à choix multiples, Temps alloué 100 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+Catégorie B2 :  60 questions à choix multiples, Temps alloué 75 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+ Niveau 
+7.13 Câbles de commande 
+ 
+A B1 B2 
+ 
+Sertissage des embouts ; 
+1 2 N/A Inspection et essais des câbles de commande ; 
+Câbles d'acier de Bowden, systèmes de commandes flexibles pour aéronefs. 
+ 
+ 
+  
+===== PAGE 4 =====
+Module 7 V06   Page 4 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7 V06   Page 5 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1 SERTISSAGE DES EMBOUTS ; ................................ ................................ .............................6 
+1.1 Câbles ; ................................ ................................ ................................ ............................6 
+1.2 Sertissages ; ................................ ................................ ................................ ....................8 
+1.2.1 Procédure de sertissage ; ........................................................................................ 9 
+1.3 Terminaisons ; ................................ ................................ ................................ ............... 10 
+2 INSPECTION ET ESSAIS DES CABLES DE COMMANDE ; ................................ ................ 11 
+2.1 Inspection des câbles de commande ; ................................ ................................ ........ 11 
+2.1.1 Fréquence et cadre réglementaire ......................................................................... 11 
+2.2 Essais des câbles de commande ; ................................ ................................ ............... 19 
+2.2.1 Essai de tension ; .................................................................................................. 19 
+2.2.2 Essai de débattement ; .......................................................................................... 20 
+2.2.3 Contrôle des tendeurs (turnbuckle inspection)....................................................... 21 
+3 CABLES D’ACIER DE BOWDEN, SYSTEMES DE COMMANDES FLEXIBLES POUR 
+AERONEFS ; ................................ ................................ ................................ ............................ 22 
+3.1 Câbles d’acier de Bowden ; ................................ ................................ .......................... 22 
+3.1.1 Points d'attention spécifiques au câble de Bowden ; ............................................. 24 
+3.1.2 Inspection des câble Bowden ; .............................................................................. 26 
+3.1.3 Défauts récurrents et limitations des câble Bowden ; ............................................ 27 
+3.2 Systèmes de commandes flexibles pour aéronefs ; ................................ ................... 29 
+3.2.1 Systèmes à câble « push-pull » ; ........................................................................... 29 
+3.2.2 Systèmes à arbre flexible rotatif ; ........................................................................... 30 
+3.2.3 Systèmes à câble gainé haute performance ; ........................................................ 34 
+ANNEXE 1 CABLAGE AERONAUTIQUE ; ................................ ................................ .............. 35 
+ 
+  
+===== PAGE 6 =====
+Module 7 V06   Page 6 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1 SERTISSAGE DES EMBOUTS ; 
+ 
+Rappel des objectifs  : Une connaissance générale des aspects théoriques et 
+pratiques d es sertissages des embouts  et une capacité à appliquer cette 
+connaissance. [Niveau 2] 
+ 
+ 
+1.1 Câbles ; 
+Un câble métallique aéronautique est un élément de transmission d'effort mécanique 
+constitué d'un assemblage hélicoïdal de fils en acier à haute résistance, organisés en torons, 
+eux-mêmes câblés en hélice autour d'une âme centrale.  
+ 
+ 
+En fonction des besoins, différents diamètre et assemblages de câbles sont utilisés. (Annexe 1). 
+ 
+ 
+ 
+  
+
+===== PAGE 7 =====
+Module 7 V06   Page 7 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+En revanche, le câble de commande aéronautique ne transmet que la traction.  
+Il ne supporte aucun effort de compression, de flexion ou de torsion contrairement aux tringleries 
+rigides.  
+ 
+ 
+C'est pourquoi les commandes câblées fonctionnent toujours en paires antagonistes (câble 
+aller + câble retour). 
+ 
+Câbles sur Cessna 172 
+ 
+Câbles sur A320  
+  
+
+===== PAGE 8 =====
+Module 7 V06   Page 8 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2 Sertissages ; 
+Le sertissage est un procédé de déformation plastique, à froid, d'une virole métallique autour du 
+câble, créant une liaison mécanique permanente entre le câble et son embout terminal. 
+ 
+En fonction des besoins des assemblages et des connections aux systèmes, il sera possible de 
+sertir différents types de terminaisons sur les câbles.  
+ 
+Il faudra TOUJOURS se référer à la documentation technique du constructeur pour utiliser 
+le bon matériel et ainsi réaliser un sertissage conforme.  
+ 
+ 
+ 
+Les sertissages devront ensuite être contrôler au moyen de matériel conforme et validés par les 
+constructeurs. 
+ 
+ 
+ 
+  
+
+===== PAGE 9 =====
+Module 7 V06   Page 9 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.2.1 Procédure de sertissage ; 
+ 
+Exemple de procédure de sertissage normalisée :  
+1- Préparation du câble : coupe perpendiculaire, vérification de l'absence de torons brisés sur 
+longueur définie par la documentation (en général, 30 cm), 
+ 
+2- Sélection de l’embout : diamètre intérieur embout = diamètre câble ± 0,1 mm (MIL-T-781), 
+ 
+3- Insertion : introduction du câble jusqu'en butée dans la virole (contrôle visuel par trou de 
+témoin si présent), 
+ 
+ 
+4- Sertissage progressif : passes successives de l'extrémité vers l'intérieur — JAMAIS en sens 
+inverse 
+ 
+ 
+5- Contrôle dimensionnel : calibre go/no-go après chaque passe (AC 43.13-1B Fig. 7-18) 
+ 
+ 
+ 
+6- Contrôle visuel : absence de fissures, éclatement, bavures, alignement axial 
+  
+
+===== PAGE 10 =====
+Module 7 V06   Page 10 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+    AVERTISSEMENT : Un sertissage effectué hors des limites dimensionnelles du fabricant de 
+l'embout doit être rejeté. Le câble doit être recoupé et un nouvel embout installé.  
+Le re-sertissage d'un embout est INTERDIT. 
+ 
+Critères d’acceptation qualités :  
+ 
+• Diamètre après sertissage : mesure au micromètre et comparaison avec les tables du 
+constructeur (tolérance typique : -0,002" / +0,000"),  
+• Essai de traction : charge de preuve = 60% de la charge de rupture nominale (optionnel 
+selon l’AMM), 
+• Test de glissement : aucun mouvement visible de l'embout sous charge d'épreuve,  
+• Inspection visuelle : absence de piqûres, fissures de surface, ovalisations. 
+ 
+ 
+1.3 Terminaisons ; 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 11 =====
+Module 7 V06   Page 11 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2 INSPECTION ET ESSAIS DES CABLES DE 
+COMMANDE ; 
+ 
+Rappel des objectifs  : Une connaissance générale des aspects théoriques et 
+pratiques des inspections et des essais des câbles de commande et une capacité 
+à appliquer cette connaissance. [Niveau 2] 
+ 
+2.1 Inspection des câbles de commande ; 
+ 
+L'inspection des câbles de commande constitue un acte de maintenance fondamental.  
+Son objectif est de s'assurer, à intervalles définis par le programme de maintenance, que chaque 
+câble présente les caractéristiques mécaniques et d’intégrité structurelle exigées par les données 
+du constructeur. 
+ 
+Toute dégradation non détectée d'un câble de commande de vol est susceptible d'engager 
+la navigabilité de l'aéronef. 
+2.1.1 Fréquence et cadre réglementaire 
+ 
+L'inspection des câbles de commande est requise : 
+• À chaque visite programmée (selon le programme de maintenance approuvé) 
+• Après tout événement exceptionnel (surcharge, impact FOD, contamination) 
+• À chaque modification affectant le câblage 
+ 
+Exemple Cessna 172 Maintenance Manual — Section 2A-10-01, Inspection Time Limits 
+ 
+INTERVALLE TACHE AMM REFERENCE AMM 
+Chaque 50 h 
+- Inspection visuelle générale des 
+commandes de vol : 
+→ État apparent, absence d'anomalie. 
+MM Section 2  
+Chaque 100 h ou 
+12 mois (le premier 
+des deux) 
+- Vérification structure ailerons, câbles, 
+poulies, chapes, supports : 
+→ Condition, fonctionnement, fixation 
+MM Section 27  
+Chaque 200 h 
+- Câbles ailerons et gouvernes :  
+→Tension, cheminement, effilochage, 
+corrosion, sécurité des tendeurs.  
+- Contrôle des débattements si tension 
+hors limites.  
+- Vérification des guide et bandes de 
+frottement. 
+MM Section 27  
+Annuelle (12 mois) - Inspection complète équivalente 100 h 
+obligatoire réglementairement  
+FAR 43 App. D / EASA 
+Part-M M.A.710 
+    Maintenance personnel fail to detect damaged aileron cable — General Aviation News 
+• Report_ERA22LA167_104827_3_10_2026 10_29_35 AM.pdf 
+  
+
+===== PAGE 12 =====
+Module 7 V06   Page 12 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.2 Critères de rejet ; 
+ 
+Contrairement à de nombreux composants aéronautiques pour lesquels une dégradation partielle 
+peut faire l'objet d'une réparation approuvée, un câble de commande de vol ne se répare pas.  
+ 
+Les critères de rejet définis par la documentation du constructeur sont des seuils absolus 
+au-delà desquels le maintien en service du câble n'est plus admissible, quelle que soit la 
+nature ou l'étendue du défaut constaté. 
+ 
+• Ruptures de torons 
+ 
+ 
+ 
+CONSTRUCTION 
+CABLE 
+LONGUEUR D'INSPECTION NB MAX TORONS ROMPUS 
+ACCEPTABLES 
+7×7 1 pas de câblage 2 
+7×19 1 pas de câblage 4 
+19×7 1 pas de câblage 3 
+ 
+Ces valeurs étant données à titre général, il faudra se conformer à l’AMM de l’aéronef. 
+    Si celles-ci sont hors tolérance ou interdites → REBUT IMMÉDIAT 
+ 
+Les ruptures de torons se concentrent dans les zones suivantes : 
+• Zones de contact avec les poulies : chaque passage impose un cycle de 
+flexion/détente → accumulation de fatigue sur les fils extérieurs, 
+• Zones de passage dans les guides : combinaison de fatigue et d'abrasion si le câble 
+dévie légèrement de l'axe du guide, 
+• Zone de sortie des embouts sertis : concentration de contraintes maximale au point 
+de transition entre zone encastrée et zone libre, 
+• Zones de grand débattement : la portion de câble correspondant à la position neutre 
+accumule le plus grand nombre de cycles de flexion alternée. 
+ 
+     En cas de doute, il faudra TOUJOURS procéder à un remplacement. 
+ 
+  
+
+===== PAGE 13 =====
+Module 7 V06   Page 13 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Corrosion 
+ 
+ 
+ 
+ 
+Les contextes d'apparition les plus fréquents sont : 
+• Passages entre compartiments pressurisé/non pressurisé : condensation 
+permanente par gradient thermique 
+• Zone de fond de fuselage et puisards : stagnation d'eau, contamination 
+huile/carburant — câbles de direction particulièrement exposés 
+• Câbles galvanisés non lubrifiés : corrosion électrochimique inter-fils, fréquente sur 
+aéronefs anciens 
+• Exploitation en environnement maritime : piqûres sur acier inox 302/304 malgré sa 
+résistance CRES — sel atmosphérique 
+• Intérieur des gaines de câbles Bowden : rétention d'eau sans ventilation possible 
+ 
+    Selon les recommandations des documents du constructeur : 
+• Une corrosion légère pourra être tolérée → traiter l’origine (si possible) et, après 
+nettoyage complet du câble de commande et des autres pièces de la transmission, 
+lubrification avec produit autorisé.  
+• Corrosion profondes → REBUT. 
+  
+
+===== PAGE 14 =====
+Module 7 V06   Page 14 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Usure mécanique 
+ 
+ 
+ 
+ 
+Les zones et contextes les plus concernés sont : 
+• Rouleaux mal alignés : abrasion unilatérale des fils extérieurs, méplat visible côté 
+frottement 
+• Contact câble/structure par vibration : usure par frottement détectable par la présence 
+de poudre métallique noire autour de la zone de contact 
+• Poulies à gorge usée ou de diamètre insuffisant : le câble repose sur les flancs et non 
+sur le fond de gorge créant une usure bilatérale symétrique 
+• Câbles de freinage et commandes à forte charge : réduction de diamètre mesurable au 
+micromètre sur toute la longueur active 
+ 
+On observe diverses usures mécaniques sur les câbles.  
+→ Il faudra se conforme STRICTEMENT à la documentation pour connaître les critères 
+d’acceptabilité des défauts rencontrés.  
+⚠ Dans le doute, il faudra rebuter le câble. 
+  
+
+===== PAGE 15 =====
+Module 7 V06   Page 15 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+• Coudure permanente) 
+ 
+ 
+(Exemple généré par I.A : coudure négative, pliure, coudure positive) 
+ 
+La coudure angulaire est quasi exclusivement d'origine humaine. Il apparaît dans les contextes 
+suivants : 
+• Dépose/repose du câble : enroulement trop serré ou manipulation en boucle forcée lors des 
+opérations de maintenance 
+• Câble coincé par un FOD : obstruction par corps étranger provoquant un vrillage sous 
+tension 
+• Stockage incorrect : câble de rechange enroulé en dessous du rayon de courbure minimum 
+admissible 
+• Surcharge accidentelle : choc violent sur une surface de contrôle mettant le câble 
+momentanément en compression 
+ 
+⚠ Tout coude angulaire permanent et irréversible provoque un REBUT IMMEDIAT aucune 
+réparation n’est possible, aucun redressage, même minime ne doit être tenté. 
+ 
+  
+
+===== PAGE 16 =====
+Module 7 V06   Page 16 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Ouverture des torons) 
+ 
+ 
+ 
+ 
+Ce défaut apparaît dans trois contextes principaux : 
+• Compression accidentelle du câble : choc axial sur une surface de vol provoquant 
+l'écartement en spirale des torons 
+• Relâchement brutal de tension : rupture soudaine du tendeur ou du câble antagoniste, 
+détente violente et désolidarisation locale des torons 
+• Mauvais guidage sur tambour : câble croisé sur lui-même lors du réenroulement sur les 
+systèmes à tambour (trim électrique, treuils) 
+ 
+⚠ Dès qu’une observation de déformation hélicoïdale est visible sur des torons il faut 
+REBUTER le câble. 
+ 
+  
+
+===== PAGE 17 =====
+Module 7 V06   Page 17 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.3 Méthodes d’inspection ; 
+ 
+Après avoir identifié les défauts susceptibles d'affecter un câble de commande et les zones dans 
+lesquelles ils apparaissent préférentiellement, il convient de décrire les méthodes concrètes par 
+lesquelles le technicien les détecte. 
+ 
+Ces méthodes sont encadrées, par la documentation technique, et leur maîtrise 
+conditionne directement la qualité de tout acte d'inspection. 
+ 
+• Inspection visuelle : 
+-Utilisation d'un chiffon propre glissé le long du 
+câble (révèle les torons saillants) 
+-Éclairage tangentiel obligatoire 
+-Loupe × 5 minimum dans les zones de poulie et de 
+passage 
+ 
+ 
+• Inspection aux zones critiques : 
+-Zones de renvoi sur poulies  
+-Zones de passage à travers les cloisons 
+-Embouts et terminaisons (20 cm de part et d'autre) 
+-Zones de plus grande amplitude de mouvement 
+ 
+ 
+(Exemple de commande de vol sur Cessna 172) 
+ 
+L'absence de défaut détecté sur la longueur courante d'un câble ne dispense en aucun cas d'une 
+inspection renforcée de ces zones critiques.  
+C'est dans ces zones, et non sur la longueur courante, que la probabilité de défaut est 
+statistiquement la plus élevée. 
+  
+
+===== PAGE 18 =====
+Module 7 V06   Page 18 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.4 Lubrification des câbles ; 
+ 
+La lubrification des câbles de commande n'est pas un acte systématique applicable à 
+l'ensemble des câbles d'un aéronef. 
+Elle est au contraire strictement conditionnée par la nature du câble, son environnement 
+d'installation et les prescriptions explicites de l'AMM applicable, dont le technicien doit 
+impérativement vérifier les exigences avant toute intervention. 
+ 
+ 
+ 
+Exemple : 
+• Câbles en acier inoxydable : généralement non lubrifiés (vérifier AMM) 
+• Câbles en acier galvanisé : lubrification avec huile minérale légère ou graisse préconisée. 
+ 
+→INTERDIT : lubrification dans les zones de passage sur poulies (risque de glissement). 
+ 
+ 
+  
+
+===== PAGE 19 =====
+Module 7 V06   Page 19 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2 Essais des câbles de commande ; 
+ 
+Si l'inspection visuelle décrite au chapitre précédent permet d'évaluer l'intégrité physique d'un 
+câble pris isolément, elle ne suffit pas à garantir le bon fonctionnement de l'ensemble du système 
+de commande. 
+ 
+C'est précisément l'objet des essais, qui visent à vérifier que le câble, correctement installé, 
+tendu et sécurisé, transmet l'effort de commande avec la fidélité et la régularité exigées par les 
+données du constructeur. 
+ 
+La réalisation des essais des câbles de commande n'est pas une démarche facultative laissée à 
+l'appréciation du technicien : c’est une exigence réglementaire. 
+Elle IMPOSE que tout acte de maintenance affectant un système de commande de vol soit 
+suivi d'un essai fonctionnel documenté avant toute remise en service de l'aéronef. 
+ 
+2.2.1 Essai de tension ; 
+La tension des câbles est mesurée avec un tensiomètre de câble calibré, modèle approprié au 
+diamètre, il faudra également prendre en compte la température grâce aux abaques dédiés. 
+ 
+ 
+ 
+ 
+Exemple de procédure générale : 
+1. Stabilisation thermique de l'aéronef, 
+2. Mesure de la température ambiante (correction par abaques constructeur obligatoire), 
+3. Positionnement du tensiomètre perpendiculairement au câble, au milieu de la plus longue 
+portée libre, 
+4. Comparaison avec la table de tension AMM, 
+5. Ajustement par les tendeurs si hors tolérance 
+ 
+    Note critique : La tension nominale est toujours exprimée à une température de référence 
+(généralement 21°C / 70°F). Les abaques de correction thermique sont obligatoires. 
+ 
+  
+
+===== PAGE 20 =====
+Module 7 V06   Page 20 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2.2 Essai de débattement ; 
+ 
+La conformité de la tension ne garantit pas à elle seule que le système de commande fonctionne 
+correctement sur l'intégralité de sa plage de mouvement. 
+ 
+L'essai de débattement vient compléter le réglage de tension en vérifiant que chaque 
+surface de contrôle atteint bien ses butées définies par l'AMM, sans point dur, sans 
+contact parasite et avec une symétrie conforme aux données du constructeur. 
+ 
+ 
+ 
+Exemple de procédure générale : 
+ 
+1. Vérification des débattements aux surfaces de contrôle avec 
+rapporteur d'angle ou gabarit selon AMM 
+ 
+2. Contrôle de la symétrie gauche/droite 
+ 
+ 
+3. Vérification de l'absence de contact (frottement) dans toute 
+la plage de débattement 
+ 
+4. Vérification du retour au neutre (câbles antagonistes) 
+ 
+  
+
+===== PAGE 21 =====
+Module 7 V06   Page 21 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2.3 Contrôle des tendeurs (turnbuckle inspection) 
+ 
+Les tendeurs constituent les organes de réglage de la tension des câbles. 
+Ils sont les points du système de commande dont la défaillance aurait les conséquences les 
+plus immédiates sur la navigabilité. 
+ 
+Leur contrôle obéit à des critères précis définis par les documents des constructeurs, 
+et qui encadrent aussi bien leur état mécanique que leur réglage et l'intégrité de leur 
+dispositif de sécurité anti-dévissage (fil frein ou clip de sécurité). 
+ 
+  
+ 
+Exemples de critères à contrôler : 
+• Nombre de filets exposés : ≤ 3 filets de chaque côté  
+• Sens d'engagement : filetage gauche sur une extrémité, droit sur l'autre (marquage 
+obligatoire) 
+• Sécurité obligatoire après réglage : fil de sécurité (safety wire, spec MIL-W-6712) ou clip 
+de sécurité homologué  
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 22 =====
+Module 7 V06   Page 22 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3 CABLES D’ACIER DE BOWDEN, SYSTEMES DE 
+COMMANDES FLEXIBLES POUR AERONEFS ; 
+ 
+Rappel des objectifs  : Une connaissance générale des aspects théoriques 
+et pratiques des câbles d’acier de Bowden et des systèmes flexibles pour 
+aéronefs et une capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+Après les câbles de commande classiques sur poulies, voici un système de principe différent 
+: le câble de Bowden. 
+ 
+Sur un câble en traction libre (poulies), l'effort se transmet par le câble seul en traction. La 
+réaction de compression, elle, est reprise par la structure de l'avion via les poulies. Il faut 
+donc un câble aller et un câble retour (antagoniste), plus des renvois fixés sur structure. 
+ 
+Sur un câble de Bowden, le câble coulisse à l'intérieur d'une gaine flexible. Quand le câble 
+tire à une extrémité, la gaine pousse en sens inverse c'est elle qui absorbe la compression. 
+Résultat : un seul câble suffit, sans câble antagoniste, et sans point de renvoi sur la 
+structure. 
+3.1 Câbles d’acier de Bowden ; 
+ 
+C’est un système de transmission souple du mouvement en mécanique (inventé en 1902 par 
+Frank Bowden, de la Raleigh bicycle company.) 
+ 
+ 
+Le principe mécanique de fonctionnement présente une conséquence directe sur les 
+performances du système :  
+Le rendement de transmission est inférieur à celui d'un câble tendu classique, en raison des 
+frottements inévitables entre le câble intérieur et la paroi interne de la gaine.  
+Ce rendement, typiquement compris entre 70 et 85 %, est directement fonction du nombre et de 
+l'amplitude des courbes imposées à la gaine dans son cheminement, de l'état de lubrification 
+interne et de l'usure de l'ensemble. 
+ 
+  
+
+===== PAGE 23 =====
+Module 7 V06   Page 23 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les applications rencontrées en pratique sur les aéronefs CS-23 légers sont les 
+suivantes : 
+ 
+• Commande des gaz : application la plus répandue sur l'aviation légère, câble de 
+Bowden entre le levier de puissance en cabine et le carburateur ou le corps 
+d'injection. 
+ 
+ 
+• Commande de richesse : réglage de la richesse du mélange air/carburant, effort 
+faible et débattement limité 
+ 
+ 
+ 
+• Commande de pas d'hélice : sur certains avions légers à hélice à pas variable, câble 
+de Bowden entre le levier de pas et le régulateur 
+• Commande de volet de capot : réglage de l'ouverture des volets de refroidissement 
+moteur 
+  
+
+===== PAGE 24 =====
+Module 7 V06   Page 24 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Frein de parking : transmission de l'effort de serrage entre le levier cabine et les 
+étriers de frein 
+• Commande de trim : sur certains aéronefs légers, actionnement manuel du 
+compensateur de profondeur 
+ 
+3.1.1 Points d'attention spécifiques au câble de Bowden ; 
+ 
+Le câble de Bowden présente une particularité fondamentale qui conditionne l'ensemble de la 
+démarche d'inspection :  
+La majeure partie de sa longueur utile est masquée par la gaine extérieure.  
+ 
+Cette inaccessibilité partielle impose au technicien de porter une attention particulièrement 
+rigoureuse aux points suivants : 
+- Extrémités de gaine 
+- Rayons de courbure 
+- Fixations intermédiaires 
+ 
+• Extrémités de gaine 
+Les extrémités de gaine constituent les zones les plus sollicitées mécaniquement et les plus 
+exposées à la dégradation. C'est à cet endroit que la transition entre la zone guidée et la zone 
+libre du câble génère la concentration de contraintes maximale à chaque cycle d'actionnement. 
+Le technicien doit vérifier l'absence de fissure ou d'éclatement de l'embout d'ancrage, l'absence 
+de jeu entre l'embout et son support structural, et l'absence de coude angulaire du câble au 
+débouché de la gaine.  
+ 
+Tout jeu détecté à ce niveau est significatif il modifie la course effective transmise et introduit une 
+imprécision de commande non acceptable sur les systèmes critiques tels que la commande des 
+gaz. 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 25 =====
+Module 7 V06   Page 25 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Rayons de courbure : 
+Le respect des rayons de courbure minimaux prescrits par le fabricant est un point de contrôle 
+dont l'importance est souvent sous-estimée en maintenance courante.  
+ 
+Un rayon de courbure trop serré, même légèrement inférieur à la valeur minimale admissible, 
+produit trois effets cumulatifs :  
+- Augmentation significative de l'effort d'actionnement par augmentation des frottements 
+câble/gaine,  
+- Usure accélérée du revêtement interne de gaine,  
+- Risque de déformation permanente de la spirale acier extérieure sous les efforts de 
+compression.  
+ 
+→Le dernier effet est irréversible et impose le remplacement de la gaine. 
+ 
+Le technicien doit vérifier les rayons non seulement à l'installation mais à chaque 
+inspection périodique, car les déformations progressives de la structure 
+environnante peuvent modifier le cheminement en service. 
+ 
+• Fixations intermédiaires : 
+Les colliers et supports de fixation de la gaine le long de son cheminement sont des points de 
+contrôle à ne pas négliger. Un support desserré ou manquant autorise un mouvement de la gaine 
+lors de l’actionnement. 
+Ce mouvement se traduit directement par une perte de course transmise à l'organe 
+commandé, puisque la gaine ne joue plus son rôle d'appui fixe.  
+ 
+ 
+ 
+→Exemple : Sur la commande des gaz d'un moteur, une perte de course même faible peut se 
+traduire par l'impossibilité d'atteindre la pleine puissance. 
+  
+
+===== PAGE 26 =====
+Module 7 V06   Page 26 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.2 Inspection des câble Bowden ; 
+ 
+L'inspection d'un câble de Bowden se conduit en deux volets distincts et complémentaires : 
+- inspection du câble intérieur,  
+- inspection de la gaine extérieure,  
+- contrôle fonctionnel. 
+ 
+• Inspection du câble intérieur 
+Le câble intérieur est soumis aux mêmes critères de rejet que tout câble aéronautique : 
+ Ruptures de torons comptées sur un pas de câblage, corrosion, usure mécanique etc. 
+Sa particularité réside dans le fait qu'il n'est accessible à l'inspection visuelle directe qu'à ses 
+deux extrémités et dans les zones dégagées de la gaine.  
+ 
+L'inspection fonctionnelle, la détection de points durs, la mesure de l'effort d'actionnement 
+prennent donc une importance particulière pour détecter les dégradations internes non visibles. 
+ 
+• Inspection de la gaine extérieure 
+La gaine extérieure fait l'objet d'une inspection visuelle complète sur toute sa longueur 
+accessible.  
+Le technicien recherche les écrasements, fissures, coudes angulaires permanents et toute 
+réduction du diamètre extérieur.  
+Un coude angulaire permanent constitue un critère de rejet immédiat  
+ 
+L'intégrité des embouts d'ancrage aux deux extrémités doit être vérifiée et tout jeu excessif ou 
+toute fissure d'embout impose le remplacement de l'ensemble. 
+ 
+• Contrôle fonctionnel 
+Le contrôle fonctionnel consiste à actionner la commande sur l'intégralité de sa plage de 
+débattement dans les deux sens, en vérifiant l'absence de point dur, la progressivité de l'effort, 
+le retour spontané au neutre lorsqu'un ressort de rappel est prévu, et la conformité du 
+débattement aux valeurs AMM.  
+ 
+NOTA : Si l'AMM prescrit une valeur d'effort d'actionnement maximal, celle-ci est mesurée au 
+dynamomètre et comparée à la limite. 
+ 
+ 
+  
+
+===== PAGE 27 =====
+Module 7 V06   Page 27 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.3 Défauts récurrents et limitations des câble Bowden ; 
+3.1.3.1 Défauts intolérables récurrents ; 
+ 
+Les principaux défauts intolérables rencontrés lors de la maintenance des câbles de Bowden 
+sont les suivants : 
+- Corrosion interne de la gaine,  
+- Gaine écrasée ou coudée, 
+- Usure du revêtement interne de la gaine, 
+- Allongement et déformation permanente du câble intérieur, 
+- Détérioration des embouts des raccords. 
+ 
+• Corrosion interne de la gaine ; 
+L'eau s'infiltre par les extrémités de gaine et s'accumule dans les points bas du cheminement 
+sans pouvoir s'évacuer.  
+Elle provoque la corrosion simultanée du câble intérieur et de la spirale acier de la gaine.  
+Ce défaut est particulièrement insidieux car il n'est détectable de l'extérieur que lorsqu'il est déjà 
+avancé 
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+ 
+→On observera une présence de traces de rouille aux extrémités de gaine, rigidification 
+progressive de l'ensemble, point dur à l'actionnement = REBUT. 
+ 
+• Gaine écrasée ou coudée ; 
+L'écrasement réduit localement le diamètre intérieur de la gaine et crée un point de frottement 
+intense générant un point dur à l'actionnement.  
+La coudure angulaire permanente, quant à elle, résulte d'un rayon de courbure dépassé lors de 
+l'installation ou d'un choc.  
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+ 
+→Dans les deux cas, le remplacement de la gaine est obligatoire, aucune remise en forme 
+n'est admise = REBUT. 
+  
+
+===== PAGE 28 =====
+Module 7 V06   Page 28 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Usure du revêtement interne de gaine ; 
+Le revêtement PTFE ou nylon constituant la surface de glissement interne de la gaine s'use 
+progressivement sous l'effet des cycles répétés d'actionnement.  
+Cette usure se manifeste par une augmentation graduelle de l'effort d'actionnement, souvent si 
+progressive que l'utilisateur s'y adapte inconsciemment sans signaler l'anomalie.  
+→Ce défaut est détecté par la mesure de l'effort d'actionnement au dynamomètre, 
+comparé à la valeur maximale prescrite par l'AMM = REBUT si hors tolérance. 
+ 
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+ 
+• Allongement et déformation permanente du câble intérieur ; 
+Sous les efforts d'actionnement répétés, le câble intérieur subit un allongement progressif par 
+déformation plastique.  
+Cet allongement se traduit par une augmentation du jeu en bout de course et une 
+réduction de la course utile effectivement transmise à l'organe commandé.  
+→Le contrôle de la course totale transmise, comparée à la valeur AMM, permet de détecter 
+ce défaut avant qu'il n'affecte la sécurité = REBUT si hors tolérance. 
+ 
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+ 
+• Détérioration des embouts et des raccords ; 
+Les embouts de câble et les raccords de connexion aux organes commandés sont soumis à des 
+efforts de traction et de compression cycliques qui provoquent leur usure progressive.  
+Le jeu qui s'installe progressivement dans ces liaisons provoque une imprécision de commande 
+et une course molle en début d'actionnement.  
+→REBUT.  
+ 
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+  
+
+===== PAGE 29 =====
+Module 7 V06   Page 29 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.3.2 Limitation s règlementaires et techniques ;  
+ 
+→Limitation règlementaire CS-23.689 / CS-27.685 : 
+Les câbles Bowden font l'objet de limitations dans les textes CS-
+23.689 et CS-27.685, car leur emploi sur une commande de vol 
+primaire exige une démonstration de conformité complète aux 
+exigences imposées :  
+Résistance mécanique, facteurs de charge, protection contre la corrosion etc. 
+Leurs fonctionnements et leur conception constituent des contraintes de justification 
+significatives, sans que la réglementation en prononce une interdiction formelle. 
+ 
+ 
+→Limitation de température : 
+Les câbles de Bowden équipés de gaines à revêtement PTFE sont en général, 
+utilisables dans la plage de température de -55°C à +125°C selon les 
+spécifications du fabricant.  
+Au-delà de la plage prévue par le fabricant, la dégradation du revêtement 
+interne et de l'enveloppe extérieure de gaine est rapide et irréversible.  
+ 
+ 
+→Limitation d'effort : 
+Chaque câble de Bowden est caractérisé par un effort maximal admissible en traction et en 
+compression, défini par le fabricant.  
+Cet effort maximal ne doit jamais être dépassé, même ponctuellement.  
+ 
+ 
+ 
+3.2 Systèmes de commandes flexibles pour aéronefs ; 
+ 
+On retrouve dans cette catégorie d’éléments de transmission les câbles de type « push-pull », les 
+câbles à arbre rotatif et les câbles gainés haute performance. 
+3.2.1 Systèmes à câble « push-pull » ; 
+Ces systèmes transmettent un effort linéaire en traction et en poussée par coulissement d'un 
+câble intérieur dans une gaine extérieure fixe.  
+Leur construction est similaire aux câbles d’acier de Bowden. 
+Les deux systèmes présentent les mêmes catégories de défauts en service : corrosion interne, 
+usure progressive du revêtement de gaine etc. 
+En revanche leur utilisation est différente. 
+Contrairement aux câbles de Bowden, les câble « push-pull » peuvent transmettre des efforts en 
+traction et en poussée.  
+ 
+ 
+  
+
+===== PAGE 30 =====
+Module 7 V06   Page 30 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Tableau de synthèse comparative 
+CRITERE CABLE DE BOWDEN CABLE PUSH-PULL 
+Effort en traction Oui Oui 
+Effort en compression Limité / non garanti Oui  
+Niveau d'effort Faible  Variable  
+Applications Commandes auxiliaires 
+légères 
+Commandes auxiliaires à charge 
+élevée, trim CS-25 
+Précision de 
+transmission Standard Haute (tolérances renforcées) 
+Limite de vie formelle Pas toujours Systématique 
+ 
+ 
+ 
+3.2.2 Systèmes à arbre flexible rotatif ; 
+Ces systèmes transmettent un couple rotatif par une âme spiralée en acier tournant dans une 
+gaine de protection.  
+Leurs applications aéronautiques incluent les indicateurs mécaniques de vitesse, les systèmes 
+de trim à entraînement rotatif d'ancienne génération et certaines commandes d'accessoires 
+moteur. 
+ 
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+ 
+ 
+  
+
+===== PAGE 31 =====
+Module 7 V06   Page 31 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2.2.1 Limitations ; 
+• Vitesse de rotation maximale ; 
+Tout système à arbre flexible rotatif est caractérisé par une vitesse de rotation 
+maximale admissible (maximum RPM) définie par le fabricant. 
+Cette limite est établie par l'apparition de phénomènes de résonance dans 
+l'arbre intérieur en rotation. Au-delà de la vitesse critique, l'arbre entre en 
+fouettement à l'intérieur de la gaine, générant des contraintes de flexion cyclique 
+et accélérant la rupture par fatigue.  
+Un dépassement de la vitesse maximale, même momentané, constitue un incident 
+technique nécessitant une inspection avant le vol suivant. 
+Les dégâts occasionnés n’étant pas nécessairement visibles de l'extérieur. 
+ 
+• Couple maximal transmissible ; 
+Le couple continu maximal admissible (couple limite) et le couple momentané maximal 
+(généralement couple ultime = 1,5 × couple limite) sont définis dans la fiche technique approuvée du 
+fabricant.  
+Le dépassement du couple limite provoque une déformation plastique de l'arbre intérieur, se 
+manifestant par une torsion permanente résiduelle. 
+Le dépassement du couple ultime provoque la rupture immédiate d'une ou plusieurs couches 
+de fils, avec perte de transmission de couple.  
+Aucune de ces deux conditions n'est réparable le remplacement de l'arbre est obligatoire 
+dans les deux cas. 
+ 
+ 
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+ 
+ 
+→En pratique, le dépassement de couple est le plus souvent causé par : 
+-grippage de l'organe entraîné,  
+-mécanisme d'instrument gelé,  
+-régulateur bloqué,  
+-accessoire entraîné défaillant en position verrouillée.  
+ 
+ 
+  
+
+===== PAGE 32 =====
+Module 7 V06   Page 32 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• Limitations d'installation ; 
+Rayon de courbure minimal : 
+Le rayon de courbure minimal est le paramètre d'installation le plus critique pour les systèmes 
+à arbre flexible rotatif. Il est défini par le fabricant pour chaque diamètre et construction d'arbre et 
+ne doit jamais être dépassé en aucun point du cheminement.  
+La conséquence physique d'une installation sous le rayon minimal est l'apparition d'un cycle de 
+flexion secondaire à chaque révolution de l'arbre intérieur.  
+Ce mécanisme accélère la rupture par fatigue par rapport à une installation correcte. 
+ 
+ 
+(Image générée par IA à titre d’exemple illustratif seulement) 
+ 
+Longueur maximale : 
+Chaque système à arbre flexible rotatif est certifié pour une longueur maximale installée définie 
+par le fabricant.  
+Cette limite découle directement de la limitation de vitesse critique, celle-ci diminue lorsque la 
+longueur libre entre supports augmente.  
+Un arbre installé au-delà de sa longueur maximale certifiée présente une vitesse critique 
+abaissée en dessous de la marge de sécurité requise par rapport au régime moteur maximal, 
+avec risque de résonance et de fouettement.  
+Cette limitation est non négociable et ne peut être contournée par l'ajout de supports 
+intermédiaires sans approbation du fabricant. 
+ 
+Espacement maximal entre supports : 
+Le constructeur prescrit un espacement maximal entre les supports de fixation de la gaine 
+extérieure, défini pour prévenir le flambement de la gaine sous l'effet de la poussée axiale 
+générée par la rotation de l'arbre intérieur et des vibrations de la structure.  
+Les supports doivent maintenir la gaine sans l'écraser : un collier serré de manière 
+excessive réduit le diamètre intérieur de la gaine et crée un point de frottement intense sur 
+l'arbre en rotation. 
+ 
+• Limitations environnementales ; 
+Température : 
+La plage de température opérationnelle standard des systèmes à arbre flexible 
+rotatif est comprise entre -55°C à +125°C. 
+En zone moteur, le technicien doit vérifier que la classe thermique de la gaine 
+installée est compatible avec les températures locales maximales définies dans 
+l'AMM. 
+Une gaine standard installée en zone chaude moteur constitue une non-conformité 
+immédiate pouvant conduire à la dégradation du revêtement interne PTFE et à 
+l'augmentation brutale des frottements internes, pouvant causer la perte de la 
+transmission. 
+  
+
+===== PAGE 33 =====
+Module 7 V06   Page 33 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Fluides : 
+Les matériaux composants le système de transmission, son enveloppe extérieure, son 
+revêtement interne, doivent résister à une exposition aux fluides aéronautiques normalisés 
+présents dans leur environnement d'installation.  
+Un système de transmission non compatible avec une installation dans une zone à risque 
+d’exposition de fluides est une non-conformité qui impose son remplacement. 
+ 
+ 
+ 
+Vibrations : 
+Les systèmes installés en zone moteur ou en zone de structure soumise à des niveaux 
+vibratoires élevés doivent être validés pour les niveaux vibratoires de leur zone d'installation. 
+Les vibrations génèrent des contraintes de fatigue additionnelles sur les enroulements de 
+fils de l'arbre intérieur, qui s'ajoutent aux contraintes de torsion et de flexion dues à la rotation et 
+au cheminement.  
+Un système d’arbre flexible rotatif dont la qualification vibratoire est insuffisante pour son 
+environnement présentera une durée de vie significativement inférieure à celle déclarée 
+par le fabricant. 
+ 
+• Limitations de durée de vie ; 
+Les systèmes à arbre flexible rotatif font l'objet d'une limite de vie exprimée en heures de 
+fonctionnement ou en cycles, définie par le fabricant.  
+Cette limite de vie est obligatoire : un arbre flexible ayant atteint sa limite de vie doit être 
+remplacé indépendamment de son état apparent et de l'absence de tout symptôme 
+fonctionnel.  
+ 
+  
+
+===== PAGE 34 =====
+Module 7 V06   Page 34 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2.3 Systèmes à câble gainé haute performance ; 
+ 
+Ce sont des câbles prévus pour les applications nécessitant une précision de transmission 
+et une durabilité supérieure, commandes de pas d'hélice, trim de secours, commandes de 
+déverrouillage train, des systèmes à câble gainé haute performance sont utilisés.  
+Ces systèmes se distinguent par une construction interne renforcée, une résistance à la 
+compression axiale supérieure et des tolérances dimensionnelles plus strictes.  
+ 
+ 
+(Exemple de câble de secours sur commande de trim THS A320) 
+ 
+ 
+Ils seront soumis aux mêmes méthodes d’inspection et aux mêmes critères d’acceptabilité définis 
+par la documentation du fabricant.  
+ 
+  
+
+===== PAGE 35 =====
+Module 7 V06   Page 35 sur 35 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 1 CABLAGE AERONAUTIQUE ; 
+ 
+➔ Retour 
+ 

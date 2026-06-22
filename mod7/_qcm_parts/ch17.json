@@ -1,0 +1,277 @@
+{
+  "questions": [
+    {
+      "question": "Lors d'un roulage technique d'un aéronef commercial, quelle est la vitesse maximale recommandée par le livret AIR FORMATION ?",
+      "options": {
+        "A": "8 km/h sur aire de manœuvre, au pas en hangar",
+        "B": "25 nœuds tant que la trajectoire est dégagée",
+        "C": "50 km/h dès la sortie de la zone de stationnement"
+      },
+      "correct": "A",
+      "explication": "Le document précise que la vitesse de roulage doit être adaptée et limitée (max 15 kt en roulage par puissance propre), et que pour les opérations de tractage la vitesse maximale est de 8 km/h sur aire et au pas en hangar.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel engin de refoulement est utilisé pour les avions de moins de 100 tonnes par le train principal (diabolo uniquement) ?",
+      "options": {
+        "A": "Le TRACMA TD 25 000 équipé d'un timon",
+        "B": "Le PPU (Power Push Unit) de 4 tonnes",
+        "C": "Le SOVAM K250 à barre de tractage classique"
+      },
+      "correct": "B",
+      "explication": "Le PPU (Power Push Unit) est un tracteur sans timon de 4 tonnes utilisé pour le refoulement des avions de moins de 100 tonnes par le train principal (diabolo uniquement).",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur un tracteur conventionnel à timon, comment s'effectue la liaison entre le tracteur et l'aéronef ?",
+      "options": {
+        "A": "Par contact direct sur le train d'atterrissage principal",
+        "B": "Par une élingue souple accrochée au train avant",
+        "C": "Par une barre équipée d'une tête emboîtable munie de fusibles"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que la liaison tracteur/avion conventionnel s'effectue par l'intermédiaire d'une barre, dont les timons sont équipés d'une tête emboîtable munie de fusibles destinés à se rompre en cas de surcharge.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Parmi les conditions nécessaires pour effectuer un tractage d'aéronef, laquelle est requise pour le personnel ?",
+      "options": {
+        "A": "Être majeur (18 ans) et titulaire d'une autorisation de conduite",
+        "B": "Être titulaire d'une licence de pilote privé",
+        "C": "Avoir suivi une simple formation interne d'une demi-journée"
+      },
+      "correct": "A",
+      "explication": "Le document liste explicitement comme conditions du personnel de tractage : majeur 18 ans, autorisation de conduite (Art. R233-13-19), évaluation de l'employeur, contrôle des connaissances, aptitude médicale.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les limitations opérationnelles citées pour le tractage, à partir de quelle vitesse de vent l'opération est-elle interdite ?",
+      "options": {
+        "A": "Au-delà de 15 kt quelle que soit la direction",
+        "B": "Au-delà de 40 kt (ou selon procédures locales)",
+        "C": "Au-delà de 80 kt en pleine charge"
+      },
+      "correct": "B",
+      "explication": "Les limitations opérationnelles du chapitre Tractage précisent : 'Conditions de vent : Ne pas tracter par vent > 40 kt (ou selon procédures)'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la vitesse maximale de tractage admise dans une zone restreinte (par exemple à proximité immédiate d'un parking) ?",
+      "options": {
+        "A": "8 km/h, identique à celle sur aire ouverte",
+        "B": "15 km/h pour limiter le temps d'occupation",
+        "C": "3 à 5 km/h, en zone restreinte"
+      },
+      "correct": "C",
+      "explication": "La procédure d'opération de tractage indique : 'Établir une vitesse de tractage au pas (max 8 km/h sur aire, 3-5 km/h en zone restreinte)'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi les cales en bois sont-elles de moins en moins utilisées en maintenance aéronautique ?",
+      "options": {
+        "A": "Elles glissent facilement humides/givrées et peuvent produire des FOD",
+        "B": "Elles sont interdites par la réglementation IATA depuis 2010",
+        "C": "Elles sont trop lourdes pour être manipulées par un seul opérateur"
+      },
+      "correct": "A",
+      "explication": "Le livret précise : 'Les cales en bois sont de moins en moins utilisées car elles glissent facilement lorsqu'elles sont humides ou givrées, vieillissent et se dégradent rapidement, et peuvent produire des débris susceptibles de devenir des FOD'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Combien de cales doit-on installer au minimum sur chaque roue ou train principal lors du calage d'un aéronef ?",
+      "options": {
+        "A": "Une seule cale à l'avant de la roue",
+        "B": "Deux cales, installées de part et d'autre de la roue",
+        "C": "Trois cales disposées en triangle autour de la roue"
+      },
+      "correct": "B",
+      "explication": "La méthode de calage impose d'utiliser toujours 2 cales pour pouvoir les installer de part et d'autre des roues, sur la partie extérieure des trains.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une cale équipée d'un cordon de jonction, où celui-ci doit-il être positionné ?",
+      "options": {
+        "A": "Vers l'intérieur, sous le bloc de freins",
+        "B": "Vers l'arrière, dans le sens de roulage",
+        "C": "Vers l'extérieur, pour éviter tout blocage sur les blocs de freins et autres composants"
+      },
+      "correct": "C",
+      "explication": "Le document indique : 'S'il est présent, le cordon de jonction sera positionné vers l'extérieur, pour éviter tout blocage sur les blocs de freins et autres composants'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la séquence recommandée pour la mise en place des cales après l'arrêt d'un aéronef ?",
+      "options": {
+        "A": "Serrer le frein de parc, puis caler le train auxiliaire et ensuite les trains principaux",
+        "B": "Caler immédiatement les trains principaux avant d'attendre l'autorisation cockpit",
+        "C": "Caler en premier le train avant sans utiliser le frein de parc"
+      },
+      "correct": "A",
+      "explication": "Le livret précise : 'Après avoir actionné le frein de parc et dans la mesure du possible, commencez par positionner les cales sur le train auxiliaire (train avant), puis sur les trains principaux'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le rôle d'une béquille de queue (« Horse bench » ou « Safety stay ») lors d'une mise sur vérins ?",
+      "options": {
+        "A": "Servir de point de levage complémentaire pour répartir la charge",
+        "B": "Servir uniquement de point de stabilité et de sécurité, sans usage en levage",
+        "C": "Remplacer un vérin défaillant pendant l'opération"
+      },
+      "correct": "B",
+      "explication": "Le livret indique explicitement : 'Ces outillages ne doivent pas servir au levage. Ils sont des points de stabilité et de sécurité'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Où se situent les points de levage sur lesquels les vérins doivent être installés ?",
+      "options": {
+        "A": "À mi-hauteur du fuselage, sur la peau extérieure",
+        "B": "Sous les pneus du train principal, au plus proche des essieux",
+        "C": "Sur les cadres forts du fuselage ou les longerons principaux des voilures, repérés par un logo"
+      },
+      "correct": "C",
+      "explication": "Le document indique que les points de levage se situent sur les cadres forts du fuselage ou sur les longerons principaux des voilures, et que leur emplacement est repéré par un logo spécifique.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la durée maximale associée à la « préservation de courte durée » telle que définie dans le livret ?",
+      "options": {
+        "A": "Une période inférieure ou égale à 30 jours",
+        "B": "Une période comprise entre 30 et 90 jours",
+        "C": "Une période supérieure à 90 jours"
+      },
+      "correct": "A",
+      "explication": "Le tableau et le texte du livret précisent que la préservation est d'une durée inférieure ou égale à 30 jours, souvent liée à des arrêts opérationnels et sans actions lourdes sur les systèmes.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À partir de quelle durée d'immobilisation parle-t-on de « stockage long terme » selon le livret ?",
+      "options": {
+        "A": "Au-delà de 30 jours",
+        "B": "Au-delà de 90 jours",
+        "C": "Au-delà de 365 jours"
+      },
+      "correct": "B",
+      "explication": "Le document définit le stockage long terme comme une durée supérieure à 90 jours, nécessitant un environnement contrôlé et des inspections plus lourdes.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Que signifie « Flight-Ready Condition » (FRC) appliqué à un aéronef stocké ?",
+      "options": {
+        "A": "L'aéronef est entièrement préservé en profondeur et nécessite plusieurs jours pour redécoller",
+        "B": "L'aéronef est verrouillé avec inhibitions majeures et vidanges complètes",
+        "C": "L'aéronef peut être remis en service après retrait des protections, inspections visuelles simples, vérification des niveaux et tests fonctionnels de base"
+      },
+      "correct": "C",
+      "explication": "Le livret définit explicitement le FRC : aéronef remis en service sans procédure lourde après uniquement retrait des protections, inspections visuelles simples, vérification des niveaux et tests fonctionnels de base.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un avitaillement, à quelle distance la citerne doit-elle être placée par rapport à l'aéronef ?",
+      "options": {
+        "A": "Entre 3 et 5 mètres de l'aéronef",
+        "B": "À plus de 20 mètres pour respecter le périmètre incendie",
+        "C": "Au contact direct du panneau d'avitaillement"
+      },
+      "correct": "A",
+      "explication": "La procédure d'arrivée de la citerne aux abords de l'aéronef impose de la placer à 3-5 mètres de l'aéronef ou d'un équipement d'avitaillement adapté.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après avoir effectué la mise à la terre de la citerne et de l'aéronef, combien de temps faut-il attendre avant d'ouvrir les trappes carburant ?",
+      "options": {
+        "A": "Aucune attente, l'ouverture peut être immédiate",
+        "B": "30 secondes pour permettre la dissipation des charges statiques",
+        "C": "5 minutes minimum pour purger les vapeurs"
+      },
+      "correct": "B",
+      "explication": "L'étape de mise à la terre précise : 'Attendre 30 secondes d'ouvrir les trappes (dissipation charges statiques)'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans quel rayon autour de l'aéronef l'avitaillement est-il interdit en cas d'orage ?",
+      "options": {
+        "A": "Dans un rayon de 1 km uniquement",
+        "B": "Dans un rayon de 3 km",
+        "C": "Dans un rayon de 8 km (5 NM)"
+      },
+      "correct": "C",
+      "explication": "Le tableau des conditions d'interdiction absolue indique : 'Orage – Rayon de 8 km (5 NM) – Risque de foudre et explosion'.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la couleur caractéristique du fluide de dégivrage Type I ?",
+      "options": {
+        "A": "Orange",
+        "B": "Jaune pâle",
+        "C": "Verte"
+      },
+      "correct": "A",
+      "explication": "Le tableau des fluides précise que le Type I est un fluide non visqueux, newtonien, de couleur orange, chauffé à 60-80 °C et pulvérisé sous pression pour enlever le givre.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la couleur caractéristique du fluide antigivrage Type IV ?",
+      "options": {
+        "A": "Orange, comme le Type I",
+        "B": "Verte, plus visqueuse que le Type II",
+        "C": "Jaune dorée, moins visqueuse que le Type II"
+      },
+      "correct": "B",
+      "explication": "Le tableau des fluides indique que le Type IV est un fluide visqueux non newtonien de couleur verte, plus visqueux que le Type II et offrant la meilleure HOT.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle plage de pression est typique pour une Air Start Unit (ASU) lors d'un démarrage moteur ?",
+      "options": {
+        "A": "5 à 10 psi",
+        "B": "100 à 150 psi",
+        "C": "30 à 50 psi (typiquement 30-45 psi selon aéronef)"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que l'ASU fournit de l'air comprimé à haute pression et fort débit, typiquement compris entre 30 et 50 psi, pour assurer le démarrage des moteurs.",
+      "source": "M 7.17.pdf",
+      "chapter": "Module 7.17 - Assistance au sol et stockage",
+      "date": "2026-06-21"
+    }
+  ]
+}

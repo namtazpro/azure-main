@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "question": "Selon la méthodologie d'inspection après événement anormal, dans quel cas l'inspection de phase 2 doit-elle obligatoirement être effectuée ?",
+      "options": {
+        "A": "Systématiquement après chaque incident, indépendamment des constats de la phase 1",
+        "B": "Uniquement si l'inspection de phase 1 a révélé un défaut",
+        "C": "Uniquement si l'équipage signale un bruit suspect dans le poste de pilotage"
+      },
+      "correct": "B",
+      "explication": "Une inspection de phase 1 sans défaut rend les phases 2 et 3 inutiles. Si la phase 1 révèle un défaut, il est impératif d'effectuer la phase 2 ; si la phase 2 révèle un défaut, il est impératif de passer à la phase 3.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la fonction réelle des départiteurs statiques (static dischargers) installés aux extrémités et bords de fuite des surfaces ?",
+      "options": {
+        "A": "Protéger l'avion contre la foudre en captant la décharge principale",
+        "B": "Évacuer la chaleur dégagée par les moteurs au décollage",
+        "C": "Évacuer l'électricité statique générée par la friction de l'air en vol afin d'éviter les interférences radio"
+      },
+      "correct": "C",
+      "explication": "Les départiteurs statiques et les tresses de métallisation n'empêchent ni ne protègent l'avion contre la foudre. Leur fonction est d'évacuer l'électricité statique générée par la friction de l'air en vol pour éviter les interférences radio (VHF comm, ADF, VOR…).",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quoi correspond l'acronyme HIRF dans le cadre des événements anormaux ?",
+      "options": {
+        "A": "High Intensity Radiated Fields — champs rayonnés à haute intensité",
+        "B": "High Impact Random Failure — défaillance aléatoire à fort impact",
+        "C": "Hard Impact Recovery Function — fonction de récupération après impact dur"
+      },
+      "correct": "A",
+      "explication": "Les HIRF (High Intensity Radiated Fields) sont des ondes électromagnétiques de forte puissance produites par des systèmes de transmission situés au sol (radars, radios FM/AM, GSM/4G/5G…) ou à bord d'autres aéronefs.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après un atterrissage lourd, quels paramètres doivent être relevés sur l'enregistreur de vol pour évaluer l'incident ?",
+      "options": {
+        "A": "Vitesse air, altitude pression et taux de roulis",
+        "B": "Accélération verticale (g), vitesse verticale (ft/min) et masse avion (tonnes)",
+        "C": "Température carburant, régime moteur et angle d'incidence"
+      },
+      "correct": "B",
+      "explication": "L'enregistreur de vol doit fournir, après un atterrissage dur, l'accélération verticale (g), la vitesse verticale (v/s en ft/min) et la masse avion (tonnes), afin de déterminer si les paramètres sont dans les tolérances admises.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi recommande-t-on, dans le cas d'un avion à train rentrant ayant subi un incident, de mettre l'avion sur vérins avant toute inspection ?",
+      "options": {
+        "A": "Pour des raisons de sécurité, afin d'éviter une rétraction intempestive pendant l'intervention",
+        "B": "Pour faciliter la pesée de l'aéronef avant remise en vol",
+        "C": "Pour vidanger les amortisseurs avant inspection visuelle"
+      },
+      "correct": "A",
+      "explication": "Dans le cas d'un train rentrant ayant subi un incident, il est recommandé pour des raisons de sécurité de mettre l'avion sur vérins avant toute inspection ou opération d'entretien. On vérifie que les trois trains sont sortis et verrouillés avant de remettre l'avion sur ses roues.",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la classification OACI rappelée dans le module, comment se caractérise une turbulence sévère ?",
+      "options": {
+        "A": "Légère tension des ceintures, vol stable",
+        "B": "Occupants fermement pressés contre leurs ceintures et marche difficile",
+        "C": "Occupants violemment projetés, avion momentanément hors de contrôle, variations d'altitude supérieures à 100 ft"
+      },
+      "correct": "C",
+      "explication": "La classification OACI distingue turbulence légère (tension légère des ceintures), modérée (occupants fermement pressés, marche difficile) et sévère (occupants violemment projetés, avion hors contrôle, variations d'altitude > 100 ft).",
+      "source": "M 7.19.pdf",
+      "chapter": "Module 7.19 - Événements anormaux",
+      "date": "2026-06-21"
+    }
+  ]
+}

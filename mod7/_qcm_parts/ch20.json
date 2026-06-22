@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "question": "Qui établit le Maintenance Planning Document (MPD) et quel est son rôle ?",
+      "options": {
+        "A": "Le constructeur de l'aéronef ; il sert de base technique à l'exploitant pour élaborer son Programme d'Entretien (AMP)",
+        "B": "L'exploitant ; il est directement applicable en exploitation sans approbation",
+        "C": "L'autorité de navigabilité ; il remplace le programme d'entretien de l'exploitant"
+      },
+      "correct": "A",
+      "explication": "Le MPD est un document établi par le constructeur de l'aéronef, qui regroupe l'ensemble des tâches de maintenance issues de la MSG-3. Il constitue la base technique de référence utilisée par l'exploitant pour élaborer son Programme d'Entretien (AMP), et n'est pas directement applicable en exploitation.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la séquence correcte des documents issus de la méthodologie MSG-3 ?",
+      "options": {
+        "A": "AMP → MPD → MRBR",
+        "B": "MSG-3 → MRBR → MPD → AMP",
+        "C": "MPD → AMP → MRBR → MSG-3"
+      },
+      "correct": "B",
+      "explication": "Les analyses MSG-3 aboutissent à la rédaction du MRBR (Maintenance Review Board Report), qui constitue la base de l'élaboration du Maintenance Planning Document (MPD), à partir duquel l'exploitant établit son Programme de Maintenance Approuvé (AMP).",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Comment se définit le mode d'entretien « Hard Time » (HT) ?",
+      "options": {
+        "A": "Une maintenance basée sur l'analyse statistique des défaillances après leur apparition",
+        "B": "Une inspection périodique par rapport à un standard physique pour décider du maintien en service",
+        "C": "Un processus préventif qui retire ou révise un élément à des intervalles fixes liés au temps de service (calendrier, heures de vol ou cycles)"
+      },
+      "correct": "C",
+      "explication": "Le Hard Time est un processus préventif consistant à limiter la détérioration d'un élément à un niveau acceptable en effectuant des actions de maintenance (overhaul, refurbishment, bench check) à des intervalles fixes liés au temps de service (temps calendaire, heures de vol, cycles ou atterrissages).",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle différence réglementaire majeure existe entre une Consigne de Navigabilité (AD) et un Service Bulletin (SB) ?",
+      "options": {
+        "A": "L'AD a un caractère réglementairement obligatoire, alors que le SB n'est pas automatiquement obligatoire (sauf s'il est repris dans une AD ou rendu obligatoire par l'exploitant)",
+        "B": "Le SB est émis par l'autorité de navigabilité, l'AD est émise par le constructeur",
+        "C": "L'AD et le SB ont exactement la même portée réglementaire"
+      },
+      "correct": "A",
+      "explication": "L'AD est émise par une autorité de navigabilité (par exemple l'EASA) et a un caractère réglementairement obligatoire. Le SB est publié par le constructeur ou le détenteur de la conception et n'est pas automatiquement obligatoire, sauf s'il est repris dans une AD ou rendu obligatoire par la politique de l'exploitant.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la périodicité typique d'un « C Check » sur un aéronef commercial ?",
+      "options": {
+        "A": "Toutes les 400 à 600 heures de vol ou 1 à 2 mois",
+        "B": "Tous les 20 à 24 mois ou environ 6 000 heures de vol",
+        "C": "Tous les 6 à 10 ans avec démontage majeur"
+      },
+      "correct": "B",
+      "explication": "Le C Check est réalisé tous les 20 à 24 mois ou environ 6 000 heures de vol. Il comprend des inspections approfondies avec accès à de nombreuses zones de l'avion ; sa durée est de 1 à 2 semaines et l'avion est immobilisé en hangar.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans un magasin Part-145, comment doit être traitée une pièce placée en zone « Scraped » ?",
+      "options": {
+        "A": "Elle peut être remontée sur aéronef après réparation",
+        "B": "Elle est mise en attente d'expertise pour décision",
+        "C": "Elle est définitivement inutilisable et ne doit plus être montée sur aéronef"
+      },
+      "correct": "C",
+      "explication": "La zone « Scraped » regroupe les composants définitivement inutilisables, qui ne doivent plus être montés sur aéronef. Elle doit être clairement identifiée et physiquement séparée des autres zones (serviceable, unserviceable, quarantaine) afin d'éviter tout risque de mélange.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans quel cas l'EASA Form 1 doit-elle être utilisée ?",
+      "options": {
+        "A": "Pour la remise en service d'un élément/équipement d'aéronef, jamais pour l'APRS d'un aéronef complet",
+        "B": "Pour l'APRS d'un aéronef en maintenance en base",
+        "C": "Pour remplacer le CRM lors des opérations de maintenance en ligne"
+      },
+      "correct": "A",
+      "explication": "L'EASA Form 1 est délivrée uniquement dans le cadre de l'agrément Part-145 pour la remise en service d'un composant/équipement déposé. Elle ne doit pas être utilisée pour l'APRS d'un aéronef, laquelle est délivrée sur le CRM ou un formulaire CRS.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Qui est habilité à signer l'APRS finale en maintenance en base ?",
+      "options": {
+        "A": "Tout personnel de soutien de catégorie B1 ou B2 ayant signé une carte de travail",
+        "B": "Seul le personnel de certification APRS de catégorie C",
+        "C": "Le mécanicien Cat A qui a réalisé la dernière tâche"
+      },
+      "correct": "B",
+      "explication": "Selon la réglementation Part-145, les tâches lancées en maintenance en base doivent être signées par les personnels de soutien de catégories B1 et B2 ; seul le personnel de certification APRS de catégorie C peut signer l'APRS unique en fin de visite en base.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle situation interdit clairement la délivrance d'une APRS ?",
+      "options": {
+        "A": "Une AD/CN obligatoire n'a pas été appliquée ou une pièce a été montée sans certificat libératoire acceptable",
+        "B": "L'aéronef a réalisé un vol de contrôle satisfaisant",
+        "C": "Tous les travaux commandés ont été reportés avec l'accord de l'exploitant et tracés"
+      },
+      "correct": "A",
+      "explication": "L'APRS ne peut pas être prononcée lorsqu'une AD/CN ou limitation obligatoire n'a pas été appliquée, qu'une tâche critique n'a pas été exécutée, qu'un défaut impacte la sécurité des vols, ou qu'une pièce a été montée sans certificat libératoire acceptable. Dans ces cas, seule une mention « travaux effectués » peut être délivrée.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "En cas de panne hors base, quelle est la durée maximale autorisée pour le montage temporaire d'un équipement sans EASA Form 1 conforme ?",
+      "options": {
+        "A": "Jusqu'au prochain C Check, sans limite intermédiaire",
+        "B": "10 heures de vol maximum",
+        "C": "30 heures de vol maximum ou jusqu'au retour en base"
+      },
+      "correct": "C",
+      "explication": "En cas de panne hors base, un montage temporaire d'un équipement sans EASA Form 1 conforme est autorisé pour 30 heures de vol maximum ou jusqu'au retour en base. L'équipement doit être jugé apte au service, avec l'accord de l'exploitant et une mention claire dans les documents de maintenance.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Que représente réglementairement le dépassement de la limite de vie d'un composant à durée de vie limitée (LLP) ?",
+      "options": {
+        "A": "Une simple anomalie mineure tolérée jusqu'à la prochaine visite C",
+        "B": "Une non-conformité réglementaire majeure ; le composant doit impérativement être retiré du service",
+        "C": "Une situation acceptable si le retour d'expérience constructeur est favorable"
+      },
+      "correct": "B",
+      "explication": "À la limite de vie, le composant doit être impérativement retiré du service, remplacé ou envoyé en réparation selon les instructions applicables. Le dépassement d'une limite de vie constitue une non-conformité réglementaire majeure.",
+      "source": "M 7.20.pdf",
+      "chapter": "Module 7.20 - Procédures d'entretien",
+      "date": "2026-06-21"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "question": "Dans la désignation d'un rivet AN470AD3-5, à quelle composition d'alliage correspondent les lettres « AD » ?",
+      "options": {
+        "A": "Cuivre.",
+        "B": "Alliage d'aluminium 2024-T (DD).",
+        "C": "Alliage d'aluminium 2117-T."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2.1.3 indique : AD = alliage d'aluminium 2117-T ; DD = 2024-T ; C = cuivre. L'exemple AN470AD3-5 désigne donc un rivet à tête universelle, en 2117-T, de 3/32\" de diamètre et 5/16\" de longueur.",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est l'espacement (spacing) généralement admis entre deux lignes parallèles de rivets ?",
+      "options": {
+        "A": "Entre 1D et 2D.",
+        "B": "Entre 2,5D et 4D.",
+        "C": "Entre 5D et 8D."
+      },
+      "correct": "B",
+      "explication": "Le § 1.2.1 précise que l'espacement entre rivets, strictement défini par les constructeurs, est en général compris entre 2,5D et 4D (D = diamètre du rivet) pour garantir la rigidité et éviter le flambage local.",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une zone étanche ou pressurisée (réservoirs, cloisons étanches), le pas (pitch) entre rivets d'une même ligne est généralement compris entre :",
+      "options": {
+        "A": "4D et 6D.",
+        "B": "6D et 8D.",
+        "C": "8D et 12D."
+      },
+      "correct": "A",
+      "explication": "Le § 1.2.1 (PAS) précise : le pas est en général compris entre 5D et 10D en zone normale, et entre 4D et 6D pour les zones étanches/pressurisées (réservoirs, cloisons étanches).",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pourquoi les rivets en alliage 2017-T31 et 2024-T31 sont-ils appelés « icebox rivets » ?",
+      "options": {
+        "A": "Parce qu'ils sont posés sans aucun traitement thermique préalable.",
+        "B": "Parce qu'ils sont chauffés à 450 °C par écrasement à la presse avant pose.",
+        "C": "Parce qu'ils sont maintenus à basse température (réfrigérés) après trempe pour ralentir le vieillissement naturel et conserver une malléabilité suffisante avant pose."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2.1.2 explique que ces rivets durs sont trempés puis stockés réfrigérés (« icebox ») afin de ralentir le vieillissement naturel et conserver une malléabilité suffisante pour le rivetage dans le délai imparti.",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La vis Taper-Lock est montée en force dans un alésage conique. Quelle est l'interférence (écart) typique entre le diamètre du trou et celui de la fixation lors de la pose ?",
+      "options": {
+        "A": "Environ 50 microns.",
+        "B": "Environ 120 microns.",
+        "C": "Environ 250 microns."
+      },
+      "correct": "B",
+      "explication": "Le § 1.1.2.5 précise : « On place le taper-lock dans un trou plus petit de 120 microns et, au serrage, on crée une pression telle que les molécules ainsi comprimées subissent un effet de forge. »",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la conicité de la partie lisse d'une vis Taper-Lock, qui assure le freinage par friction ?",
+      "options": {
+        "A": "0,125 pouce par pied.",
+        "B": "0,250 pouce par pied.",
+        "C": "0,500 pouce par pied."
+      },
+      "correct": "B",
+      "explication": "Le § 1.1.2.5 (Eléments constitutifs) indique : « La conicité qui assure le freinage par friction est de 0,250 pouce par pied. »",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans la nomenclature d'un rivet AN, le premier chiffre qui suit la désignation d'alliage indique le diamètre de la tige exprimé en :",
+      "options": {
+        "A": "1/8 de pouce.",
+        "B": "1/16 de pouce.",
+        "C": "1/32 de pouce."
+      },
+      "correct": "C",
+      "explication": "Le § 1.1.2.1.3 précise : « Le premier chiffre suivant la désignation de la composition du matériau indique le diamètre de la tige du rivet, exprimé en trente-deuxièmes de pouce. » Exemple : 3 = 3/32\".",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la dépose d'un rivet Cherry, après avoir percé le verrou et chassé la tige, quelle précaution est explicitement à respecter ?",
+      "options": {
+        "A": "Ne PAS percer complètement le manchon du rivet pour le retirer, car cela pourrait agrandir le trou.",
+        "B": "Percer entièrement le manchon pour s'assurer de son extraction complète.",
+        "C": "Agrandir volontairement l'alésage afin de faciliter la pose de la nouvelle fixation."
+      },
+      "correct": "A",
+      "explication": "Le § 1.1.2.6.1 (Dépose des rivets type Cherry) avertit : « Attention : NE percez PAS complètement le manchon du rivet pour le retirer, car cela pourrait agrandir le trou. »",
+      "source": "M 7.8.pdf",
+      "chapter": "Module 7.8 - Rivetage",
+      "date": "2026-06-21"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "question": "À quoi correspond le chapitre ATA 27 dans la codification ATA 100 ?",
+      "options": {
+        "A": "Trains d'atterrissage (Landing Gear)",
+        "B": "Commandes de vol (Flight Controls)",
+        "C": "Génération hydraulique (Hydraulic Power)"
+      },
+      "correct": "B",
+      "explication": "Le chapitre ATA 27 correspond aux FLIGHT CONTROLS — Commandes de vol. Les trains d'atterrissage relèvent de l'ATA 32 et la génération hydraulique de l'ATA 29.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre WARNING et CAUTION dans la documentation aéronautique ?",
+      "options": {
+        "A": "WARNING signale un risque pouvant provoquer la mort, des blessures graves ou des dommages matériels ; CAUTION signale une situation potentiellement dangereuse pouvant entraîner des lésions corporelles ou des dommages matériels",
+        "B": "WARNING signale une explication facilitant la compréhension de la tâche ; CAUTION signale un risque mortel",
+        "C": "Les deux mentions sont équivalentes et désignent toujours un risque pour la sécurité du vol"
+      },
+      "correct": "A",
+      "explication": "Selon la documentation : WARNING indique un risque de mort, blessures graves ou dommages matériels ; CAUTION indique une situation potentiellement dangereuse susceptible d'entraîner des lésions corporelles ou des dommages matériels ; NOTE apporte une explication facilitant la compréhension.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Que doit obligatoirement contenir un rapport de travaux de maintenance selon les éléments listés par le module ?",
+      "options": {
+        "A": "Uniquement la description du travail effectué et la signature du technicien",
+        "B": "Le ressenti personnel du mécanicien et son interprétation de la cause probable",
+        "C": "Identification (immatriculation, type, date/heure), références (Work Order/AMM/IPC/SRM avec n° de révision), travail effectué, pièces remplacées (PN/SN), valeurs mesurées, et certification (nom/trigramme, signature, n° de licence)"
+      },
+      "correct": "C",
+      "explication": "Les éléments obligatoires d'un rapport de travaux comprennent l'identification, les références documentaires (Work Order/Task Card/AMM/IPC/SRM avec n° de révision), la description claire et factuelle du travail, les pièces remplacées avec PN/SN, les valeurs mesurées et la certification signée avec n° de licence.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la règle des 3V d'Albert Mehrabian appliquée à la communication en face-à-face, quelle est la part approximative du « verbal » (les mots eux-mêmes) dans l'impact du message ?",
+      "options": {
+        "A": "Environ 7 %",
+        "B": "Environ 38 %",
+        "C": "Environ 55 %"
+      },
+      "correct": "A",
+      "explication": "La règle des 3V donne environ 7 % pour le verbal (les mots), 38 % pour le vocal (intonation, timbre, volume de voix) et 55 % pour le visuel (expression, posture, gestes). La communication non verbale représente ainsi 93 % de l'impact.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel principe fondamental régit la rédaction d'un rapport de dépannage (troubleshooting) selon le module ?",
+      "options": {
+        "A": "Inclure les hypothèses du mécanicien pour orienter l'analyse ultérieure de l'ingénierie",
+        "B": "Documenter des faits, jamais des suppositions",
+        "C": "Ne consigner que la conclusion finale pour rester concis et lisible"
+      },
+      "correct": "B",
+      "explication": "La règle essentielle des rapports de dépannage est : « Documenter des faits, jamais des suppositions ». Le rapport doit contenir des faits observables, des données mesurables et une logique technique démontrable, et ne doit comporter ni opinion personnelle, ni hypothèse non confirmée, ni formulation approximative.",
+      "source": "M 7.21.pdf",
+      "chapter": "Module 7.21 - Documentation et communication",
+      "date": "2026-06-21"
+    }
+  ]
+}

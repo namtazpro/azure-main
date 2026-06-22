@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\virouet\\source\\localdev\\TenderProcess\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj": {}
+    "C:\\Users\\virouet\\source\\repos\\azure-main\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\virouet\\source\\localdev\\TenderProcess\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj": {
+    "C:\\Users\\virouet\\source\\repos\\azure-main\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\virouet\\source\\localdev\\TenderProcess\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj",
+        "projectUniqueName": "C:\\Users\\virouet\\source\\repos\\azure-main\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj",
         "projectName": "ProcurementTenderingApp",
-        "projectPath": "C:\\Users\\virouet\\source\\localdev\\TenderProcess\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj",
+        "projectPath": "C:\\Users\\virouet\\source\\repos\\azure-main\\ProcurementTenderingApp\\ProcurementTenderingApp.csproj",
         "packagesPath": "C:\\Users\\virouet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\virouet\\source\\localdev\\TenderProcess\\ProcurementTenderingApp\\obj\\",
+        "outputPath": "C:\\Users\\virouet\\source\\repos\\azure-main\\ProcurementTenderingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

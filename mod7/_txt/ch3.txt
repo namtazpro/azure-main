@@ -1,0 +1,2760 @@
+===== PAGE 1 =====
+Module 7.3 V06   Page 1 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Module 7.3 
+ 
+Outils 
+ 
+Licence B1 / B2 
+
+===== PAGE 2 =====
+Module 7.3 V06   Page 2 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées 
+à des tiers non habilités. 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/ 12 / 2009 Toutes Nouvelle édition 
+V04 11/ 05 / 2016 
+Page de garde et 
+page 1+ pied de 
+page modifier 
+Adresse, signatures et noms modifiés + 
+édition 
+V05 24 /05 /2017 Toutes Nouvelle édition 
+V06 19/01/2026  Toutes Mis à jour et ajout de contenus actuelles 
+ 
+  
+Visa Rédacteur 
+Damien SCHMITZ 
+Visa Responsable 
+Module 
+Laurent 
+VINGADASSALOM 
+Visa Directeur de 
+Formation 
+Laurent 
+VINGADASSALOM 
+Visa Responsable 
+Qualité 
+Déborah CALAC 
+    
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.3 V06   Page 3 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+Catégorie B1 :  80 questions à choix multiples, temps alloué 100 minutes  
+2 questions à développement temps alloué 20 minutes par QD.  
+  
+Catégorie B2 :  60 questions à choix multiples temps alloué 75 minutes.  
+2 questions à développement temps alloué 20 minutes par QD. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+ Niveau 
+MODULE 7.3. OUTILS 
+ 
+A B1 B2 
+Types communs d'outils à main ; 
+Types communs d'outils électriques ; 
+Fonctionnement et utilisation des outils de mesure de précision ; 
+Équipements et méthodes de lubrification ; 
+Fonctionnement, fonction et utilisation des équipements d'essai général électrique. 
+3 3 3 
+    
+ 
+  
+===== PAGE 4 =====
+Module 7.3 V06   Page 4 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.3 V06   Page 5 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1. TYPES COMMUNS D’OUTILS A MAIN ................................ ................................ .......7 
+1.1. Outils ................................ ................................ ................................ ...........................7 
+1.1.1. Types communs d’outils à mains ................................ ................................ ..............7 
+1.1.2. Les outils de mesure et de traçage ................................ ................................ ...........8 
+1.1.3. Les outils de fabrications ................................ ................................ ......................... 10 
+1.1.4. Les outils de frappe ................................ ................................ ................................ .. 14 
+1.1.5. Les accessoires à interposer entre la pièce et l’outil de frappe ............................ 14 
+1.1.6. Les outils de préhension ................................ ................................ .......................... 16 
+1.1.7. Les outils spécifiques ................................ ................................ ..............................  22 
+1.1.8. Les outils de montage ou de démontage ................................ ................................  27 
+1.1.9. Gestion des outils ................................ ................................ ................................ ..... 37 
+2. TYPES COMMUNS D’OUTILS ELECTRIQUE  ................................ .......................... 38 
+2.1. Outils ................................ ................................ ................................ ......................... 38 
+2.1.1. Les multimètres ................................ ................................ ................................ ........ 38 
+2.1.2. Visseuse électrique ................................ ................................ ................................ .. 39 
+2.1.3. Lampe d’inspection ................................ ................................ ................................ .. 39 
+2.1.4. Ponceuse électrique ................................ ................................ ................................ . 39 
+3. FONCTIONNEMENT ET UTILISATION DES OUTILS DE MESURE DE PRECISION40 
+3.1. Les instruments de mesure à lecture directe ................................ ......................... 40 
+3.1.1. Règles et réglets ................................ ................................ ................................ ....... 40 
+3.1.2. Rapporteur d’angle ................................ ................................ ................................ ... 41 
+3.1.3. Le calibre à coulisse ................................ ................................ ................................ . 42 
+3.1.4. Pour relever des dimensions ................................ ................................ ................... 43 
+3.1.5. Entretien ................................ ................................ ................................ .................... 43 
+3.1.6. Pied à coulisse à affichage digital ................................ ................................ ........... 44 
+3.1.7. Le palmer ................................ ................................ ................................ ................... 44 
+3.1.7.1. Emploi du palmer ................................ ................................ ...............................  46 
+3.1.8. Le micromètre ou palmer ................................ ................................ ......................... 47 
+3.1.9. Les instruments à mesures différentielles ................................ ..............................  48 
+3.1.10. Les comparateurs ................................ ................................ ................................ ... 48 
+3.1.11. Les instruments de mesures par comparaison ................................ ..................... 49 
+3.1.12. Jauge de filetage ................................ ................................ ................................ ..... 49 
+3.1.13. Jeu de cales étalon ................................ ................................ ................................ . 50 
+3.1.14. Calibre à limites ................................ ................................ ................................ ....... 51 
+===== PAGE 6 =====
+Module 7.3 V06   Page 6 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4. EQUIPEMENTS ET METHODES DE LUBRIFICATION ................................ ............. 53 
+4.1. Equipements et méthodes de lubrification ................................ ............................. 53 
+4.1.1. Lubrification à la graisse ................................ ................................ .......................... 53 
+4.1.2. Lubrification à l’huile ................................ ................................ ................................  55 
+4.1.3. Equipements de lubrification ................................ ................................ ................... 58 
+5. FONCTIONNEMENT, FONCTION ET UTILISATION DES EQUIPEMENTS D’ESSAI 
+GENERAL ELECTRIQUE ................................ ................................ ................................ ..... 60 
+5.1. Principes fondamentaux ................................ ................................ .......................... 60 
+5.1.1. Rôles et intérêt en maintenance ................................ ................................ .............. 60 
+5.1.2. Les appareils de mesures électrique ................................ ................................ ...... 61 
+5.1.3. Mégohmmètre ................................ ................................ ................................ ........... 63 
+5.1.4. Les grandeurs mesurées................................ ................................ .......................... 64 
+5.1.5. Constituants d’un multimètre ................................ ................................ .................. 64 
+5.1.6. Sécurité électrique ................................ ................................ ................................ .... 66 
+5.1.3. Oscilloscopes ................................ ................................ ................................ ........... 67 
+5.1.4. Testeurs d'alternateurs ................................ ................................ ............................ 68 
+5.1.5. Testeur de mise à la masse ................................ ................................ ...................... 69 
+5.1.6. Testeur de résistance de terre ................................ ................................ ................. 70 
+ 
+  
+===== PAGE 7 =====
+Module 7.3 V06   Page 7 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1. TYPES COMMUNS D’OUTILS A MAIN  
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et 
+pratiques des Types communs d'outils à main pour la maintenance des aéronefs.  
+Une capacité à combiner et appliquer des éléments de connaissances séparés d'une 
+manière logique et compréhensible. Capacité à appliquer cette connaissance. [Niveau 
+3] 
+ 
+ 
+1.1. Outils 
+ 
+1.1.1. Types communs d’outils à mains 
+Dans la caisse du mécanicien on distingue les outils classés selon leurs familles d’utilisations. 
+ 
+  
+  
+
+===== PAGE 8 =====
+Module 7.3 V06   Page 8 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.2. Les outils de mesure et de traçage 
+Le pied à coulisse 
+ 
+Principe du vernier : Le vernier permet de subdiviser la plus petite graduation de la règle. Il 
+comporte n divisions égales à (n-1) divisions de la règle. 
+ 
+Formule de lecture : Mesure = Lecture règle fixe + (n × précision) 
+ 
+Calcul de précision : 
+• Vernier 10 divisions : 1/10 = 0,1 mm 
+• Vernier 20 divisions : 1/20 = 0,05 mm 
+• Vernier 50 divisions : 1/50 = 0,02 mm 
+ 
+ 
+ 
+Exemple de lecture : Règle : 23 mm, vernier 7ème graduation (précision 0,05 mm) Mesure = 23 + (7 
+× 0,05) = 23,35 mm 
+ 
+Applications aéronautiques : 
+• Contrôle alésage palier : Ø25,00 mm ±0,02 
+• Épaisseur pale d'hélice (détection usure) 
+• Vérification jeux roulements 
+ 
+Il faut savoir que l’étalonnage dure 12mois (certificat COFRAC obligatoire) 
+ 
+ 
+Caractéristiques : acier inoxydable, précision 0,02-0,05mm, becs 
+intérieurs/extérieurs, jauge de profondeur, affichage digital ou vernier 
+ 
+Applications aéro : 
+• Mesure dimensions pièces (diamètres, épaisseurs, 
+profondeurs) 
+• Contrôle cotes avant/après usinage 
+• Vérification jeux et tolérances 
+• Mesure alésages et portées 
+ 
+Règles utilisation : 
+• Zéro contrôle avant chaque série de mesures 
+• Pièce et instrument propres (copeaux = fausse mesure) 
+• Serrage léger (pas de déformation pièce) 
+• Rangement en étui (chocs = perte précision) 
+• Étalonnage périodique obligatoire 
+• Ne jamais utiliser comme outil de frappe ou levier 
+ 
+ 
+ 
+  
+
+===== PAGE 9 =====
+Module 7.3 V06   Page 9 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Réglet en acier inoxydable 
+ 
+Caractéristiques : acier inox gradué, longueur 150-
+1000mm, graduations au 0,5mm ou 1mm, chant biseauté 
+ 
+Applications aéro : 
+• Traçages et reports de cotes 
+• Mesures linéaires simples 
+• Contrôle alignement surfaces 
+ 
+Règles utilisation : 
+• Ne pas utiliser comme levier ou grattoir 
+• Dégraissage après usage (traces doigts = 
+oxydation graduations) 
+• Stockage à plat (déformation = mesures fausses) 
+• Vérification usure du zéro régulièrement 
+ 
+ 
+Jauges d'épaisseur (cales d'épaisseur) 
+ 
+Caractéristiques : lamelles acier inox calibrées, épaisseurs 0,05 à 
+1mm, montage en éventail 
+ 
+Applications aéro : 
+• Mesure jeux fonctionnels (paliers, assemblage) 
+• Contrôle espacement entre surfaces 
+• Vérification clearance commandes de vol 
+• Réglage jeux des vannes et actionneurs 
+• Calage temporaire lors d'assemblage 
+ 
+Règles utilisation : 
+• Lamelles propres et non pliées (huile = adhérence fausse) 
+• Insertion progressive sans forcer 
+• Mesure = épaisseur cale qui passe avec légère résistance 
+• Ne jamais utiliser comme cale de maintien permanent 
+• Vérification étalonnage régulière (usure, déformation) 
+• Rangement en pochette (évite oxydation et mélange 
+épaisseurs) 
+ 
+ 
+
+===== PAGE 10 =====
+Module 7.3 V06   Page 10 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+1.1.3. Les outils de fabrications 
+Limes 
+ 
+Classification : plate, ronde, carrée, 
+triangulaire / bâtarde, demi-douce, douce 
+Applications aéro : 
+• Ébavurage après découpe (élimine 
+concentrations de contraintes) 
+• Chanfreinage perçages 
+• Ajustage pièces 
+Règles : limer en poussant, nettoyer 
+régulièrement (carde) 
+ 
+ 
+Voici un exemple d’outil de nettoyages pour les limes appelé les cadres à limes : 
+ 
+ 
+ 
+ 
+  
+Pointeau 
+ 
+Caractéristiques : acier trempé, pointe conique 60-90°, corps 
+hexagonal ou cranté, longueur 100-120mm 
+ 
+Applications aéro : 
+• Marquage centre perçage 
+• Repérage points d'assemblage 
+• Marquage identification pièces 
+• Centrage foret avant perçage 
+ 
+Règles utilisation : 
+• Frappe unique et nette (coup sec au marteau) 
+• Vérifier centrage avant frappe définitive 
+• Profondeur marquage contrôlée (pas de fissuration) 
+• Angle pointe adapté au foret utilisé 
+• Interdiction sur zones structurales critiques sans autorisation 
+• Ne jamais pointer composites (amorce délaminage) 
+• Pointe affûtée = marquage précis 
+ 
+ 
+
+===== PAGE 11 =====
+Module 7.3 V06   Page 11 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Scies à métaux 
+ 
+Choix lame : 
+• 18 dents/pouce : aluminium, sections 
+épaisses 
+• 24 dents/pouce : usage universel 
+• 32 dents/pouce : inox, tôles minces 
+Règle importante : minimum 3 dents en 
+contact (évite rupture lame) 
+ 
+ 
+ 
+Ciseaux d'électricien 
+ 
+Caractéristiques : lames robustes acier trempé, poignées isolées 
+ 
+Applications aéro : 
+• Découpe isolants électriques (gaines thermorétractables) 
+• Coupe rubans adhésifs renforcés 
+• Découpe tissus composites (fibre de verre léger) 
+ 
+Règles : 
+• Ne jamais utiliser sur câbles sous tension 
+• Affûtage régulier pour coupe nette 
+• Lames propres (résidus collants = coupe imprécise) 
+ 
+ 
+ 
+Couteaux d'électricien 
+ 
+Constitution : lame crochet rétractable + manche isolé 
+ 
+Applications aéro : 
+• Dénudage câbles de forte section 
+• Découpe gaines isolantes 
+• Ouverture faisceaux (attention brins intérieurs) 
+ 
+    Règle d’utilisation : 
+• Lame toujours opposée au corps (sécurité) 
+• Ne jamais couper en tirant vers soi 
+• Lame rétractée après usage 
+• Angle faible pour dénudage (évite entaille brins) 
+ 
+Action corrective : 
+• Brin entaillé > 10% diamètre → recouper fil + nouvelle cosse 
+ 
+ 
+  
+
+===== PAGE 12 =====
+Module 7.3 V06   Page 12 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Grattoir à lame droite 
+ 
+Caractéristiques : lame plate rigide, largeur 25-100mm, acier trempé 
+ 
+Applications aéro : 
+• Décapage de surfaces planes (panneaux, longerons) 
+• Retrait de mastics sur de grandes zones 
+• Nettoyage de plans de joint larges 
+• Préparation de peaux avant collage 
+ 
+Règles d’utilisation : 
+• Pression uniforme sur toute largeur 
+• Angle 30° constant (évite creusage) 
+• Lame affûtée = moins d'effort, moins de risque 
+• Sur composites : pression légère uniquement 
+ 
+ 
+ 
+ 
+Grattoir courbé (en crochet) 
+ 
+Caractéristiques : lame incurvée, manche perpendiculaire, acier flexible 
+ 
+Applications aéro : 
+• Nettoyage intérieur tubes et conduits 
+• Retrait dépôts dans cavités 
+• Grattage surfaces concaves (longerons creux) 
+• Nettoyage rainures et gorges 
+ 
+Règles d’utilisation : 
+• Mouvement de traction uniquement (pas de poussée) 
+• Contrôler profondeur pour ne pas atteindre métal sain 
+• Lame propre après chaque passage 
+• Inspection visuelle zone grattée (pas de rayure profonde) 
+ 
+ 
+ 
+ 
+Grattoir souple (à lame flexible) 
+ 
+Caractéristiques : lame mince flexible, plastique rigide ou acier souple 
+ 
+Applications aéro : 
+• Nettoyage surfaces délicates (plexiglas, peintures fraîches) 
+• Retrait adhésifs temporaires 
+• Grattage léger sans rayure 
+• Nettoyage composites sensibles 
+ 
+Règles d’utilisation : 
+• Pour matériaux tendres uniquement 
+• Pas d'utilisation sur mastics durcis 
+• Remplacement fréquent (usure rapide) 
+• Température ambiante (froid = fragilité) 
+ 
+ 
+  
+
+===== PAGE 13 =====
+Module 7.3 V06   Page 13 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Grattoir à lame dentelée (scie-grattoir) 
+ 
+Caractéristiques : lame dentée fine, double fonction, acier 
+haute dureté 
+ 
+Applications aéro : 
+• Découpe-retrait joints épais durcis 
+• Grattage revêtements très adhérents 
+• Découpe gaines thermorétractables 
+• Retrait silicones structuraux 
+ 
+Règles d’utilisation : 
+• Mouvement de va-et-vient contrôlé 
+• Ne jamais utiliser sur structures minces (perforation) 
+• Protection surfaces adjacentes obligatoire 
+• Contrôle profondeur constant (jauge si possible) 
+ 
+ 
+Ici nous avons un outil de nettoyage classique un peu à part des autres catégories.  
+ 
+Le Pinceaux 
+ 
+Caractéristiques : poils synthétiques ou naturels, différentes largeurs (10-50mm), manches 
+ergonomiques 
+ 
+Applications aéro : 
+• Application du produit d'étanchéité (mastics, joints) 
+• Pose résines et colles structurales 
+• Application primaire d'accrochage 
+• Dépoussiérage surfaces avant traitement 
+ 
+Règles d’utilisation : 
+ 
+• Choisir poil adapté au produit (synthétique pour solvants) 
+• Nettoyage immédiat après usage (durcissement = pinceau inutilisable) 
+• Stockage poils vers le haut 
+• Pas de contact direct peau/produit chimique 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.3 V06   Page 14 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.4. Les outils de frappe 
+Marteaux et maillets 
+ 
+Principe physique : Énergie cinétique E = ½ m × v² 
+ 
+    CRITIQUE : Ne JAMAIS frapper directement les roulements, 
+filetages, pièces trempées → Toujours utiliser un jet 
+intermédiaire (bronze, laiton, aluminium) pour Absorbe l'énergie 
+du choc, Répartit la force sur une surface plus large ou Protège la 
+bague du roulement 
+ 
+Car sinon il peut y avoir des conséquences comme :  
+ 
+➔ Des microdéformations permanentes 
+➔ Points de concentration de contraintes 
+➔ Écaillage progressif 
+➔ Matière refoulée 
+➔ Fissuration instantanée 
+ 
+• Bronze/laiton : pièces acier 
+• Aluminium : pièces aluminium 
+• Cuivre/nylon : pièces délicates 
+Chasse-goupilles : extraction/installation axes et goupilles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1.5. Les accessoires à interposer entre la pièce et l’outil de frappe  
+Jets (chasses) en matériaux tendres 
+ 
+Caractéristiques : bronze, laiton ou aluminium, pointe plate ou bombée, différents diamètres, dureté 
+inférieure aux pièces travaillées 
+ 
+Applications aéro : 
+• Extraction goupilles sans marquer alésages 
+• Chasse sur alliages aluminium et magnésium 
+• Ajustement pièces délicates (composites, surfaces traitées) 
+• Travaux en zones ATEX (laitons anti-étincelles pour atmosphères explosives) 
+• Protection surfaces critiques lors du martelage 
+ 
+Règles d’utilisation : 
+• Matériau jet toujours plus tendre que pièce (bronze/laiton pour alu, alu pour composites) 
+• Laiton obligatoire en zone à risque inflammable 
+• Remplacer dès qu’il y a une déformation visible (champignon, écrasement) 
+• Ne jamais utiliser sur aciers (écrasement immédiat) 
+• Vérifier absence bavures sur pointe avant usage 
+• Jets alu = usage limité, déformation rapide 
+  
+
+===== PAGE 15 =====
+Module 7.3 V06   Page 15 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Chasse-goupilles 
+ 
+Caractéristiques : tige acier trempé, pointe conique calibrée, 
+longueur 100-200mm, différents diamètres 
+ 
+Applications aéro : 
+• Extraction goupilles fendues et cylindriques 
+• Démontage axes et pivots 
+• Chasse rivets lors du perçage 
+• Alignement trous avant assemblage 
+ 
+Règles d’utilisation : 
+• Diamètre chasse légèrement inférieur à goupille (0,5mm 
+mini) 
+• Frappe contrôlée (petits coups progressifs) 
+• Axe parfaitement aligné (évite coincement/cassure) 
+• Ne jamais utiliser comme poinçon de marquage 
+• Pointe affûtée régulièrement (pointe émoussée = 
+glissement) 
+• Support arrière obligatoire (évite déformation structure) 
+ 
+Les chasse-goupilles sont utilisés que sur des matériaux résistants 
+ou sur des pièces qui vont être rebuté par la suite. 
+L’exemple concret c’est les goupilles. 
+ 
+ 
+ 
+  
+
+===== PAGE 16 =====
+Module 7.3 V06   Page 16 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Cales de frappe (ou tas d'interposition) 
+ 
+Caractéristiques : bois dur, cuivre, laiton, plastique ou composite, épaisseur 5-20mm, surfaces lisses 
+ 
+Applications aéro : 
+• Protection surfaces finies lors du martelage 
+• Répartition effort de frappe (évite déformation localisée) 
+• Ajustement pièces délicates (capots, panneaux) 
+ 
+Règles d’utilisation : 
+• Matériau cale toujours plus tendre que pièce travaillée 
+• Bois dur pour alliages d'aluminium 
+• Cuivre/laiton pour aciers doux 
+• Surface cale propre et plane (débris = empreintes) 
+• Renouveler cale déformée ou marquée 
+• Pas de cale sur zones critiques structurales sans procédure 
+ 
+1.1.6. Les outils de préhension 
+Pinces 
+ 
+ 
+Types : 
+• Multiprise : serrage auto-bloquant 
+• Becs longs : accès zones confinées 
+• Coupantes : fils électriques, colliers 
+ 
+Outils spécifiques aéronautiques 
+Pince à freiner : torsion fil à freiner (6-8 spires/pouce) sur boulonnerie critique 
+Pinces à clips (circlips) : installation/dépose circlips intérieurs et extérieurs 
+  
+
+===== PAGE 17 =====
+Module 7.3 V06   Page 17 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Pince plate 
+ 
+Caractéristiques : mâchoires plates striées, largeur 10-15 mm 
+ 
+Applications aéro : 
+• Maintien écrous dans zones d'accès difficile 
+• Maintien pièces lors assemblage 
+ 
+Règles d'utilisation : 
+• Serrage modéré (évite marquage) 
+• Ne jamais utiliser sur raccords filetés (dégradation méplats) 
+Position perpendiculaire à l'axe de serrage 
+                       
+ 
+Pince à longs becs 
+ 
+Caractéristiques : becs effilés 100-150 mm, striés ou lisses 
+ 
+Applications aéro : 
+• Manipulation petites pièces en zones confinées (écrous, rondelles, goupilles) 
+• Extraction goupilles fendues 
+ 
+Variantes : 
+• Becs lisses : pièces délicates (ne marque pas) 
+• Becs striés : meilleure préhension 
+ 
+    Limitations : 
+• Fragilité becs (ne pas forcer sur pièces grippées) 
+• Ne pas utiliser comme levier (déformation permanente) 
+                              
+                 
+  
+
+===== PAGE 18 =====
+Module 7.3 V06   Page 18 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Pince à becs courbés  
+ 
+Caractéristiques : becs coudés à 45° ou 90°, longueur 120-180 mm 
+ 
+Applications aéro : 
+• Accès zones perpendiculaires 
+• Manipulation connecteurs orientés latéralement 
+• Installation clips de fixation cachés 
+ 
+Avantages : 
+• Vision directe de la zone de travail (angle de vue) 
+• Évite démontage d'équipements adjacents 
+ 
+Exemple AMM : 
+• Installation clips de maintien faisceaux derrière tableau de bord : 
+accès impossible avec pince droite 
+ 
+ 
+  
+Pinces coupantes 
+ 
+Types : 
+A. Petite pince coupante : 
+• Coupe affleurante 
+• Fils jusqu’à 0.6mm² 
+             
+ 
+B. Grande pince coupante : 
+• Coupe perpendiculaire 
+• Angle 15-20° 
+• Fils jusqu'à 2,5 mm² (cuivre) 
+ 
+ 
+ 
+Applications aéro pour ces deux pinces : 
+• Coupe fils électriques (hors tension) 
+• Coupe colliers de serrage nylon 
+• Retrait gaines thermorétractables usagées 
+• Découpe tresses de blindage 
+• Fils à freiner  
+• Goupilles fendues 
+  
+
+===== PAGE 19 =====
+Module 7.3 V06   Page 19 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Règles d'utilisation : 
+• Choisir la pince en fonction de la section à couper 
+• Couper perpendiculairement (évite écrasement brins) 
+• Vérifier que le tranchant soit adapté et en état 
+• Ne jamais couper de l’acier dur (destruction tranchants) 
+ 
+ 
+Entretien : 
+• Nettoyage de résidus isolants après usage 
+• Huilage des articulations léger 
+• Remplacement si le tranchant est abimé 
+ 
+Action corrective : 
+• Si la coupe est imprécise la pince doit être remplacement  
+• Si le brin est effiloché après la coupe il faut recouper proprement 5 mm en arrière 
+ 
+                
+ 
+Les pinces universelles et multiprise sont interdite sur avion, donc utilisé très rarement ! 
+ 
+                           
+ 
+    Limitations aéro : 
+• Ne JAMAIS utiliser sur raccords filetés (endommagement) 
+• Ne JAMAIS utiliser comme clé (couple non contrôlé) 
+ 
+  
+
+===== PAGE 20 =====
+Module 7.3 V06   Page 20 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Pinces à étaux 
+ 
+ 
+ 
+ 
+ 
+Caractéristiques techniques 
+• Mâchoires crantées autobloquantes 
+• Ouverture réglable : 0-50 mm (selon modèle) 
+• Force de serrage maintenue sans effort manuel 
+• Longueur totale : 175-250 mm 
+ 
+Applications aéronautiques 
+• Maintien prolongé de pièces lors d'opérations longues (collage, perçage) 
+• Blocage temporaire de tuyauteries souples pendant dépose/repose 
+• Maintien de tôles lors de rivetage 
+• Serrage de pièces pendant polymérisation de produits d'étanchéité 
+• Extraction de pièces grippées (utilisation comme extracteur léger) 
+ 
+Variantes 
+ 
+Type Usage 
+Mâchoires lisses Surfaces peintes ou polies (protection 
+marquage) 
+Mâchoires striées Serrage puissant, pièces brutes 
+Mâchoires larges Répartition effort sur grandes surfaces 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.3 V06   Page 21 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Règles d'utilisation 
+• Régler l'ouverture avant serrage (molette de réglage) 
+• Serrage progressif : éviter choc brutal sur pièces fragiles 
+• Vérifier stabilité du serrage avant de relâcher 
+• Position stable : pince ne doit pas pouvoir basculer 
+• Ne pas utiliser pour serrage/desserrage d'écrous (risque d'arrondir méplats) 
+• Ne pas dépasser capacité nominale (déformation mâchoires) 
+ 
+Avantages 
+• Libère les mains de l'opérateur pour travail bilatéral 
+• Maintien constant sans fatigue 
+• Polyvalence d'utilisation 
+ 
+    Limitations 
+• Poids de l'outil : peut marquer pièces légères suspendues 
+• Ne pas laisser serrer sur pièces usinées de précision (déformation à long terme) 
+• Risque de marquage sur surfaces sensibles malgré mâchoires lisses 
+ 
+Entretien 
+• Nettoyage des mâchoires après usage (résidus, copeaux) 
+• Graissage léger du mécanisme de réglage 
+• Vérification usure des dents de blocage 
+• Test de maintien : la pince ne doit pas se desserrer sous charge 
+  
+===== PAGE 22 =====
+Module 7.3 V06   Page 22 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.7. Les outils spécifiques 
+Pince à freiner 
+ 
+Caractéristiques : mâchoires crantées + mécanisme de torsion, longueur 200-250 mm 
+ 
+Principe : torsion contrôlée du fil à freiner pour immobiliser les écrous ou vis sur boulonnerie critique 
+ 
+Applications aéro : 
+• Freinage écrous moteur (fixations capots, accessoires) 
+• Freinage commandes de vol (chapes, biellettes) 
+• Freinage raccords hydrauliques critiques 
+ 
+Spécification fil à freiner : 
+• Matériau : acier inoxydable A286 (résiste corrosion + température) 
+• Diamètres courants : 0,51 mm (0,020"), 0,81 mm (0,032"), 1,04 mm (0,041") 
+• MS20995C  
+ 
+Technique de freinage standard : 
+Densité de torsion : 3 spires pour 1 cm 
+ 
+Règles de freinage : 
+• Sens de torsion : opposé au sens de dévissage 
+• Tension fil : serré mais sans couper fil (pas de sur-torsion) 
+• Fil ne doit jamais passer sur des arêtes vives (usure par vibration) 
+• Si plusieurs écrous : Le freinage doit être fait en série ou étoile selon AMM 
+ 
+    Défauts inacceptables : 
+• Fil coupé/entaillé → REFAIRE (rupture en service possible) 
+• Torsion < 2 spires/pouce → freinage insuffisant → REFAIRE 
+• Torsion > 6 spires/pouce → fragilisation fil → REFAIRE 
+• Fil détendu (jeu) → REFAIRE 
+ 
+Inspection visuelle : 
+• Fil tendu uniformément 
+• Pas de boucle, nœud, croisement 
+• Extrémités repliées proprement 
+• Pas d'interférence avec pièces mobiles 
+ 
+Fréquence de contrôle : 
+• Inspection visuelle : chaque intervention dans la zone 
+• Remplacement systématique : si desserrage écrou ou fil endommagé 
+• Contrôle approfondi   
+
+===== PAGE 23 =====
+Module 7.3 V06   Page 23 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Clé à sangle 
+ 
+Caractéristiques : sangle toile ou cuir souple + poignée, diamètre ajustable 50-150 mm 
+ 
+Principe : serrage/desserrage d'éléments cylindriques par friction sans marquage surface 
+ 
+Constitution : 
+• Sangle : toile renforcée, cuir, nylon tressé 
+• Boucle ajustable : crémaillère ou cliquet 
+• Poignée : orientation variable selon modèle 
+ 
+Applications aéro : 
+• Filtres à huile moteur (serrage/dépose) 
+• Raccords filetés de grande taille (sans méplats) 
+• Tubes chromatés/anodisés (préservation finition) 
+ 
+Avantages : 
+• Aucun marquage de surface (pas d'initiation corrosion) 
+• Adaptation du diamètres variables 
+• Couple de serrage modéré (manuel) 
+ 
+Limitations : 
+• Couple limité selon taille 
+• Ne remplace pas la clé dynamométrique si le couple est spécifié 
+• Inefficace si la surface est humide 
+ 
+    Erreurs à éviter : 
+• Sangle humide/grasse → glissement → inefficacité 
+• Sur-serrage filtres → écrasement joint → fuite 
+• Utilisation sur éléments polygonaux → préférer clé adaptée 
+• Sangle usée (effilochage) → remplacement (perte friction) 
+ 
+Entretien : 
+• Nettoyage sangle : dégraissage si contact huile/carburant 
+• Séchage complet avant le stockage 
+• Inspection usure : effilochage, déchirure → remplacement 
+• Vérification mécanisme réglage  
+ 
+Action corrective : 
+• Glissement répété → sangle contaminée → nettoyer ou remplacer 
+• Marquage constaté sur pièce → technique incorrecte → revoir procédure 
+  
+
+===== PAGE 24 =====
+Module 7.3 V06   Page 24 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Pinces à clips (circlips - intérieur/extérieur) 
+ 
+Dénomination : pinces à circlips, pinces à anneaux élastiques 
+ 
+Principe : compression ou expansion d'anneaux élastiques (circlips) pour installation/dépose dans 
+les gorges d'axes ou d'alésages 
+ 
+ 
+ 
+Types de pinces 
+ 
+A. Pince à circlips EXTÉRIEURS (compression) : 
+• Mâchoires convergentes lors de serrage 
+• Comprime le circlip pour insertion sur axe 
+• Repère : pointes vers l'intérieur 
+ 
+B. Pince à circlips INTÉRIEURS (expansion) : 
+• Mâchoires divergentes lors de serrage 
+• Écarte le circlip pour insertion dans alésage 
+• Repère : pointes vers l'extérieur 
+ 
+ 
+  
+
+===== PAGE 25 =====
+Module 7.3 V06   Page 25 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+C. Pinces universelles (réversibles) : 
+• Inversion mâchoires par goupille de réglage 
+• Polyvalence mais moins robustes 
+ 
+    Erreurs critiques à éviter 
+ 
+1. Engagement partiel : 
+• Circlip pas clipsé sur 360° → ÉJECTION SOUS CHARGE 
+• Conséquence : perte roulement/composant → CATASTROPHIQUE 
+• Toujours vérifier visuellement engagement complet 
+ 
+2. Circlip vrillé : 
+• Installation en biais → contraintes localisées → rupture fatigue 
+• Vérifier la planéité dans gorge 
+ 
+3. Gorge endommagée : 
+• Rayures, bavures → affaiblissement circlip 
+• Inspection obligatoire, rectification si nécessaire 
+ 
+4. Réutilisation circlip déformé : 
+• Perte de ressort → engagement faible 
+• Politique recommandée : remplacement systématique 
+ 
+5. Pointes pince usées : 
+• Glissement hors des trous → blessures opérateur + circlip projeté 
+• Contrôle de l’usure pointes régulièrement 
+ 
+6. Sur-compression/expansion : 
+• Déformation plastique permanente → perte élasticité 
+• Manipuler progressivement, pas de force excessive 
+  
+===== PAGE 26 =====
+Module 7.3 V06   Page 26 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Pince à dénuder 
+ 
+         
+ 
+Fonction et importance : 
+ 
+La pince à dénuder est un outil manuel conçu pour retirer l'isolant des conducteurs électriques sans 
+endommager l'âme métallique. 
+En maintenance aéronautique, où l'intégrité des câblages est critique pour la sécurité des vols, cet 
+outil doit être utilisé avec précision et conformément aux spécifications du fabricant de câbles. 
+ 
+Caractéristiques techniques : 
+ 
+Les pinces à dénuder aéronautiques sont généralement à mâchoires réglables, permettant de 
+s'adapter aux différentes sections de conducteurs (AWG 10 à 26 typiquement). 
+Chaque mâchoire comporte des encoches calibrées correspondant aux diamètres standards de fils. 
+ 
+Le réglage correct est essentiel : 
+• Une ouverture trop large n'enlèvera pas l'isolant 
+• Une ouverture trop étroite entaillera ou sectionnera les brins du conducteur, créant un point 
+de fragilité pouvant entraîner une rupture en service 
+ 
+Procédure d'utilisation : 
+1. Marquer la coupe de l’isolant (généralement 6 à 10 mm selon le type de cosse ou 
+connecteur). 
+2. Ouvrir la pince 
+3. Choisir la gauge  
+4. Positionner le câble sur les mâchoires au repère de coupure de l’isolant. 
+5. Procéder au dénudage en serrant la pince fermement. 
+6. Ouvrir la pince lentement, Sortir le câble, Relâcher la pince 
+7. Retirer l'isolant par traction axiale 
+8. Vérifier le dénudage 
+ 
+Contrôle qualité : 
+Après dénudage, il est impératif de vérifier visuellement l'absence de : 
+• Entailles 
+• Brins coupés 
+• Déformation 
+ 
+    Critère de refus : Tout conducteur présentant plus de 10% de brins sectionnés doit être rebuté. 
+  
+
+===== PAGE 27 =====
+Module 7.3 V06   Page 27 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.8. Les outils de montage ou de démontage 
+Clés dynamométriques 
+ 
+Principe : application d'un couple de serrage précis 
+Types : à déclenchement, à cadran, électronique 
+Spécifications : 
+• Plage d'utilisation : 20-80% capacité max 
+ 
+Applications critiques : 
+ 
+Élément Couple Conséquence sous-
+serrage 
+Conséquence sur-
+serrage 
+Boulon train 400-600 Nm Desserrage → perte 
+train Rupture boulon 
+Écrou roue 450-500 Nm Desserrage → perte 
+roue Déformation jante 
+Boulon moteur 60-120 Nm Fissures fatigue Rupture filetage 
+ 
+Exemple de défaut de la clé : Clic pas franc → étalonnage immédiat, Marquage, … 
+ 
+  
+===== PAGE 28 =====
+Module 7.3 V06   Page 28 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les tournevis 
+ 
+ 
+ 
+Tournevis plats  
+ 
+Caractéristiques : lame plate rectangulaire, épaisseur 0,4-1,2 mm, largeur 3-12 mm 
+ 
+Applications aéro : 
+• Vis traditionnelles à fente  
+• Ajustements équipements (câbles, leviers) 
+ 
+Règle de sélection : Largeur lame = largeur fente EXACTEMENT 
+• Trop petit → endommage fond de fente + risque dérapage 
+• Trop grand → bords lame déforment tête vis 
+ 
+    Erreurs critiques : 
+• Lame usée (arrondie) → dérapage → blessure + vis endommagée 
+• Utilisation comme burin/levier → destruction outil + danger 
+• Angle incorrect (pas perpendiculaire) → sortie brutale 
+ 
+Entretien : 
+ 
+• Rejet si fissure sur lame 
+ 
+                       
+  
+Pointe de la lame 
+===== PAGE 29 =====
+Module 7.3 V06   Page 29 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Tournevis cruciformes  
+ 
+Description :  
+Tournevis avec une empreinte en forme de croix (+), utilisé pour visser et dévisser les vis à tête 
+cruciforme. 
+ 
+Applications en aéronautique : 
+• Visserie des panneaux d'accès 
+• Fixations d'équipements avionique 
+• Vis de connecteurs électriques 
+ 
+Règle de sélection :  
+Choisir la taille du tournevis en fonction de l'empreinte de la vis. Le tournevis doit s'engager 
+complètement dans l'empreinte sans jeu. 
+ 
+Exemple d'utilisation : 
+• Vis de panneau avionique A320 
+• Couple de serrage : 2-3 Nm (serrage manuel avec contrôle de la sensation) 
+ 
+    Défauts inacceptables : 
+• Embout usé ou poli → remplacement immédiat 
+• Glissement répété → vérifier la taille et l'état de l'embout 
+                 
+        
+  
+
+===== PAGE 30 =====
+Module 7.3 V06   Page 30 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Tournevis porte-embouts et accessoires 
+ 
+Avantages : 
+• Polyvalence maximale (1 manche + un set d’embouts) 
+• Embouts remplaçables si usure 
+• Longueurs variables (25, 50, 100 mm) 
+ 
+Accessoires courants : 
+• Rallonges : 50-150 mm (accès zones profondes) 
+• Cardan : accès angles jusqu'à 45° 
+• Cliquet réversible : vissage/dévissage rapide sans retirer outil 
+• Embouts magnétiques : maintien vis 
+ 
+Applications aéro : 
+• Câblage avionique (vis cruciformes multiples) 
+• Panneaux d'accès (visserie standardisée) 
+• Réglages équipements 
+ 
+    Limitations : 
+• Couple limité par carré 1/4" (max 20-30 Nm) 
+• Pour couples supérieurs → tournevis monobloc ou clé dynamométrique 
+ 
+Entretien : 
+• Nettoyer mandrin magnétique (limaille attirée) 
+• Vérifier usure embouts régulièrement 
+• Stockage organisé (boîte avec compartiments) 
+ 
+  
+
+===== PAGE 31 =====
+Module 7.3 V06   Page 31 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Clés à douilles et accessoires 
+ 
+Principe : système modulaire = douilles + entraînements + accessoires 
+ 
+Douilles 
+Entraînement (carré) : 
+• 1/4" (6,35 mm) : visserie légère, accès étroit 
+• 3/8" (9,5 mm) : usage général aéronautique 
+• 1/2" (12,7 mm) : boulonnerie importante (train, moteur) 
+• 3/4" (19 mm) : très gros serrages (rare en aéro, outillage spécial) 
+ 
+Types d'empreintes : 
+• 6 pans (hexagonal) : meilleur contact, couple élevé, boulonnerie serrée 
+• 12 pans (bi-hexagonal) : meilleurs serrages 
+• Torx : visserie haute résistance 
+• Allen (6 pans creux) : vis CHC (cylindrique à tête creuse) 
+ 
+Profondeur : 
+• Standard : boulons affleurants 
+• Longue : boulons saillants, accès tiges filetées profondes 
+ 
+Applications aéronautiques : 
+ 
+    Règles d'utilisation : 
+• Douille complètement engagée sur écrou/vis (6 ou 12 pans) 
+• Traction sur manche (jamais pousser → contrôle si glissement) 
+• Cliquet pour desserrage/serrage intermédiaire uniquement 
+ 
+ 
+Entretien : 
+• Nettoyage douilles (dégraissage si huile/graisse) 
+• Graissage léger carrés d'entraînement 
+• Vérification usure empreintes (remplacement si arrondies) 
+• Contrôle mécanisme cliquet (inversion franche, pas de jeu excessif) 
+ 
+ 
+  
+
+===== PAGE 32 =====
+Module 7.3 V06   Page 32 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Clés à œil  
+ 
+Caractéristiques : anneau fermé plusieurs pans, angle 15° ou 75° 
+selon modèles 
+ 
+Principe : contact sur les 6 faces de l'écrou → transmission 
+couple maximale 
+ 
+Avantages : 
+• Meilleure prise que clé à fourche (pas de déformation) 
+• Serrage/desserrage couples élevés 
+• Pas de risque glissement 
+ 
+Types d'angles : 
+• 0° (droit) : standard 
+• 15° : travail par retournement dans espaces confinés 
+• 75° : accès perpendiculaires 
+ 
+Applications aéro : 
+• Boulonnerie importante (couples > 80 Nm) 
+• Écrous difficiles d'accès 
+• Serrages critiques nécessitant sécurité 
+ 
+Exemple : 
+• Écrou M12 train d'atterrissage : clé à œil 19 mm 
+• Couple : 120 Nm 
+• Méthode : clé à œil pour desserrage (couple élevé), clé 
+dynamométrique pour repose 
+Limitation : 
+• Nécessite accès par-dessus l'écrou (pas latéral) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 33 =====
+Module 7.3 V06   Page 33 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Clés à cliquet (à rochet) réversibles 
+ 
+Constitution : tête à œil avec mécanisme cliquet 
+intégré + manche 
+ 
+Principe : rochet 72 dents = débattement 5° (vs 
+60° clé œil standard) 
+ 
+Avantages : 
+• Travail dans espaces très confinés 
+• Rapidité (pas de retrait entre chaque 
+mouvement) 
+• Inversion sens par levier 
+ 
+Applications aéro : 
+• Visserie répétitive (panneaux, capots) 
+• Boulonnerie en zone encombrée 
+• Démontage/montage rapide 
+ 
+    Limitations CRITIQUES : 
+• Ne JAMAIS utiliser pour serrage final 
+de boulonnerie critique 
+• Couple non contrôlé  
+• Usure mécanisme → jeu → couple 
+fluctuant 
+ 
+Procédure correcte : 
+1. Desserrage : clé à cliquet (rapide) 
+2. Dépose écrou à la main (derniers tours) 
+3. Repose écrou à la main jusqu'au contact 
+4. Pré-serrage : clé à cliquet (80% couple 
+final) 
+5. Serrage final : clé dynamométrique 
+OBLIGATOIRE 
+ 
+Entretien : 
+• Graissage mécanisme rochet (1 goutte 
+huile/6 mois) 
+• Vérification jeu : si débattement > 10° → 
+remplacement 
+• Nettoyage après usage en environnement 
+sale 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 34 =====
+Module 7.3 V06   Page 34 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Clés à fourche (plates) 
+ 
+Caractéristiques : mâchoires ouvertes en U, contact sur 2 faces de 
+l'écrou (à plat) 
+ 
+Avantages : 
+• Accès latéral possible (boulon long, tuyauterie traversante) 
+• Engagement/dégagement rapide 
+ 
+Inconvénients : 
+• Si contact sur 2 faces seulement il y a risque déformation si 
+couple excessif 
+• Transmission couple inférieure à clé à œil 
+• Risque glissement + arrondissement écrou 
+ 
+Règles d'utilisation : 
+• Fourche perpendiculaire à l'axe du boulon 
+• Tirer la clé (ne pas pousser → contrôle si glissement) 
+• Serrage progressif (pas de à-coups) 
+• Si couple > 60 Nm → il est préférable d’utiliser une clé à œil 
+ou dynamométrique 
+ 
+    Erreur fréquente : 
+• Clé trop grande (jeu dans fourche) → arrondissement 
+méplats écrou 
+• Toujours utiliser taille EXACTE 
+ 
+ 
+  
+
+===== PAGE 35 =====
+Module 7.3 V06   Page 35 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Clés mixtes 
+ 
+Caractéristiques : une extrémité à œil, une 
+extrémité à fourche, même ouverture 
+ 
+Principe : polyvalence maximale = avantages des 
+deux types 
+ 
+Utilisation typique : 
+1. Desserrage : côté œil (meilleur contact, 
+couple élevé) 
+2. Dévissage rapide : retourner sur côté 
+fourche (accès latéral) 
+3. Vissage rapide : côté fourche jusqu'au 
+contact 
+4. Serrage final : retourner côté œil (ou clé 
+dynamométrique si critique) 
+ 
+Applications aéro : 
+• Boulonnerie générale (M6 à M16) 
+• Fixations accessoires moteur 
+• Assemblages structures non critiques 
+ 
+Avantages vs jeu de clés séparées : 
+• Encombrement caisse à outils réduit (1 clé au 
+lieu de 2) 
+• Rapidité (retournement au lieu de 
+changement outil) 
+ 
+Set standard aéro : 
+• Tailles métriques : 8, 10, 11, 12, 13, 14, 17, 
+19, 22, 24 mm 
+• Tailles impériales (si avions US) : 1/4", 5/16", 
+3/8", 7/16", 1/2", 9/16", 5/8", 3/4" 
+ 
+ 
+ 
+  
+
+===== PAGE 36 =====
+Module 7.3 V06   Page 36 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Clés Allen (6 pans creux / BTR) 
+ 
+Dénomination : clé mâle hexagonale (6 pans), BTR = "Brevet Tête Ronde" 
+ 
+Formes : 
+Clé en L (coudée) : 
+• Branche courte : couple élevé (prise main sur branche longue) 
+• Branche longue : accès profond + rapidité (rotation continue) 
+• Tailles : 1,5 à 19 mm 
+ 
+Clé en T : 
+• Manche perpendiculaire 
+• Couple modéré bien contrôlé 
+• Vissage/dévissage rapide 
+ 
+Embouts pour tournevis/clé à douille : 
+• Carré 1/4" ou 3/8" 
+• Utilisation avec cliquet possible 
+Correspondance vis/clé : 
+Diamètre vis Taille Allen 
+M3 2,5 mm 
+M4 3 mm 
+M5 4 mm 
+M6 5 mm 
+M8 6 mm 
+M10 8 mm 
+M12 10 mm 
+ 
+ Règles d'utilisation : 
+Il faut impérativement enfoncée la clé à fond dans empreinte. 
+Si la clé n’est pas engagée complètement, il risque d’y avoir un arrondissement de l’empreinte 
+hexagonale 
+ 
+    Erreurs critiques : 
+Taille approximative : 
+• Allen 5 mm dans empreinte 6 mm alors il y a un arrondissement immédiat 
+• Vis irrécupérable alors il faut effectuer un perçage + extraction 
+ 
+Clé usée (méplats arrondis) : 
+• Le glissement va aggraver l’arrondissement de l’empreinte 
+• S’il y a un contrôle usure régulier alors il faut effectuer un remplacement préventif 
+ 
+ 
+  
+
+===== PAGE 37 =====
+Module 7.3 V06   Page 37 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.9. Gestion des outils 
+Exigence Part 145.A.45 : outils appropriés et maintenus en bon état 
+ 
+Traçabilité : 
+• Fiche individuelle (historique) 
+• Étiquetage (date étalonnage)  
+• Certificats (étalonnage, conformité) 
+ 
+Critères de retrait : Déformation, fissure, usure excessive, étalonnage hors tolérance → étiquetage 
+rouge "HORS SERVICE" 
+  
+===== PAGE 38 =====
+Module 7.3 V06   Page 38 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2. TYPES COMMUNS D’OUTILS ELECTRIQUE  
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et 
+pratiques des Types communs d'outils électrique pour la maintenance des aéronefs.  
+Une capacité à combiner et appliquer des éléments de connaissances séparés d'une 
+manière logique et compréhensible. Capacité à appliquer cette connaissance. [Niveau 
+3] 
+2.1. Outils 
+2.1.1. Les multimètres 
+ 
+Principe : Mesure tension, courant, résistance et continuité sans endommager circuits 
+ 
+Critères qualité (AMM/CMM) : 
+ 
+• Précision : ±2% (tension/résistance), ±5% (courant) 
+• Calibrage : À jour (tous les 12 mois) 
+• Impédance d'entrée : >10 MΩ (voltmètre) 
+• CAT III minimum pour systèmes avioniques 
+ 
+Procédure : 
+1. Vérifier calibrage et état des cordons 
+2. Sélectionner fonction et calibre appropriés 
+3. Circuit HORS TENSION (sauf mesure tension/courant) 
+4. Placer pointes de touche : rouge (+), noir (masse) 
+5. Lire valeur et comparer aux limites AMM 
+6. Documenter résultats sur fiche de contrôle 
+ 
+    Erreurs critiques : 
+• Mesure résistance sous tension → destruction multimètre 
+• Mauvais calibre → lecture erronée/danger 
+• Cordons endommagés → choc électrique 
+ 
+ 
+  
+
+===== PAGE 39 =====
+Module 7.3 V06   Page 39 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.2. Visseuse électrique 
+La visseuse électrique est un outil utiliser pour le visage et dévissage rapide des fixations non 
+critiques. Les visseuses électriques à vitesse variable sont utilisées par exemple pour les panneaux 
+d'accès, les capots moteur, les trappes de visite et les éléments d'intérieur cabine. 
+ 
+2.1.3. Lampe d’inspection 
+La lampe d'inspection est un équipement permettant l'éclairage des zones peu accessibles ou mal 
+éclairées de l'aéronef lors des inspections visuelles et des opérations de maintenance. Les modèles 
+modernes utilisent la technologie LED offrant une lumière blanche puissante (1000 à 3000 lumens), 
+une faible consommation énergétique et une durée de vie prolongée. 
+ 
+ 
+2.1.4. Ponceuse électrique 
+La ponceuse électrique est utilisée en maintenance aéronautique pour la préparation de surfaces 
+métalliques ou composites avant peinture, le décapage de revêtements dégradés, l'élimination de 
+corrosion superficielle et le ponçage de réparations structurales.  
+ 
+Deux types principaux sont employés :  
+La ponceuse orbitale (mouvement circulaire) pour les finitions et grandes surfaces planes. 
+La ponceuse excentrique (mouvement orbital + rotatif) offrant un meilleur compromis entre vitesse 
+d'abrasion et qualité de finition. 
+ 
+ 
+ 
+  
+
+===== PAGE 40 =====
+Module 7.3 V06   Page 40 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3. FONCTIONNEMENT ET UTILISATION DES OUTILS DE 
+MESURE DE PRECISION 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et 
+pratiques du fonctionnement et de l’utilisation des outils de mesure de précision pour 
+la maintenance des aéronefs.  Une capacité à combiner et appliquer des éléments de 
+connaissances séparés d'une manière logique et compréhensible. Capacité à 
+appliquer cette connaissance. [Niveau 3] 
+ 
+3.1. Les instruments de mesure à lecture directe  
+Il y a le réglet à lamelles flexibles en acier inoxydable précision de mesure 0.5mm 
+Puis les calibres à coulisse : mesure avec une précision allant du 1/10ème mm jusqu’au 1/50ème mm 
+pour le pied à coulisse d’atelier. 
+Et enfin les micromètres et palmers. 
+ 
+3.1.1. Règles et réglets 
+Les règles et réglets sont réalisés par gravure chimique profonde, ce qui évite l'effacement. 
+Les traits et les chiffres sont gravés en creux et apparaissent en noir par oxydation. 
+La surface reçoit un traitement satiné mat, antireflet. Les réglets sont agréables à lire, résistants à 
+l'abrasion. D'abord en acier trempé, les réglets sont aujourd'hui en inox ou en dural, flexibles, semi-
+rigides. La gamme se compose de près de 50 références allant de 150 millimètres à 5 mètres. À 
+partir de 500 millimètres, les règles sont poinçonnées DRIRE, attestant ainsi de leur conformité. 
+ 
+Règles inox Classe I avec certificat d'étalonnage. 
+Ces règles peuvent être utilisées comme étalon, par un service qualité, afin de contrôler 
+périodiquement, réglets et mètres à ruban ou directement comme outils de mesure. 
+Le certificat d'étalonnage est établi avec l'agrément Cofrac. 
+Un point de mesure est effectué tous les décimètres, la règle est numérotée et livrée avec le certificat. 
+Au même titre que les outils de métrologie et de dynamométrie, les outils de mesurage sont souvent 
+intégrés dans les procédures de certification qualité. 
+  
+
+===== PAGE 41 =====
+Module 7.3 V06   Page 41 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.2. Rapporteur d’angle 
+L’appareil comprend : 
+- Une partie fixe : secteur gradué et règle fixe. 
+- Une partie mobile : vernier règle coulissante. 
+➔ Modèle universel, précision 5'. 
+- Eviter les chocs. 
+- Eviter le contact avec les autres outils. 
+ 
+  
+ 
+- Graisser légèrement au suif propre après usage.  
+ 
+ 
+NOMENCLATURE 
+1. Secteur gradué. 
+2. Vernier. 
+3. Réglette coulissante. 
+4. Bouton de manœuvre et dispositif de blocage. 
+5. Dispositif de blocage de la réglette coulissante. 
+➔ Règle fixe.  
+  
+
+===== PAGE 42 =====
+Module 7.3 V06   Page 42 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+- LECTURE DES DEGRES 
+La graduation du vernier qui coïncide avec une division du secteur indique les minutes. 
+Sur la figure ci-contre du rapporteur, on peut lire : 30°. 
+ 
+- LECTURE DES DEGRES 
+La graduation du secteur immédiatement avant le zéro du vernier et situé entre les 2 repères, indique 
+le chiffre des degrés. 
+ 
+- LECTURE DES MINUTES 
+Se lit en douzième (1/12) de degré, soit de 5 en 5' d'angle. 
+C'est la graduation du vernier qui coïncide avec une division du secteur qui donne le chiffre des 
+minutes. 
+ 
+➔ Pour améliorer la lecture, on utilise une loupe, celle-ci est quelquefois montée sur l'instrument. 
+ 
+Exemple : 
+Les degrés : Repère du disque avant le zéro : 12°. 
+Les minutes : La graduation du vernier qui coïncide avec une division du secteur indique les minutes 
+: 30' Soit : 12° 30'. 
+ 
+3.1.3. Le calibre à coulisse 
+ 
+Instrument servant à mesurer avec précision des petites longueurs. On doit insérer l'objet à 
+mesurer dans les mâchoires du pied à coulisse et fermer ces mâchoires sur l'objet. Le pied à coulisse 
+est muni d'un vernier. Ce dispositif permet d'interpoler entre deux graduations de la règle. On obtient 
+alors une plus grande précision qu'avec une règle simple. 
+ 
+  
+  
+
+===== PAGE 43 =====
+Module 7.3 V06   Page 43 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.4. Pour relever des dimensions 
+- Compter les millimètre sur la règle, 
+- Pour obtenir la fraction de millimètre, relever sur l’échelle du coulisseau le nombre de 
+divisions précédant les 2 traits en regard 
+ 
+ 
+ 
+Sur l’exemple ci-contre, le zéro du vernier se trouve entre 0,7cm et 0,8cm. De plus, la cinquième 
+graduation du vernier est alignée avec une graduation de la règle. 
+ 
+La mesure est donc : 7 mm + 0,5 mm = 7,5 mm. 
+ 
+3.1.5. Entretien 
+Manipuler l'instrument avec soin pour lui garder sa précision. 
+ 
+Assigner au pied à coulisse une place le mettant à l'abri du contact avec les autres outils. Le poser 
+toujours dans son écrin. 
+ 
+Graisser au suif parfaitement 
+ 
+  
+
+===== PAGE 44 =====
+Module 7.3 V06   Page 44 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.6. Pied à coulisse à affichage digital 
+ 
+ 
+ 
+3.1.7. Le palmer 
+Instrument de précision qu'on doit utiliser avec soin. Il est muni d'un tambour qui tourne autour 
+d'une règle graduée. La règle fixe est graduée au demi-millimètre.  
+ 
+Les graduations supérieures correspondent aux millimètres et les graduations du bas aux demi-
+millimètres. Un tour du tambour correspond à 0,5mm et 50 graduations du tambour. Les graduations 
+valent 0,01 mm.  
+ 
+Donc, pour lire la mesure, on additionne la mesure de la règle fixe (en mm) et la graduation du 
+tambour (en centième de millimètre.) 
+  
+
+===== PAGE 45 =====
+Module 7.3 V06   Page 45 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Instrument de mesure dont les touches seules sont trempées ou à mises rapportées.  
+➔ La touche mobile est solidaire d'une vis micrométrique (généralement au pas de 0,5 mm) et 
+d'une douille graduée en 50 parties égales, chaque division vaut 0,01 on. 
+ 
+ 
+ 
+Bien observer si le bord de la douille est en regard d'une division indiquant les mm ou les 1/2 mm. 
+- Utiliser la friction pour effectuer les mesures. 
+- Eviter soigneusement les chocs aux instruments de vérification. 
+- Graisser légèrement après emploi. 
+ 
+Les palmers existent de 25 en 25 mm. 
+ 
+Exemple : 0 - 25 ; 25 - 50 ; 50 - 75 ; etc. 
+ 
+L'étalonnage du palmer est possible à l'aide de la jauge prévue à cet effet. 
+  
+
+===== PAGE 46 =====
+Module 7.3 V06   Page 46 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.7.1. Emploi du palmer 
+Le rapprochement des touches du palmer s'effectue en tournant la vis à pas fin (pas = 0,5mm). 
+ 
+Afin d'obtenir une pression constante des touches sur la pièce au cours des mesures successives 
+(donc une erreur minimale liée à l'opérateur), il faut limiter le couple de serrage appliqué à la vis.  
+ 
+Pour cela, il est nécessaire de manipuler uniquement le bouton moleté qui termine la vis de 
+manœuvre : un dispositif à friction limite le couple de serrage. 
+  
+Le micromètre d'extérieur est composé d'un corps généralement métallique, qui peut être recouvert 
+de matière plastique, sur lequel sont montées une touche fixe et une touche mobile.  
+La touche mobile est actionnée par un mécanisme de vis micrométrique. La lecture de la dimension 
+s'effectue grâce à un vernier complété éventuellement par un compteur ou un dispositif de lecture 
+numérique.  
+Le limiteur de couple permet d'exercer sur la pièce un serrage identique pour chaque mesure. Dans 
+le cas des micromètres d'extérieur il est généralement situé entre 5 et 20 newtons. 
+ 
+Principe vis micrométrique : Rotation → déplacement linéaire précis 
+ 
+Constitution : 
+• Pas de vis : 0,5 mm (1 tour = 0,5 mm) 
+• Tambour : 50 divisions 
+• Friction : limiteur couple 5-10 N 
+ 
+Calcul précision : Précision = Pas / Divisions = 0,5 / 50 = 0,01 mm 
+Lecture complète : 
+1. Règle supérieure : millimètres entiers 
+2. Règle inférieure : demi-millimètres (0,5) 
+3. Tambour : centièmes (×0,01) 
+ 
+Exemple : Règle : 12,5 mm / Tambour : 37 Mesure = 12,5 + (37 × 0,01) = 12,87 mm 
+  
+
+===== PAGE 47 =====
+Module 7.3 V06   Page 47 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Applications aéro : 
+ 
+Mesure Tolérance Action si hors limites 
+Axe train Ø50 +0/-0,02 mm Consulter SRM 
+Plaquette frein 8,0 mm mini Remplacement 
+Tige vérin Ø25 ±0,015 mm Remplacement 
+ 
+Exemple pratique : Axe charnière gouverne : neuf Ø20,00 / limite Ø19,95 Mesure : 19,93 mm → 
+HORS LIMITES → remplacement obligatoire 
+ 
+    Précautions : 
+• Température identique pièce/palmer (dilatation : 0,012 mm/m/°C) 
+• Serrage uniquement avec friction 
+• Nettoyage avant mesure 
+• Stockage touches écartées 
+ 
+Vérification étalonnage : Cale étalon fournie : tolérance ±0,005 mm Étalonnage : 12 mois 
+ 
+3.1.8. Le micromètre ou palmer 
+Il permet d'effectuer une lecture avec une précision de 1/1000ième mm. 
+➔ Constitution est identique aux Palmers. 
+➔ Equipé d'un vernier circulaire supplémentaire permettant d'évaluer le 1/10ème de 
+graduation du tambour mobile. Le micromètre d'intérieur est utilisé pour mesurer le diamètre 
+de trous cylindriques. 
+ 
+ 
+ 
+➔ Il en existe deux versions : 
+- Le micromètre d'intérieur trois touches (parfois appelé alésomètre). 
+- Le micromètre d'intérieur deux touches.  
+ 
+Le limiteur de couple est en général réglé entre : 
+- 10 et 15 N pour les micromètres ayant une capacité jusqu'à 30 mm. 
+- 15 et 20 N pour les micromètres ayant une capacité allant de 30 à 100 mm. 
+- 20 à 28 N pour les micromètres ayant une capacité supérieure à 100 m. 
+  
+
+===== PAGE 48 =====
+Module 7.3 V06   Page 48 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.9. Les instruments à mesures différentielles 
+Ces instruments ne donnent pas la cote exacte d'une pièce mais l'écart négatif ou positif par 
+rapport à la cote de référence. 
+ 
+3.1.10. Les comparateurs 
+ 
+Ces instruments permettent la lecture des différences négatives ou positives d'une pièce par 
+rapport à la pièce étalon. 
+Utilisation : 
+- Contrôle des parallélismes. 
+- Contrôle de la planéité. 
+- Comparaison par rapport à la cote étalon. 
+ 
+Il y a le contrôle planéité : 
+➔ Pièce sur marbre 
+➔ Zéro sur point central 
+➔ Balayage surface 
+➔ Planéité= écart max total 
+ 
+Exemple : Plateau frein Ø200, tolérance 0,05 mm Mesure : +0,02/-0,01 = écart 0,03 mm → OK 
+ 
+Puis le contrôle parallélisme :  
+Exemple : Bloc hydraulique, tolérance 0,02 mm Déviation : 0,015 mm → OK 
+ 
+Et enfin le contrôle circulaire : Rotation 360°, noter écart max/min 
+    Précautions : 
+• Ne pas dépasser la course du palpeur 
+• Perpendiculaire à surface 
+• Contact lent 
+ 
+Différents types : 
+- À cadran à amplification mécanique. 
+- À amplification mécanique à levier. 
+- À amplification pneumatique. 
+- À amplification optique. 
+ 
+  
+
+===== PAGE 49 =====
+Module 7.3 V06   Page 49 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.11. Les instruments de mesures par comparaison 
+ 
+Ils permettent le contrôle d'une dimension par comparaison à une dimension étalon. 
+Ce sont des instruments à dimensions fixes qui indiquent instantanément si la pièce est comprise 
+dans l'intervalle des tolérances. 
+Les catégories : 
+- Les jauges d’épaisseur, de filetage. 
+- Les cales. 
+- Les calibres et tampons. 
+ 
+3.1.12. Jauge de filetage 
+Les instruments de mesures directes ne permettent pas la vérification des pièces avec la précision 
+qu'exige la construction mécanique soignée.  
+ 
+➔ Pour le contrôle de ces pièces, on utilise des instruments à dimensions fixes appelés calibres. 
+Ils ne permettent pas de mesurer une dimension mais ils indiquent instantanément si la pièce 
+est comprise dans l'intervalle de tolérance fixé à l'avance. 
+Ils présentent l'avantage d'assurer l'interchangeabilité des pièces assemblées. 
+ 
+  
+
+===== PAGE 50 =====
+Module 7.3 V06   Page 50 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.13. Jeu de cales étalon 
+Matière : 
+La matière utilisée pour la fabrication doit avoir : 
+- Une bonne stabilité dimensionnelle afin de ne pas générer des écarts avec 
+sa longueur initiale.  
+- Une bonne résistance à l'usure. 
+ 
+Les cales étalon sont généralement en Acier, les faces mesurantes doivent avoir une dureté 
+Vickers d’au moins 800 HRV30. 
+Classes précision (NF E 11-010) : 
+Classe Tolérance Usage 
+00 ±0,0001 mm Étalon primaire 
+0 ±0,0002 mm Haute précision 
+1 ±0,0005 mm Réglage machines 
+2 ±0,001 mm Contrôle atelier 
+ 
+ 
+ 
+Il existe des cales de précision en céramique avec une très haute dureté ce qui garantit une très 
+bonne stabilité. 
+En principe, le fini des deux faces mesurantes permet une adhérence naturelle sous l'action des 
+forces moléculaire entre deux cales. 
+Classes de précision : 
+Cas de la norme française NF E 11-010. 
+ 
+Il y a six classes de précisions (par ordre croissant de précision) :  
+- 00 : cale de haute précision. 
+- K : étalon primaire pour étalonnage d'autres cales étalon (en entreprise). 
+- 0 : travaux précis de laboratoire.  
+- 1 : réglage précis pour travaux de mesure sur marbre ou étalon de transfert. 
+- 2 : réglages précis en atelier. 
+- 3 : vérification et réglage de machine. 
+ 
+  
+
+===== PAGE 51 =====
+Module 7.3 V06   Page 51 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Technique d'assemblage : 
+ 
+1. Nettoyer (éthanol) 
+2. Film graisse légère 
+3. Croiser à 90° 
+4. Glisser jusqu'à parallélisme 
+5. Adhérence = ensemble monolithique 
+ 
+Calcul hauteur : Décomposer en minimisant nombre de cales 
+Exemple : 47,386 mm = 1,006 + 1,38 + 5 + 40 = 4 cales 
+ 
+CRITIQUE : 
+• Ne JAMAIS laisser assemblées (déformation) 
+• Nettoyer après usage (corrosion = destruction) 
+• Gants coton (sudation = oxydation) 
+• Température 20°C ±1°C 
+Erreur thermique : ΔL = α × L × ΔT α = 0,000012/°C (acier) 
+Exemple : Cale 100 mm, écart 5°C ΔL = 0,000012 × 100 × 5 = 0,006 mm d'erreur 
+3.1.14. Calibre à limites 
+Principe binaire : 
+ 
+• GO (PASSE) : maxi matière → doit entrer 
+• NO GO (NE PASSE PAS) : mini matière → ne doit PAS entrer 
+ 
+Exemple : Alésage Ø50 H7 Tolérance : Ø50 +0,025/0 mm 
+• GO Ø50,000 → doit passer 
+• NO GO Ø50,025 → ne doit PAS passer 
+Interprétation : 
+GO NO GO Conclusion 
+     Pièce OK 
+    Trop petit → REBUT 
+      Trop grand → REBUT 
+ 
+Avantages : Contrôle rapide sans mesure Inconvénient : Pas de valeur numérique (pas de 
+diagnostic) 
+Étalonnage : 6 mois 
+ 
+➔ Outils de contrôle utilisés dans l'industrie mécaniques permettant de vérifier de façon simple le 
+respect des exigences fonctionnelles des pièces après usinage.  
+➔ Utilisés en cours de process de production ou de réception. 
+➔ Généralité et principe : 
+  
+
+===== PAGE 52 =====
+Module 7.3 V06   Page 52 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Le principe du contrôle d'une grandeur mécanique par calibre à limite est basé sur l'utilisation d'un 
+calibre entre et d'un calibre n’entre pas (parfois appelés GO et NO GO).  
+ 
+➔ Ce contrôle ne donne pas de renseignement sur la valeur de la grandeur.  
+➔ Il renseigne sur le fait que la grandeur mesurée est dans la tolérance spécifiée et nécessaire 
+pour assurer le fonctionnement d'un ensemble mécanique. 
+ 
+C'est donc en principe un contrôle de fabrication ou même de réception mais ce n'est pas une 
+mesure. Les calibres à limite ne sont pas des appareils mesureurs (un pied à coulisse par exemple).  
+ 
+Son avantage : 
+- Simplicité et la rapidité de la mesure.  
+ 
+Elle permet un tri des pièces mais elle ne permettra pas de faire un diagnostic sur une éventuelle 
+non-conformité. 
+ 
+La grandeur mesurée est dite dans la tolérance si : 
+- Le calibre entre n'interfère pas avec la grandeur, c’est-à-dire pénètre. 
+- Le calibre n’entre pas n'interfère pas avec la grandeur, c’est-à-dire ne pénètre pas. 
+ 
+Mesure intérieure (Exemple : alésage) : pièce dans la tolérance. 
+ 
+ 
+  
+
+===== PAGE 53 =====
+Module 7.3 V06   Page 53 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4. EQUIPEMENTS ET METHODES DE LUBRIFICATION 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et 
+pratiques des équipements et méthodes de lubrification pour la maintenance des 
+aéronefs.  Une capacité à combiner et appliquer des éléments de connaissances 
+séparés d'une manière logique et compréhensible. Capacité à appliquer cette 
+connaissance. [Niveau 3] 
+4.1. Equipements et méthodes de lubrification 
+La fonction d’un lubrifiant est de favoriser le mouvement ou le glissement entre deux surfaces 
+frottantes. 
+4.1.1. Lubrification à la graisse 
+Exemple de graissage de roulement 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 54 =====
+Module 7.3 V06   Page 54 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+Elle protège l’équipement contre la corrosion, assure une certaine étanchéité en s’opposant à l’entrée 
+des impuretés. 
+- Graissage par garnissage au montage : Solution simple et usuelle. 
+- Graisseurs : ils sont utilisés lors des graissages périodiques. 
+ 
+Spécifications militaires : 
+ 
+Spécification Types Usage 
+MIL-PRF-81322 High pressure (22) LDG/ Bearing 
+MIL-PRF-23827C High pressure (7) Général (train) 
+MIL-G-4343C Graisse silicone Système pneumatique, 
+joint 
+ 
+Procédure de graissage pour les roulements : 
+ 
+1. Dégraissage complet 
+2. Inspection (corrosion, piqure corrosion) 
+3. Application quantité (voir manuel de maintenance) 
+4. Rotation manuelle 
+5. Essuyer l’excédent 
+6. Enregistrement (date, réf., lot) 
+ 
+Procédure de graissage pour train d’atterrissage ou commande de vol : 
+ 
+1. Nettoyage de la zone 
+2. Inspection des éléments du système 
+3. Préparer ou récupérer la pompe et la bonne graisse (voir AMM) 
+4. Repérer les points de graissage (voir AMM) 
+5. Graisser à l’aide des têtes de graissage jusqu’à ce que la graisse neuve sorte des rotules. 
+6. Enlever la veille graisse et tout l’excédent de graisse neuve 
+ 
+Exemple de Périodicité AMM : 
+• Roulement : 500 cycles ou 12 mois 
+• Commandes vol : 100 heures 
+  
+
+===== PAGE 55 =====
+Module 7.3 V06   Page 55 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.1.2. Lubrification à l’huile 
+Elle permet d’obtenir un frottement onctueux, mixte, ou hydromécanique.  
+Certains équipements de l’aéronef peuvent être lubrifié (pallier moteur, engrenage démarreur, 
+engrenage alternateur et certain élément de commande de vol comme les volets). Dans ce cas le 
+système contient un réservoir d’huile et un moyen de distribuer l’huile aux engrenages.  
+D’autre éléments de l’aéronef comme toutes les partie charnière (portes, trappes, …) sont lubrifiés 
+manuellement avec de l’huile ou un aérosol. 
+Lors de travaux de chaudronnerie les techniciens utilisent les lubrifiants pour faciliter l’usinage des 
+pièces. 
+On utilise une burette d’huile, aérosol lps5, … 
+ 
+Spécification Type Usage 
+MIL-PRF-23699F Turbo oil 2380/Mobil jet II Turbines 
+AIR-3515B Huile type 3CST Flexible et câbles de 
+commandes 
+MIL-PRF-16173D  Inhibiteur corrosion Charnières 
+ 
+Autre exemple d’aérosol : 
+LPS-1 (Light Petroleum Solvent) 
+ 
+Spécification : MIL-L-87177 
+Applications : 
+• Lubrification légère câbles de commande 
+• Dégrippage articulations 
+• Protection temporaire contre la corrosion 
+• Pénètre rapidement dans les interstices Avantages : Évaporation rapide du solvant, laisse un 
+film lubrifiant léger 
+Corrosion X Aviation 
+ 
+ 
+Spécification : Approuvé aviation (références constructeurs) 
+Applications : 
+• Câbles de commande 
+• Charnières de portes et trappes 
+• Mécanismes exposés aux intempéries 
+• Protection anticorrosion longue durée Avantages : Formulation spéciale aviation, diélectrique 
+(compatible électronique) 
+  
+
+===== PAGE 56 =====
+Module 7.3 V06   Page 56 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ACF-50 (Anti-Corrosion Formula) 
+ 
+Spécification : Approuvé par nombreux constructeurs (Boeing, Airbus, etc.) 
+Applications : 
+• Protection anticorrosion structures 
+• Lubrification câbles et articulations 
+• Traitement préventif zones sensibles (aluminium, magnésium) 
+• Pénétration capillaire dans interstices Avantages : Très utilisé en aviation générale et 
+commerciale, déplace l'humidité 
+ 
+Procédure de lubrification à l’huile pour les charnières : 
+ 
+1. Dégraissage complet 
+2. Inspection (corrosion, non grippage) 
+3. Application quantité (voir manuel de maintenance) 
+4. Rotation manuelle 
+5. Essuyer l’excédent 
+6. Enregistrement (date, réf., lot) 
+ 
+Procédure de lubrification l’huile pour train vérins de commande de vol : 
+ 
+1. Nettoyage de la zone 
+2. Inspection des éléments du système (corrosion et piqure de corrosion, écaillage) 
+3. Préparer ou récupérer la burette d’huile avec la bonne huile (voir AMM) 
+4. Repérer les points de remplissage (voir AMM) 
+5. Remplir le réservoir jusqu’au trop plein 
+6. Nettoyer l’excédant 
+ 
+ 
+            
+ 
+ 
+  
+
+===== PAGE 57 =====
+Module 7.3 V06   Page 57 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+VIDEO-2026-01-14-1
+4-53-57.mp4
+ 
+ 
+ 
+  
+
+===== PAGE 58 =====
+Module 7.3 V06   Page 58 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+4.1.3. Equipements de lubrification 
+Pompe à graisse manuelle : 
+ 
+• Pression : 150-400 bar 
+• Volume/coup : 1-2 cm³ 
+Voir manuel du constructeur 
+ 
+ 
+Pompe à graisse pneumatique : 
+ 
+• Pression de service minimal : 6 bar 
+• Pression de service maximale : 400 bar 
+ 
+Voir manuel du constructeur 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 59 =====
+Module 7.3 V06   Page 59 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Burette d’huile : 
+ 
+ 
+ 
+ 
+Graissage manuelle/pinceaux : 
+ 
+Le graissage manuel au pinceau est une méthode traditionnelle utilisée en maintenance aéronautique 
+pour lubrifier les surfaces accessibles et les mécanismes ne disposant pas de graisseur. Cette 
+technique s'applique principalement aux articulations de commandes de vol, aux charnières de portes 
+et trappes, aux glissières de sièges, aux câbles de commande et aux surfaces de portée de 
+roulements lors du montage. 
+ 
+La graisse est prélevée dans son contenant d'origine à l'aide d'un pinceau propre et spécifiquement 
+dédié à cet usage, puis appliquée en couche fine et uniforme sur les surfaces à protéger. Il est 
+impératif d'utiliser uniquement la graisse spécifiée par le manuel de maintenance (AMM) et de 
+respecter la quantité recommandée : une surépaisseur de graisse attire les contaminants 
+(poussières, limaille) et peut durcir avec le temps, tandis qu'une application insuffisante n'assure pas 
+la protection requise. 
+ 
+Le pinceau doit être maintenu propre et exempt de corps étrangers. Après utilisation, il convient de le 
+nettoyer avec un solvant approprié et de le stocker dans un endroit protégé. Cette méthode, bien que 
+simple, demeure essentielle pour garantir le bon fonctionnement et la durée de vie des mécanismes 
+non équipés de systèmes de graissage sous pression. 
+ 
+Procédure de graissage manuelle ou pinceau : 
+ 
+1. Dégraissage 
+2. Utiliser des gants ou pinceau propre 
+3. Appliquer la graisse par petite couches 
+4. Essuyer l’excédant 
+  
+
+===== PAGE 60 =====
+Module 7.3 V06   Page 60 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5. FONCTIONNEMENT, FONCTION ET UTILISATION DES 
+EQUIPEMENTS D’ESSAI GENERAL ELECTRIQUE 
+ 
+Rappel des objectifs : Une connaissance détaillée des aspects théoriques et 
+pratiques des fonctionnement, fonction et utilisation des équipements d’essai général 
+électrique pour la maintenance des aéronefs.  Une capacité à combiner et appliquer 
+des éléments de connaissances séparés d'une manière logique et compréhensible. 
+Capacité à appliquer cette connaissance. [Niveau 3] 
+ 
+5.1. Principes fondamentaux 
+RAPPEL : 
+ 
+Grandeurs électriques : 
+ 
+Tension (U) : différence de potentiel - Volt (V) Intensité (I) : débit de charges - Ampère (A) 
+Résistance (R) : opposition au courant - Ohm (Ω) Puissance (P) : énergie/temps - Watt (W) 
+ 
+LOI D'OHM (FONDAMENTAL) : 
+ 
+U = R × I 
+ 
+Variations : 
+ 
+• R = U / I 
+• I = U / R 
+ 
+Formules puissance : 
+ 
+• P = U × I 
+• P = R × I² 
+• P = U² / R 
+ 
+Exemple aéro : Résistance dégivrage 3000 W sous 115 VAC 
+• Calcul intensité : I = P/U = 3000/115 = 26 A 
+• Section câble (5 A/mm²) : 26/5 = 5,2 → câble 6 mm² 
+• Fusible : 32 A (calibre supérieur) 
+ 
+5.1.1. Rôles et intérêt en maintenance 
+ 
+L’électricité étant une énergie invisible, le multimètre va nous permettre de vérifier sa présence ou 
+son absence. Ceci sera très utile en cas de défaillance. Il est quasiment impossible de pouvoir 
+localiser une défaillance d’origine électrique sans utiliser un multimètre. C’est un outil comportant une 
+partie commande et/ou une partie puissance utilisant l’énergie électrique. 
+  
+
+===== PAGE 61 =====
+Module 7.3 V06   Page 61 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.1.2. Les appareils de mesures électrique 
+➔ Les appareils à affichage par aiguille (analogique) qui se font de plus en plus rares car ils sont 
+moins pratiques que les numériques. La mesure est transmise à un bobinage monté sur un 
+cadre mobile qui supporte une aiguille Leur avantage est qu’ils permettent de visualiser les 
+valeurs qui oscillent. 
+ 
+➔ Les appareils à affichage digital (numérique) sont les plus couramment utilisés en 
+maintenance. Ils sont simples, très précis, et se calibrent automatiquement. 
+ 
+Le multimètre numérique peut avoir plusieurs rôles : 
+ 
+  
+ 
+A. Mesure d’intensité (ampèremètre) 
+ 
+Montage : SÉRIE 
+ 
+ 
+Procédure : 
+1. Couper alimentation (IMPÉRATIF) 
+2. Ouvrir circuit 
+3. Sélectionner calibre 10A 
+4. Connexion : COM → amont / 10A → aval 
+5. Remettre sous tension et lire 
+ 
+    Si I > 10A → PINCE AMPÈREMÉTRIQUE (mesure inductive sans coupure)  
+  
+
+===== PAGE 62 =====
+Module 7.3 V06   Page 62 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+B. Mesure de tension (voltmètre) 
+ 
+Montage : PARALLÈLE 
+ 
+ 
+Procédure : 
+1. Sélectionner calibre supérieur (200 VDC si attendu 28 VDC) 
+2. Connexion : COM (noir) → masse / V (rouge) → point test 
+3. Lire valeur 
+4. Interprétation : 28 VDC ±5% = 26,6-29,4 VDC acceptable 
+ 
+Exemple AMM : Bus DC avion : nominal 28 VDC, limites 24-30 VDC 
+• Si < 24 VDC → batterie déchargée → recharge/remplacement 
+• Si > 30 VDC → régulateur défaillant → remplacement 
+ 
+    Erreurs : 
+• Multimètre en série → destruction 
+• Calibre trop faible → surcharge 
+• Mode DC au lieu AC → mesure erronée 
+ 
+C. Mesure de résistance (ohmmètre) 
+ 
+L’appareil se monte en PARALLÈLE du composant à tester, sur un circuit HORS TENSION 
+ 
+Procédure : 
+1. Mettre hors tension + décharger condensateurs 
+2. Isoler le composant à tester (déconnecter au moins 1 côté) 
+3. Mesurer 
+ 
+Interprétation : 
+ 
+Lecture Signification 
+0 Ω ou OL.0 Court-circuit 
+< 0 mΩ Continuité OK 
+> 1 MΩ Isolation ou coupure 
+OL (overload) Circuit ouvert 
+  
+
+===== PAGE 63 =====
+Module 7.3 V06   Page 63 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Tests aéronautiques : 
+ 
+Élément R attendue Interprétation 
+Câble Cu 1m/2,5mm² < 0,01 Ω Continuité OK 
+Filament lampe 28V/5W 157 Ω (U²/P) Lampe OK 
+Isolation câble/masse > 10 MΩ Isolation OK 
+Sonde Pt100 à 0°C 100 Ω Sonde OK 
+ 
+ 
+Actions correctives : 
+• R câble > 1 Ω/m → sertissage défectueux → remplacer 
+• R bobinage = ∞ → bobinage coupé → remplacer moteur 
+• R isolation < 1 MΩ → défaut isolation → réparer 
+ 
+D. Test diodes 
+ 
+Diode :  
+ 
+ 
+Sens Lecture Interprétation 
+Passant 0,5-0,8 V Diode OK 
+Bloquant OL Diode OK 
+Passant + Bloquant 0 V Court-circuit 
+Passant + Bloquant OL Diode coupée 
+ 
+ 
+ 
+5.1.3. Mégohmmètre 
+Le Mégohmmètre est un testeur d'isolement électrique, ça fonction est de mesurer une résistance 
+très élevée sous haute tension (250, 500, 1000 VDC). 
+ 
+Principe : R isolation = U appliquée / I fuite 
+ 
+Spécifications aéro : 
+ 
+Type câble Tension test R mini 
+28 VDC 500 VDC > 20 MΩ 
+115 VAC 1000 VDC > 50 MΩ 
+200 VDC HT 1000 VDC > 100 MΩ 
+  
+
+===== PAGE 64 =====
+Module 7.3 V06   Page 64 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Procédure AMM : 
+1. Isoler le circuit à tester (attention à l’avionique sensible à la tension de test) 
+2. Interdiction de tester les métallisations (mise à la masse) 
+3. Brancher l’équipement sur le circuit  
+4. Appliquer la tension pendant 1 minute 
+5. Lire la résistance 
+6. Débrancher l’équipement du circuit 
+ 
+Action corrective : Si R inférieur au seuil il y a dégradation de l’isolation (humidité, usure). Une des 
+actions à mener est de sécher (étuve 60°C) ou remplacer. 
+5.1.4. Les grandeurs mesurées 
+Il est nécessaire, avant d’effectuer un test, de connaître la grandeur que l’on veut mesurer pour 
+pouvoir sélectionner le bon calibre du multimètre. 
+ 
+Grandeur 
+mesurée 
+Unité de mesure Symbole Position du 
+multimètre 
+Équivalence en 
+hydraulique ou 
+en pneumatique 
+Tension      (U) Le Volt V Voltmètre Pression 
+Intensité      (I) L’Ampère A Ampèremètre Débit 
+Résistance  (R) L’Ohm Ω Ohmmètre Pertes de charge 
+Puissance    (P) Le Watt W Wattmètre Puissance 
+ 
+Exemples : 
+Pour vérifier si un moteur électrique est correctement alimenté par le système, on mesure la 
+tension entre phases au niveau de la boîte à bornes, on attend une tension U. 
+5.1.5. Constituants d’un multimètre 
+N° DESIGNATION FONCTION (S) 
+1 Interrupteur ou position « off ». Mise en / ou hors service de l’appareil. 
+2 Ecran à cristaux liquides. Affichage de la valeur et de l’unité. 
+3 Commutateur pour la sélection des 
+modes et des calibres. 
+V AC : mesure de tensions alternatives. 
+mV DC : mesure de tensions continues < 1 Volt. 
+V DC : mesure de tensions continues > 1 Volt. 
+Ω : mesure de résistance ou d’impédance. 
+┤├ : mesure de capacité (condensateurs). 
+mA AC : mesure d’intensités alternatives < 1A. 
+mA DC : mesure d’intensités continues < 1A. 
+10A AC : mesure d’intensités alternatives < 10A. 
+4 Douille d’entrée COM. Entrée commune pour toutes les mesures. 
+5 Douille d’entrée V et Ω. Entrée pour mesures de tension, résistance, 
+capacité ou contrôle des diodes. 
+6 Douille d’entrée Ma. Entrée pour mesure d’intensité entre 0 et 1 A. 
+7 Douille d’entrée A ou 10A. Entrée pour mesure d’intensité entre 1 et 10 A. 
+8 Cordons de mesure. Permettent la connexion électrique entre le 
+multimètre et le circuit ou le composant. 
+===== PAGE 65 =====
+Module 7.3 V06   Page 65 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+ 
+  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+===== PAGE 66 =====
+Module 7.3 V06   Page 66 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.1.6. Sécurité électrique 
+Effets du courant sur le corps : 
+ 
+Intensité Effets 
+< 0,5 mA Aucun 
+10-30 mA Contractions, lâcher impossible 
+30-100 mA Tétanisation respiratoire 
+> 100 mA FIBRILLATION → MORTEL 
+ 
+Calcul choc électrique : Corps humain : 1000-2000 Ω (peau sèche) I = U / R 
+Exemple : Contact 230 VAC I = 230/1500 = 153 mA → DANGER MORTEL 
+ 
+Tensions limites sécurité : 
+• Ambiance sèche : 25 VAC / 60 VDC  
+• Ambiance humide : 12 VAC / 30 VDC 
+ 
+Règles de sécurité obligatoires : 
+1. Hors tension avant intervention 
+2. VAT (Vérification Absence Tension) avec multimètre 
+3. Consignation/déconsignation selon procédure 
+4. EPI : gants isolants si > 50V 
+5. Multimètre CAT III minimum en aéronautique 
+ 
+Norme : IEC 61010 (sécurité appareils de mesure) 
+ 
+  
+===== PAGE 67 =====
+Module 7.3 V06   Page 67 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.1.3. Oscilloscopes 
+L'oscilloscope est un instrument de mesure électronique permettant de visualiser et 
+d'analyser l'évolution temporelle de signaux électriques.  
+En aéronautique, il est indispensable pour le diagnostic des systèmes avioniques, la 
+détection d'anomalies sur les signaux des capteurs et l'analyse des bus de données.  
+ 
+Principe de fonctionnement : 
+ 
+Le signal électrique est converti et affiché sur un écran. L'axe horizontal représente le temps 
+(base de temps en s/div ou ms/div), l'axe vertical représente l'amplitude du signal (sensibilité 
+en V/div ou mV/div). 
+La fréquence se calcule par : f = 1/T (où T = période mesurée). 
+ 
+Utilisation en maintenance aéronautique : 
+ 
+L'oscilloscope permet de : 
+• Vérifier la forme d'onde des signaux 
+• Mesurer les tensions crête-à-crête et les fréquences 
+• Détecter les parasites électromagnétiques 
+• Contrôler les temps de montée et de descente 
+ 
+Le technicien doit configurer correctement les paramètres (couplage AC/DC, impédance 
+d'entrée, déclenchement) selon les procédures AMM. L'analyse comparative entre les 
+mesures relevées et les valeurs constructeur permet de déterminer les actions correctives : 
+remplacement de composants, ajustements ou investigations complémentaires. 
+  
+
+===== PAGE 68 =====
+Module 7.3 V06   Page 68 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.1.4. Testeurs d'alternateurs 
+Le testeur d'alternateur est un équipement spécialisé destiné à vérifier le bon fonctionnement 
+des alternateurs embarqués qui assurent la production d'énergie électrique en vol.  
+Les alternateurs convertissent l'énergie mécanique en énergie électrique alternative 
+(généralement 115/200V triphasé 400Hz). 
+  
+ 
+Principe de fonctionnement : 
+ 
+Le testeur simule les conditions de charge réelles et mesure : 
+• La tension de sortie (V) 
+• Le courant débité (A) 
+• La fréquence (Hz) 
+• Le facteur de puissance 
+• La régulation de tension 
+ 
+La puissance électrique est calculée par : P = U × I × √3 × cos φ (pour système triphasé). 
+ 
+Utilisation en maintenance aéronautique : 
+ 
+Le test s'effectue selon les procédures du constructeur : 
+• Contrôle à vide et en charge 
+• Vérification du régulateur de tension 
+• Test de la protection contre les surcharges 
+• Mesure du rendement 
+ 
+Le technicien compare les résultats aux tolérances spécifiées dans la documentation 
+technique. Toute déviation permet d'identifier les défaillances (régulateur défectueux, 
+bobinages endommagés, roulements usés) et de déterminer les actions correctives 
+appropriées : réglage, réparation ou remplacement complet de l'alternateur. 
+  
+
+===== PAGE 69 =====
+Module 7.3 V06   Page 69 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.1.5. Testeur de mise à la masse 
+Le testeur de mise à la terre est un instrument de sécurité essentiel vérifiant la continuité et 
+la qualité des liaisons électriques entre les masses métalliques de l'aéronef et la terre.  
+Une mise à la terre efficace protège le personnel, prévient les décharges électrostatiques et 
+assure la protection contre les défauts d'isolement. 
+ 
+ 
+Principe de fonctionnement : 
+ 
+Le testeur injecte un courant de test connu à travers la liaison de terre et mesure la chute de 
+tension résultante. Il calcule automatiquement la résistance selon la loi d'Ohm : R = U / I. 
+Les valeurs acceptables en aéronautique sont généralement : 
+• Résistance de liaison : < 0,1 Ω 
+• Continuité de masse : < 0,01 Ω selon les points de mesure 
+ 
+Utilisation en maintenance aéronautique : 
+ 
+Les tests de mise à la terre sont obligatoires : 
+• Lors des opérations de maintenance majeures 
+• Après remplacement de composants électriques 
+• Suite à des impacts (foudre, décharges électrostatiques) 
+• Selon la périodicité définie par le programme de maintenance 
+ 
+Le technicien nettoie les points de contact, effectue les mesures selon les procédures 
+constructeur et compare les résultats aux seuils acceptables. Une résistance excessive 
+indique une corrosion, des connexions desserrées ou des conducteurs endommagés. Les 
+actions correctives incluent : nettoyage des contacts, resserrage des connexions, 
+remplacement des tresses de masse ou traitement anticorrosion. 
+  
+
+===== PAGE 70 =====
+Module 7.3 V06   Page 70 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+5.1.6. Testeur de résistance de terre 
+Le testeur de résistance de terre mesure la résistance électrique entre un point de mise à la 
+terre et la terre elle-même.  
+En environnement aéronautique au sol (hangars, ateliers, zones de stationnement), il garantit 
+l'efficacité des systèmes de protection électrique des installations fixes et mobiles. 
+ 
+ 
+Principe de fonctionnement : 
+ 
+Le testeur utilise généralement la méthode à 3 ou 4 points : 
+• Injection d'un courant alternatif entre une électrode de terre et une électrode auxiliaire 
+• Mesure de la différence de potentiel via une ou plusieurs sondes de référence 
+• Calcul automatique de la résistance : R = U / I 
+ 
+Les normes aéronautiques exigent des valeurs typiques < 10 Ω pour les installations 
+critiques. 
+ 
+Utilisation en maintenance aéronautique : 
+ 
+Les contrôles périodiques concernent : 
+• Les prises de terre des GPU (Ground Power Unit) 
+• Les points de masse des hangars et ateliers 
+• Les installations de ravitaillement en carburant 
+• Les équipements de test au sol 
+ 
+Le technicien plante les électrodes auxiliaires selon la configuration recommandée (distances 
+spécifiques), lance la mesure et interprète les résultats selon les seuils définis par les normes 
+locales et les instructions d'installation.  
+Une résistance excessive révèle un assèchement du sol, une corrosion de l'électrode ou une 
+configuration inadéquate. Les actions correctives incluent : humidification du sol, ajout 
+d'électrodes supplémentaires, traitement chimique du sol ou remplacement complet du 
+système de mise à la terre. 
+  
+
+===== PAGE 71 =====
+Module 7.3 V06   Page 71 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 
+ 
+Mode Vac ou mesure de tension alternative : 
+Le multimètre est branché en parallèle ; 
+On lit ici la présence d’une tension de 230,2 Volts ~ entre les 
+bornes 1 et N du sectionneur tétrapolaire Q1. 
+On peut donc en déduire qu’il est alimenté par un réseau où la tension entre phase et 
+neutre est de 230 V ~ 
+                               
+ 
+Mode Vdc ou mesure de tension continue : 
+Le multimètre est branché en parallèle. 
+On lit ici la présence d’une tension de 24,3 Volts = entre les bornes + et - du pont de 
+diodes ou redresseur P1. 
+Un redresseur est utilisé pour transformer une tension alternative en tension continue. 
+Exemples de générateurs de tension continue : Batteries, piles. 
+                       
+ 
+
+===== PAGE 72 =====
+Module 7.3 V06   Page 72 sur 72 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Mode Ω ou mesure d’impédance : 
+Le multimètre est branché en parallèle. 
+On lit ici la présence d’une impédance de 0,04 Ω entre les bornes 1 et 2 du voyant H1. 
+On peut en déduire que le filament de la lampe du voyant peut conduire le courant et que 
+par conséquent la lampe est en bon état. 
+Une impédance très faible indique une continuité.  
+Une impédance très forte indique une isolation. 
+                      
+ 

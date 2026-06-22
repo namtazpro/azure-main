@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "question": "Lors de l'inspection d'un engrenage, un jeu de denture excessif (backlash) provoque principalement :",
+      "options": {
+        "A": "une augmentation du couple transmis sans risque immédiat",
+        "B": "des chocs et vibrations qui accélèrent l'usure des dents et peuvent dégrader rapidement la transmission",
+        "C": "un polissage uniforme acceptable selon l'AMM"
+      },
+      "correct": "B",
+      "explication": "Le module indique qu'un jeu excessif provoque des chocs et des vibrations en fonctionnement, ce qui accélère l'usure des dents et peut entraîner une dégradation rapide de la transmission. Un jeu hors tolérance est rédhibitoire et impose le changement des pièces défectueuses.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle différence le module établit-il entre grippage à chaud et grippage à froid d'un engrenage ?",
+      "options": {
+        "A": "Le grippage à chaud est dû à la rupture du film d'huile par surchauffe ; le grippage à froid résulte de fortes pressions de contact combinées à une lubrification insuffisante, souvent à faible vitesse",
+        "B": "Le grippage à chaud apparaît à faible vitesse, le grippage à froid à haute vitesse",
+        "C": "Le grippage à chaud est toléré sous surveillance ; le grippage à froid impose le remplacement systématique"
+      },
+      "correct": "A",
+      "explication": "Le module précise que le grippage à chaud est dû à la rupture du film d'huile par surchauffe dans les zones à fort glissement, alors que le grippage à froid provient de fortes pressions de contact avec lubrification insuffisante, souvent à faible vitesse, créant microsoudures et arrachements superficiels.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Les tapures de trempe observées sur un engrenage résultent :",
+      "options": {
+        "A": "d'une exposition prolongée à l'humidité",
+        "B": "d'un refroidissement trop rapide lors du traitement thermique ou d'un défaut métallurgique",
+        "C": "d'un contact métal/métal sous charge cyclique"
+      },
+      "correct": "B",
+      "explication": "Le module définit les tapures de trempe comme des microfissures dues au traitement thermique, résultant d'un refroidissement trop rapide ou d'un défaut métallurgique. Le défaut est rédhibitoire et impose le remplacement immédiat de l'engrenage.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Visuellement, des piqûres (pitting) sur le flanc d'une dent d'engrenage se présentent sous la forme :",
+      "options": {
+        "A": "de stries longitudinales avec un aspect mat",
+        "B": "de bourrelets et d'arêtes déformées",
+        "C": "de petits trous circulaires évoquant un aspect grêlé"
+      },
+      "correct": "C",
+      "explication": "Le module décrit les piqûres comme des micro-cratères ayant l'aspect de petits trous circulaires évoquant un aspect grêlé. Les stries longitudinales mates caractérisent l'abrasion, les bourrelets et arêtes déformées caractérisent le refoulement.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La surface de rupture d'une dent d'engrenage rompue par fatigue présente typiquement :",
+      "options": {
+        "A": "une zone lisse de propagation et une zone granuleuse de rupture finale",
+        "B": "une surface entièrement cristalline et nette",
+        "C": "un réseau de microfissures comparable à une céramique"
+      },
+      "correct": "A",
+      "explication": "Le module indique que la rupture par fatigue laisse une surface avec une zone lisse correspondant à la propagation progressive de la fissure et une zone granuleuse de rupture finale. La surface cristalline nette caractérise une rupture fragile, le réseau craquelé caractérise le faïençage.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "L'écaillage (spalling) des dents d'engrenage se distingue des piqûres car il correspond à :",
+      "options": {
+        "A": "un polissage léger et homogène acceptable selon l'AMM",
+        "B": "un arrachement de plaques de matière sur le flanc des dents évoluant vers une rupture de la couche supérieure",
+        "C": "une déformation lente et permanente du profil sous charge élevée"
+      },
+      "correct": "B",
+      "explication": "Le module définit l'écaillage comme un arrachement de plaques de matière sur le flanc des dents évoluant vers une rupture de la couche supérieure ; la criticité est élevée et la pièce devient non-navigable. Le polissage homogène désigne le brunissage, la déformation lente désigne le fluage.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors de la mesure du jeu de denture à la jauge d'épaisseur, après avoir fixé un engrenage et inséré la jauge entre deux dents en prise puis pris le point de référence par léger contact, l'étape suivante consiste à :",
+      "options": {
+        "A": "mesurer directement la longueur de l'arc de rotation depuis le point de référence",
+        "B": "retirer immédiatement la jauge pour la nettoyer avant nouvelle mesure",
+        "C": "continuer à faire tourner l'engrenage non fixé jusqu'à ce qu'un contact ferme soit établi et que la jauge ne puisse plus être retirée"
+      },
+      "correct": "C",
+      "explication": "Le module détaille la procédure : étape 3 = léger contact (point de référence), étape 4 = continuer la rotation jusqu'à contact ferme et impossibilité de retirer la jauge, étape 5 = mesurer la longueur d'arc ou le nombre de degrés correspondant au jeu.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une transmission nécessitant une synchronisation précise sans glissement, quel type de courroie est privilégié selon les critères de sélection du module ?",
+      "options": {
+        "A": "Courroie trapézoïdale V-Belt (friction seule)",
+        "B": "Courroie Poly-V",
+        "C": "Courroie crantée Timing belt trapézoïdale ou HTD curvilinéaire (engrènement positif)"
+      },
+      "correct": "C",
+      "explication": "Le module classe la synchronisation précise comme « Non » pour la V-Belt, « Moyenne » pour la Poly-V, et « Excellente » pour les Timing belt et HTD qui fonctionnent par engrènement positif sans glissement.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une courroie présentant une fissuration longitudinale dont la profondeur est mesurée à 25 % de l'épaisseur, la décision imposée par le module est :",
+      "options": {
+        "A": "remplacement obligatoire",
+        "B": "surveillance rapprochée acceptable",
+        "C": "aucune action, défaut mineur"
+      },
+      "correct": "A",
+      "explication": "Le module fixe le seuil à 20 % d'épaisseur : profondeur inférieure à 20 % impose une surveillance rapprochée, profondeur supérieure à 20 % impose le remplacement obligatoire. À 25 %, le seuil est dépassé.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Face à une fissuration transversale (perpendiculaire au sens de défilement) sur une courroie, le module impose :",
+      "options": {
+        "A": "une mesure de la profondeur à la jauge d'épaisseur avant toute décision",
+        "B": "une simple surveillance jusqu'à apparition de fissures longitudinales associées",
+        "C": "le remplacement de la courroie quelle que soit la taille des fissures, avec vérification des éléments de la transmission pour identifier la cause racine"
+      },
+      "correct": "C",
+      "explication": "Le module qualifie ce défaut de critique avec risque de rupture imminente : quelle que soit la taille des fissures, le remplacement est obligatoire selon l'AMM, accompagné de la vérification des éléments constituants la transmission pour identifier la cause racine.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors du contrôle post-montage d'une courroie, le dégagement minimum (clearance) typiquement spécifié entre la courroie et les éléments adjacents est :",
+      "options": {
+        "A": "5 à 10 mm",
+        "B": "0 à 2 mm (contact léger admis)",
+        "C": "20 à 30 mm"
+      },
+      "correct": "A",
+      "explication": "L'annexe « check-list post-montage » du module spécifie un dégagement supérieur ou égal à la spécification AMM, typiquement 5 à 10 mm, avec les éléments adjacents (structure, câblage, tuyauteries).",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Après la période de rodage d'une courroie neuve, si la mesure de tension révèle une perte supérieure à quelle valeur faut-il procéder au réajustement selon la check-list du module ?",
+      "options": {
+        "A": "supérieure à 25 %",
+        "B": "supérieure à 50 %",
+        "C": "supérieure à 10 %"
+      },
+      "correct": "C",
+      "explication": "La check-list post-rodage du module impose : si la perte de tension par rapport à la valeur initiale dépasse 10 %, procéder au réajustement selon l'AMM puis remesurer pour confirmation.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une roue dentée, un voile radial mesuré à 0,15 mm correspond, selon les valeurs génériques données par le module, à quelle décision ?",
+      "options": {
+        "A": "Acceptable sans action particulière",
+        "B": "Sous surveillance",
+        "C": "Remplacement obligatoire"
+      },
+      "correct": "B",
+      "explication": "Le module fixe les seuils : voile radial ou axial inférieur à 0,1 mm acceptable, voile entre 0,1 et 0,2 mm sous surveillance, voile supérieur à 0,2 mm impose le remplacement. La valeur 0,15 mm relève donc de la surveillance.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "L'allongement d'une chaîne mesuré sur une longueur de référence de 250 mm donne 251 mm. Selon la formule donnée par le module (Allongement % = [(L mesurée − L neuve) / L neuve] × 100), l'allongement vaut :",
+      "options": {
+        "A": "0,4 %",
+        "B": "4 %",
+        "C": "0,04 %"
+      },
+      "correct": "A",
+      "explication": "Application directe de la formule : (251 − 250) / 250 × 100 = 1 / 250 × 100 = 0,4 %. La comparaison aux limites de l'AMM permet ensuite de décider entre surveillance, remplacement planifié ou remplacement immédiat.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une chaîne aéronautique présentant un rouleau fissuré ou un axe sorti, la conduite imposée par le module est :",
+      "options": {
+        "A": "le maillon défectueux peut être remplacé seul, sans changer la chaîne complète",
+        "B": "une surveillance suffit tant que l'allongement global reste dans les tolérances",
+        "C": "aucune réparation par remplacement de composants individuels n'est autorisée ; remplacement de la chaîne complète selon l'AMM"
+      },
+      "correct": "C",
+      "explication": "Le module précise que rouleaux fissurés, axes sortis, maillons grippés ou allongement hors limites imposent systématiquement le remplacement de la chaîne complète selon l'AMM, sans possibilité de réparation par remplacement de composants individuels.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour un système « roue et vis sans fin » (vérin à vis), le module identifie comme « organe le plus faible » :",
+      "options": {
+        "A": "la vis (qui subit le glissement)",
+        "B": "les paliers de support de la vis",
+        "C": "la roue, où apparaîtront les symptômes"
+      },
+      "correct": "C",
+      "explication": "Le module indique explicitement que dans la transmission roue/vis sans fin, l'organe le plus faible est la roue : c'est elle qui verra l'apparition des symptômes. C'est pourquoi en cas de défaut, vis et roue doivent toujours être remplacées ensemble.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Contrairement à un engrenage classique, l'entraînement dans un système vis sans fin / roue se fait par :",
+      "options": {
+        "A": "roulement d'un profil de dent sur l'autre",
+        "B": "glissement, ce qui se traduit par des caractéristiques de rendement et d'usure particulières",
+        "C": "friction sèche sans aucun lubrifiant"
+      },
+      "correct": "B",
+      "explication": "Le module insiste sur le fait que, contrairement à la majorité des autres systèmes d'engrenage où l'entraînement s'obtient par roulement d'un profil de dent sur l'autre, l'entraînement vis sans fin / roue s'obtient par glissement, d'où une lubrification critique et des caractéristiques d'usure spécifiques.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sur une biellette à double effet équipant une commande de vol primaire, le jeu radial maximal de l'embout articulé (rod end) donné en exemple par le module est de l'ordre de :",
+      "options": {
+        "A": "0,20 à 0,40 mm",
+        "B": "0,50 à 1,00 mm",
+        "C": "jusqu'à 1,50 mm tolérable"
+      },
+      "correct": "A",
+      "explication": "Le module donne comme valeurs typiques : commandes de vol primaires 0,20 à 0,40 mm (très strict), commandes secondaires 0,50 à 1,00 mm, applications non critiques jusqu'à 1,50 mm parfois tolérable.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Face à un levier de transmission constaté déformé ou vrillé, la conduite à tenir prescrite par le module est :",
+      "options": {
+        "A": "remplacement du levier ; aucune tentative de redressage n'est autorisée",
+        "B": "redressage à froid sous presse calibrée puis contrôle dimensionnel",
+        "C": "réchauffage local maîtrisé puis correction progressive de la géométrie"
+      },
+      "correct": "A",
+      "explication": "Le module est explicite : il faut procéder au remplacement du levier et aucune tentative de redressage n'est autorisée. Une investigation doit déterminer l'origine du défaut et la géométrie des éléments adjacents doit être vérifiée.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour contrôler le voile (faux-rond) radial et axial d'une poulie, l'instrument privilégié dans la démarche méthodique du technicien est :",
+      "options": {
+        "A": "la jauge d'épaisseur seule",
+        "B": "le comparateur",
+        "C": "le micromètre de profondeur"
+      },
+      "correct": "B",
+      "explication": "Le module précise dans la démarche d'inspection des poulies de vérifier l'alignement entre poulies au comparateur si spécifié et de contrôler l'absence de voile (faux-rond radial et axial), méthode également illustrée pour les roues dentées.",
+      "source": "M 7.12.pdf",
+      "chapter": "Module 7.12 - Transmissions",
+      "date": "2026-06-21"
+    }
+  ]
+}

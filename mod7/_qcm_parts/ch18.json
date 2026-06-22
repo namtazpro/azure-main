@@ -1,0 +1,277 @@
+{
+  "questions": [
+    {
+      "question": "Lors de la découpe d'une déchirure de revêtement avant réparation provisoire, quel rayon minimum doit être appliqué dans les angles ?",
+      "options": {
+        "A": "Au moins 12 mm de rayon dans les angles, pour éviter une évolution du dégât",
+        "B": "Un rayon exact de 3 mm, identique au diamètre d'un rivet",
+        "C": "Aucun rayon requis, une découpe carrée est suffisante"
+      },
+      "correct": "A",
+      "explication": "Le livret indique : 'il sera nécessaire de découper proprement la partie déchirée en exécutant des arrondis d'au moins 12 mm de rayon dans les angles, afin d'éviter une évolution éventuelle du dégât'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la couleur caractéristique de la poudre produite par une corrosion par fretting (micro-mouvements vibratoires) ?",
+      "options": {
+        "A": "Une poudre noire, identique à de la suie",
+        "B": "Une poudre rouge-brun typique des assemblages mal serrés",
+        "C": "Une poudre bleu-vert, comme sur le cuivre"
+      },
+      "correct": "B",
+      "explication": "La section sur les types d'usure précise : 'Fretting : micro-mouvements par vibrations (assemblages mal serrés), poudre rouge-brun'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quels sont les trois éléments indispensables au mécanisme de corrosion électrochimique ?",
+      "options": {
+        "A": "Une source de chaleur, un acide concentré et une atmosphère inerte",
+        "B": "Un revêtement endommagé, un primaire et de la peinture",
+        "C": "Un électrolyte, une anode (métal moins noble) et une cathode (métal plus noble)"
+      },
+      "correct": "C",
+      "explication": "La corrosion électrochimique nécessite trois éléments : un électrolyte (eau, humidité, solution saline), une anode (zone qui se corrode) et une cathode (zone protégée), fonctionnant comme une pile.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans un couple galvanique aluminium / cuivre, quelle est la conséquence attendue ?",
+      "options": {
+        "A": "Corrosion sévère de l'aluminium qui joue le rôle d'anode",
+        "B": "Corrosion du cuivre qui se dissout dans l'aluminium",
+        "C": "Protection mutuelle des deux métaux par passivation"
+      },
+      "correct": "A",
+      "explication": "Le tableau des couples galvaniques dangereux précise que pour le couple Aluminium / Cuivre, l'aluminium se corrode sévèrement (anode) tandis que le cuivre, plus noble, est protégé.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est une caractéristique géométrique typique de la corrosion par piqûres (pitting) qui en fait un défaut très dangereux ?",
+      "options": {
+        "A": "Sa surface diffuse, qui aplanit uniformément la tôle",
+        "B": "Sa profondeur souvent supérieure au diamètre de la piqûre, pouvant perforer rapidement la structure",
+        "C": "Sa propagation lente et parfaitement linéaire, prévisible"
+      },
+      "correct": "B",
+      "explication": "Le livret indique que la corrosion par piqûres se présente sous forme de petites cavités en cratères dont la profondeur est souvent supérieure au diamètre et qui peuvent perforer rapidement la structure (gravité élevée).",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quels alliages d'aluminium sont particulièrement sensibles à la corrosion exfoliante (feuilletante) ?",
+      "options": {
+        "A": "Les alliages de fonderie type Al-Si non laminés",
+        "B": "Les aciers inoxydables austénitiques",
+        "C": "Les alliages d'aluminium laminés tels que 2024 et 7075"
+      },
+      "correct": "C",
+      "explication": "Le livret précise que les alliages sensibles à la corrosion exfoliante sont les alliages d'aluminium laminés, citant explicitement le 2024 et le 7075.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est l'aspect visuel caractéristique d'une corrosion exfoliante avancée sur une tôle d'aluminium ?",
+      "options": {
+        "A": "Soulèvement de lamelles fines de métal en couches parallèles, avec produits blanchâtres entre les couches",
+        "B": "Une fine poudre noire homogène recouvrant la surface",
+        "C": "Un dépôt vert dendritique caractéristique d'un alliage de nickel"
+      },
+      "correct": "A",
+      "explication": "Le livret décrit : 'Aspect feuilleté, écailleux, soulèvement de lamelles fines de métal, produits de corrosion blanchâtres entre les couches, gonflement apparent de la zone'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour qu'une corrosion sous tension (SCC) se développe, quelles conditions doivent être réunies simultanément ?",
+      "options": {
+        "A": "Uniquement une exposition prolongée à l'humidité",
+        "B": "Un alliage sensible, une contrainte de tension et un environnement corrosif (par exemple chlorures)",
+        "C": "Un traitement thermique excessif et une vibration mécanique élevée"
+      },
+      "correct": "B",
+      "explication": "Le livret liste les trois conditions nécessaires pour la SCC : alliage sensible (Al 7xxx, aciers haute résistance), contrainte de tension (résiduelle ou appliquée), et environnement corrosif (chlorures).",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Sous quelle forme apparaissent typiquement les produits de corrosion sur un alliage d'aluminium ?",
+      "options": {
+        "A": "Un dépôt vert dendritique",
+        "B": "Un oxyde brun-rouge homogène",
+        "C": "Une poudre blanche ou grise, parfois sous forme de cloques"
+      },
+      "correct": "C",
+      "explication": "Le tableau des aspects de corrosion selon les alliages indique pour l'aluminium : 'Poudre blanche ou grise, cloque', avec corrosions par piqûres, intergranulaires, exfoliatrices et sous tension comme types principaux.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le rôle spécifique de la solution phosphorique dans le traitement anticorrosion de l'aluminium ?",
+      "options": {
+        "A": "Nettoyer chimiquement la surface et dissoudre les derniers oxydes pour préparer le métal, sans le protéger durablement",
+        "B": "Former une couche de conversion protectrice durable de plusieurs mois",
+        "C": "Servir de primaire de peinture définitif applicable seul"
+      },
+      "correct": "A",
+      "explication": "Le livret oppose nettement les deux produits : 'le phosphorique lave et prépare, l'Alodine protège et accroche'. La solution phosphorique est un nettoyant chimique dont l'action est temporaire (quelques heures seulement).",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Dans quel délai maximal l'Alodine doit-elle être appliquée après un traitement à la solution phosphorique ?",
+      "options": {
+        "A": "Dans les 30 minutes maximum, sinon l'effet est perdu",
+        "B": "Dans les 4 heures maximum, sinon l'aluminium s'oxyde à nouveau",
+        "C": "Sous 24 à 48 heures, en même temps que le primaire époxy"
+      },
+      "correct": "B",
+      "explication": "Le livret précise : 'Le délai impératif à respecter : vous devez appliquer l'Alodine dans les 4 heures maximum qui suivent le traitement phosphorique. Au-delà, l'aluminium s'oxyde à nouveau et il faut recommencer'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle coloration uniforme doit-on obtenir après application correcte d'une Alodine 1200S (Class 1A, chromate) ?",
+      "options": {
+        "A": "Une teinte gris clair mate, témoin du retrait des oxydes",
+        "B": "Une absence totale de couleur, transparente comme de l'eau",
+        "C": "Une couleur dorée à jaune ou irisée, uniforme sur toute la surface"
+      },
+      "correct": "C",
+      "explication": "Le livret décrit le contrôle du résultat : 'Pour un Alodine chromate type 1200S, vous devez obtenir une couleur dorée à jaune ou irisée, uniforme sur toute la surface sans zones blanches ou grises'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon le tableau d'évaluation du degré de corrosion, à partir de quel critère parle-t-on d'une corrosion de niveau 4 (critique) ?",
+      "options": {
+        "A": "Lorsque la perte d'épaisseur dépasse 10 % de l'épaisseur de la pièce",
+        "B": "Lorsque la profondeur reste inférieure à 0,1 mm sur une surface réduite",
+        "C": "Dès que la surface atteinte dépasse 5 cm² quelle que soit la profondeur"
+      },
+      "correct": "A",
+      "explication": "Le tableau d'évaluation du degré de corrosion indique pour le niveau 4 (critique) : profondeur > 10 % de l'épaisseur, traitement par remplacement ou réparation majeure.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les tâches CPCP du AMC 20-20B, quel est l'intervalle typique d'une inspection visuelle générale (GVI) anticorrosion ?",
+      "options": {
+        "A": "Tous les 3 mois maximum sur l'ensemble des zones",
+        "B": "Entre 12 et 48 mois selon les zones inspectées",
+        "C": "Une seule fois en fin de vie de l'aéronef"
+      },
+      "correct": "B",
+      "explication": "Le livret précise pour la GVI dans le CPCP : 'Intervalles : 12 à 48 mois selon zones – Inspection visuelle à distance de toucher, éclairage normal, miroirs autorisés'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle hypothèse de base distingue l'approche « Damage Tolerance » des approches Safe-Life et Fail-Safe en contrôle de fatigue ?",
+      "options": {
+        "A": "Elle suppose un dimensionnement à durée de vie infinie sans inspection",
+        "B": "Elle repose uniquement sur la redondance structurale entre éléments",
+        "C": "Elle suppose qu'un défaut initial est présent et calcule la propagation de crique pour inspecter avant la taille critique"
+      },
+      "correct": "C",
+      "explication": "Le livret définit l'approche Damage Tolerance : 'Hypothèse : défaut initial présent, calculer la propagation de crique, effectuer une inspection avant la taille critique'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quelle est la principale limite d'application du ressuage pénétrant en CND ?",
+      "options": {
+        "A": "Il ne détecte que les défauts débouchant en surface et ne voit pas les défauts internes ou obstrués",
+        "B": "Il ne fonctionne que sur les matériaux composites stratifiés",
+        "C": "Il nécessite obligatoirement un couplant gélifié sur la pièce"
+      },
+      "correct": "A",
+      "explication": "Le livret indique : 'Le ressuage ne décèle pas les défauts internes, ni les défauts débouchant obstrués ou colmatés par des contaminants (graisses, poussières, oxydes, calamine, résidus d'ajustages)'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un ressuage, sur quels matériaux les produits halogénés (contenant chlore et/ou soufre) sont-ils strictement interdits ?",
+      "options": {
+        "A": "Sur les alliages d'aluminium de la série 2024",
+        "B": "Sur le titane, ses alliages, et les aciers inoxydables",
+        "C": "Sur tous les matériaux composites stratifiés carbone"
+      },
+      "correct": "B",
+      "explication": "Le mode opératoire du ressuage prévient : 'les produits halogénés (contenant du chlore et/ou du soufre) ne doivent pas être utilisés sur le titane et ses alliages et sur les aciers inoxydables'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "À quels matériaux le contrôle par courants de Foucault est-il applicable ?",
+      "options": {
+        "A": "À tous les matériaux, y compris les céramiques et plastiques",
+        "B": "Uniquement aux matériaux composites stratifiés",
+        "C": "À tous les matériaux conducteurs d'électricité"
+      },
+      "correct": "C",
+      "explication": "La conclusion sur les courants de Foucault précise : 'Les méthodes par courants de Foucault s'appliquent à tous les matériaux conducteurs d'électricité', avec des défauts débouchant ou sous-jacents.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour qu'un défaut soit détecté de manière optimale par radiographie X, quelle est l'orientation préférentielle du défaut ?",
+      "options": {
+        "A": "Parallèle au faisceau de rayons X qui traverse la pièce",
+        "B": "Perpendiculaire au faisceau pour maximiser la diffraction",
+        "C": "À 45° du faisceau pour bénéficier d'un effet d'ombre"
+      },
+      "correct": "A",
+      "explication": "Le livret indique : 'La détection des défauts sera d'autant plus aisée que l'orientation des défauts est parallèle au faisceau de rayons X' et confirme dans la conclusion que l'orientation préférentielle des défauts est parallèle au faisceau de rayonnement X.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel élément est indispensable à la transmission de l'onde lors d'un contrôle par ultrasons sur une pièce métallique ?",
+      "options": {
+        "A": "Une source de rayonnement ionisant pour exciter le matériau",
+        "B": "Un couplant tel qu'un gel ou de l'eau, pour transmettre l'onde dans la pièce",
+        "C": "Un révélateur en poudre appliqué après le passage de la sonde"
+      },
+      "correct": "B",
+      "explication": "Le livret précise pour les ultrasons : 'Couplant obligatoire : gel, eau (transmission onde dans pièce)'. Sans couplant, l'onde ultrasonore ne pénètre pas correctement dans le matériau.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un démontage, en cas de blocage anormal d'un élément, dans quel ordre les actions doivent-elles être tentées selon le livret ?",
+      "options": {
+        "A": "Application immédiate de chaleur, puis forçage manuel énergique en cas d'échec",
+        "B": "Découpe immédiate de la fixation, sans tentative préalable de desserrage",
+        "C": "Produit dégrippant en premier, puis outil à choc, et en dernier recours application de chaleur"
+      },
+      "correct": "C",
+      "explication": "Le paragraphe sur le desserrage indique : 'il est possible de recourir à un produit dégrippant, puis à un outil à choc, et en dernier recours à l'application de chaleur. Il ne faut jamais forcer sur un élément'.",
+      "source": "M 7.18.pdf",
+      "chapter": "Module 7.18 - Technique de démontage, inspection, réparation et montage",
+      "date": "2026-06-21"
+    }
+  ]
+}

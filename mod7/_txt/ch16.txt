@@ -1,0 +1,1502 @@
+===== PAGE 1 =====
+Module 7.16 V06    Page 1 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+µ 
+ 
+ 
+ 
+ 
+  
+Livret destiné aux stagiaires 
+ 
+Édition 2025 
+Module 7.16 
+ 
+Pesée et 
+centrage de 
+l’aéronef 
+ 
+Licence B1 / B2 
+
+===== PAGE 2 =====
+Module 7.16 V06    Page 2 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+ 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes  Nouvelle édition 
+V04 12/05/2016 Page de garde et 
+page 1  
+Adresse, signatures et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 08/06/2017 Toutes Nouvelle édition 
+V06 31/10/2025  Toutes Nouvelle édition 
+ 
+  
+Visa Rédacteur 
+Jean-François 
+REIMONENQ  
+ 
+Visa Responsable 
+Module 
+Laurent 
+VINGADASSALOM 
+Visa Directeur de 
+Formation 
+Laurent 
+VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC 
+    
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.16 V06    Page 3 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+SUJET MODULE 7 : Procédure d’entretien 
+ 
+Catégorie B1 : 80 questions à choix multiples, temps alloué 100 minutes et 2 questions à 
+développement temps alloué 40 minutes. 
+Catégorie B2 : 60 questions à choix multiples, temps alloué 75 minutes et 2 questions à 
+développement temps alloué 40 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+ Niveau 
+MODULE 7. Procédure d’entretien 
+ 
+A B
+1 
+B
+2 
+(a) Calcul du centre de gravité / limites d’équilibre : utilisation des documents 
+pertinents ; 
+ 
+- 2 2 
+(b) Préparation de l'aéronef pour la pesée ; 
+Pesée de l'aéronef. 
+- 2 - 
+    
+    
+    
+ 
+  
+===== PAGE 4 =====
+Module 7.16 V06    Page 4 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.16 V06    Page 5 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+TABLE DES MATIERES 
+ 
+1. Calcul du centre de gravité / limites d'équilibre : utilisation des documents 
+pertinents (a) ............................................................................................................. 6 
+1.1. Calcul du centre de gravité ............................................................................. 6 
+1.1.1. Introduction ...................................................................................................... 6 
+1.1.2. Principes fondamentaux ................................................................................. 7 
+1.1.3. Méthode de calcul ............................................................................................ 9 
+1.2. Les limites de L’équilibre ...............................................................................12 
+1.2.1. Enveloppe de centrage ..................................................................................12 
+1.2.2. Représentation graphique .............................................................................13 
+1.2.3. Conséquences d'un centrage incorrect ........................................................14 
+1.2.4. Vérification des limites ...................................................................................15 
+1.3. Utilisation des documents pertinents ...........................................................16 
+1.3.1 Documents constructeur ................................................................................16 
+2. Préparation de l'aéronef pour la pesée ; Pesée de l'aéronef. (b) ................20 
+2.1 Préparation de l'aéronef pour la pesée ............................................................20 
+2.1.1 Introduction .....................................................................................................20 
+2.1.2 Preparation de l’aéronef .................................................................................22 
+2.2 Pesée de l’aéronef ..............................................................................................26 
+2.2.1. Vérifications finales avant pesée ..................................................................27 
+2.2.3. Procédure de pesée ........................................................................................28 
+ 
+  
+===== PAGE 6 =====
+Module 7.16 V06    Page 6 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.  Calcul du centre de gravité / limites d'équilibre : 
+utilisation des documents pertinents (a) 
+ 
+Rappel des objectifs  : connaissance générale des termes et signes arithmétiques, des 
+calculs de moyenne, des rapports proportions et pourcentages, des nombres décimaux, des 
+masses, des p uissances et radicaux , des s urfaces et volumes  ainsi que des m ultiples et 
+sous-multiples. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+1.1. Calcul du centre de gravité 
+1.1.1. Introduction 
+Le masse et centrage est une opération fondamentale pour la sécurité des vols. Un aéronef dont le 
+centre de gravité (CG) se trouve en dehors des limites autorisées présente des caractéristiques de 
+vol dangereuses pouvant conduire à un accident. Le mécanicien B1/B2 doit maîtriser ces calculs pour 
+assurer la navigabilité de l'aéronef.  
+  
+La fiche de centrage d’un aéronef est un document obligatoire et doit être remplis avant chaque vol. 
+Le calcul du centre de gravité devra être effectué pour le décollage et l’atterrissage avant tout départ 
+en vol. 
+ 
+
+===== PAGE 7 =====
+Module 7.16 V06    Page 7 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.2. Principes fondamentaux 
+Voici quelques définitions essentielles :  
+ 
+➢ Masse à vide  
+  
+ 
+ 
+ 
+ 
+➢  
+➢ Masse en ordre d’exploitation (MOE)  
+ 
+➢ Masse maximale au décollage (MTOM)  
+ 
+➢ Masse maximale à l'atterrissage (MLM)   
+  
+La structure complète, 
+Les groupes motopropulseurs avec leurs fluides, 
+L'équipement fixe et amovible, 
+Les fluides non utilisables (huiles, liquides hydrauliques) 
+ 
+Le commissariat (matériel de stockage, nourriture, 
+boissons, journaux.) 
+Le matériel de sécurité sauvetage occasionnel 
+Le lot de bord occasionnel 
+L’équipage et ses bagages avec sa documentation 
+ 
+Masse maximale autorisée au début du roulage pour le 
+décollage, définie par le constructeur et certifiée par 
+l'autorité. 
+ 
+ 
+Masse maximale autorisée au contact avec le sol lors 
+de l'atterrissage 
+ 
+ 
+ 
+ 
+
+===== PAGE 8 =====
+Module 7.16 V06    Page 8 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+➢ Centre de Gravité (CG) :  
+ 
+ 
+➢ Bras de levier :  
+ 
+ 
+➢ Moment : 
+ 
+➢ Plan de référence : 
+ 
+Plan vertical imaginaire à partir duquel toutes les distances horizontales sont mesurées. Il peut être 
+situé : 
+ 
+• Au nez de l'appareil, 
+• En avant de l'appareil, 
+• À un point structurel précis (cloison pare-feu, par exemple). 
+ 
+ 
+Le centre de gravité (CG) se calcule par la formule suivante : 
+ 
+ 
+Nota : 
+Σ Moments = Somme de tous les moments (masse × bras de levier). 
+Σ Masses = Somme de toutes les masses. 
+  
+CG = Σ Moments / Σ Masses 
+ 
+Point d'application de la résultante des forces de gravité 
+agissant sur l'aéronef. C'est le point d'équilibre théorique de 
+l'appareil il n’est pas fixe. 
+ Le CG n’est pas un point fixe il se déplace pendant le 
+vol à cause de la consommation de carburant. 
+ 
+ 
+Distance horizontale entre un point de référence et le 
+centre de gravité d'un élément. 
+Exprimé généralement en mètres ou en pouces. 
+ 
+Produit de la masse par son bras de levier (M = masse × 
+bras) Exprimé en kg/m ou lb/in. 
+ 
+ 
+ 
+Formule de base de calcul du centre de gravité 
+ 
+
+===== PAGE 9 =====
+Module 7.16 V06    Page 9 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.1.3. Méthode de calcul 
+Étape 1 : Identifier le point de référence 
+ 
+Le point de référence (Datum) est indiqué dans le manuel de l'avion. Il peut être situé :  
+ 
+Étape 2 : Répertorier toutes les masses et leurs positions 
+ 
+ 
+Étape 3 : Calculer les moments 
+ 
+Étape 4 : Totaliser 
+ 
+ 
+ 
+Nota : 
+Σ Moments = Somme de tous les moments (masse × bras de 
+levier). 
+Σ Masses = Somme de toutes les masses. 
+ 
+Étape 5 : Calculer la position du CG 
+  
+Au nez de l'appareil (point de référence négatif 
+possible) 
+Au bord d'attaque de l'aile à l'emplanture 
+À un point fixe en avant de l'avion 
+ 
+ 
+Masse à vide équipée 
+Équipage et passagers 
+Carburant utilisable et inutilisable 
+Bagages et fret 
+Équipements amovibles 
+ 
+ 
+Pour chaque élément : Moment = Masse × 
+Bras de levier 
+ 
+ Masse totale = Σ toutes les 
+masses 
+Moment total = Σ tous les moments 
+ 
+Position CG = Moment total / Masse totale 
+Le résultat s'exprime en distance depuis le point de 
+référence (en m ou in) 
+ 
+ 
+ 
+ 
+
+===== PAGE 10 =====
+Module 7.16 V06    Page 10 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Exemple pratique de calcul 
+ 
+Données d'un avion léger : 
+ 
+• Point de référence : nez de l'avion. 
+• Masse à Vide : 750 kg au bras de levier 2.10 m. 
+• Pilote + passager avant : 160 kg au bras de levier 2.25 m. 
+• Passagers arrière : 140 kg au bras de levier 3.10 m. 
+• Bagages : 30 kg au bras de levier 3.80 m. 
+• Carburant : 120 kg au bras de levier 2.35 m. 
+Tableau de calcul : 
+ 
+Poste Masse (kg) Bras (m) Moment (kg.m) 
+Masse à vide 1 750 2.10 1575.0 
+Sièges avant 2 160 2.25 360.0 
+Sièges arrière 3 140 3.10 434.0 
+Bagages 4 30 3.80 114.0 
+Carburant 5 120 2.35 282.0 
+TOTAL 1200 2.304 2765.0 
+ 
+Calcul du CG : 
+ 
+CG = 2765.0 / 1200 = 2.304 m en arrière du point de référence 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 11 =====
+Module 7.16 V06    Page 11 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Calcul du centrage en % MAC 
+ 
+ Définition : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Formule de conversion 
+ 
+ 
+ 
+ 
+ 
+• CG = Position du centre de gravité depuis le point de référence 
+• LEMAC (Leading Edge MAC) = Position de la MAC depuis le bord d’attaque 
+• MAC = Longueur de la corde aérodynamique moyenne 
+Exemple : 
+ 
+Données avion de l’exercice précèdent  
+ 
+• CG calculé : 2.304 m depuis le point de référence 
+• LEMAC : 2.100 m depuis le point de référence 
+• MAC : 1.500 m 
+Calcul : % MAC = [(2.304 - 2.100) / 1.500] × 100 = 13.6 % MAC 
+  
+MAC (Mean Aerodynamic Chord) = Corde aérodynamique moyenne de la 
+voilure 
+Le centrage peut être exprimé en pourcentage de la MAC au lieu d'une 
+distance par rapport au point de référence (datum). 
+ 
+  
+ 
+% MAC = [(CG - LEMAC) / MAC] × 100 
+ 
+
+===== PAGE 12 =====
+Module 7.16 V06    Page 12 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2. Les limites de L’équilibre 
+ 
+ 
+Attention à l’importance du centrage 
+ 
+ 
+ 
+Exemple : 
+ 
+Rupture d’arrimage 
+d’une charge 
+conduisant à 
+déplacement du CG 
+hors enveloppe de 
+centrage. 
+ 
+1.2.1. Enveloppe de centrage 
+L'enveloppe de centrage ou plage de centrage définit la zone dans laquelle le CG doit 
+obligatoirement se situer.  
+Elle est représentée graphiquement et établie par le constructeur lors de la certification. 
+ 
+Les limites sont définies par : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Limite avant (Forward limit) : CG le plus en avant autorisé. 
+Limite arrière (Aft limit) : CG le plus en arrière autorisé. 
+ 
+ 
+Plage de centrage 
+
+===== PAGE 13 =====
+Module 7.16 V06    Page 13 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2.2. Représentation graphique 
+Le diagramme masse-centrage présente : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota : Exemple Boeing 747 en % de MAC 
+Limite avant 8.5 % ≤ CG % de MAC ≤ 13% (fonction de la masse au décollage et à l’atterrissage). 
+Limite arrière-CG% de MAC ≤ 33% 
+   
+En abscisse : Position du CG (en m, in, ou % MAC) 
+En ordonnée : Masse de l'avion (en kg ou lb) 
+ 
+ 
+Une zone délimitée = Enveloppe ou Plage autorisée 
+ 
+
+===== PAGE 14 =====
+Module 7.16 V06    Page 14 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2.3. Conséquences d'un centrage incorrect 
+CG trop en avant 
+ 
+Effets : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CG trop en arrière 
+ 
+Effets : 
+ 
+ 
+ 
+ 
+ 
+  
+Augmentation de la stabilité longitudinale (avion "lourd" au manche) 
+Difficulté à cabrer au décollage 
+Vitesse de décrochage augmentée 
+Contrôle de tangage réduit 
+Distance de décollage augmentée 
+Impossibilité d'arrondir à l'atterrissage 
+Usure prématurée du train avant 
+ 
+Diminution de la stabilité longitudinale 
+Avion très sensible aux commandes (nerveux) 
+Risque de départ en vrille irrécouvrable 
+Difficulté à maintenir une assiette constante 
+Vitesse de décrochage réduite MAIS décrochage violent 
+Diminution de l'efficacité de la gouverne de profondeur 
+ 
+ 
+Danger principal :  
+Impossibilité de lever le nez 
+au décollage 
+ 
+Danger principal :  
+Perte de stabilité et difficulté de 
+contrôle 
+ 
+
+===== PAGE 15 =====
+Module 7.16 V06    Page 15 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.2.4. Vérification des limites  
+ 
+ 
+ 
+ 
+ 
+Masse au décollage ≤ MTOM (Maximum Take Off Mass) 
+Masse à l'atterrissage ≤ MLM (Maximun Landing Mass) 
+Position CG dans l'enveloppe au décollage 
+Position CG dans l'enveloppe à l'atterrissage (après consommation carburant) 
+ 
+ 
+ 
+
+===== PAGE 16 =====
+Module 7.16 V06    Page 16 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+1.3. Utilisation des documents pertinents 
+1.3.1 Documents constructeur 
+ 
+Aircraft Flight Manuel 
+ 
+Le contenu : 
+ 
+ 
+ 
+ 
+Weight and Balance Manual (WBM) 
+ 
+Le contenu : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Section Limitations : limites de masse et centrage ; 
+Section Performance : impact du centrage sur les 
+performances ; 
+Section Masse et Centrage : procédures et données 
+spécifiques. 
+ 
+ 
+Document approuvé par l'autorité (EASA, 
+FAA) ; 
+Opposable réglementairement ; 
+Doit être à bord de l'avion en vol ; 
+Version à jour obligatoire. 
+ 
+Procédures détaillées de pesée ; 
+Tableaux de centrage ; 
+Diagrammes de chargement ; 
+Exemples de calculs ; 
+Équipements optionnels et leurs 
+impacts. 
+ 
+
+===== PAGE 17 =====
+Module 7.16 V06    Page 17 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Aircraft Maintenance Manual (AMM) 
+ 
+Le contenu: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Weight and Balance Report 
+ 
+Definition: 
+ 
+Document officiel établissant la masse et le centrage à vide équipé de l'avion.  
+C'est la base de tous les calculs de masse et centrage. 
+ 
+            Le contenu obligatoire   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Document technique de référence ; 
+Utilisé pour établir le poids à vide 
+équipé ; 
+Mis à jour après modifications. 
+ 
+Chapitre “Weight and Balance” (ATA 08)→Chap 08. 
+Procédures de pesée détaillées ; 
+Points de pesée et équipements nécessaires ; 
+Corrections pour fluides. 
+ 
+08-00 : Généralités 
+08-10 : Pesée 
+08-20 : Calculs et documents 
+ 
+Immatriculation de l'avion ; 
+Type et numéro de série ; 
+Date de pesée ; 
+Masse à vide équipée ; 
+Position du CG à vide ; 
+Conditions de pesée (fluides inclus/exclus) ; 
+Liste des équipements installés ; 
+Signature du personnel qualifié. 
+ 
+ 
+ 
+
+===== PAGE 18 =====
+Module 7.16 V06    Page 18 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Mise à jour : 
+Loading Manifest / Load Sheet 
+ 
+Objectif: 
+ 
+Document pré-vol établissant que l'avion est chargé dans les limites autorisées pour le vol spécifique. 
+ 
+                                                               Obligatoire avant tout vol 
+ 
+ 
+ 
+ 
+ 
+ 
+Le contenu : 
+ 
+ 
+ 
+ 
+  
+Modifications majeures ; 
+Installation/dépose d'équipements ; 
+Peinture complète de l'avion ; 
+Périodiquement selon réglementation (tous les 3-5 ans selon opérateur). 
+ 
+Masse à vide équipée (du W&B 
+Report) ; 
+Équipage ; 
+Passagers avec répartition ; 
+Fret et bagages avec localisation ; 
+Carburant au décollage ; 
+Masse totale au décollage ; 
+Position du CG ; 
+Vérification dans les limites ; 
+Masse prévue à l'atterrissage. 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 19 =====
+Module 7.16 V06    Page 19 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+➢ Qui établit :  
+ 
+ 
+ 
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Aviation générale : Pilote ou mécanicien ; 
+Aviation commerciale : Agent d'exploitation ou 
+Loadmaster ; 
+Signé par le commandant de bord. 
+ 
+  
+   
+
+===== PAGE 20 =====
+Module 7.16 V06    Page 20 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2. Préparation de l'aéronef pour la pesée  ; Pesée de 
+l'aéronef. (b) 
+Rappel des objectifs  : connaissance générale des termes et signes arithmétiques, des 
+calculs de moyenne, des rapports proportions et pourcentages, des nombres décimaux, des 
+masses, des puissances et radicaux, des surfaces et volumes ainsi que des multiples et sous-
+multiples. Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+2.1 Préparation de l'aéronef pour la pesée 
+2.1.1 Introduction 
+La pesée d'un aéronef est une opération fondamentale qui permet de : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Déterminer la masse à vide en ordre d'exploitation ; 
+Calculer le centre de gravité (CG) ; 
+Garantir la sécurité des vols ; 
+Respecter les limitations structurales de l'appareil ; 
+Maintenir la documentation technique à jour. 
+ 
+  
+ 
+
+===== PAGE 21 =====
+Module 7.16 V06    Page 21 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+• Quand effectuer une pesée ? 
+ 
+Une pesée complète est requise sous 2 conditions : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2 CONDITIONS 
+Modification majeure affectant la 
+masse ou le CG 
+Apres peinture complète  
+Remotorisation 
+Changement d'aménagement 
+cabine 
+Doute sur l'exactitude des 
+données 
+ 
+OBLIGATOIRE RECOMMANDEE 
+Périodiquement (3 à 5 ans) 
+Si écart cumulé > 0.5% de la 
+masse max 
+ 
+ 
+ 
+
+===== PAGE 22 =====
+Module 7.16 V06    Page 22 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2.1.2 Preparation de l’aéronef 
+Avant de commencer vous devez rassembler et vérifier un certain nombre de paramètres : 
+ 
+• Documentation nécessaire  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Le matériel requis 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+AMM (Aircraft Maintenance Manual) - Chapitre Pesée et Centrage ; 
+IPC (Illustrated Parts Catalog); 
+EWBL (Empty Weight and Balance List) précédent; 
+Liste des équipements standards ; 
+Liste des modifications (STC, SB appliqués) ; 
+Formulaires de pesée vierges ; 
+Certificat de navigabilité. 
+ 
+ 
+Équipement de Pesée 
+Balances calibrées (capacité adaptée à l'aéronef) 
+Certificats d'étalonnage valides (< 12 mois) 
+Plateformes de mise à niveau 
+Cales et supports 
+Dispositifs de levage si nécessaire 
+ 
+Équipement de Mesure 
+Fils à plomb ou lasers pour repérage du point de référence 
+Mètres ruban et règles 
+Niveau à bulle de précision 
+Inclinomètres 
+ 
+ 
+ 
+
+===== PAGE 23 =====
+Module 7.16 V06    Page 23 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+• Les conditions environnementales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Les conditions Météorologiques 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Hangar fermé obligatoire 
+Température stable (idéalement 15-
+25°C) 
+Absence de courants d'air 
+Portes fermées pendant la pesée 
+Sol plat et horizontal 
+Eclairage suffisant 
+ 
+ 
+ 
+Conditions météorologiques : 
+Vent < 10 kt si pesée extérieure (déconseillé) 
+Pas de précipitations 
+Humidité relative stable 
+ 
+ 
+ 
+ 
+
+===== PAGE 24 =====
+Module 7.16 V06    Page 24 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+• La configuration de l'Aéronef 
+ 
+1/ Liquides et fluides  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+CARBURANT : 
+Option 1 : Réservoirs vides (drainé et mesuré) 
+Option 2 : Réservoirs pleins (selon AMM) 
+Noter précisément la quantité restante 
+HUILE MOTEUR : 
+Niveau plein (full) selon spécifications constructeur 
+Inclus dans la masse de base 
+LIQUIDES HYDRAULIQUES : 
+Niveaux pleins sur tous les circuits 
+Accumulateurs chargés 
+AUTRES FLUIDES : 
+Liquide de refroidissement : niveau plein 
+Liquide lave-glace : Vide ou plein selon AMM 
+Eau potable : Vidé 
+Eaux usées : Vidés 
+ 
+ 
+ 
+
+===== PAGE 25 =====
+Module 7.16 V06    Page 25 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+2/ Equipements Obligatoires à bord (Inclus dans la pesée) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/ Equipements à retirer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Sièges passagers standards 
+Gilets de sauvetage permanents 
+Trousse de premiers secours 
+Extincteurs fixes 
+Documentation de bord permanente 
+Équipements de sécurité permanents 
+Roues, pneus, frein, Batteries installées 
+ 
+Équipements amovibles non standards 
+Documentation de vol (sauf si permanente) 
+Équipements de nettoyage 
+Outils de bord 
+Chocks et covers 
+Équipements au sol 
+ 
+Équipements optionnels : 
+Noter séparément sur la liste d'équipements 
+Peser individuellement si nécessaire 
+Documenter leur position (bras de levier) 
+ 
+EXEMPLE : FLOTTABILITES 
+EXEMPLE : CALES  
+
+===== PAGE 26 =====
+Module 7.16 V06    Page 26 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+4/ Accès et Portes 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Pesée de l’aéronef 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Toutes les portes FERMÉES 
+Trappes d'accès FERMÉES 
+Escaliers escamotables RENTRÉS 
+Train d'atterrissage SORTI et verrouillé 
+Volets en position neutre (0°) 
+Surfaces de contrôle en position neutre 
+ 
+ 
+  
+EXEMPLE : FLAP 1→FLAP 0 
+Comment peser un avion train classique 
+
+===== PAGE 27 =====
+Module 7.16 V06    Page 27 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+2.2.1. Vérifications finales avant pesée 
+ 
+Checklist de préparation : 
+ 
+ 
+ 
+ 
+2.2.2. Positionnement de l’aéronef 
+ 
+ 
+  
+• [ ] Documentation complète et disponible 
+• [ ] Balances calibrées et certificats valides 
+• [ ] Aéronef configuré selon AMM 
+• [ ] Liquides aux niveaux spécifiés 
+• [ ] Équipements vérifiés (à bord/retirés) 
+• [ ] Aéronef sur balances et à niveau 
+• [ ] Conditions environnementales acceptables 
+• [ ] Point de référence (Datum) et station de référence 
+identifiée 
+ 
+ 
+Placer l'aéronef sur les balances : 
+o Chaque point d'appui sur une balance 
+o Centrer les roues sur les plateformes 
+o Freins de parking relâchés 
+Mise à niveau : 
+o Utiliser les repères constructeurs 
+o Ajuster avec des cales calibrées si 
+nécessaire 
+o Vérifier longitudinalement et latéralement 
+o Documenter tout calage 
+Sécurisation : 
+o Cales de roues en place (ne touchant PAS 
+l'aéronef) 
+o Zone sécurisée autour de l'appareil 
+o Personnel non essentiel écarté 
+ 
+ 
+ 
+
+===== PAGE 28 =====
+Module 7.16 V06    Page 28 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+2.2.3. Procédure de pesée 
+ 
+• La stabilisation 
+• Relevé des Masses 
+ 
+ 
+    * Nota : Écart entre lectures < 0,5% (acceptable). 
+                                                                                          Si écart > 0,5% : Répéter les mesures. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Laisser l'aéronef se stabiliser sur les balances (15-30 minutes) 
+Vérifier l'absence de mouvements 
+Contrôler que rien ne touche l'aéronef (câbles, flexibles, 
+échelles) 
+ 
+ 
+Lecture des Balances 
+Pour chaque point de pesée : 
+Effectuer 3 lectures minimum 
+Attendre la stabilisation entre chaque 
+lecture 
+Noter immédiatement les valeurs 
+Vérifier la cohérence des mesures 
+ 
+Exemple de pesée aéronef train tricycle 
+ 
+Point d’appui Lecture 
+1 
+Lecture 
+2 
+Lecture 
+3 
+Moyenne 
+Train principal G 2450 
+kg 
+2448 
+kg 
+2449 
+kg 
+2449 kg 
+Train principal d 2445 
+kg 
+2447 
+kg 
+2446 
+kg 
+2446 kg 
+Train avant 850 kg 851 kg 850 kg 850 kg 
+ 
+
+===== PAGE 29 =====
+Module 7.16 V06    Page 29 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Exemple de rapport de pesée : 
+RAPPORT DE PESÉE D'AÉRONEF 
+1. IDENTIFICATION 
+Aéronef : Cessna 172S Skyhawk 
+Immatriculation : F-GABC 
+Date : 15/10/2025 
+Lieu : Hangar 3, Paris-Le Bourget 
+Effectué par : Jean MARTIN - Licence B1.1 
+Organisme : ABC Maintenance - Agrément FR.145.0123 
+ 
+2. CONDITIONS DE PESÉE 
+✓ Réservoirs carburant VIDES 
+✓ Huile moteur PLEINE 
+✓ Sol horizontal vérifié 
+✓ Aéronef en hangar 
+✓ Température : 18°C 
+ 
+3. RELEVÉS DE PESÉE 
+Balances étalonnées le : 05/09/2025 
+Point de pesée Poids (kg) 
+Roue avant 152,5 
+Roue principale gauche 370,8 
+Roue principale droite 368,2 
+TOTAL 891,5 kg 
+ 
+4. CALCUL DU CENTRE DE GRAVITÉ 
+Point de référence (Datum) : Cloison pare-feu 
+Point Poids (kg) Bras (m) Moment (kg/m) 
+Roue avant 152,5 +0,82 +125,05 
+Roue principale G 370,8 -2,45 -908,46 
+===== PAGE 30 =====
+Module 7.16 V06    Page 30 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+ 
+ 
+ 
+ 
+ 
+Position du CG = -1685,50 ÷ 891,5 = -1,89 m du point de référence (Datum) 
+ 
+5. RÉSULTATS 
+Masse à vide équipée : 891,5 kg 
+Centre de gravité : -1,89 m (38,0% MAC) 
+Limites constructeur : -2,15 m à -1,65 m 
+STATUT : ✓ CONFORME 
+ 
+6. CONCLUSION 
+L'aéronef est conforme aux limites de masse et centrage. 
+Pesée effectuée selon AMM Chapitre 08-10-00. 
+ 
+7. SIGNATURES 
+Exécutant : 
+Nom : Jean MARTIN 
+Date : 15/10/2025 
+Signature : ________________ 
+Vérificateur : 
+Nom : Pierre BERNARD 
+Date : 15/10/2025 
+Signature : ________________ 
+ 
+Prochaine pesée requise : Selon programme maintenance ou après modification majeure 
+  
+Point Poids (kg) Bras (m) Moment (kg/m) 
+Roue principale D 368,2 -2,45 -902,09 
+TOTAL 891,5 - -1685,50 
+===== PAGE 31 =====
+Module 7.16 V06    Page 31 sur 31 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2025 
+Exemple de question à développement. 
+• Pour réaliser la pesée d’un aéronef, de quels éléments indispensables le technicien a-t-
+il besoin ? 
+ 
+La pesée d'un aéronef est une opération technique essentielle permettant de mesurer précisément la 
+masse de l'appareil. Cette procédure obligatoire s'effectue lors de la mise en service, après 
+modifications majeures, ou périodiquement selon la réglementation. Elle nécessite la réunion de 
+nombreux éléments indispensables pour garantir son exactitude. 
+ 
+Pour réaliser cette opération critique, le technicien doit réunir quatre catégories d'éléments : 
+La documentation technique comprend le manuel de maintenance spécifiant la procédure de 
+pesée, la fiche de pesée précédente pour comparaison, et les formulaires standardisés 
+d'enregistrement. 
+Les équipements de mesure incluent des balances certifiées et étalonnées, placées sous chaque 
+point d'appui, ainsi que des cales et niveaux à bulle pour positionner l'aéronef dans son attitude de 
+référence. 
+La préparation de l'aéronef exige une configuration précise : réservoirs vidangés ou à quantité 
+connue, fluides hydrauliques et huile moteur aux niveaux prescrits, inventaire des équipements 
+amovibles, appareil propre avec portes et capots fermés selon les spécifications. 
+Les conditions environnementales requièrent un hangar fermé ou une zone abritée du vent, un sol 
+plan et stable, la température ambiante enregistrée, et l'aéronef immobilisé avec freins desserrés et 
+cales de sécurité. 
+En conclusion, la pesée d'un aéronef demande au technicien une maîtrise complète de multiples 
+éléments interdépendants, alliant documentation rigoureuse, équipements calibrés, préparation 
+minutieuse, conditions contrôlées et calculs précis. L'exactitude de cette opération est cruciale 
+puisqu'elle détermine les données de masse utilisées durant toute la vie opérationnelle de l'appareil. 
+ 
+• Pour réaliser le centrage d’un aéronef de quels éléments indispensables le technicien 
+a-t-il besoin ? 
+Le centrage d'un aéronef est une opération de maintenance fondamentale visant à déterminer la 
+position précise du centre de gravité de l'appareil. Cette procédure est indispensable pour assurer la 
+sécurité et optimiser les performances en vol. Sa réalisation exige du technicien la disponibilité 
+d'éléments documentaires et matériels spécifiques. 
+Pour réaliser cette opération critique, le technicien doit réunir quatre catégories d'éléments pour 
+effectuer un centrage précis : 
+La documentation technique regroupe le manuel de vol précisant les limites de centrage 
+autorisées, la fiche de pesée officielle mentionnant le poids à vide et le centre de gravité de 
+référence, les abaques de centrage propres à l'appareil, ainsi que la liste exhaustive des équipements 
+installés avec leurs masses et positions. 
+Les équipements de mesure des instruments pour mesurer les distances par rapport au point de 
+référence. 
+Les données de configuration nécessitent une connaissance exacte de l'état de l'aéronef lors de la 
+pesée, incluant les quantités de carburant et d'huile, l'inventaire des équipements embarqués, ainsi 
+que le calcul des masses et bras de levier de chaque composant. 
+Les outils de calcul permettent le traitement des informations collectées via des formulaires 
+standardisés ou logiciels spécialisés, appliquant la formule fondamentale : Position du CG = Moment 
+total / Masse totale. 
+En conclusion, la réussite du centrage d'un aéronef dépend de l'utilisation rigoureuse et combinée de 
+ces quatre éléments essentiels : documentation technique, équipements de mesure calibrés, 
+données de configuration précises et outils de calcul appropriés. Cette rigueur méthodologique 
+garantit le respect de l'enveloppe de centrage autorisée, condition sine qua non de la sécurité des 
+opérations aériennes. 

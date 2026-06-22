@@ -1,0 +1,2165 @@
+===== PAGE 1 =====
+Module 7.14 V07   Page 1 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+ 
+ 
+  
+  
+Module 7.14 
+ 
+Manutention 
+des matériaux 
+ 
+Licence B1/ B2  
+Livret destiné aux stagiaires 
+ 
+Édition 2025  
+===== PAGE 2 =====
+Module 7.14 V07   Page 2 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins que 
+celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à des 
+tiers non habilités. 
+ 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis . 
+ 
+TABLEAU D'EVOLUTION 
+ 
+ 
+Révision Date Pages modifiées Version informatique 
+V03 30/12/2009 Toutes  Nouvelle édition 
+V04 11/05/2016 
+Page de garde et page 
+1  
+  
+Adresse, signatures et noms modifiés + édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 07/06/2017 Toutes Nouvelle édition 
+V06 30/05/2024 Toutes UE 2023 / 989 
+V07 21/10/2024 39 Correction § 3 
+V08 15/09/2025 Toutes Vérification de conformité et ajout de contenus  
+ 
+  
+Visa Rédacteur 
+Damien SCHMITZ 
+ 
+Responsable Module 
+Laurent 
+VINGADASSALOM 
+Visa Directeur de 
+Formation 
+Laurent 
+VINGADASSALOM 
+Visa 
+Responsable 
+Qualité 
+Déborah CALAC 
+   
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, 
+elle ne doit pas être considérée comme une référence réglementaire ou technique.  
+
+===== PAGE 3 =====
+Module 7.14 V07   Page 3 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+SUJET MODULE 7 : Procédures d’entretien 
+ 
+Catégorie B1 : 80 questions à choix multiples et 2 questions à développement. Temps alloué 
+100 minutes. 
+Catégorie B2 : 60 questions à choix multiples et 2 questions à développement. Temps alloué 
+75 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+7.14 Manutention des matériaux Niveau 
+A B1 B2 
+1. Tôlerie aéronautique 
+• Traçage et calcul du développement de pliage ;  
+• Travail de la tôle, incluant le pliage et le formage ; 
+• Inspection des travaux de tôlerie. 
+N/A 2 N/A 
+2. Matériaux composites et non-métalliques 
+• Techniques d’assemblage par collage ;  
+• Conditions environnementales (température, humidité, propreté, etc.) ; 
+• Méthodes d'inspection. 
+N/A 2 N/A 
+3. Fabrication additive  
+• Techniques courantes de fabrication additive et leur influence sur les 
+propriétés mécaniques de la pièce finie ; 
+• Inspection des pièces issues de la fabrication additive et défaillances de 
+production courantes. 
+1 1 1 
+ 
+  
+===== PAGE 4 =====
+Module 7.14 V07   Page 4 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet.  
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet.  
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples.  
+• Le postulant devra être capable d'utiliser des termes typiques.  
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet.  
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques.  
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet.  
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet.  
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées.  
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets.  
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques.  
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet.  
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur.  
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient.  
+===== PAGE 5 =====
+Module 7.14 V07   Page 5 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+TABLE DES MATIERES 
+1 TOLERIE AERONAUTIQUE ................................ ................................ ................................ ........................  7 
+1.1 TRAVAIL DE LA TOLE  ........................................................................................................................................................... 7 
+1.2 PLIAGE ............................................................................................................................................................................. 8 
+1.2.1 Tolérances des rayons de pliage............................................................................................................................. 8 
+1.2.2 Alliages d’Aluminium............................................................................................................................................... 8 
+1.2.3 Aciers ........................................................................................................................................................................ 9 
+1.2.4 Alliage de Titane ...................................................................................................................................................... 9 
+1.2.5 Le soyage.................................................................................................................................................................. 9 
+1.2.6 Principe de calcul du pliage Formule générale .................................................................................................... 11 
+1.2.7 Principe de calcul de la deformation « Zc »(zone courbe) .................................................................................. 11 
+1.2.8 La mise en forme travail a la main faconnage de bords sur forme et contre forme ........................................ 12 
+1.2.9 Plieuse manuelle .................................................................................................................................................... 13 
+1.2.10 Pliage à la presse plieuse : ............................................................................................................................... 15 
+1.2.11 Machine a cintrer les toles (rouleuse) ............................................................................................................. 19 
+1.3 INSPECTION DES TRA VAUX DE MISE EN FORME TOLERIE  ......................................................................................................... 19 
+2 MATERIAUX COMPOSITES ET NON METALLIQUES ................................ ................................ .....................  21 
+2.1 THEORIE DU COLLAGE  ....................................................................................................................................................... 21 
+2.1.1 Généralités ............................................................................................................................................................. 21 
+2.1.2 Les contraintes d’un assemblage collé................................................................................................................. 22 
+2.1.3 Les différentes colles ............................................................................................................................................. 22 
+2.1.4 Techniques de collage ........................................................................................................................................... 31 
+2.1.5 La polymérisation .................................................................................................................................................. 33 
+2.1.6 La préparation et le nettoyage des surfaces ....................................................................................................... 33 
+2.2 CONDITIONS D’ENVIRONNEMENT  ....................................................................................................................................... 35 
+2.2.1 Température .......................................................................................................................................................... 35 
+2.2.2 Hygrométrie ........................................................................................................................................................... 35 
+2.2.3 Ventilation.............................................................................................................................................................. 35 
+2.2.4 La poussière ........................................................................................................................................................... 36 
+2.3 METHODES D’INSPECTION DES COLLAGES  ............................................................................................................................ 36 
+2.3.1 Les causes du dommage ....................................................................................................................................... 37 
+2.3.2 Inspection du dommage........................................................................................................................................ 37 
+2.3.3 Evaluation du dommage ....................................................................................................................................... 38 
+3 FABRICATION ADDITIVE ................................ ................................ ................................ ........................  39 
+3.1 GENERALITES .................................................................................................................................................................. 39 
+3.2 TECHNIQUES COURANTES DE FABRICATION ADDITIVE ET LEUR INFLUENCE SUR LES PROPRIETES MECANIQUES 
+DE LA PIECE FINIE ....................................................................................................................................................................... 40 
+3.2.1 La Fusion Laser Sélective (SLS) .............................................................................................................................. 40 
+3.2.2 La fusion de lit de poudre (SLM) ........................................................................................................................... 40 
+3.2.3 Le dépôt de fil ........................................................................................................................................................ 41 
+3.2.4 La Stéréolithographie (SLA) .................................................................................................................................. 42 
+3.2.5 Déposition Métallique par Laser (LMD : Laser Métal Déposition) ..................................................................... 42 
+3.2.6 Matériaux avancés ................................................................................................................................................ 43 
+3.2.7 Certification et Réglementation ........................................................................................................................... 43 
+3.2.8 Contrainte de taille ................................................................................................................................................ 43 
+3.3 INFLUENCE SUR LES PROPRIETES MECANIQUES ...................................................................................................... 44 
+3.3.1 Caractéristiques mécaniques des pièces imprimées ........................................................................................... 44 
+3.3.2 Facteurs influençant les propriétés ...................................................................................................................... 44 
+3.3.3 Comparaison avec les méthodes traditionnelles................................................................................................. 44 
+3.4 INSPECTION ET DEFAILLANCES COURANTES ............................................................................................................ 45 
+3.4.1 Méthodes d’inspection de base ............................................................................................................................ 45 
+3.4.2 Défaillances de production courantes.................................................................................................................. 46 
+3.4.3 Importance du contrôle qualité ............................................................................................................................ 46 
+ 
+===== PAGE 6 =====
+Module 7.14 V07   Page 6 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Par défaut le contenu du livret est commun aux catégories des licences B1 et B2. Le contenu du livret 
+destiné uniquement à la catégorie B2 est identifié par un trait vertical dans la marge.  
+ 
+ 
+
+===== PAGE 7 =====
+Module 7.14 V07   Page 7 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+1 Tôlerie aéronautique 
+1.1 Travail de la tôle 
+ 
+Formage (Usinage sans 
+enlèvement de matière) 
+Chaudronnage Roulage 
+Représente au point de vue 
+technique de fabrication la part 
+la plus importante et la plus 
+difficile de l’élaboration des 
+pièces élémentaires. 
+Se situe au-delà des 
+déformations élastiques, dans 
+le domaine des déformations 
+plastiques. 
+Quand on supprime l’effort de 
+formage, il y a un retrait 
+élastique (refus) → prévoir une 
+déformation initiale 
+surabondante. 
+Travailler sur un métal recuit 
+ou sur trempe fraiche pour 
+avoir une malléabilité maximale.  
+Combattre la formation de plis 
+qui accompagne la plupart des 
+opérations de formage. Le 
+moyen le plus classique 
+consiste à comprimer la tôle à 
+former entre la matrice et un 
+dispositif appelé serre flan.  
+Si des plis subsistent en fin 
+d’opération → disparition à 
+l’aide de retouches manuelles 
+onéreuses. 
+→ Martelage de la tôle  
+→ Outils de frappe à la main  : 
+- Maillets en bois (ou peau de porc)  
+- Marteaux en acier à bord arrondis  
+→ Réalisation d’allongement ou 
+des restreints 
+Supports de pièces : 
+- Tas en acier 
+- Billots en bois 
+- Coussins en cuir remplis de sable  
+- Bigornes 
+Planage : supprimer les irrégularités 
+de surface par martelage léger. 
+Travail délicat nécessitant coup d'œil 
+et habileté. 
+Les travaux de chaudronnage et de 
+planage peuvent être accélérés par 
+l'utilisation de moyens mécaniques : 
+le martinet pneumatique à puissance 
+de frappe réglable ou la machine à 
+galets. 
+Le matériel de chaudronnage des 
+alliages légers doit présenter un 
+état de surface impeccable des 
+parties travaillantes des outils.  
+But : Donner aux tôles la 
+forme d’une surface conique 
+ou cylindrique. 
+Utilisation de machines à 
+rouler où la tôle entrainée par 
+2 rouleaux parallèles est 
+obligée de passer sur un 3 ième 
+rouleau parallèle aux 
+premiers ou oblique. 
+Exemple : Réalisation de 
+bord d’attaque ou 
+cambrure de tôles de 
+revêtement. 
+ 
+ 
+Pliage Profilage 
+Tôle pliée suivant une ligne droite.  
+S’effectue sur une plieuse à tablier ou sur une presse-
+plieuse (pour les profilés notamment) . 
+Permet de réaliser des éléments longs et profilés , pièces 
+de départ pour la construction.  
+Choisir un grand rayon qui évite aux fibres externes de subir 
+une trop forte extension. 
+Doit être effectué soit  : 
+- à froid sur de métal recuit ou immédiatement après 
+trempe. 
+- à chaud à 400 °C (très petits rayons et forte s épaisseurs). 
+- à chaud à 180 °C - 200 °C (épaisseurs faibles/moyennes 
+et petites déformations). 
+Le pliage à chaud s'effectue à une température moyenne de 
+300°C, le rayon de pliage minimal est de l'ordre de 1 fois et 
+demie l'épaisseur de la tôle.  
+→ Normalisé et livré comme produit 
+ouvré. 
+→ Utilisation de la technique du pliage et 
+une presse plieuse. 
+Longueur limitée à la dimension 
+principale de la machine. 
+Procédé de moletage : former une 
+bande de grande longueur de façon 
+continue. La tôle passe dans une suite 
+de galets donnant progressivement la 
+forme voulue. 
+Procédé d’étirage : Obtention des 
+profilés en plaçant une filière appropriée 
+sur le banc à étirer. 
+
+===== PAGE 8 =====
+Module 7.14 V07   Page 8 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Pliage  
+Pour la fabrication des pièces d’aéronef, il est nécessaire d’effectuer des pliages, soyage s, cintrages, 
+rétreints. Le pliage est une opération fréquemment utilisée tant en fabrication qu’en réparation.  
+ 
+1.1.1 Tolérances des rayons de pliage 
+Des rayons de pliage minimum sont à respecter en fonction :  
+- De la matière. 
+- De son état (recuit ; écroui ; sous trempe fraîche ; etc.).  
+- De l’épaisseur de la tôle.  
+ 
+Les rayons de pliage sont définis dans les plans de fabrication et de réparation. Dans le cas contraire, 
+se référer au STRUCTURAL REPAIR MANUAL ATA 51.  
+EXEMPLE : « e » est l’épaisseur de la tôle et R est le rayon interne de pliage.  
+Le rayon de pliage est calculé en fonction de l’épaisseur de la tôle. Il dépend également de l’état de 
+traitement thermique appliqué à la tôle avant le formage et éventuellement de la chauffe appliquée au 
+métal durant le formage.  
+ Dans de nombreux cas, il est préconisé d’effectuer un traitement de recuit, voir de revenu après 
+le formage afin de limiter les tensions internes.  
+Le rayon est généralement un facteur de l’épaisseur dans les SRM des avions modernes.  
+ 
+1.1.2 Alliages d’Aluminium 
+ 
+ 
+  
+Alliage Etat de 
+livraison 
+Etat durant le 
+formage 
+Etat final Epaisseur e en 
+mm 
+Rayon minimum 
+de pliage 
+2024 ou 2024 
+plaqué 
+ 
+ 
+ 
+ 
+ 
+ 
+T3 T3 T3 0.5 à 1.6 2.5e 
+ 
+ 
+ 
+ 
+ 
+ 
+1.6 à 3.2 3e 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 à 6 4e 
+T3 ou F W T4 ou T42 0.5 à 1.6 2.5e 
+ 
+ 
+ 
+ 
+ 
+ 
+1.6 à 3.2 3e 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 à 6 4e 
+2618 ou 2618 
+plaqué 
+ 
+ 
+ 
+O ou T6 O T6 0 à 3.25 2.5e 
+ 
+ 
+W T6 0 à 1.2 3e 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2 à 3.25 4e 
+5086 
+ 
+ 
+ 
+O ou H111 O ou H111 O ou H111 0.5 à 1.6 2.5e 
+ 
+ 
+ 
+ 
+ 
+ 
+1.6 à 3.2 3e 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 à 6 4e 
+6061 
+ 
+ 
+T4 T4 T4 0 à 2.5 3e 
+T6 W T6 0 à 2.5 2.5e 
+7075 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F ou O W (formé dans les 
+2 heures suivant 
+la trempe fraîche) 
+T6 0 à 1.2 2.5e 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2 à 3.25 4e 
+ 
+ 
+ 
+ 
+ 
+ 
+3.25 à 6.25 5e 
+===== PAGE 9 =====
+Module 7.14 V07   Page 9 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+1.1.3 Aciers 
+ 
+1.1.4 Alliage de Titane 
+Alliage Etat de 
+livraison Etat durant le formage Etat final Epaisseur e en 
+mm 
+Rayon minimum de 
+pliage 
+T35 Recuit 
+Formage à froid 
+Recuit 
+0 à 1.2 2.5e 
+1.2 à 3.25 2e 
+Formage à chaud 0 à 1.2 - 
+1.2 à 3.25 - 
+T40 Recuit 
+Formage à froid 
+Recuit 
+0 à 1.2 3e 
+1.2 à 3.25 4e 
+Formage à chaud 0 à 1.2 2e 
+1.2 à 3.25 3e 
+T60 Recuit 
+Formage à froid 
+Recuit 
+0 à 1.2 4e 
+1.2 à 3.25 5e 
+Formage à chaud 
+0 à 1.2 4e 
+1.2 à 3.25 3e 
+TU2 Recuit 
+Formage à froid 
+Recuit 
+0 à 1.2 2.5e 
+1.2 à 3.25 4e 
+Formage à chaud 
+0 à 1.2 2e 
+1.2 à 3.25 3e 
+T Al6 Va Recuit Recuit Recuit 0 à 3.25 - 
+ 
+1.1.5 Le soyage 
+Le soyage est également une opération couramment pratiquée. Cette opération est nécessaire afin 
+d’assurer une continuité aérodynamique au niveau de la jonction entre cadres et lisses par exemple. 
+Des règles sont à appliquer concernant les 
+rayons de pliage et la distance entre ceux-ci, 
+ils varient en fonction :  
+- De la matière. 
+- De son état. 
+- De l’épaisseur du matériau à soyer.  
+Voir les tableaux suivants pour les valeurs : 
+en fonction de l’alliage concerné, il faudra 
+commencer par définir le rayon minimum de 
+courbure à utiliser puis en fonction de la hauteur du soyage, définir la côte H d’écart entre les rayons.
+Alliage Etat de livraison Etat durant le 
+formage Etat final Epaisseur e en 
+mm 
+Rayon minimum de 
+pliage 
+XC6 Recuit Recuit Recuit 0 à 2.5 1.5e 
+15CrMoVa6 Recuit ou 
+trempé/revenu 
+Recuit Recuit 0 à 2.5 2e 
+15CrMoVa6 Recuit Recuit Trempé à l’air 0 à 1.25 3e 
+1.25 à 2.5 4e 
+25CrMo4S - Recuit Recuit 0 à 2.5 1.5e 
+25CrMo4S - Recuit Trempé/revenu 0 à 0.5 3e 
+0.5 à 1.2 4e 
+X10CrNiTi18 Recuit Recuit Trempé 0 à 2.5 1.5e 
+X10CrNiTi18 Ecroui 3/4 Ecroui 3/4 Ecroui 3/4 
+0 à 1.2 3e 
+1.2 à 2.5 4e 
+
+===== PAGE 10 =====
+Module 7.14 V07   Page 10 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Exemple : une tôle de 2024 de 2 mm d’épaisseur doit être soyée sur une hauteur de 5 mm.  
+Cette tôle doit être pliée à un rayon minimum de 5 mm (tableau 1).  
+L’écart entre les deux axes des rayons de pliage ne doit pas être inférieur à 11 mm (tableau 2).  
+Si cette même tôle n’avait nécessité qu’un soyage de 3 mm de hauteur, le rayon serait resté de 5 mm, 
+mais l’écart h sera réduit afin de ne pas trop déporter la tôle.  
+ 
+Tableau n°1 : valeur du rayon R pour soyage.  
+ 
+Alliage Etat Epaisseur e [mm] 
+aisseur e en 
+mm 
+ 
+ 
+ 
+ 
+0.4 à 0.8 0.8 à 1.6 1.6 à 3.2 3.2 à 4.8 4.8 à 6 6 à 10 10 à 12 
+5086 O 0.5 1 1 1.25 1.5 2 - 
+5083 O 0.5 1 1 1.25 1.5 2 - 
+ 
+ 
+H116 - 2 2.25 3 3 - - 
+2017 O - - 0.75 1 1.5 2.5 4 
+ 
+ 
+T4 2.5 3 4 5 6 6 - 
+2014 O - - 0.75 1 1.5 2.5 4 
+ 
+ 
+T4 2.5 3 4 5 5 6 - 
+ 
+ 
+T6 4.5 4.75 5.5 6.5 8 - - 
+2024 O - - 0.75 1 1.5 - - 
+ 
+ 
+T4 3 4 5 6 6 - - 
+6061 O - 0.5 1 1 1 1.5 2 
+ 
+ 
+T4 0.5 1 1.5 2.5 3 3.5 4 
+ 
+ 
+T6 1.5 2.5 3.5 3.5 4 4.5 5 
+6082 O - 0.5 1 1.5 1.75 2 2.5 
+ 
+ 
+T4 1 1.5 2 2.5 3 3.5 4 
+ 
+ 
+T6 2 2.5 3.5 4 4.5 5 6 
+ 
+ 
+T61 1.5 2 2.5 3.5 4 - - 
+7020 T4 1.5 2 2.5 3 3.5 4 5 
+ 
+ 
+T6 3 3.5 4 5 5.5 6 - 
+7075 O - 1 1 1.5 2.5 3.5 - 
+ 
+ 
+T6 4.5 5.5 6.5 7 8 - - 
+ 
+Tableau n°2 : Distance H entre les rayons  
+ Epaisseur e en mm  
+Soyage 
+A en mm  
+0.6 0.8 1 1.2 1.4 1.6 1.8 2 2.5 3 4 
+R H R H R H R H R H R H R H R H R H R H R H 
+0.8 à 1 1 2.2 1 2.5 1 2.6 1.
+6 3.2 1.
+6 3.5 2 3,
+7 2 4 2.5 4.
+2 
+3.
+5 5.1 5 6 6 6.8 
+1 à 1.5 1 2.6 1 2.8 1.5 3.5 1.
+6 3.7 2 4 2 4,
+3 
+2.
+5 
+4.
+6 2.5 4.
+9 
+3.
+5 6 5 7 6 8 
+1.5 à 2 1.6 3.5 1.6 3.7 2 4.4 2 4.6 2 4.9 2.
+5 
+5,
+2 3 5.
+5 3 5.
+9 4 7 6 8.5 6 8.9 
+2 à 3 2 4.5 2 4.8 2.5 5.6 2.
+5 5.8 2.
+5 6.1 3 6,
+5 3 6.
+6 3 6.
+8 4 8.2 6 10 8 11.7 
+3 à 4 2.5 5.6 2.5 5.8 3 6.7 3 6.9 3 7.1 3 7,
+2 4 8 4 8.
+6 5 10 6 11.2 8 13.2 
+4 à 5 3 6.5 3 6.9 4 8.5 4 8.7 4 8.8 4 8,
+9 4 9.
+1 4 9.
+2 5 10.8 8 13.9 10 15.9 
+5 à 6 4 8.4 4 8.8 5 10.2 5 10.4 5 10.5 5 10
+,7 5 11 5 11 5 11.5 8 14.9 10 17 
+6 à 7 5 10.2 5 10.5 6 11.9 6 12.1 6 12.2 6 12
+,4 6 12
+.5 6 12
+.7 6 13.2 8 15.7 10 18.1 
+7 à 8.5 5 10.6 5 10
+.9 6 12.8 6 12.8 6 13 6 13
+,1 6 13
+.4 6 13
+.5 6 14 8 16.8 10 19.6 
+8.5 à 
+10 6 12.7 6 12
+.8 8 15.9 8 15.1 8 15.3 8 15
+,3 8 16
+.5 8 15
+.8 8 17.2 10 20 10 20.7 
+10 à 
+12 6 16.2 6 16
+.5 8 16.7 8 16.9 8 17.1 8 
+17
+,2 
+ 
+8 17
+.5 8 17
+.6 8 18.4 10 21.2 10 22 
+===== PAGE 11 =====
+Module 7.14 V07   Page 11 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+1.1.6 Principe de calcul du pliage - Formule générale 
+ 
+X = (Ld + Zc) - R. 
+Ld : à définir suivant l’épure. 
+Zc : à calculer suivant l’épaisseur et le rayon de 
+pliage. 
+R : donné par le plan ou le SRM . 
+ 
+ 
+1.1.7 Principe de calcul de la deformation « Zc »(zone courbe) 
+ 
+Formule générale : 
+Zc = 2π (R + e/2) 
+α/360° 
+Ld1 = x - (R + e) 
+Ld2 = Y – (R+ e) 
+Ld total = Ld1+ Zc +Ld2  
+ 
+ 
+ 
+  
+
+===== PAGE 12 =====
+Module 7.14 V07   Page 12 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+1.1.8 La mise en forme travail a la main faconnage de bords sur forme et contre 
+forme  
+ 
+• La forme et la contre forme seront le plus souvent en alliage léger 
+ 
+ 
+ 
+ 
+Façonnage du bord :  
+➢ Marquage de la carre au maillet. 
+Mener le travail par passes régulières en descendant de manière à coller la tôle sur la forme.  
+Attention à ne pas plisser la tôle.  
+ 
+ 
+  
+
+===== PAGE 13 =====
+Module 7.14 V07   Page 13 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+1.1.9 Plieuse manuelle 
+ 
+    
+ 
+ 
+ 
+Réglage de la plieuse :  
+Pour une épaisseur < à 1.5mm, on ne tient pas compte de l'arrondi de pliage . Le traçage se fait suivant 
+les cotes intérieures de la pièce.  
+Régler le tablier par rapport à la table d'une distance égale à l'épaisseur de la pièce.  
+ 
+ 
+  
+
+===== PAGE 14 =====
+Module 7.14 V07   Page 14 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Réglage du tablier pour mise en concordance de l’axe de rotation avec le centre du rayon de pliage :  
+ 
+Première opération :  
+Descente du tablier sur la colonne graduée de r 
++ e, réaliser rigoureusement les mêmes 
+réglages sur les deux colonnes.  
+ 
+ 
+Deuxième opération :  
+Remontée de l’axe de rotation du tablier pour 
+mise à niveau de la règle avec la table  
+ 
+Pliage obtenu 
+Constat : 
+- L’axe de rotation du tablier se confond 
+avec le centre du rayon de cintrage.  
+ 
+ 
+ 
+  
+
+===== PAGE 15 =====
+Module 7.14 V07   Page 15 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Avantage de ce réglage  Inconvénients de ce réglage  
+L’arête travaillante de la règle calibre continuellement 
+le rayon et ce, dès l’amorce du cintrage. Le résultat 
+est supérieur au réglage simple  
+Le réglage du tablier est long.  
+Le tracé nécessite de tenir compte du rayon et du 
+développement de la partie cintrée.  
+ 
+Remarque : pour obtenir des cintres à rayon important, il convient d’utiliser un mandrin.  
+ 
+1.1.10 Pliage à la presse plieuse : 
+ 
+ 
+ 
+Principe de fonctionnement :  
+ 
+Nota : la pression du pied sur la pédale influe la vitesse de mouvement du tablier. Elle permet 
+d’obtenir : 
+- Montée rapide (distributeur fermé).  
+- Montée lente (distributeur entrouvert).  
+- Immobilité. 
+- Descente rapide (distributeur ouvert).  
+ 
+Un dispositif « anti-coups de fouet » permet de passer automatiquement de la montée rapide à la 
+montée lente dès que le C et le V entrent en contact avec la tôle.  
+En aucun cas, le limiteur de profondeur ne peut faire varier la force au -delà de celle prévue par le 
+limiteur de force et réglée préalablement par l’opérateur en début d’opération.  
+ 
+  
+  
+
+===== PAGE 16 =====
+Module 7.14 V07   Page 16 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Les techniques de pliage  :  
+ 
+• Le pliage « en l'air »  
+ 
+Le pliage « en l'air » est une technique de formage où le matériau est plié sans être totalement soutenu 
+par une matrice. Ce procédé offre une grande flexibilité en permettant de réaliser différents angles sans 
+changer d'outillage, réduisant ainsi les coût s et les temps de préparation. Cependant, il nécessite une 
+machine précise pour obtenir des résultats cohérents et peut entraîner des déformations inégales pour 
+certains matériaux. Utilisé principalement pour les tôles, il combine efficacité et adaptabilit é. 
+ 
+ 
+ 
+ 
+ 
+Le pliage en l'air nécessite des forces peu importantes. Elles sont données sur un abaque fourni par le 
+constructeur. Cet abaque est applicable pour le pliage d'un acier dont la résistance à la rupture est de 
+40DaN/mm2. Pour plier un autre métal, il faut adapter la force nécessaire selon la résistance du 
+matériau. Méthode de calcul : on multiplie la force de base par le rapport des résistances.  
+Exemple : 
+Force pour acier (40 DaN/mm²) = 10 tonnes  
+Force pour inox (60 DaN/mm²) = 10 × (60/40) = 15 tonnes   
+
+===== PAGE 17 =====
+Module 7.14 V07   Page 17 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+ 
+• Le pliage en frappe 
+ 
+Le pliage en frappe, également connu sous le nom de pliage en fond de matrice, est une technique où 
+le matériau est plié en étant complètement soutenu par une matrice. Le poinçon presse le matériau 
+contre la matrice pour former l'angle désiré. Cette méthod e assure une grande précision et uniformité 
+des plis, avec moins de risques de déformation. Cependant, elle nécessite des outils spécifiques pour 
+chaque type de pli et angle, ce qui peut augmenter les coûts et les temps de préparation. Utilisée 
+souvent pou r les matériaux plus épais ou nécessitant une haute précision, elle est idéale pour des 
+productions en série où la répétabilité est essentielle.  
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 18 =====
+Module 7.14 V07   Page 18 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+ 
+ 
+ 
+Machine à former par retreinte et allongement  : 
+ 
+Principe de fonctionnement : 
+Un système mécanique élabore un mouvement de translation (de va et vient) qui permet d'exercer sur 
+une tôle une pression par l'intermédiaire d'un jeu de mâchoires.  
+Si ces mâchoires se rapprochent, elles refoulent le métal, il se produit un raccourcissement d’où rétreint. 
+ 
+ 
+ 
+ 
+
+===== PAGE 19 =====
+Module 7.14 V07   Page 19 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+1.1.11 Machine à cintrer les tôles (rouleuse) 
+ 
+Les machines à cintrer les tôles en aéronautique sont essentielles pour former des pièces métalliques 
+complexes avec une grande précision. Elles permettent de plier des matériaux variés comme 
+l'aluminium et le titane, et sont souvent contrôlées par ordinat eur pour assurer une répétabilité élevée. 
+Utilisées pour produire des composants tels que les panneaux de fuselage, les nervures et les 
+longerons, ces machines améliorent l'efficacité et réduisent les coûts de production tout en respectant 
+les normes strictes de l'industrie aéronautique.  
+ 
+ 
+ 
+ 
+ 
+1.2 Inspection des travaux de mise en forme tôlerie  
+ 
+L'inspection des pièces de tôlerie vise à vérifier trois points principaux :  
+1. Les dimensions (rayons, angles, longueurs)  
+2. L'état de surface (absence de défauts visibles)  
+3. L'épaisseur (variations dues au formage)"  
+L’inspection finale  d’une pièce mise en forme se fait surtout visuellement. Cette opération fait 
+également appel au toucher. 
+Exemple : à l’issue d’un pliage à la plieuse manuelle, il convient de vérifier tout d’abord, le rayon interne 
+de pliage. Cette vérification s'effectue en utilisant un outil de précision , comme un forêt (outil 
+cylindrique), comme gabarit : on le place dans le rayon de pliage pour vérifier que le rayon de la pièce 
+respecte les dimensions requises . Par la suite, la vérification sera l’état de surface de la partie 
+extérieure du pliage afin de vérifier l’absence de criques et de rayures dues au frottement avec le tablier. 
+ 
+Point important : La plupart des défauts de pliage proviennent d'un mauvais état de surface des 
+outils (rayures, traces d'usure). Des outils en bon état sont essentiels pour une pièce de qualité . 
+Suite à un formage effectué sur forme , et comportant des pliages non rectilignes, l’inspection sera 
+plus délicate. D’abord, par la vérification du rayon  qui ne peut se faire à l’aide d’un forêt ou d’une 
+jauge rectiligne. Dans ce cas, il faut utiliser une bille afin de vérifier la concordance du rayon de 
+courbure. L’état de surface sera également plus difficile à juger  après l’utilisation d’un maillet qui 
+
+===== PAGE 20 =====
+Module 7.14 V07   Page 20 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+laisse systématiquement des traces de chocs. En revanche, un maillet sale, rayé ou déformé laissera 
+des traces indélébiles sur la pièce.  
+Une vérification supplémentaire  sera à effectuer dans ce cas, c’est la vérification de l’épaisseur  
+restant après le travail de mise en forme. Lors de la mise en forme par ce procédé, l’épaisseur peut 
+varier à la suite de  l’écrasement dû au martelage. Il convient donc de vérifier cette épaiss eur. Ce 
+contrôle est délicat car l'épaisseur varie selon les déformations :  
+• Zone de rétreint : épaisseur augmentée (métal comprimé)  
+• Zone d'allongement : épaisseur diminuée (métal étiré)  
+Le contrôle le plus délicat de l’épaisseur est celui qui est effectué sur les parties très cintrées, car 
+le moindre défaut de perpendicularité lors de la mesure conduit à de grosses différences de résultat.  
+ 
+Afin de limiter les défauts potentiels rencontrés à l’issue des pliages effectués sur des tôles ayant reçu 
+des traitements thermiques, il convient de respecter scrupuleusement les consignes de températures 
+et de durées. 
+===== PAGE 21 =====
+Module 7.14 V07   Page 21 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+2 Matériaux composites et non métalliques 
+ 
+2.1 Théorie du collage 
+ 
+2.1.1 Généralités 
+ 
+Le collage a été utilisé en fabrication aéronautique dès le début de l'aviation pour l'assemblage des 
+éléments de cellule en bois. Pour les autres matériaux, notamment les métaux, le collage, dernier -né 
+des procédés d'assemblage s'est imposé en raison de l 'amélioration des qualités des colles et des 
+progrès techniques de l'exécution et du contrôle.  
+ 
+Les avantages du collage sont à la fois d'ordre technique et d'ordre économique :  
+- Permet de conserver les caractéristiques dues à l'écrouissage ou aux traitements thermiques.  
+- Gain de poids - on évite l'augmentation de section compensant les trous des rivets  ; gain du 
+poids des têtes des rivets ou boulons.  
+- Elimination des concentrations de contraintes au voisinage des trous (rivetage).  
+- Amélioration de la résistance à la fatigue, meilleure tenue aux vibrations.  
+- Evite les modifications de structure cristalline se produisant au soudage.  
+- Indifférence aux épaisseurs des éléments à assembler.  
+- Simplification des outillages - le collage ne nécessite pas de machines importantes et les 
+outillages spécialisés sont généralement simples.  
+- Diminution du nombre de pièces détachées.  
+ 
+Cet avantage est notamment mis en valeur dans la structure en nid d'abeilles ou raidisseurs et les 
+goussets sont remplacés par l'élément de remplissage. Le collage est en outre un moyen d'assemblage 
+pour les structures "composites" comprenant des matériaux très différents par leurs propriétés 
+physiques et mécaniques. 
+ 
+Pour le composite, deux notions doivent être pris en compte :  
+- L'interaction liquide solide qui caractérise l'adhésion.  
+- Le mouillage qui caractérise l'étalement du liquide sur le solide.  
+ 
+La mouillabilité doit être la meilleure possible afin que le maximum de liaisons s'établissent entre 
+l'adhésif et le substrat. L'équation de Young nous indique qu'un traitement de surface est pratiquement 
+indispensable afin que l'énergie de surface du subs trat soit maximale. Ces traitements devront avoir 
+comme principal but de nettoyer la surface solide de tous les éléments susceptibles d'établir une 
+barrière à l'établissement des liaisons.  
+ 
+La tension superficielle des adhésifs utilisés doit être inférieure à l'énergie de surface des solides 
+considérés. C'est pourquoi il est extrêmement difficile de coller des plastiques à l'état brut.  
+Une bonne mouillabilité n'est pas une condition suffisante, encore faut -il qu'il se forme des liaisons 
+nombreuses et solides, ce qui suppose que la géométrie de la surface soit bien connue et que la chimie 
+de l'adhésif et de la surface solide soient parfai tement adaptées. 
+ 
+ 
+  
+===== PAGE 22 =====
+Module 7.14 V07   Page 22 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+2.1.2 Les contraintes d’un assemblage collé. 
+ 
+Quel que soit le type d’assemblage, il est important de comprendre les différentes contraintes que subit 
+un assemblage collé. 
+ 
+ 
+• CISAILLEMENT 
+ 
+Le cisaillement est parallèle au plan de collage, forçant les substrats à glisser l’un sur l’autre, il sollicite 
+tout l’assemblage 
+ 
+• TRACTION 
+ 
+La traction est perpendiculaire au plan ce collage, elle sollicite tout l’assemblage.  
+ 
+• CLIVAGE 
+ 
+Le clivage concerne les supports rigides et s’exerce en levier sur un bord du plan de collage, il ne 
+sollicite qu’une partie de l’assemblage.  
+ 
+• PELAGE 
+ 
+Le pelage concerne les supports souples et s’exerce au fur et à mesure et sollicite une toute petite 
+partie du plan de collage.  
+ 
+2.1.3 Les différentes colles 
+ 
+Une colle, c'est tout d'abord un polymère de base qui donne la cohésion de l'ensemble. C'est ensuite 
+l'addition d'éléments destinés à augmenter le pouvoir collant, à augmenter la souplesse dans certains 
+cas, ... 
+ 
+Les adhesifs structuraux 
+ 
+L'assemblage collé présente alors une résistance équivalente à celle des matériaux constituant la 
+structure. La colle est partie intégrante de l'ensemble de la structure à la différence des produits de 
+revêtements ou des mastics d'étanchéité, d'où l'appell ation d'adhésifs structuraux.  
+• Conçus pour résister à des contraintes supérieures à 7 MPa* à température ambiante.  
+• Peuvent être sollicités sans défaillance à un pourcentage élevé de leur résistance maximale 
+pendant une longue période, ceci dans des conditions hostiles (basses températures, chaleur, 
+agents chimiques.). 
+ 
+(*) 1 Mpa = 1 N/mm², donc 7 Mpa = 700N/cm² soit environ 70Kg force/cm²  
+  
+
+===== PAGE 23 =====
+Module 7.14 V07   Page 23 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Les polyuréthanes 
+ 
+  
+ 
+C'est une classe très vaste de produits dont certains peuvent être classés parmi les adhésifs 
+structuraux.  
+ 
+• Ce sont alors des polymères réactifs sans solvants ou à très haut extrait sec.  
+ 
+• Ils résultent de la réaction chimique entre deux composants principaux : l'isocyanate et le polyol.  
+ 
+• Se présentent sous la forme de bi composants . 
+ 
+• Tendent à devenir des adhésifs polyuréthannes mono composants en raison de leur facilité de 
+mise en œuvre.  
+ 
+• Ils ont une excellente tenue au pelage, à la déchirure.  
+ 
+Les polyuréthannes bi -composants sont considérés comme une colle semi structurale. Ils conviennent 
+parfaitement aux assemblages mixtes métal / plastique.  
+Certains fabricants développent des gammes de polyuréthannes mono composant. Ces colles se 
+présentent sous un état pâteux puis deviennent , après réticulation à l'humidité ambiante , des masses 
+élastiques. 
+ 
+Les excellentes propriétés d'adhérence des polyuréthannes ont trouvé des applications dans les 
+adhésifs à moyen et haut module dans tous les secteurs d'activité industrielle, en particulier chaque 
+fois que les assemblages sont soumis à la dilatation, des c hocs ou des vibrations conséquentes. Ils 
+trouvent de nombreuses utilisations dans des domaines aussi différents que les matériels de transports, 
+la construction navale, les équipements électriques.  
+• Les polyuréthannes sont moins rapides que les époxydes mais ils sont beaucoup plus souples.  
+• Possibilité de les coller sur pratiquement toutes les surfaces sans utiliser de primaires 
+d'adhésion. 
+• Ces derniers ne sont nécessaires que sur le Téflon et ses dérivés, c'est à dire des matériaux 
+qui sont supposés incollables.  
+• Un des gros avantages des polyuréthannes actuellement sur le marché est qu'ils collent le verre 
+sans primaire.  
+• Utilisation beaucoup plus simple qu'avec une époxy.  
+• En revanche, si  on veut une prise rapide on utilise fréquemment des collages mixtes : 
+polyuréthanne et ruban adhésif.  
+• On limite l'utilisation des rubans adhésifs car ils sont d'un coût assez élevé.  
+  
+
+===== PAGE 24 =====
+Module 7.14 V07   Page 24 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Il existe des polyuréthannes bi -composants.  
+• L’avantage : présenter des caractéristiques mécaniques plus élevées . 
+• L’inconvénient : leur mise en œuvre est beaucoup plus complexe. Ils sont durs à étaler et les 
+investissements sont lourds.  
+ 
+Les fabricants développent maintenant des mono composants avec des caractéristiques qui tendent à 
+se rapprocher de celles des bi -composants. 
+ 
+Une des applications principales des polyuréthannes est le collage du verre. En revanche, ils ont une 
+mauvaise tenue aux UV. De nombreuses recherches sont menées afin de réduire ce problème (collage 
+des pare-brise des voitures). 
+ 
+Une autre application de ces colles est la réalisation de tapis de sols, de joints d'étanchéité, des 
+assemblages d'éléments composites. On joue beaucoup sur le fait de la grande souplesse de ces 
+adhésifs. On parle d'ailleurs assez souvent de collage souple  pour les polyuréthannes mono 
+composants. 
+ 
+Les caractéristiques principales des polyuréthannes sont :  
+• Élasticité et souplesse importantes même à basse température.  
+• Bonne adhérence sur la plupart des matériaux.  
+• Bonne résistance au vieillissement.  
+• Résistance aux acides non dilués.  
+• Bonne tenue à l'humidité. 
+• Tenue aux températures moyennes (80 -90 °C). 
+• Durcissement à chaud rapide (mono -composant). 
+• Vitesse de réticulation (liaison permanente par réaction chimique) de 3 à 5 mm par jour pour les 
+mono-composants. 
+• Mise en œuvre technique pour les bi -composants. 
+• Propriété d'isolant électrique, propriété d'étanchéité.  
+• Absence de toxicité dans la plupart des cas.  
+• Nécessité d'étuves pour les mono -composants. 
+• Résistance au cisaillement moins élevée que les autres colles structurales.  
+• Dureté très bonne. 
+ 
+A l'heure actuelle, des fabricants commercialisent des polyuréthannes mono -composants qui n'ont plus 
+leur principal défaut c'est à dire la lenteur de polymérisation. Cette nouvelle colle est obtenue par la 
+présence d'un activateur. On a ainsi les avantages  d'une polyuréthanne mono -composant (simplicité 
+d'emploi) et ceux d'une bi -composants (rapidité de prise).  
+  
+===== PAGE 25 =====
+Module 7.14 V07   Page 25 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Les époxydes 
+ 
+  
+ 
+Ce sont des adhésifs thermodurcissables parmi les plus courants et les plus performants. Leur 
+dénomination provient de la présence d'un groupement caractéristique appelé groupement époxyde.  
+ 
+• Les formulations sont présentées sous forme de produits liquides ou pâteux selon le cas.  
+• Ce sont des adhésifs sans solvants, mono ou bi composants.  
+ 
+Pour les adhésifs bi composants, le mélange durcisseur résine de base est fait au moment du collage, 
+en respectant bien les quantités. Une réaction exothermique a alors lieu, permettant la réticulation.  
+ 
+Généralement, le collage est fait à température ambiante mais il peut être accéléré par un apport de 
+chaleur. 
+ 
+Pour les adhésifs mono composants, la colle est prête à l'emploi c'est -à-dire que la résine de base et 
+le durcisseur cohabitent sans que la réaction ait lieu. Il est nécessaire d'avoir un apport de chaleur pour 
+que la réaction se produise.  
+ 
+Les époxydes sont fréquemment utilisées pour des collages métal / métal ou métal / plastique devant 
+résister à des contraintes mécaniques très élevées. Elles offrent une très bonne adhésion sur la plupart 
+des matériaux et une excellente résistance au vieil lissement. 
+ 
+Pour les époxydes pouvant supporter des températures élevées, on insère des particules de 
+céramique. Le problème est alors le temps de manipulation qui atteint 24 H. La recherche est axée sur 
+la tenue en température de ces colles ainsi que sur la réalisati on de plus en plus courante d'époxyde 
+mono composant à caractéristique mécanique élevée.  
+ 
+On commercialise des époxydes à prise rapide, semi rapide, normale. Mais la résistance baisse au fur 
+et à mesure que le temps de prise raccourcit. Il faut donc trouver un compromis entre les impératifs de 
+rapidité de réalisation industrielle et la tenue du  collage. 
+ 
+   
+
+===== PAGE 26 =====
+Module 7.14 V07   Page 26 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Caractéristiques pour les mono composants :  
+- Excellente résistance en température pouvant aller de -55 à +200 °C. 
+- Excellente résistance au cisaillement : jusqu'à 40 MPa à 20°C.  
+- Excellente tenue aux environnements.  
+- Excellente résistance aux huiles, solvants.  
+- Stockage à -18 °C. 
+- Prix élevé. 
+- Nocivité. 
+- Manque de souplesse. 
+Pour les époxydes bi -composants, on peut citer :  
+- Excellente résistance en température.  
+- Excellente résistance au cisaillement.  
+- Bonne tenue aux environnements.  
+- Bonne résistance aux huiles et aux solvants.  
+- Possibilité de réduire la durée de polymérisation en augmentant la température.  
+- Stockage à température ambiante.  
+ 
+Les acryliques 
+ 
+  
+ 
+Les colles acryliques sont , en général, utilisées pour : 
+- Assemblage structurel : Utilisées pour coller des composants structurels tels que les panneaux 
+de fuselage, les revêtements et les éléments internes, offrant une alternative légère aux 
+fixations mécaniques. 
+- Réparation : Idéales pour les réparations rapides et efficaces des composants endommagés, 
+permettant une remise en service rapide des aéronefs.  
+- Composite bonding : Essentielles pour l'assemblage de matériaux composites, couramment 
+utilisés dans les structures modernes des avions pour leur légèreté et leur résistance.  
+ 
+• Caractéristiques des colles acryliques  
+ 
+Haute résistance mécanique :  
+Offrent une résistance élevée aux forces de traction, de cisaillement et de pelage.  
+Idéales pour les assemblages structuraux nécessitant une grande durabilité.  
+ 
+Excellente adhérence :  
+Adhèrent efficacement à une variété de matériaux, y compris les métaux, les plastiques, les composites 
+et le verre. 
+Particulièrement adaptées pour les substrats difficilement collables.  
+ 
+Résistance chimique :  
+Résistent bien aux produits chimiques, aux solvants, aux huiles et aux carburants.  
+Assurent la durabilité des assemblages dans des environnements chimiques agressifs.  
+ 
+Rapidité de durcissement :  
+Temps de prise rapide, souvent en quelques minutes à quelques heures.  
+
+===== PAGE 27 =====
+Module 7.14 V07   Page 27 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Réduisent les temps de production et permettent des réparations rapides.  
+ 
+Durabilité thermique :  
+Conservent leurs propriétés à des températures variées, souvent entre -40°C et +120°C. 
+Résistent aux variations de température rencontrées en aéronautique.  
+ 
+Flexibilité : 
+Maintiennent une certaine flexibilité après durcissement, permettant d'absorber les vibrations et les 
+mouvements sans se fissurer.  
+Utiles pour les applications où les composants subissent des expansions et contractions thermiques.  
+ 
+Transparence et esthétique :  
+Disponibles en formulations transparentes ou colorées.  
+Utilisées dans des applications où l'esthétique est important.  
+ 
+Facilité d'utilisation :  
+Disponibles sous diverses formes : liquides, pâtes, gels, ou films.  
+Faciles à appliquer avec des outils simples, souvent sans nécessiter de mélange complexe.  
+Applications spécifiques en aéronautique  
+ 
+Assemblage de structures composites :  
+Utilisées pour coller des pièces en composites, couramment utilisées dans les avions modernes.  
+ 
+Réparations :  
+Permettent des réparations rapides et durables de panneaux, revêtements et autres composants.  
+ 
+Collage de matériaux dissemblables :  
+Essentielles pour assembler différents matériaux comme les métaux et les plastiques, offrant une 
+liaison solide et durable. 
+ 
+Les colles acryliques sont choisies pour leurs hautes performances en terme de résistance mécanique 
+et chimique, rapidité de durcissement, flexibilité, et compatibilité avec divers matériaux, ce qui les rend 
+particulièrement adaptées aux exigences strictes de l'industrie aéronautique.  
+ 
+Les thermofusibles ou hot -melts 
+ 
+Au départ ils étaient utilisés pour le collage carton / carton et pour le collage du bois. Mais on s'est 
+rapidement rendu compte qu'ils étaient capables de coller beaucoup d'autres choses.  
+ 
+Leur avantage principal est la prise immédiate.  
+ 
+Ce sont des adhésifs qui présentent la particularité de devoir être chauffés afin d'être fluidifiés, la prise 
+ayant lieu au refroidissement. 
+Leur inconvénient  : lors de l'application sur des matériaux froids, il peut y avoir la formation d'une 
+couche mince (un glacis) qui empêche le collage.  
+ 
+Ils sont constitués d'un polymère de base, d'une résine et d'une cire auxquels on rajoute des additifs 
+stabilisants ou plastifiants. 
+ 
+Le polymère de base est destiné à donner la cohésion, la tenue à la température et la stabilité thermique 
+tandis que les cires ont pour objet de contrôler la viscosité. La résine tacktifiante est destinée à 
+augmenter le pouvoir collant à chaud.  
+ 
+Les polymères de base sont principalement des copolymères d'éthylène comme les EVA (Ethylène 
+Vinyle Acétate - matériau plastique souple). On trouve également des polyesters et des polyamides 
+(autres types de matières plastiques) .  
+===== PAGE 28 =====
+Module 7.14 V07   Page 28 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+De par leur manutention assez facile et leur temps de prise faible, ces adhésifs connaissent un essor 
+assez rapide. 
+ 
+On peut donner les principaux avantages de cette colle  : 
+• Vitesse de prise rapide 
+• 100 % d'extraits secs d'où une facilité de manutention  
+• Adhérence sur de nombreux supports  
+• Absence de solvants 
+• Réactivable à chaud en permanence  
+• Facilité d'utilisation 
+• Machines adaptées aux cadences évolutives (plieuses colleuses)  
+ 
+Et ses principaux défauts : 
+• Résistance au fluage insuffisante  
+• Vitesse de solidification sensible à la température du support  
+• Compromis délicat entre vitesse de temps de prise et le temps d'ouverture  
+• Sensibilité à la chaleur 
+ 
+L'avantage est que la tenue est figée. Elle ne bougera plus. En outre la prise est rapide.  
+C'est une colle miracle mais sa mise en œuvre est complexe. En effet, une fois que la cartouche est 
+ouverte l'utilisateur doit l'utiliser jusqu'au bout. Il est nécessaire d'employer un pistolet spécial et 
+coûteux. On doit , en outre , disposer d'un réchauffeur de cartouche. Enfin , le pistolet doit être 
+impérativement nettoyé avec un solvant spécial après chaque utilisation , sinon, la colle polymérise et 
+bouche le pistolet. On a donc en entretien et un matériel assez lourds et coûteux.  
+ 
+Les colles en dispersion aqueuse  
+ 
+Tous les produits de cette famille sont parfaitement adaptés pour répondre à un grand nombre de 
+sollicitations industrielles. Leur utilisation est conseillée là où les produits en phase solvant sont 
+interdits. En effet, les colles en dispersion aqueuse pré sentent l'avantage d'être beaucoup moins 
+toxiques qu'une colle solvant et d'être ininflammables à l'état liquide (intérêt au niveau du stockage et 
+de la mise en œuvre). 
+ 
+Ces produits donnent d'excellents résultats sur un grand nombre de supports tels  que le bois, les 
+plastiques, les tissus, etc. A titre d'exemple, ces colles sont aujourd'hui utilisées pour la fixation de 
+tissus sur bois dans la fabrication d'enceintes acoustiques ainsi que pour le collage de revêtements 
+muraux notamment dans les transport s en commun. Ces produits sont également très utilisés dans la 
+fabrication de filtres industriels, de matériaux légers, ainsi que pour l'assemblage de produits d'isolation. 
+ 
+Les colles en dispersion aqueuse sont issues en général de deux technologies :  
+• Les colles contacts : on effectue un double encollage, on attend le temps d'évaporation 
+nécessaire et on affiche les deux surfaces encollées en maintenant la pression . 
+• Les colles auto -adhésives : Après évaporation complète du solvant  (en l'occurrence de l'eau), 
+ces produits restent auto-adhésifs très longtemps. Cela procure une grande flexibilité au niveau 
+du process de mise en œuvre du produit. Un apport de chaleur peut diminuer de façon 
+considérable le temps de séchage de la colle.  
+ 
+Les colles en dispersion aqueuse ont en général un taux d'extraits secs assez importants. On peut 
+souvent coller, avec un litre de colle en dispersion , une surface beaucoup plus importante qu'avec un 
+litre de colle en solvant. 
+Pour la mise en œuvre de ces produits, on peut les appliquer sans problème au pinceau, au rouleau 
+ou au pistolet. 
+===== PAGE 29 =====
+Module 7.14 V07   Page 29 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Les rubans adhésifs 
+ 
+ 
+ 
+On distingue plusieurs sortes de rubans adhésifs structuraux :  
+ 
+Les films supportés, les films époxys non supportés, et enfin les films acryliques.  
+ 
+Les films supportés sont développés depuis plusieurs années mais sont peu utilisés.  
+ 
+Les films structuraux mono composants ont des caractéristiques supérieures aux colles époxydes 
+classiques. Les joints peuvent atteindre plus de 30 à 35 MPA en cisaillement et d'environ 12 à 13 N/MM 
+en pelage. 
+ 
+Ils permettent de combler des jeux assez importants. Un apport de chaleur est nécessaire pour assurer 
+une bonne polymérisation. 
+ 
+Il existe de nombreuses applications des rubans adhésifs :  
+• Collage classique. 
+• Rubans pour la construction électrique.  
+• Rubans de protection pour condensateurs plastiques.  
+• Ruban de masquage (dorure des contacts de circuits imprimés).  
+• Rubans adhésifs d'épargne pour les traitements de surface.  
+• Rubans d'assemblages ouvrables et refermables.  
+• Rubans adhésifs industriels anti -adhérents. 
+• Les mousses et les transferts très haute adhésion sont des adhésifs acryliques comparables à 
+des adhésifs doubles faces.  
+ 
+Il existe différents types de masses adhésives sur le marché :  
+• Caoutchouc. 
+• Caoutchouc naturel. 
+• Caoutchouc synthétique. 
+• Caoutchouc non thermodurcissable.  
+• Caoutchouc thermodurcissable. 
+• Caoutchouc thermodurcissable réticulé.  
+• Acrylique. 
+• Acrylique thermodurcissable. 
+• Acrylique réticulée. 
+• Silicone. 
+• Silicone thermodurcissable. 
+ 
+La colle la plus efficace est celle à base d'acrylique. C'est la seule qui peut être considérée comme 
+structurale. Ce type de collage est connu depuis plus de 20 ans. Au début, il s'agissait essentiellement 
+de résines époxy, ré activables à chaud plus pres sage. Depuis 15 ans, les rubans les plus performants 
+sont à base d'acrylique. On a un support, la mousse, et l'adhésif.  
+  
+
+===== PAGE 30 =====
+Module 7.14 V07   Page 30 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+On peut combler des défauts assez importants avec l'épaisseur.  
+ 
+En revanche, on s'est rendu compte que lorsque l'on faisait travailler ce type d'assemblage, il y avait 
+risque de rupture au niveau de la mousse. Les fabricants commercialisent actuellement des colles à 
+base d'acrylique pure. On évite ainsi le problème de la mousse. I l y a, selon les besoins, une épaisseur 
+plus ou moins importante du ruban. Pour les faibles épaisseurs, on a de l'acrylique pur. Pour les rubans 
+de plus fortes épaisseurs, on a de l'acrylique émulsionné.  
+ 
+Ces produits sont assez intéressants car , outre des performances exceptionnelles à l'arrachement et 
+au cisaillement, ils ont une mémoire viscoélastique. Il est ainsi possible de coller deux matériaux avec 
+des coefficients de dilatation différents. Le ruban s'allonge mais ne se rompt pas.  
+ 
+Il est également possible de  citer des aptitudes de résistance aux chocs, vibrations, corrosion, 
+d'isolation électrique, ... Ils sont , en outre, indécollables. 
+ 
+Comme exemple d'utilisation, on peut citer la fabrication des armoires électriques/avioniques. Dans le 
+passé, on plaçait un renfort en forme d'oméga. Il fallait alors le souder , puis le poncer pour l'application 
+de la peinture. Maintenant, avec la présence de rubans à très hautes propriétés d'adhésion, l'opération 
+de ponçage n'est plus efficace. Ce gain de temps n'a été possible que parce que les nouveaux rubans 
+résistent à de fortes températures. On peut citer, par exemple, avec la gamme V HB de chez 3M : 2 50 
+°C pendant 4 H, 150 °C en continu.  
+ 
+La recherche est actuellement axée sur le développement de rubans supportant encore mieux la 
+chaleur et aux caractéristiques mécaniques nettement plus performantes.  
+ 
+Les primaires d'adhésion: leurs fonctions  
+ 
+Ils sont constitués d'une résine et souvent de polyuréthanne. C'est pourquoi ils sont fabriqués par les 
+industriels de la colle. 
+La fonction des primaires est très vaste. Ils ont été développés depuis quelques années pour des 
+emplois bien particuliers.  
+ 
+Citons par exemple :  
+• Accélérateur de prise des adhésifs instantanés.  
+• Préparation de surfaces. 
+• Dégraissage des surfaces.  
+• Accroissement de l'adhésion sur les plastiques, le verre.  
+• Agent de polymérisation. 
+• Gélification de l'adhésif visible.  
+ 
+Ils servent également de barrières aux plastifiants, aux essences, etc.  
+  
+===== PAGE 31 =====
+Module 7.14 V07   Page 31 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Les colles, de par la nature de base du polymère et celle des additifs , représentent une famille très 
+vaste qu'il serait fastidieux de détailler. Nous nous limiterons donc à une présentation rapide et 
+succincte des autres adhésifs.  
+ 
+Émulsions et solutions 
+ 
+Ce sont des adhésifs en milieu aqueux ou organique , dont le durcissement résulte de l'évaporation du 
+solvant ou de son absorption par l'un ou l'autre des substrats. Les colles naturelles d'origine végétale 
+n'utilisent pas de solvant organique. Les colles obtenues à partir de résines thermoplastiques, de co lles 
+thermodurcissables voire d'élastomères, peuvent , selon le cas , être obtenues soit en milieu aqueux, 
+soit en milieu solvant. 
+ 
+Les colles naturelles ne peuvent pas être qualifiées de structurales mais elles sont cependant très 
+utilisées dans l'industrie du bois, du papier, du livre, ... 
+ 
+Les colles contacts 
+ 
+La mise en contact des surfaces à assembler n'a lieu qu'après l'évaporation des solvants, l'assemblage 
+nécessitant une pression pour souder les deux films de colle. L'exemple type est la colle Néoprène.  
+ 
+2.1.4 Techniques de collage 
+ 
+Afin de réaliser un bon collage, une colle doit mouiller les deux surfaces qui vont être assemblées, elle 
+doit donc d’être fluide au moment de l'application. Pourtant , le film de colle doit durcir pour acquérir sa 
+cohésion. 
+ 
+Dans le cas des colles solvant, on peut arriver à ce résultat de plusieurs façons :  
+• Collage humide. 
+• Collage après évaporation des solvants.  
+• Colle contact. 
+ 
+Dans le cas des colles chimiquement réactives, par La polymérisation.  
+ 
+Dans le cas des colles thermo fusibles, par Refroidissement du produit déposé à chaud.  
+ 
+ 
+Le collage humide 
+ 
+Le collage humide consiste en l'enduction de l'une ou l'autre des deux surfaces qui doivent être 
+assemblées et en leur mise en contact immédiate. Cette méthode ne peut être utilisée que pour des 
+surfaces poreuses afin de permettre l'évaporation ultérieure du solvant. La force de cohésion du joint 
+sera très faible au départ, elle augmentera progressivement avec le temps en fonction de l'évaporation 
+du solvant. 
+ 
+Le collage thermofusible 
+ 
+Dans ce principe de collage, l'adhésif passe de l'état solide à l'état liquide par chauffage puis de l'état 
+liquide à l'état solide par refroidissement. Refroidie, la colle durcit sans modification chimique. Les 
+adhésifs HOT-MELTS s'utilisent en simple encollage. Le temps de prise et l'assemblage seront fonction 
+de l'état de surface des supports, des caractéristiques de l'adhésif et de la pression.  
+ 
+  
+===== PAGE 32 =====
+Module 7.14 V07   Page 32 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Le collage contact 
+ 
+Cette technique est identique au collage avec évaporation des solvants. Le temps de séchage sera lui 
+aussi variable en fonction du type de colle et de la température ambiante.  
+Les colles contact développent des performances importantes aussitôt après la mise en contact des 
+deux surfaces en réclamant une pression plus régulière sur tout le joint réalisé. On utilise cette méthode 
+chaque fois que le joint de colle doit être sollicité dans les heures qui suivent l'adhésion. Généralement, 
+ce sont des colles à base de polychloroprène qui possèdent des caractéristiques particulières.  
+ 
+Le collage par réactivation 
+ 
+On utilisera les méthodes de réactivation chaque fois que l'on souhaitera obtenir des performances 
+maximales, que l'on ne pourra pas attendre le temps normal d'évaporation des solvants ou que l'on 
+voudra stocker des pièces encollées avant utilisation.  
+ 
+Dans cette méthode, le film de colle est parfaitement sec sur les surfaces à joindre. On imprègne le film 
+sec avec le solvant correspondant; cela permet de rendre poisseux le film de colle et lui redonne de 
+l'adhérence. On peut , de cette manière, assembler immédiatement les deux matériaux.  
+ 
+Il est indispensable d'utiliser, pour cette réactivation, le solvant correspondant à cette colle ou un solvant 
+qui permet de dissoudre partiellement le caoutchouc de base de la colle.  
+ 
+Réactivation chaleur 
+ 
+Cette méthode sera utilisée pour des films de colle secs sur les matériaux. Sous l'action de la chaleur, 
+on ramollit le film sec pour redonner la possibilité d'adhésion sur les surfaces en contact. On presse les 
+matériaux assemblés et la cohésion du collag e est immédiatement importante.  
+ 
+Généralement, on presse pendant ce chauffage , ce qui permet d'obtenir les meilleures performances.  
+ 
+On laisse refroidir l'assemblage en maintenant la pression.  
+ 
+Une température d'environ 100 °C  et une pression de 2 à 3 bars pendant 2 à 3 minutes représentent 
+des conditions moyennes de réactivation chaleur.  
+ 
+Le collage avec évaporation des solvants  
+ 
+Dans cette méthode, la colle est déposée sur les deux supports et on attend l'évaporation de la plus 
+grande partie des solvants contenus dans le film de colle.  
+ 
+Un test simple pour déterminer le moment de presser l'un contre l'autre les deux matériaux consiste à 
+contrôler l'adhésion du film de colle avec le doigt. Si le film de colle est adhésif au dos du doigt sans 
+transfert de colle, l'assemblage est possible si non il est nécessaire d'attendre plus longtemps.  
+  
+===== PAGE 33 =====
+Module 7.14 V07   Page 33 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+2.1.5 La polymérisation 
+ 
+Pour les produits à 100% d'extrait sec, la mise en œuvre du produit ne peut évidemment être fonction 
+des solvants. 
+ 
+Par mélange : Par polymérisation sous 
+l'action de l'humidité : 
+Par polymérisation 
+sous l'action de la 
+chaleur : 
+Par simple contact entre 
+la base et le durcisseur :  
+Ces produits se 
+présenteront sous forme 
+de deux parts (base et 
+durcisseur) : A et B qu'il 
+convient de mélanger 
+intimement pour obtenir un 
+produit final qui après 
+polymérisation aura 
+d'excellentes 
+performances. 
+L'humidité atmosphérique 
+provoque une 
+polymérisation des 
+produits avec un 
+développement progressif 
+des performances en 
+fonction de l'évolution de 
+la réaction sous l'action 
+de l'humidité. On atteint 
+des valeurs maximales 
+après plusieurs jours. 
+Dans le cas de 
+produits structuraux, 
+la plupart des 
+polymérisations sont 
+obtenues par la 
+chaleur. Une 
+température de 100 à 
+200 °C sera 
+nécessaire pendant 
+20 à 60 minutes. 
+C'est le cas des colles 
+acryliques. 
+ 
+2.1.6 La préparation et le nettoyage des surfaces 
+ 
+La nature de la surface est très importante car elle détermine l'aptitude au mouillage , donc la qualité 
+du collage. Il est donc nécessaire de préparer les surfaces.  
+Deux préparations de la surface éventuellement complémentaires peuvent être réalisées : mécanique 
+ou chimique. 
+ 
+Traitement mécanique 
+ 
+Sablage : projection d'une poudre abrasive. On recouvre ensuite la surface d'un film protecteur ou des 
+premières enductions de collage.  
+ 
+Abrasion par ponçage : il faut éliminer ensuite les inclusions par nettoyage chimique. Ce traitement est 
+à éviter pour les métaux. 
+Ultrasons : méthode onéreuse consistant à faire caviter l'eau par surpression - dépression. 
+ 
+Traitement chimique 
+ 
+Il nettoie la surface sans modifier ses caractéristiques de mouillabilité.  
+ 
+Solvants : on utilise généralement des dérivés d'hydrocarbures ou de chlore. On choisit le solvant 
+suivant les éléments contaminants.  
+ 
+Saponification : destruction des graisses animales et végétales par la réaction (graisse + base donnent 
+glycérine + savon). 
+ 
+Emulsification : on utilise cette méthode pour les graisses non -saponifiables. 
+  
+===== PAGE 34 =====
+Module 7.14 V07   Page 34 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Décapage chimique 
+ 
+Ce traitement permet d'éliminer la couche d'oxydes recouvrant certains métaux.  
+Fer et alliages : traitement acide. Il y a risque de fragilisation pour les aciers ayant subi un traitement 
+thermique pour augmenter la dureté.  
+ 
+Acier inox : il faut reformer la couche de passivation détruite par traitement mécanique. Le traitement 
+est à base de HNO3, H2SO4.  
+ 
+Cuivre et alliages : traitement au chlorure ferrique + HNO3 ou HCL, au persulfate d'ammonium, au 
+mélange sulfochromique. Ce traitement est délicat car le collage doit suivre immédiatement le 
+décapage. 
+ 
+Aluminium et alliages : il existe diverses méthodes dont une conservation de la couche d'oxydes et 
+dégraissage de la surface, un décapage chimique suivi d'un décapage électrochimique, ...  
+ 
+Préparation des matières plastiques  
+ 
+Les polymères sont des matériaux difficiles à coller en l'état, d'où la nécessité d'activer la surface de 
+ces corps. 
+ 
+Décapage par solvant : pour éliminer les graisses et plastifiants et ramollir la surface.  
+ 
+Cardage : pour augmenter la surface du joint.  
+ 
+Traitement chimique : modification chimique superficielle pour créer des liaisons réactives avec 
+l'adhésif. 
+ 
+Traitement thermique ou électrique : flammage oxydant la surface ou traitement par effet Corona afin 
+de créer des liaisons réactives.  
+ 
+Les primaires d'adhésion  
+ 
+Les primaires d'adhésion sont destinés avant tout à protéger les surfaces venant d'être traitées. En 
+effet, toute surface préparée doit absolument être protégée de toute souillure pour conserver ses 
+propriétés d'adhésion. On estime qu'après une exposition d'environ 5 à 8 heures à l'atmosphère 
+ambiante, les propriétés adhésives diminuent à cause des différentes absorptions d'humidité, de gaz, 
+de poussières. 
+Or, du point de vue industriel, il n'est pas toujours possible de procéder à l'assemblage dans ce laps 
+de temps. Les fournisseurs d'adhésifs proposent alors d'appliquer un film protecteur que l'on applique 
+en fine couche, au pistolet par exemple (primaire d'a dhésion). Les solvants doivent ensuite être 
+évaporés par étuvage. Ils permettent de différer l'assemblage d'une vingtaine de jours.  
+ 
+On utilise également des primaires d'adhésion pour le collage des matières réputées incollables 
+(Téflon, polypropylène, dérivés siliconés).  
+  
+===== PAGE 35 =====
+Module 7.14 V07   Page 35 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Encollage et application 
+ 
+Les facteurs d'influence sont :  
+• La viscosité. 
+• La nature chimique: le matériau des applicateurs peut attaquer les colles et inversement.  
+• Adhésifs mono ou bi -composants: problème de conservation, de préparation et de quantité 
+nécessaire. 
+• Adhésifs HOT-MELTS: nécessité de bacs de pré -fusion pour ne pas mettre un bloc froid dans 
+un bac chaud. 
+• Durée de prise, nettoyage, sécurité.  
+ 
+Assemblage et durcissement 
+ 
+Les paramètres importants sont:  
+ 
+• L'épaisseur du joint.  
+• La pression exercée. 
+• La montée en température. 
+• Le maintien en position des éléments à assembler.  
+ 
+On peut employer , pour l'assemblage , un outillage spécial (serre -joints, presse à rouleaux, ...). Les 
+colles thermodurcissables nécessitent un durcissement par la chaleur grâce à des étuves à air chaud 
+ou par autoclaves. 
+ 
+2.2 Conditions d’environnement 
+ 
+Les conditions d’environnement nécessaires à la bonne exécution des collages de matériaux 
+composites sont strictes et ne peuvent être contournées.  
+ 
+2.2.1 Température  
+ 
+Température minimum : 15°C (dépendant des colles et résines utilisées).  
+La température de 20°C est conseillée afin de garantir une marge correcte en cas de courant d’air par 
+exemple. La température des pièces à assembler est très importante aussi car si les pièces sont trop 
+froides ou trop chaudes, les performances du collage peuvent être dégradées. Il faut également prêter 
+attention aux phénomènes de condensation.  
+ 
+2.2.2 Hygrométrie 
+ 
+Facteur important. La présence d’humidité peut empêcher une bonne adhérence des colles et résines 
+sans en gêner la polymérisation. Résultat, le collage semble bon mais n’adhère pas à l’une ou les 
+pièces. 
+ 
+2.2.3 Ventilation 
+ 
+Importante à deux titres. Il est nécessaire de maintenir une atmosphère correcte pour les opérateurs 
+ainsi que permettre une évacuation des vapeurs de solvants et des vapeurs dégagées par la 
+polymérisation. Beaucoup de ces vapeurs étant inflammables, le ma tériel de ventilation doit être 
+antidéflagrant. De plus, en chauffant les assemblages afin d’accélérer le collage, il y a une forte 
+augmentation du dégagement de vapeurs.   
+===== PAGE 36 =====
+Module 7.14 V07   Page 36 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+2.2.4 La poussière  
+ 
+Cauchemar pour les opérations de collage, car un collage doit s’effectuer sur des surfaces parfaitement 
+dépolies. Or, il est très difficile de se débarrasser des très fines poussières provenant du ponçage. La 
+solution généralement appliquée est de poncer l es pièces et de les préparer dans un local « sale » et 
+d’effectuer les collages dans une salle dite « blanche ».  
+ 
+L’absence de « pollution »  :  
+Dernier des paramètres à retenir afin d’effectuer des collages dans de bonnes conditions car un 
+appareil comme une pompe à vide peut , lors de son fonctionnement, dégager des vapeurs d’huile très 
+« discrètes » et invisibles qui sont susceptibles de polluer les assemblages.  
+ 
+En conclusion, le collage est une opération demandant des conditions strictes sans être draconiennes.  
+ 
+2.3 Méthodes d’inspection des collages  
+ 
+Les principales méthodes d’inspection des collages sont :  
+- Le contrôle visuel. 
+- Le contrôle par ventouses (en essayant de décoller les pièces).  
+- Le tape-test. 
+- La méthode par ultra-sons. 
+ 
+ 
+ 
+Le scotch Tape Test  
+ 
+Il s’agit d’une méthode pour évaluer l’adhérence d’un revêtement sur une surface selon la norme ASTM 
+D 3359. 
+On peut aussi effectuer un test d’arrachement d’un échantillon sur la surface au moyen d’un outil 
+mesurant la pression d’arrachement.  
+  
+
+===== PAGE 37 =====
+Module 7.14 V07   Page 37 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+2.3.1 Les causes du dommage 
+ 
+La majorité des dommages subis par les assemblages collés résultent des charges en vol ou d'une 
+manutention au sol mal appropriée.  
+ 
+Les structures en nid d'abeilles peuvent être également endommagées par des vibrations soniques.  
+ 
+Cet endommagement se traduit habituellement par un délaminage, ou séparation de l'âme et du 
+revêtement le long de la ligne d'encollage . La ligne d'encollage est la mince ligne d'adhésif se trouvant 
+entre l'âme et le revêtement, et qui maintient ces deux parties solidaires. Il peut aussi se produire 
+occasionnellement un effondrement de l'âme.  
+ 
+2.3.2 Inspection du dommage 
+ 
+L'inspection des dommages a un caractère plus critique pour les assemblages à nid d'abeilles que pour 
+les structures classiques. Une structure en nid d'abeilles peut souffrir des dommages étendus sans 
+manifestation observable. Les vibrations soniques, les fuites de liquide, les condensations internes ou 
+une phase ratée dans la fabrication ou la réparation, peuvent être cause, ou avoir pour résultat, un 
+délaminage plus ou moins important.  
+ 
+L'essai de sonorité métallique ou TAP TEST est la manière la plus simple de faire une inspection de 
+l'état de délaminage.  
+ 
+• Lorsqu’une pièce de monnaie rebondit légèrement sur une structure pleine, on doit entendre un 
+son métallique clair.  
+• S'il existe du délaminage, on entendra un bruit sourd. Un marteau en aluminium de 28 grammes 
+constitue un excellent outil pour ce genre d'investigation.  
+ 
+Il peut arriver qu'un revêtement délaminé se détache de l'âme en présentant une déformation en 
+"burette d'huile", ce qui rend possible une détection visuelle ou à la pression du doigt. Les piqûres, les 
+dents, les rayures  et les fissurations peuvent être constatées par les méthodes classiques. On devra 
+attacher une attention spéciale aux rayures, étant donné que sur un matériau aussi mince que celui 
+utilisé dans les nids d'abeilles collés au métal une rayure peut être en réal ité une fissure. 
+ 
+On peut utiliser une solution de soude caustique (produit chimique très corrosif) pour tester la 
+profondeur des rayures sur les panneaux à surface en aluminium . Si la région de la rayure tourne au 
+noir après application d'une petite quantité de solution, la rayure a pénétré au travers de la surface du 
+stratifié. Les solutions de soude caustique sont extrêmement corrosives, et elles doivent être 
+manipulées avec u n soin extrême.  
+ 
+Neutraliser à fond la surface inspectée après application de ce produit.   
+ 
+Deux instruments supplémentaires sont utilisés pour l'inspection des dommages subis par les 
+panneaux en stratifié : l’appareil à ultrasons permettant de sonder l’homogénéité de la pièce sans aucun 
+démontage et le "boroscope" ou appareil à inspecter les cav ités. 
+ 
+Le contrôle non destructif par ultrasons est très efficace mais nécessite un outillage étalonné et coûteux 
+afin qu’un personnel qualifié avec une licence valide pour effectuer le contrôle. De plus, pour les 
+matériaux composites, il faut les éprouvettes de test associées à chaque zone à contrôler.  
+  
+===== PAGE 38 =====
+Module 7.14 V07   Page 38 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+2.3.3 Evaluation du dommage 
+ 
+Lorsque les inspections des structures en nid d'abeilles collées au métal sont terminées, tout dommage 
+découvert doit être évalué afin de déterminer le type de réparation nécessaire pour remettre la structure 
+en état de service. 
+ 
+Les dommages aux structures nid d'abeilles en aluminium peuvent aller de rayures ou d'empreintes de 
+coups de peu d'importance, jusqu'à la destruction totale du panneau. On peut trouver, dans la section 
+concernée du Manuel de Réparations Structurelles d'un avion donné, des tableaux d'évaluation des 
+dommages pour les structures en stratifié nid d'abeilles.  
+ 
+Ces tableaux spécifient le type de dommage, le dommage admissible, le dommage exigeant une 
+réparation et, pour chaque genre de dommage, des chiffres illustrent l'exécution de réparations 
+analogues. 
+ 
+Dès que le type de réparation a été déterminé, on devra suivre à la lettre les procédures de réparation 
+décrites dans leurs grandes lignes sur le Manuel des Réparations Structurelles.   
+===== PAGE 39 =====
+Module 7.14 V07   Page 39 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+3 Fabrication additive  
+3.1 Généralités 
+ 
+Rappel des objectifs  : La fabrication additive, également connue sous le nom 
+d’impression 3D, a révolutionné l’industrie aéronautique en introduisant de nouvelles 
+approches pour la conception, la fabrication et la réparation de composants 
+aéronautiques. 
+Cette technique permet de fabriquer des pièces en ajoutant des couches de matériau les 
+unes sur les autres,  offrant des avantages significatifs en termes de légèreté, de 
+personnalisation, de durabilité et d’efficacité.  
+ 
+ 
+ 
+Réduction du poids  
+La fabrication additive permet de concevoir des structures légères, ce qui contribue à réduire la masse 
+totale des aéronefs. Cette réduction de poids entraîne des économies de carburant et une meilleure 
+efficacité énergétique. 
+ 
+Conception optimisée 
+Les technologies d’impression 3D offrent une flexibilité de conception sans précédent, permettant la 
+fabrication de géométries complexe s et de structures internes optimisé es pour une meilleure 
+performance. 
+ 
+Personnalisation 
+Ce type de fabrication permet de  réaliser des  pièces sur mesure pour des applications spécifiques, 
+répondant aux besoins des opérateurs aériens et des fabricants.  
+ 
+Reduction des déchets 
+Étant donné que cette méthode de fabrication ajoute du matériau couche par couche, elle réduit 
+considérablement le gaspillage de matière par rapport aux méthodes traditionnelle s de fabrication 
+soustractive. 
+ 
+Rapidité de prototypage 
+Principe de base : La fabrication additive construit une pièce en empilant des couches de matériau, 
+contrairement aux méthodes traditionnelles qui enlèvent de la matière.  
+Exemples d'utilisation : supports de siège, conduits d'air, boîtiers électroniques, certaines pièces de 
+moteur. Cette méthode de fabrication permet de produire rapidement des prototypes fonctionnels, 
+accélérant ainsi le processus de développement de nouveaux produits . 
+
+===== PAGE 40 =====
+Module 7.14 V07   Page 40 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+3.2 TECHNIQUES COURANTES DE FABRICATION ADDITIVE ET LEUR 
+INFLUENCE SUR LES PROPRIETES MECANIQUES DE LA PIECE 
+FINIE 
+3.2.1 La Fusion Laser Sélective (SLS) 
+ 
+Cette méthode utilise un laser pour faire fondre et assembler de la poudre métallique couche par 
+couche. Le laser chauffe la poudre qui se solidifie pour former des pièces résistantes.  
+Matériaux utilisés : Aluminium, titane, acier inoxydable. Avantage principal : Permet de créer des formes 
+complexes impossibles à obtenir par usinage traditionnel.  
+ 
+ 
+ 
+3.2.2 La fusion de lit de poudre (SLM) 
+ 
+Le SLM fonctionne de manière similaire au SLS mais fait fondre complètement la poudre métallique 
+avec un laser. Cette fusion complète permet d'obtenir des pièces très denses et très résistantes.  
+Différence avec le SLS : Le SLM fait fondre totalement la poudre tandis que le SLS l'assemble 
+principalement par frittage  
+ 
+Exemple : le groupe SAFRAN a imprimé sur une machine SLM. Avec son volume imposant de 
+455X295X805 mm, la pièce a été conçu en une seule fois (traditionnellement, elle est fabriquée en trois 
+parties)  
+ 
+ 
+ 
+   
+  
+Gain de poids de 15%  
+
+===== PAGE 41 =====
+Module 7.14 V07   Page 41 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+ 
+ 
+ 
+3.2.3 Le dépôt de fil 
+ 
+Cette méthode consiste à déposer un fil de matériau fondu pour construire la pièce couche par couche.   
+Le fil est chauffé puis déposé avec précision selon un tracé prédéfini. Chaque nouvelle couche se 
+dépose sur la précédente. 
+Avantage : Fabrication rapide de pièces de grande taille.  
+Inconvénient : Finition de surface moins fine que les autres procédés.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 42 =====
+Module 7.14 V07   Page 42 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+3.2.4 La Stéréolithographie (SLA) 
+ 
+Cette technique utilise un laser pour durcir des résines photosensibles liquides, créant des pièces avec 
+des détails de haute résolution. Elle offre un rendu de surface légèrement vitreux mais globalement 
+supérieur au procédés FDM ou SLS.  
+ 
+Le laser expose la résine photosensible qui durcit instantanément au contact de la lumière. Ce 
+processus se répète couche par couche jusqu'à obtenir la pièce finale.  
+Résultat : Pièces avec des détails très fins et une surface lisse.  
+Applications : Prototypes de précision, pièces de petite taille  
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.5 Déposition Métallique par Laser (LMD : Laser Métal Déposition) 
+La Déposition Métallique par Laser permet d'ajouter de la matière sur des pièces existantes. Cette 
+technique est utilisée pour réparer des pièces endommagées ou pour modifier leur conception.  
+Fonctionnement : De la poudre métallique est projetée sur une surface et fondue par un laser.  
+Avantages : Réparation précise, possibilité d'utiliser différents matériaux sur une même pièce . 
+ 
+  
+
+===== PAGE 43 =====
+Module 7.14 V07   Page 43 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+Le dépôt par fusion laser de poudre est mis en 
+œuvre en projetant de la poudre sur une surface 
+échauffée à l’aide d’un laser, permettant d’ajouter de 
+la matière aux emplacements désirés.  
+ 
+Cette technologie offre l’avantage de déposer avec 
+précision et régularité de la matière continue avec le 
+substrat. 
+ 
+Le dépôt peut se faire sur la même matière, ou bien 
+de manière hétérogène pour adapter localement les 
+propriétés à l’usage (résistance à la chaleur, à 
+l’abrasion etc..). 
+ 
+3.2.6 Matériaux avancés 
+ 
+Matériaux couramment utilisés : alliages d'aluminium, alliages de titane, aciers inoxydables, et 
+polymères haute performance pour certaines applications  
+ 
+3.2.7 Certification et Réglementation 
+ 
+Les pièces fabriquées  par impression 3D doivent être certifiés par les Autorités pour garantir leur 
+sécurité et leur conformité aux normes de navigabilité.  
+ 
+3.2.8 Contrainte de taille 
+ 
+La taille des pièces est encore limitée par les technologies actuelles, ce qui restreint leur application à 
+des composants plus petits.  
+ 
+   
+ 
+  
+
+===== PAGE 44 =====
+Module 7.14 V07   Page 44 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+3.3 INFLUENCE SUR LES PROPRIETES MECANIQUES  
+ 
+3.3.1 Caractéristiques mécaniques des pièces imprimées 
+ 
+Les pièces fabriquées par fabrication additive ont des propriétés mécaniques qui dépendent de leur 
+orientation de fabrication. 
+Une pièce fabriquée en additive n’est pas isotrope . Ses propriétés mécaniques varient selon la 
+direction.  
+La résistance dépend de l’orientation de la pièce dans le volume de fabrication, de la liaison entre 
+couches successives, de la direction des efforts appliqués en service. Dans le p lan des couches , la 
+résistance est généralement plus élevée. Entre les couches , en revanche,  ce sont des  zones de 
+faiblesse, ce qui implique un risque de rupture par délaminage. Le choix de l’orientation lors de la 
+fabrication est donc essentiel pour optimiser la tenue mécanique de la pièce.  
+ 
+3.3.2 Facteurs influençant les propriétés 
+ 
+• Orientation de la pièce : L'angle de construction affecte la résistance finale  
+• Épaisseur des couches : Des couches plus fines donnent généralement de meilleures 
+propriétés 
+• Paramètres de fabrication : Température, vitesse et puissance du laser influencent la qualité  
+ 
+3.3.3 Comparaison avec les méthodes traditionnelles 
+Les pièces usinées ont généralement des propriétés uniformes dans toutes les directions. Les pièces 
+imprimées peuvent présenter des variations selon l'axe de sollicitation.  
+ 
+  
+
+===== PAGE 45 =====
+Module 7.14 V07   Page 45 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+3.4 INSPECTION ET DEFAILLANCES COURANTES  
+ 
+3.4.1 Méthodes d’inspection de base 
+ 
+Contrôle visuel : Examen à l'œil nu pour détecter les 
+défauts de surface, fissures ou déformations visibles.  
+ 
+ 
+ 
+Contrôle dimensionnel : Vérification des dimensions avec des instruments de mesure 
+classiques.  
+ 
+ 
+Contrôle par pesée : Une masse anormalement faible peut indiquer la présence de porosités internes.  
+ 
+ 
+ 
+ 
+      Bulles d’air dans la matière 
+  
+ 
+Nous pouvons également  rajouter les CND  : (ultrasons, radiographie et tomographie par rayons X, 
+courants de Foucault, etc.)  aux pièces fabriquées par le procédé additif. L’objectif est de développer 
+des méthodes permettant de mener des inspections internes et externes  
+ 
+ 
+  
+
+===== PAGE 46 =====
+Module 7.14 V07   Page 46 sur 46 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 202 5 
+ 
+3.4.2 Défaillances de production courantes 
+ 
+Porosité : 
+• Description : Présence de petites bulles d'air ou de cavités dans la pièce  
+• Cause : Paramètres de fabrication inadaptés  
+• Conséquence : Réduction de la résistance mécanique  
+Délaminage : 
+• Description : Mauvaise adhésion entre les couches  
+• Cause : Température insuffisante ou contamination  
+• Conséquence : Risque de séparation des couches sous contrainte  
+Déformations :  
+• Description : Pièce tordue ou gauchie par rapport aux dimensions 
+prévues 
+• Cause : Contraintes internes dues au refroidissement   
+• Conséquence : Pièce non conforme aux spécifications  
+Rugosité de surface :  
+• Description : Surface irrégulière ou avec des marques de couches 
+visibles 
+• Cause : Paramètres d'impression non optimisés  
+• Solution : Post-traitement par usinage ou polissage   
+ 
+ 
+3.4.3 Importance du contrôle qualité 
+ 
+En aéronautique, chaque pièce doit respecter des standards de qualité très élevés. L'inspection 
+systématique permet de garantir la sécurité et la conformité aux exigences de certification.  

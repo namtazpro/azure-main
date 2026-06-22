@@ -1,0 +1,3991 @@
+===== PAGE 1 =====
+Module 7.12 V06   Page 1 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+       
+Livret destiné aux stagiaires 
+ 
+Édition 2026 
+Module 7.12 
+ 
+Transmissions 
+ 
+Licence B1 
+ 
+
+===== PAGE 2 =====
+Module 7.12 V06   Page 2 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Ce document a été édité par AIR FORMATION. Il ne doit en aucun cas être utilisé à d'autres fins 
+que celles pour lesquelles il est fourni et les informations qu'il contient ne peuvent être divulguées à 
+des tiers non habilités. 
+ 
+ 
+ 
+GARANTS DES LIVRETS 
+ 
+ 
+GLOSSAIRE 
+ 
+Un glossaire commun à l’ensemble des modules vous sera remis. 
+ 
+TABLEAU D'EVOLUTION 
+ 
+Révision Date Pages modifiées Synthèses des modifications 
+V03 30/12/2009 Toutes  Nouvelle édition 
+V04 11/05/2016 Page de garde et page 1  
+  
+Adresse, signatures et noms modifiés + 
+édition  
+Pied de page modifié sur l’ensemble du 
+document    
+V05 02/06/2017 Toutes Mise à jour  
+V06 19/02/2026 Toutes Nouvelle édition  
+    
+ 
+  
+Visa Rédacteur  
+ Cyril VERDU 
+Visa Responsable Module / 
+ Visa Directeur de Formation 
+Laurent VINGADASSALOM 
+Visa Responsable Qualité 
+Déborah CALAC  
+  
+ 
+Cette documentation est un document d’instruction, elle ne sera pas remise à jour, elle ne 
+doit pas être considérée comme une référence réglementaire ou technique. 
+===== PAGE 3 =====
+Module 7.12 V06   Page 3 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+SUJET MODULE 7 : PROCEDURE D’ENTRETIEN 
+ 
+Catégorie B1 : 80 questions à choix multiples, Temps alloué 100 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+Catégorie B2 :  60 questions à choix multiples, Temps alloué 75 minutes. 
+ 2 questions à développement. Temps alloué 40 minutes. 
+ 
+EXIGENCES EN MATIERE DE CONNAISSANCES DE 
+BASE 
+ 
+MODULE 7. 7.12 Transmissions 
+Niveau 
+A B1 
+Inspection des engrenages, jeu de denture ;  
+1 2 Inspection des courroies et poulies, chaînes et roues dentées.  
+Inspection des vérins à vis, des dispositifs à levier, des biellettes à double effet. 
+ 
+  
+===== PAGE 4 =====
+Module 7.12 V06   Page 4 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Les connaissances de base pour les catégories B1, B2 et B3 sont indiquées par des niveaux 
+de niveaux de connaissance (1, 2 ou 3) pour chaque sujet concerné.  
+ 
+Les indicateurs de niveau de connaissances sont définis sur 3 niveaux comme suit :  
+ 
+NIVEAU 1 
+Une familiarisation avec les éléments principaux du sujet. 
+Objectifs :  
+• Le postulant devra être familiarisé avec les éléments de base du sujet. 
+• Le postulant devra être capable de donner une description simple de la totalité du sujet, en 
+utilisant des mots communs et des exemples. 
+• Le postulant devra être capable d'utiliser des termes typiques. 
+ 
+NIVEAU 2 
+Une connaissance générale des aspects théoriques et pratiques du sujet et une capacité à 
+appliquer cette connaissance. 
+Objectifs : 
+• Le postulant devra être capable de comprendre les principes essentiels théoriques du sujet. 
+• Le postulant devra être capable de donner une description générale du sujet, en utilisant, 
+comme il convient, des exemples typiques. 
+• Le postulant devra être capable d'utiliser des formules mathématiques conjointement aux 
+lois physiques décrivant le sujet. 
+• Le postulant devra être capable de lire et de comprendre des croquis, des dessins et des 
+schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant des procédures détaillées. 
+ 
+NIVEAU 3 
+Une connaissance détaillée des aspects théoriques et pratiques du sujet et une capacité à 
+combiner et appliquer des éléments de connaissances séparés d'une manière logique et 
+compréhensible. 
+Objectifs :  
+• Le postulant devra connaître la théorie du sujet et les relations avec les autres sujets. 
+• Le postulant devra être capable de donner une description détaillée du sujet en utilisant les 
+principes essentiels théoriques et des exemples spécifiques. 
+• Le postulant devra comprendre et être capable d'utiliser les formules mathématiques en 
+rapport avec le sujet. 
+• Le postulant devra être capable de lire, de comprendre et de préparer des croquis, des 
+dessins simples et des schémas décrivant le sujet. 
+• Le postulant devra être capable d'appliquer ses connaissances d'une manière pratique en 
+utilisant les instructions du constructeur. 
+• Le postulant devra être capable d’interpréter les résultats provenant de différentes sources 
+et mesures et d’appliquer une action corrective comme il convient. 
+===== PAGE 5 =====
+Module 7.12 V06   Page 5 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+TABLE DES MATIERES 
+ 
+1 Inspection des engrenages, jeux de denture ; ................................ ................................ .....7 
+1.1 Défauts des engrenages ; ................................ ................................ ............................... 8 
+1.1.1 Points critiques ; ...................................................................................................... 8 
+1.1.2 Usure des engrenages ; .......................................................................................... 9 
+1.2 Inspections des engrenages et jeux de denture ; ................................ ....................... 18 
+1.3 Démarche attendu en maintenance lors de l’inspection d’un engrenage ; ............... 20 
+2 Inspection des courroies, poulies, chaînes et roues dentées ; ................................ ........ 21 
+2.1 INSPECTION DES COURROIES ; ................................ ................................ ................. 21 
+2.1.1 Les différents types de courroies ; ......................................................................... 22 
+2.1.2 Principe de montage des courroies ; ..................................................................... 22 
+2.1.3 Défauts des courroies ; .......................................................................................... 24 
+2.1.4 Logique d'inspection des courroies ; ...................................................................... 28 
+2.2 INSPECTION DES POULIES ; ................................ ................................ ....................... 30 
+2.2.1 Logique d'inspection des poulies ; ......................................................................... 31 
+2.2.2 Défauts des poulies ; ............................................................................................. 32 
+2.3 INSPECTION DES CHAÎNES ; ................................ ................................ ....................... 37 
+2.3.1 Logique d’inspection des chaines ; ........................................................................ 38 
+2.3.2 Défauts des chaines ; ............................................................................................ 39 
+2.4 INSPECTION DES ROUES DENTEES ; ................................ ................................ ......... 45 
+2.4.1 Logique d'inspection du technicien de maintenance ; ............................................ 46 
+2.4.2 Défauts des roues dentées ; .................................................................................. 47 
+3 Inspection des vérins à vis, des dispositifs à levier et des biellettes à double effet. ..... 54 
+3.1 Inspection des vérins à vis ; ................................ ................................ ......................... 54 
+3.1.1 Logique d’inspection des vérins à vis ; .................................................................. 55 
+3.1.2 Défauts et inspection des vérins à vis .................................................................... 57 
+3.2 Dispositifs à levier ; ................................ ................................ ................................ ...... 58 
+3.2.1 Logique d’inspection des dispositifs à levier ; ........................................................ 59 
+3.2.2 Défauts des dispositifs à levier ; ............................................................................ 60 
+3.3 Inspection des biellettes à double effet ; ................................ ................................ ..... 68 
+3.3.1 Logique d’inspection des biellettes double effet ;................................................... 68 
+3.3.2 Défauts des biellettes à double effet ; .................................................................... 70 
+ANNEXES ................................ ................................ ................................ ................................  80 
+ANNEXE 1 : TABLEAU GENERIQUE DES USURES DES ENGRENAGES ; ..................... 80 
+ANNEXE 2 : TABLEAU GENERIQUE CRITERES ET MATERIAUX DES COURROIES ; ... 81 
+ANNEXE 3 : TABLEAU GENERIQUE DES DEFAUTS DES COURROIES ; ....................... 82 
+ANNEXE 4 : CHECK-LIST GENERIQUE CONTROLE POST-MONTAGE DE COURROIES ;83 
+ANNEXE 5 : TABLEAU GENERIQUE DES DEFAUTS DE POULIES ; ...............................  85 
+ANNEXE 6 : TABLEAU GENERIQUE DES DEFAUTS DE CHAINES ; ...............................  86 
+===== PAGE 6 =====
+Module 7.12 V06   Page 6 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 7 : TABLEAU GENERIQUE DES DEFAUTS DE ROUES DENTEES ; ................. 87 
+ANNEXE 8 : TABLEAU GENERIQUE DES DEFAUTS DES VERINS A VIS ; ..................... 88 
+ANNEXE 9 : TABLEAU GENERIQUE DES DEFAUTS DES DISPOSITIF A LEVIER ; ........ 89 
+ANNEXE 10 : TABLEAU GENERIQUE DES DEFAUTS DES BIELLETTES A DOUBLE EFFET ;
+ 90 
+ 
+  
+===== PAGE 7 =====
+Module 7.12 V06   Page 7 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+NOTA : Les différents types de transmissions mécaniques sont décrites dans le module 6.9. 
+Ici nous traiterons UNIQUEMENT des inspections inhérentes à ces transmissions. 
+1 Inspection des engrenages, jeux de denture ;  
+ 
+Rappel des objectifs : Une connaissance générale des aspects théoriques 
+et pratiques d’engrenages et des jeux de denture et une capacité à appliquer 
+cette connaissance. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+ 
+Les engrenages sont des éléments mécaniques soumis à des contraintes extrêmes. Ils 
+doivent combiner dureté de surface et résistance. 
+Ils transmettent le mouvement de rotation entre arbres ou composants, avec des rapports de 
+vitesse et de couple définis. 
+ 
+ 
+ 
+Une usure ou des défaut critiques engendreront des dégâts irréparables, et parfois 
+désastreux, sur ces éléments et ceux environnants. Ils nécessiteront potentiellement par la 
+suite des réparations plus lourdes.  
+ 
+ 
+(Ex :H225 crash Bergen - 2016) 
+ 
+La détection, en amont, de ces défauts est donc primordiale et soumise à contrôles 
+préventif périodiques (Ex : contrôle bouchons magnétiques toutes les 25h vol sur A400M)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+===== PAGE 8 =====
+Module 7.12 V06   Page 8 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1 Défauts des engrenages ; 
+1.1.1 Points critiques ; 
+ 
+Les principaux points critiques des engrenages seront : 
+• Jeu excessif « Backlash », 
+• Denture ébréchée ou cassée, 
+• Défauts de lubrification visibles. 
+ 
+Un jeu excessif (backlash) provoque des chocs et des vibrations en fonctionnement, ce qui 
+accélère l’usure des dents et peut entraîner une dégradation rapide de la transmission.  
+Un jeu hors tolérance sera rédhibitoire : changement des pièces défectueuses. 
+ 
+ 
+Une denture ébréchée ou cassée constitue un défaut critique pouvant mener à une perte 
+partielle ou totale de la transmission en opération, avec un risque direct pour la sécurité.  
+De tels défauts constatés sont rédhibitoires : changement des pièces défectueuses. 
+ 
+  
+ 
+Les défauts de lubrification (absence, pollution ou dégradation du lubrifiant) favorisent 
+l’échauffement, l’usure accélérée et l’apparition de dommages de surface, et doivent être traités 
+immédiatement conformément aux procédures de maintenance. 
+Une mauvaise lubrification, si elle n’a pas engendré de défauts, ne sera pas rédhibitoire 
+mais devra être immédiatement corrigée.   
+ 
+  
+  
+
+===== PAGE 9 =====
+Module 7.12 V06   Page 9 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.2 Usure des engrenages ; 
+ 
+Il faudra distinguer 2 différents types d’usures des engrenages :  
+• L’usure normale, 
+• L’usure anormale. 
+ 
+1.1.2.1 Usure normale ; 
+C’est une usure progressive, uniforme et prévisible. 
+ 
+Elle résulte du fonctionnement normal de l’engrenage dans ses conditions nominales. 
+ 
+Elle sera visuellement caractérisée par des défauts typiques tels qu’un polissage léger et 
+homogène sur le flanc actif des dents, une surface lisse sans arrachement de matière, des 
+traces de contact centrées sur la hauteur et la largeur des dents ainsi qu’une absence de 
+fissures, piqûres profondes ou déformations. 
+ 
+ 
+ 
+Cette usure restera acceptable tant que : 
+• Le jeu de denture restera dans les tolérances de l’AMM,  
+• Le profil des dents est respecté, 
+• Absence de limaille sur les bouchons magnétiques et dans les filtres, 
+• Et tant qu’aucune vibration, bruit anormal ou échauffement n’est détecté. 
+ 
+Cet état engendrera des mesures périodiques du jeu de denture, une surveillance 
+programmée et le cas échéant une analyse de lubrifiant. 
+  
+
+===== PAGE 10 =====
+Module 7.12 V06   Page 10 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.1.2.2 Usures anormales ; 
+Ce sont des usures accélérées, localisées ou destructrices, non prévisibles. 
+ 
+Elles indiquent un dysfonctionnement mécanique ou opérationnel. 
+ 
+• PIQURES : 
+ 
+ 
+ 
+Il s’agit d’une dégradation par fatigue de contact entraînant l’apparition de micro-cratères sur les 
+flancs des dents. Dues à des contraintes répétées, une lubrification inadéquate ou un 
+vieillissement.  
+Provoque des amorces de fissures sous surface et des arrachements localisés. 
+ 
+➢ Visuellement elles auront l’aspect de petits trous circulaires évoquant un aspect grêlé. 
+ 
+  Les piqures sont d’une criticité moyenne à élever car elles sont précurseur de 
+l’écaillage. Elles nécessiteront une surveillance rapprochée voire un remplacement selon 
+AMM. 
+ 
+• ECAILLAGE : 
+ 
+ 
+ 
+Il s’agit d’un arrachement de plaques de matière sur le flanc des dents. 
+Il évoluera vers une rupture de la couche supérieure. 
+ 
+➢ Visuellement on voit l’apparition de zone décapées et/ou d’arêtes vives. 
+ 
+  D’une criticité élevée, la pièce devient non-navigable et doit être remplacée.  
+
+===== PAGE 11 =====
+Module 7.12 V06   Page 11 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• FLUAGE : 
+ 
+ 
+ 
+Définition 
+C’est une déformation lente et permanente du matériau sous une charge*(contrainte) élevée et 
+une augmentation de la température. Créant un écoulement « plastique » de la matière. 
+ 
+➢ Visuellement on observera une déformation du profil et/ou un allongement des dents. 
+ 
+  D’une criticité élevée, il faudra non seulement remplacer l’engrenage, mais également 
+vérifier la charge admise pour la nouvelle pièce. 
+ 
+ 
+• REFOULEMENT :  
+ 
+ 
+ 
+Il s’agit d’un déplacement de matière vers les bords de la dent, dues à une pression de contact 
+excessive. 
+ 
+➢ Visuellement on observera l’apparition de bourrelets et/ou d’arrêtes déformées. 
+ 
+  D’une criticité moyenne à élevée on pourra, selon la documentation du constructeur, 
+procéder au contrôle du jeu de denture et de l’alignement de l’engrenage. Si hors des 
+tolérances du constructeur, il faut remplacer la pièce. 
+ 
+*La charge d’un engrenage, c’est l’effort que les dents doivent supporter pour transmettre 
+la puissance et le mouvement. 
+  
+
+===== PAGE 12 =====
+Module 7.12 V06   Page 12 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• ABRASION :  
+ 
+ 
+ 
+C’est une usure par frottement avec des particules solides. Souvent provoquée par la 
+contamination de l’huile ou de la graisse. Ce qui génère des microcoupures dans le revêtement. 
+ 
+➢ Visuellement on observera des rayures longitudinales avec un aspect mat. 
+ 
+  D’une criticité moyenne il faudra, en utilisant les recommandations du constructeur, 
+procéder au nettoyage, à la filtration et à la vidange de l’engrenage. Si celle-ci est 
+profonde, il faut remplacer l’engrenage. 
+ 
+ 
+• INTERFERENCE :  
+ 
+ 
+ 
+C’est une usure due à un contact anormal entre les dents hors de la zone théorique 
+d’engrènement, généralement causée par un défaut de géométrie, de montage ou 
+d’alignement. Elle entraîne une sollicitation excessive des extrémités de dent. 
+ 
+• Visuellement, on observe une usure localisée en tête ou en pied de dent, parfois 
+asymétrique. 
+ 
+  D’une criticité moyenne à élevée, l’engrenage doit être remplacé si le profil est modifié. 
+Il est impératif de corriger la cause (alignement, montage) avant remise en service. 
+ 
+  
+
+===== PAGE 13 =====
+Module 7.12 V06   Page 13 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• GRIPPAGE : 
+ 
+ 
+ 
+Le grippage à chaud est dû à la rupture du film d’huile par surchauffe. Il apparaît dans les zones 
+à fort glissement. 
+ 
+• Il se caractérise visuellement par des stries profondes et des colorations thermiques.  
+  Ce défaut est non tolérable car il conduit rapidement à l’arrachement de matière et à la 
+rupture des dents. Il faudra remplacer l’engrenage. 
+ 
+Le grippage à froid est dû à de fortes pressions de contact combinées à une lubrification 
+insuffisante, souvent à faible vitesse.  
+• Il provoque des microsoudures et des arrachements superficiels pouvant évoluer 
+rapidement vers une dégradation sévère de la denture. 
+ 
+  D’une criticité moyenne à élevée, cela dépendra : 
+• De la profondeur des arrachements, 
+• De l’étendue de la zone affectée, 
+• Des limites d’acceptabilité définies dans l’AMM. 
+ 
+Il faudra effectuer une inspection complète de la denture, vérifier la lubrification et les paramètres 
+mécaniques (jeu, alignement, supports), puis décider d’une surveillance ou d’un remplacement 
+conformément à l’AMM après correction de la cause avant remise en service.  
+ 
+  
+
+===== PAGE 14 =====
+Module 7.12 V06   Page 14 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• BRUNISSAGE : 
+ 
+ 
+ 
+Le brunissage correspond à un polissage superficiel des flancs de dents, résultant d’un 
+fonctionnement normal avec lubrification correcte et charges stabilisées. 
+ 
+• Visuellement, les flancs présentent un aspect lisse, teinté et brillant, sans arrachement 
+ni rayure. 
+ 
+  Considéré comme une usure normale, il est acceptable et ne nécessite aucune action 
+corrective, hors surveillance selon l’AMM. 
+ 
+ 
+• CORROSION : 
+ 
+ 
+ 
+La corrosion est une dégradation chimique du matériau, provoquée par l’humidité, la présence 
+d’eau ou d’agents corrosifs dans l’environnement ou le lubrifiant. 
+ 
+➢ Visuellement, on observe des piqûres irrégulières, une surface rugueuse et des zones 
+oxydées. 
+ 
+  La criticité dépend de la profondeur : 
+• Corrosion de surface → nettoyage et protection, 
+• Corrosion profonde → remplacement de l’engrenage.  
+
+===== PAGE 15 =====
+Module 7.12 V06   Page 15 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• OXYDATION : 
+ 
+ 
+ 
+L’oxydation est une altération superficielle du métal, souvent précurseur de la corrosion, due à 
+l’exposition à l’air ou à l’humidité. 
+ 
+➢ Visuellement, elle se manifeste par un voile brun ou rougeâtre en surface, sans piqûres 
+profondes. 
+ 
+  D’une faible criticité, elle est généralement acceptable après nettoyage et protection, 
+selon l’AMM. 
+ 
+ 
+• TAPURE DE TREMPE : 
+ 
+ 
+ 
+Les tapures de trempe sont des microfissures dues au traitement thermique, résultant d’un 
+refroidissement trop rapide ou d’un défaut métallurgique. 
+ 
+➢ Visuellement, on observe de fines fissures en réseau, souvent difficiles à détecter sans 
+contrôle approfondi. 
+ 
+  D’une criticité élevée, ce défaut est rédhibitoire et impose le remplacement immédiat 
+de l’engrenage. 
+ 
+  
+
+===== PAGE 16 =====
+Module 7.12 V06   Page 16 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• CRIQUES : 
+ 
+ 
+ 
+Les criques sont des microfissures localisées, souvent amorcées par des contraintes 
+mécaniques, thermiques ou des défauts matière. 
+ 
+➢ Visuellement, elles apparaissent sous forme de traits fins, parfois uniquement 
+détectables par contrôles non destructifs. 
+ 
+  Considérées comme non tolérables en aéronautique, elles nécessitent le 
+remplacement de l’engrenage. 
+ 
+ 
+• FAÏENÇAGE : 
+ 
+ 
+ 
+Le faïençage correspond à un réseau de microfissures superficielles, généralement lié à la 
+fatigue thermique ou mécanique. 
+ 
+➢ Visuellement, la surface présente un aspect craquelé, comparable à une céramique. 
+ 
+ D’une criticité moyenne, il peut être toléré sous surveillance s’il est stable ; 
+remplacement requis en cas d’évolution. 
+  
+
+===== PAGE 17 =====
+Module 7.12 V06   Page 17 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• FISSURATION : 
+ 
+ 
+ 
+La fissuration est une fissure franche et débouchante, affectant la résistance mécanique de la 
+dent. 
+ 
+➢ Visuellement, on observe une fissure nette, souvent partant du pied de dent. 
+ 
+  D’une criticité critique, toute fissuration impose le remplacement immédiat de 
+l’engrenage. 
+ 
+ 
+• RUPTURE PAR FATIGUE : 
+ 
+ 
+ 
+ 
+La rupture par fatigue résulte de contraintes cycliques répétées, conduisant à la propagation 
+progressive d’une fissure jusqu’à la rupture. 
+ 
+➢ Visuellement, la surface de rupture présente une zone lisse (propagation) et une zone 
+granuleuse (rupture finale). 
+ 
+  Défaut rédhibitoire, nécessitant le remplacement et une analyse de la cause racine. 
+ 
+  
+
+===== PAGE 18 =====
+Module 7.12 V06   Page 18 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• RUPTURE FRAGILE : 
+ 
+ 
+ 
+La rupture fragile est une rupture brutale sans déformation plastique, souvent liée à un choc, 
+une basse température ou un défaut métallurgique. 
+ 
+➢ Visuellement, la surface de rupture est nette et cristalline. 
+ 
+  D’une criticité maximale, elle impose le remplacement immédiat et une enquête 
+technique approfondie. 
+ 
+ 
+Toute usure entraînant une fissuration, un arrachement de matière, une modification du 
+profil ou une perte de résistance mécanique rend l’engrenage non acceptable et impose 
+son remplacement conformément à l’AMM. 
+ 
+Un tableau récapitulatif des usures et de leur criticité est disponible en ANNEXE 1. 
+ 
+ 
+1.2 Inspections des engrenages et jeux de denture ; 
+Eléments fortement critique dans les systèmes de transmission de puissance moteur, gouvernes 
+ou rotors ; les engrenages seront soumis à des inspection selon le programme de 
+maintenance établi par le constructeur. 
+ 
+Les méthodes de contrôle les plus appropriée en maintenance, seront essentiellement visuelles. 
+On utilisera des jauges de jeux, des comparateurs, des endoscopes ou d’autres instruments de 
+mesure de précision. 
+  
+ 
+Micromètre de mesure Mesureur manuel avec capsule engrenage 
+  
+
+===== PAGE 19 =====
+Module 7.12 V06   Page 19 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+NOTA : Un nettoyage préalable pour un visualisation claire des surfaces dentées sera primordial. 
+ 
+ 
+Exemple de méthode de mesure de « jeux de denture », les valeurs de jeux sont TOUJOURS 
+données par le constructeur. 
+ 
+ 
+ 
+Exemple de méthode de mesure de jeux axiaux à l’aide de cales d’épaisseur, les valeurs de jeux 
+sont TOUJOURS données par le constructeur. 
+ 
+• Pour aller plus loin : 9327-controle-des-engrenages-ensps.pdf 
+ 
+Exemple de méthode de contrôle de jeu de denture à l’aide de jauge : 
+ 
+1. Fixez un engrenage en place afin qu'il ne puisse pas tourner. 
+2. Insérez la jauge d'épaisseur entre deux dents en prise sur les engrenages. La jauge doit être 
+bien ajustée sans se coincer. 
+3. Faites tourner l'engrenage non fixé jusqu'à ce qu'un léger contact soit établi avec la jauge 
+d'épaisseur. C'est le point de référence. 
+4. Continuez à faire tourner l'engrenage non fixé jusqu'à ce qu'un contact ferme soit établi et que 
+la jauge ne puisse plus être retirée. 
+5. Mesurez la longueur de l'arc ou le nombre de degrés de rotation de l'engrenage depuis le 
+point de référence jusqu'au contact ferme. Il s'agit de la quantité de jeu. 
+ 
+Les jauges d'épaisseur permettent de mesurer directement le jeu entre les dents des 
+engrenages. Elles sont simples à utiliser et ne nécessitent aucun équipement spécialisé en 
+dehors des jauges elles-mêmes.  
+ 
+➔ La précision dépend des incréments d'épaisseur de la jauge 
+disponibles et de la stabilité de la main de l'utilisateur.  
+➔ Une pression constante doit être appliquée pour obtenir des 
+résultats répétables. 
+ 
+ 
+  
+
+===== PAGE 20 =====
+Module 7.12 V06   Page 20 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+1.3 Démarche attendu en maintenance lors de l’inspection d’un 
+engrenage ; 
+ 
+Lors de l’inspection d’un engrenage, le technicien doit adopter une démarche logique et 
+méthodique visant à garantir la navigabilité et la conformité aux données constructeur. 
+ 
+ 
+ 
+  
+
+===== PAGE 21 =====
+Module 7.12 V06   Page 21 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2 Inspection des courroies, poulies, chaînes et roues 
+dentées ;  
+ 
+Rappel des objectifs : Une connaissance générale des aspects théoriques 
+et pratiques des inspections des courroies, poulies, chaînes et roues dentées 
+et une capacité à appliquer cette connaissance. 
+Capacité à appliquer cette connaissance. [Niveau 2] 
+2.1 INSPECTION DES COURROIES ; 
+Les courroies assurent la transmission de puissance mécanique entre composants tout en offrant 
+des avantages en termes de poids, flexibilité d'installation et réduction des vibrations.  
+En aéronautique, les courroies sont utilisées pour transmettre une puissance mécanique 
+auxiliaire, rarement critique, mais fonctionnellement essentielle (électricité, refroidissement, 
+transmission intermédiaire). 
+ 
+ 
+Exemple d’installation de courroie sur Cessna 172 
+ 
+L'inspection rigoureuse et systématique des courroies selon les procédures AMM 
+constitue une obligation réglementaire et opérationnelle. 
+ 
+• Une courroie défaillante compromet la sécurité du vol, génère des immobilisations 
+coûteuses et peut provoquer des dommages en cascade sur des équipements 
+adjacents.  
+• Leur défaillance peut entraîner des conséquences grave allant jusqu’à la perte de 
+fonction d'un système. 
+ 
+Soumises à des contraintes environnementales extrêmes, les courroies aéronautiques 
+nécessitent une vigilance accrue du technicien B1qui doit détecter tout signe de dégradation 
+AVANT qu'il n'atteigne le stade critique. 
+  
+
+===== PAGE 22 =====
+Module 7.12 V06   Page 22 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.1 Les différents types de courroies ;  
+Le choix du type de courroie, trapézoïdale pour les faibles puissances et applications simples, 
+crantée/synchrone pour les transmissions précises sans glissement, ou poly-V pour les fortes 
+puissances en espace réduit, dépendra des contraintes de couple, vitesse, synchronisation 
+requise et de l’environnement du système concerné. 
+ 
+En cas de remplacement, il faudra TOUJOURS procéder à un échange standard (ou P.N 
+équivalent validé par la doc du constructeur). 
+ 
+ 
+ 
+Les principaux critères de sélection des courroies dans l’industrie aéronautique sont détaillés 
+dans l’ANNEXE 2. 
+ 
+2.1.2 Principe de montage des courroies ;  
+Le montage d'une courroie n'est pas une opération de routine mais une tâche critique nécessitant 
+le strict respect des procédures AMM. 
+Il faudra aligner précisément les poulies, tendre l’ensemble conformément aux spécifications du 
+constructeur, et assurer la propreté de l'installation. Ces facteurs conditionnent directement la 
+durée de vie de la courroie, la fiabilité du système entraîné et la sécurité du vol.  
+ 
+Un montage approximatif, même sur un équipement jugé "non critique", peut entraîner 
+une défaillance prématurée, endommager les roulements par surtension, ou provoquer 
+une rupture brutale par sous-tension avec les conséquences associées. 
+ 
+  
+(Exemple sur Hélicoptère Robinson R22) 
+  
+
+===== PAGE 23 =====
+Module 7.12 V06   Page 23 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+➔ Un montage standard comprend systématiquement : 
+ 
+1. Une poulie menante 
+o Solidaire du moteur, 
+o Fournit le mouvement, 
+o Diamètre généralement plus petit. 
+ 
+2. Une poulie menée 
+o Solidaire de l’accessoire entraîné, 
+o Reçoit l’effort de traction, 
+o Diamètre souvent plus grand. 
+ 
+3. Une courroie 
+o Type selon application : 
+▪ Trapézoïdale (V-belt), 
+▪ Poly-V, 
+▪ Crantée. 
+o Fonctionne par adhérence ou par 
+engrènement. 
+ 
+4. Un système de tension 
+o Par réglage de position de 
+l’accessoire, 
+o Ou par galet tendeur (fixe ou réglable), 
+o Maintient la tension nominale définie par l’AMM. 
+ 
+➔ NOTA : Elles pourront être installées sur des dispositifs croisés ou non. 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 24 =====
+Module 7.12 V06   Page 24 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.1.3 Défauts des courroies ;  
+Il faut bien comprendre que dans le cas de l’inspection des courroies et de leurs défauts (sauf 
+cas spécifiques du constructeur) il faudra généralement procéder au changement de celles-ci.  
+L’étude des différents types de défaut ci-après permettra une meilleure compréhension de ces 
+usures. Un résumé est disponible en ANNEXE 3. 
+ 
+Les cordes de traction (fibres de verre, aramide) subissent une fatigue par flexion à chaque 
+passage sur poulie.  
+Ces micro-ruptures internes des fibres ne sont pas détectables visuellement mais 
+affaiblissent progressivement la structure jusqu'à rupture brutale. 
+ 
+UNE COURROIE EN FIN DE VIE PEUT ROMPRE SANS SIGNE PRECURSEUR. 
+ 
+Conduite à tenir technicien B1 
+   Vérifier systématiquement la date de fabrication : marquage courroie ou fiche technique, 
+   Remplacer selon AMM même si aspect visuel satisfaisant, 
+   Ne JAMAIS dépasser les limites calendaires ou horaires du constructeur, 
+   Principe de prévenir plutôt que subir une défaillance en vol. 
+ 
+ 
+• FISSURATION LONGITUDINALE : 
+Il s’agit de fissures parallèles au sens de défilement de la courroie sur la surface externe. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Surcharge en traction : tension excessive,  
+• Vieillissement naturel : exposition prolongée aux cycles répétés,  
+• Mauvais stockage : pliure ou exposition aux rayonnement U.V, 
+ 
+ 
+ 
+  D’une criticité majeure il faudra généralement, selon les documents officiels, mesurer la 
+profondeur des fissures à la jauge d’épaisseur et : 
+• Profondeur < 20% épaisseur : Surveillance rapprochée, 
+• Profondeur > 20% épaisseur : Remplacement obligatoire. 
+ 
+ 
+  
+
+===== PAGE 25 =====
+Module 7.12 V06   Page 25 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• FISSURATION TRANSVERSALE : 
+Il s’agit de fissures perpendiculaires au sens de défilement de la courroie. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Choc thermique brutal : démarrage à froid après stationnement prolongé en climat froid,  
+• Flexion excessive : diamètre de poulie inférieur au minimum recommandé constructeur,  
+• Courroie figée par le froid : mise en mouvement avant réchauffement suffisant, 
+• Surcharge cyclique : démarrages/arrêts fréquents avec couple résistant élevé,  
+• Contamination par fluide hydraulique : ramollissement suivi de durcissement du 
+matériau,  
+• Défaut matériau : lot de fabrication défectueux (plus rare mais possible). 
+ 
+ 
+ 
+  Défaut CRITIQUE ! Il y a risque de rupture imminente ! 
+Quelle que soit la taille des fissures il faudra, selon l’AMM, procéder au remplacement de la 
+courroie et à la vérification des éléments constituants la transmission pour identifier la cause 
+racine. 
+ 
+• USURE DES FLANCS → COURROIE TRAPEZOÏDALE : 
+ 
+Il s’agit d’un amincissement des faces latérales en V. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Usure normale progressive : fonctionnement prolongé, 
+• Tension insuffisante : glissement dans les gorges de poulies provoquant abrasion,  
+• Gorges de poulies usées : mauvais contact courroie/poulie, concentration des efforts,  
+• Désalignement des poulies : contact asymétrique sur un seul flanc, 
+• Patinage sous charge : générateur électrique en surcharge continue  
+• Contamination abrasive : poussières, sable (Exemple : environnement désertiques),  
+• Démarrage difficile répété : glissement au démarrage. 
+ 
+  
+ 
+  Défaut MAJEUR à CRITIQUE selon le degré. 
+Il faudra, selon les recommandations du constructeur, effectuer un contrôle de l’usure (avec 
+palmer ou gabarit spécifique). Il faudra identifier la cause racine (tension, alignement etc.) 
+Le changement sera obligatoire si doute ou hors tolérances. 
+  
+
+===== PAGE 26 =====
+Module 7.12 V06   Page 26 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• EFFILOCHAGE / DÉLAMINAGE 
+Cette usure est caractérisée par la séparation des couches constitutives. Les fibres deviennent 
+apparentes. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Défaut de fabrication, 
+• Contamination par fluides : infiltration d'huile/hydraulique entre les couches,  
+• Surchauffe localisée : glissement prolongé provoquant échauffement,  
+• Flexion inversée excessive : courroie travaillant sur galet tendeur mal dimensionné,  
+• Vieillissement avancé : perte d'adhésion après dépassement de durée de vie 
+calendaire,  
+• Choc mécanique : impact d'objet étranger pendant rotation,  
+• Stockage inadéquat : exposition à solvants ou produits chimiques incompatibles. 
+ 
+ 
+ 
+  Défaut CRITIQUE ! Il faut procéder au remplacement immédiat ou à l’immobilisation 
+de l’appareil car il y a perte imminente d’intégrité. 
+Il faudra contrôler les poulies et notamment leur état de surface.  
+ 
+• TRACES DE GLISSEMENT (Brillance excessive) : 
+On pourra remarquer une surface brillante, glacée, avec une odeur de brûlé. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Tension insuffisante : courroie qui patine dans les gorges sous charge normale, 
+• Démarrage sous charge excessive : actionneur bloqué ou grippé,  
+• Contamination par huile/graisse : perte totale d'adhérence courroie/poulie,  
+• Gorges de poulies polies : usure des poulies réduisant le coefficient de friction,  
+• Surcharge temporaire,  
+• Courroie neuve non rodée : glissement initial avant adaptation à la poulie,  
+• Vitesse excessive : survitesse moteur provoquant effet centrifuge et perte de contact. 
+ 
+ 
+ 
+  Défaut MAJEUR, résultant d’une perte d’adhérence et d’un échauffement excessif, 
+il faudra selon l’AMM, procéder à un contrôle de tension (avec tensiomètre manuel ou 
+électronique). 
+Il faudra contrôler le couple résistant de la transmission, rechercher d’éventuels contaminants 
+et nettoyer les poulies.   
+
+===== PAGE 27 =====
+Module 7.12 V06   Page 27 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• CRAQUELURES SUPERFICIELLES : 
+Il s’agit d’un réseau de microfissures en surface type aspect "peau de crocodile". 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Vieillissement naturel calendaire : oxydation du caoutchouc après 5-7 ans de service,  
+• Exposition à l'ozone : particulièrement sur aéronefs basés en zones industrielles,  
+• Cycles thermiques répétés : dilatation/contraction continue du matériau,  
+• Stockage prolongé immobile : courroie restée en position fixe >6 mois,   
+• Non-respect durée de vie calendaire : courroie dépassant 10 ans, même peu utilisée,  
+• Lubrification inappropriée : utilisation de produits chimiques agressifs. 
+ 
+ 
+ 
+  Défaut MINEUR à MAJEUR, il faudra procéder à une surveillance accrue si 
+autorisée par l’AMM de l’aéronef. Un changement sera obligatoire si l’état évolue 
+rapidement.  
+ 
+• DÉFORMATION / ONDULATION : 
+La courroie apparaîtra gauchie, vrillée ou ondulée. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Désalignement sévère des poulies : axes non parallèles (erreur de montage),  
+• Stockage inadéquat : courroie enroulée trop serrée ou pliée lors du stockage,  
+• Surchauffe localisée : déformation plastique par échauffement,  
+• Montage forcé : courroie trop courte installée sous contrainte excessive,  
+• Poulies ovalisées : déformation transmise à la courroie en rotation,  
+• Défaut de fabrication, 
+• Roulements de poulie défectueux : vibrations transmises à la courroie. 
+ 
+ 
+ 
+  Défaut CRITIQUE ! Il faut procéder au changement immédiat de la courroie. 
+Des vibrations et des usures prématurées des roulements seront apparût. 
+Il faudra vérifier l’alignement des poulies et contrôler les jeux des supports et des fixations. 
+  
+
+===== PAGE 28 =====
+Module 7.12 V06   Page 28 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• CONTAMINATION (Huile, carburant, liquides etc.) : 
+On remarquera des taches, des gonflements, ramollissement de la courroie. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Fuite d'huile moteur, 
+• Fuite hydraulique (Skydrol),  
+• Fuite de carburant, 
+• Produits de nettoyage inappropriés : utilisation de solvants agressifs lors de la 
+maintenance  
+• Condensation excessive, 
+• Dégivrage chimique : projection de fluides de dégivrage type I, II, III ou IV. 
+ 
+ 
+ 
+  Défaut CRITIQUE ! il faut procéder au remplacement immédiat. Les matériaux de la 
+courroie sont dégradés et il y a risque imminent de rupture. 
+Il faudra nettoyer complètement la zone contaminée et identifier les sources de 
+contamination, vérifier les joints d’étanchéité etc.  
+ 
+2.1.4 Logique d'inspection des courroies ; 
+Le technicien doit adopter une approche conservatrice :  
+ 
+En cas de doute sur l'acceptabilité d'un défaut ou l'atteinte des limites, le remplacement prévaut 
+sur la temporisation, car le coût d'une courroie est dérisoire comparé aux conséquences d'une 
+défaillance en vol. 
+ 
+  
+
+===== PAGE 29 =====
+Module 7.12 V06   Page 29 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+ 
+NOTA : Une check-list générique de procédure post-montage (TOUJOURS se référer à 
+l’AMM) est disponible en ANNEXE 4. 
+ 
+CRITÈRES DE REFUS 
+ 
+➔ Si l'un de ces points est constaté → Arrêt de la procédure, correction obligatoire : 
+  Courroie endommagée pendant le montage (coupure, pli, déformation) 
+  Rotation manuelle impossible ou avec point dur significatif 
+  Interférence courroie/structure détectée 
+  Tension hors limites AMM (surtension ou sous-tension excessive) 
+  Désalignement poulies hors tolérances 
+  Fixations non conformes (couple incorrect, freinage absent) 
+  P/N courroie non conforme à l'IPC 
+  Absence de certification courroie (origine douteuse) 
+  Défaut préexistant sur poulies non corrigé 
+ 
+  
+
+===== PAGE 30 =====
+Module 7.12 V06   Page 30 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2 INSPECTION DES POULIES ; 
+ 
+L'inspection des poulies est indissociable de celle des courroies car elles forment un système 
+interdépendant.  
+ 
+Une poulie usée, désalignée ou présentant des défauts de surface provoquera systématiquement 
+une dégradation accélérée de la courroie, tandis qu'une courroie défaillante témoigne souvent 
+d'une anomalie au niveau des poulies (gorges usées, faux-rond, désalignement).  
+ 
+Certains défauts pourront être tolérés de façon temporaire en échange d’une surveillance 
+accrue.  
+ 
+ 
+(Exemple ensemble poulie/courroie sur moteur Rotax 912) 
+  
+
+===== PAGE 31 =====
+Module 7.12 V06   Page 31 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2.1 Logique d'inspection des poulies ; 
+Le technicien B1 doit donc systématiquement inspecter l'état des gorges (usure, 
+rayures, corrosion), vérifier l'alignement entre poulies (au comparateur si spécifié), 
+contrôler l'absence de voile (faux-rond radial et axial), mesurer les dimensions critiques 
+(diamètre, profondeur de gorge) et s'assurer de l'intégrité structurelle (fissures, 
+déformation) pour garantir une transmission fiable et éviter le remplacement prématuré 
+des courroies. 
+ 
+Principe de démarche méthodique : 
+1. Préparation  
+o Consultation AMM pour les tolérances dimensionnelles, 
+o Identification du matériau (alliage léger, acier, composite), 
+o Préparation outillage : palmer, jauge de profondeur, comparateur, lampe. 
+ 
+2. Inspection visuelle et tactile  
+o Examen de la gorge (rainure de guidage), 
+o Contrôle de la surface de contact, 
+o Vérification des bords/flasques, 
+o Inspection du moyeu et de l'alésage. 
+ 
+3. Contrôles dimensionnels  
+o Diamètre primitif, 
+o Profondeur de gorge, 
+o Largeur de gorge, 
+o Voile (faux-rond radial et axial).  
+ 
+4. Contrôles fonctionnels  
+o Rotation libre (roulements intégrés si 
+applicable) 
+o Absence de jeu excessif 
+o Alignement avec poulies adjacentes 
+ 
+5. Documentation  
+o Relevé des mesures 
+o Photographies si anomalie 
+o Mise à jour du dossier technique 
+ 
+  
+  
+
+===== PAGE 32 =====
+Module 7.12 V06   Page 32 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.2.2 Défauts des poulies ; 
+Il faut comprendre que dans le cas de l'inspection des poulies et de leurs défauts, la décision de 
+réparation ou remplacement dépend de la nature et de la sévérité du défaut.  
+ 
+Contrairement aux courroies, certains défauts mineurs de poulies peuvent être corrigés 
+(polissage de rayures superficielles, traitement anticorrosion) uniquement si l’AMM / CMM 
+l'autorise et que les dimensions restent dans les limites.  
+Cependant, la majorité des défauts structurels de la poulie (fissures, déformation, usure 
+hors limites) imposent le remplacement immédiat sans possibilité de réparation. 
+ 
+L’étude des différents types de défaut ci-après permettra une meilleure compréhension de ces 
+usures. Un résumé est disponible en ANNEXE 5. 
+ 
+Les poulies subissent des contraintes mécaniques sévères :  
+Charges radiales et axiales cycliques, contraintes de flexion au niveau des rayons, fatigue par 
+cycles thermiques, et contraintes centrifuges à haute vitesse.  
+ 
+Ces sollicitations répétées peuvent générer des défauts internes non détectables 
+visuellement :  
+Microfissures de fatigue en sous-couche, amorces de rupture au niveau des fonds de 
+gorges/raccordement moyeu-voile ou modifications métallurgiques par échauffement. 
+ 
+UNE POULIE FISSURÉE OU EN FIN DE VIE PEUT SE ROMPRE BRUTALEMENT EN 
+SERVICE, AVEC CONSÉQUENCES CATASTROPHIQUES 
+Projection de fragments métalliques, destruction de la transmission, perte de fonction système 
+critique, et risque de dommages collatéraux (perforations, incendie par frottement etc.). 
+ 
+Conduite à tenir technicien B1 
+   Respecter les limites de l’AMM / CMM : toute dimension hors tolérances impose le 
+remplacement, même si la poulie "semble correcte", 
+   Aucune tolérance sur les défauts structurels : fissure, déformation, flasque cassé, ovalisation 
+alésage = remplacement obligatoire sans exception, 
+   Privilégier le remplacement en cas de doute : le coût d'une poulie est dérisoire comparé au 
+risque d'une défaillance en vol, 
+   Ne jamais tenter de réparation non autorisée : soudage, redressage, réalésage sont 
+strictement interdits, 
+   Vérifier la traçabilité et certification : utiliser uniquement des poulies conformes IPC avec 
+certificat FAA/EASA (Form 1 ou équivalent), 
+   Inspecter simultanément la courroie/chaîne associée : une poulie usée a probablement 
+endommagé son élément de transmission qui devra également être remplacé, 
+ 
+IMPORTANT : Toute réparation nécessite une vérification dimensionnelle complète post-
+traitement et documentation dans le dossier technique. En cas de doute sur l'acceptabilité d'une 
+réparation, le remplacement prévaut. 
+  
+===== PAGE 33 =====
+Module 7.12 V06   Page 33 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• ÉLARGISSEMENT OU APPROFONDISSEMENT DE LA RAINURE DE LA POULIE 
+La rainure de la poulie apparaît élargie ou approfondie. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Usure normale progressive : fonctionnement prolongé avec courroie trapézoïdale (>5000-
+8000h)  
+• Tension excessive de la courroie : pression de contact trop élevée provoquant abrasion 
+accélérée,  
+• Courroie sous-dimensionnée : courroie trop fine s'enfonçant au fond de la gorge,  
+• Contamination abrasive : poussières, sable dans la transmission (zones désertiques),  
+• Matériau de poulie inadapté, 
+• Désalignement chronique : contact asymétrique provoquant usure localisée d'un flanc,  
+• Utilisation de courroies non conformes : profil ou matériau incompatible. 
+ 
+ 
+ 
+  DEFAUT MAJEUR à CRITIQUE : 
+Il faudra contrôler l’usure (au palmer ou au gabarit par exemple). 
+Si l’usure reste dans les limites de l’AMM elle sera acceptable mais devra faire l’objet 
+d’une surveillance accrue. 
+En dehors de ces limites, ce sera le remplacement obligatoire avec vérification de la 
+courroie et des éléments associés à la transmission. 
+ 
+• RAYURES / GRIFFURES DANS LA GORGE 
+Apparition de stries longitudinales ou marques sur surface de contact. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Corps étranger emprisonné : gravier, éclat métallique, débris coincé entre courroie et poulie,  
+• Courroie délaminée : fibres d'armature exposées agissant comme abrasif,  
+• Choc/impact pendant maintenance : coup d'outil lors du démontage/montage,  
+• Corrosion profonde : piqûres de corrosion évoluant en rayures sous l'action de la courroie,  
+• Défaut de fabrication,  
+• Roulement grippé : blocage partiel provoquant frottement/glissement localisé. 
+ 
+ 
+ 
+  DEFAUT MINEUR à CRITIQUE selon la profondeur.  
+Il faudra, selon l’AMM, mesurer la profondeur des rayures avec une jauge ou un comparateur. 
+Il faudra déterminer les causes racines. 
+Si les mesures sont dans les tolérances on pourra, en fonction de l’AMM, procéder à un 
+polissage dans les limites du SRM.  
+Si hors tolérance, remplacement immédiat.  
+
+===== PAGE 34 =====
+Module 7.12 V06   Page 34 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• FISSURES 
+Apparition de fissures radiales depuis l'alésage ou sur le voile de la poulie. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Fatigue du matériau : cycles de charge répétés,  
+• Montage forcé : alésage trop serré sur l'arbre, contraintes résiduelles,  
+• Choc thermique : échauffement localisé suivi de refroidissement brutal,  
+• Surcharge brutale : blocage du système entraîné (grippage, court-circuit générateur), 
+• Défaut matériau,  
+• Corrosion sous contrainte : propagation de fissure depuis zone corrodée,  
+• Survitesse accidentelle : contraintes centrifuges excessives. 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! Il y a risque de rupture catastrophique. 
+Il faut procéder à l’immobilisation immédiate et au remplacement. 
+Investiguer pour déterminer l’origine et effectuer des contrôles non destructifs en cas de 
+doute sur la présence de fissures (ressuage/magnétoscopie). 
+Il faudra également vérifier toutes les poulies de la transmission et rechercher un défaut du 
+système dans son ensemble. 
+ 
+• VOILE (FAUX-ROND) 
+Il s’agit d’une déformation radiale ou axiale de la poulie. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Choc/déformation mécanique : impact pendant manipulation, chute de la poulie,  
+• Montage incorrect : serrage asymétrique, poulie montée de travers,  
+• Arbre support voilé : l'arbre lui-même est déformé ou désaligné,  
+• Roulement défectueux : jeu excessif dans le roulement supportant la poulie,  
+• Surchauffe localisée : déformation thermique asymétrique,  
+• Défaut de fabrication, 
+• Usure des portées d'arbre : jeu excessif entre arbre et alésage. 
+ 
+  
+ 
+  DEFAUT MAJEUR à CRITIQUE 
+Selon l’AMM, prendre des mesures au comparateur.  
+Si celles-ci sont tolérées, il faudra mettre en place une surveillance selon la documentation 
+du fabricant. 
+En cas de mesures hors tolérance, il faut remplacer immédiatement. 
+Il faudra également vérifier les jeux de l’arbre de transmissions/axe du support et contrôler 
+les roulements. 
+  
+
+===== PAGE 35 =====
+Module 7.12 V06   Page 35 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• CORROSION 
+On observe une apparition d’oxydation, piqûres, corrosion généralisée. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Exposition environnement marin/tropical : zones à forte humidité, aéronefs côtiers, 
+hélicoptères offshores,  
+• Contamination par fluides : projection d'eau salée, condensation, produits de dégivrage,  
+• Stockage prolongé en milieu humide : aéronef immobilisé sans protection,  
+• Contact galvanique,  
+• Défaut de traitement de surface, 
+• Condensation compartiment moteur : cycles thermiques créant condensation, 
+ 
+ 
+ 
+  DEFAUT MINEUR à CRITIQUE selon son étendue. 
+Il faudra déterminer l’intensité de la corrosion, en mesurant et en comparant la profondeur des 
+piqûres. 
+Si celle-ci est superficielle et localisée un traitement anticorrosion sera applicable selon l’AMM. 
+Si celle-ci est trop importante il faudra remplacer la pièce et déterminer l’origine du problème. 
+ 
+• OVALISATION DE L'ALÉSAGE 
+C’est une déformation de l'alésage central de la poulie (perte de circularité). 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Usure asymétrique : charge radiale non uniforme, direction de charge fixe,  
+• Montage serré excessif : arbre surdimensionné déformant l'alésage au montage  
+• Déformation plastique : surcharge brutale déformant l'alésage de manière permanente  
+• Défaut de fabrication : usinage incorrect, non-respect de la circularité  
+• Corrosion localisée : piqûres profondes modifiant la géométrie  
+• Clavette mal ajustée : rainure de clavette créant point de contrainte  
+• Cycles thermiques : dilatation/contraction répétées avec contrainte asymétrique 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! Il résulte d’un jeu excessif sur l’arbre de transmission.  
+Il provoque des vibrations et une usure prématurée.  
+Il faudra vérifier précisément, au palmer ou à l’alésomètre, le jeu excessif de l’arbre et 
+comparer avec la documentation technique.  
+Une surveillance accrue sera nécessaire si mesures tolérables. 
+Refus immédiat et remplacement si hors tolérances. 
+Il faut déterminer la cause racine, identifier d’où provient la surcharge, montage forcé, 
+l’usure ;  
+  
+
+===== PAGE 36 =====
+Module 7.12 V06   Page 36 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• FLASQUES ENDOMMAGÉS / CASSÉS 
+Les bords de la poulie sont déformés, fissurés ou manquants. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Choc mécanique : impact pendant manipulation, outil tombé sur la poulie,  
+• Courroie sortie de la gorge : désalignement sévère, courroie ayant sauté latéralement, 
+• Surtension excessive de la courroie : contrainte latérale déformant les flasques,  
+• Défaut de fabrication : épaisseur insuffisante, soudure/assemblage défectueux,  
+• Fatigue matériau : cycles de contrainte répétés sur poulies légères,  
+• Blocage brutal du système : couple de choc transmis aux flasques,  
+• Survitesse : contraintes centrifuges excessives sur poulies à hauts régimes. 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! Il y a un risque accru d’échappement de la courroie.  
+Il faut procéder au remplacement de la poulie et investiguer sur la cause racine.  
+ 
+• ÉTAT DE SURFACE DÉGRADÉ 
+On observe une surface rugueuse, piquée, avec une présence de dépôts de surface. 
+ 
+Elles peuvent apparaître pour plusieurs raisons : 
+• Glissement prolongé de courroie : échauffement par friction, transfert de caoutchouc sur 
+poulie,  
+• Contamination par fluides : dépôts d'huile, graisse, hydraulique "cuisants" sur surface 
+chaude,  
+• Piqûres de corrosion : oxydation créant aspérités et rugosité,  
+• Usure abrasive : contamination par particules (sable, poussières métalliques etc.),  
+• Défaut de traitement de surface : anodisation défaillante, peinture écaillée,  
+• Surchauffe localisée : point chaud créant oxydation/décoloration,  
+• Vieillissement du matériau : dégradation de surface sur poulies anciennes. 
+ 
+ 
+ 
+  DEFAUT MINEUR à MAJEUR,  
+Il faut procéder à un nettoyage avec un solvant approprié et cité dans l’AMM. 
+En fonction du taux de rugosité donné par la documentation, et si celui-ci est dans les 
+tolérances, on pourra effectuer un polissage léger. 
+Si les mesures de rugosité sont négatives, il faudra procéder au remplacement. 
+ 
+  
+
+===== PAGE 37 =====
+Module 7.12 V06   Page 37 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3 INSPECTION DES CHAÎNES ; 
+ 
+Les chaînes de transmission assurent une transmission sans glissement par engrènement 
+mécanique avec les roues dentées.  
+Elles transmettent des couples élevés avec une fiabilité supérieure aux courroies.  
+ 
+ 
+ 
+Contrairement aux courroies, il ne peut y avoir aucune tolérance temporaire sur le moindre défaut 
+(même mineur) concernant les chaines : rouleaux fissurés, axes sortis, maillons grippés ou 
+allongement hors limites imposent systématiquement le remplacement, selon l’AMM, de la 
+chaîne complète sans possibilité de réparation par remplacement de composants 
+individuels. 
+ 
+ 
+(Exemple de montage d’ensemble chaine/roue dentée sur Cessna 172) 
+  
+
+===== PAGE 38 =====
+Module 7.12 V06   Page 38 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3.1 Logique d’inspection des chaines ; 
+Le technicien B1 doit systématiquement mesurer l'allongement de la chaîne, contrôler 
+l'état des rouleaux, axes et plaques, vérifier la liberté d'articulation de chaque maillon, 
+inspecter le maillon de jonction, et s'assurer d'une lubrification adéquate. 
+Toute chaîne présentant un allongement hors limites, des rouleaux fissurés ou un 
+maillon grippé doit être remplacée sans exception. 
+ 
+Démarche méthodique d'inspection des chaînes 
+ 
+1. Préparation 
+• Consultation AMM pour limites d'allongement et type de chaîne 
+• Vérification IPC pour références pièces et dimensions nominales 
+• Préparation outillage  
+• Mise en sécurité selon AMM 
+ 
+2. Inspection visuelle générale  
+• Tour complet 360° de la chaîne  
+• Évaluation lubrification  
+• Contrôle guides chaîne et protections  
+ 
+3. Mesure de l'allongement  
+• Mesure sur longueur de référence AMM (10, 20 ou 50 maillons) sur brin tendu 
+• Calcul : Allongement % = [(L mesurée - L neuve) / L neuve] × 100 
+• Comparaison avec limite AMM  
+• Si hors limites → Remplacement immédiat obligatoire 
+ 
+4. Inspection détaillée maillon par maillon 
+• Rouleaux  
+• Axes/goupilles  
+• Plaques  
+• Articulation 
+ 
+5. Inspection maillon de jonction  
+• Présence et état du clip de sécurité 
+• Position correcte clip  
+• État plaques et axe du maillon  
+ 
+6. Contrôles dimensionnels  
+• Épaisseur plaques  
+• Diamètre rouleaux  
+• Tension chaîne si spécifié AMM 
+ 
+7. Inspection système associé 
+• Roues dentées  
+• Guides chaîne  
+• Système lubrification automatique (si équipé) 
+ 
+8. Documentation et décision 
+• Enregistrement mesures  
+• Photographies si anomalie 
+• Conclusion : Acceptable / Surveillance rapprochée / 
+Remplacement obligatoire 
+• Signature task card AMM et mise à jour dossier technique 
+  
+
+===== PAGE 39 =====
+Module 7.12 V06   Page 39 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.3.2 Défauts des chaines ; 
+Les chaînes de transmission aéronautique nécessitent une inspection rigoureuse en raison de 
+leur criticité :  
+Une rupture de chaîne peut entraîner la perte totale de transmission avec des 
+conséquences catastrophiques.  
+ 
+L’étude des différents types de défaut ci-après permettra une meilleure compréhension de ces 
+usures. Un résumé est disponible en ANNEXE 6. 
+ 
+UNE CHAINE EN FIN DE VIE PEUT ROMPRE BRUTALEMENT SANS SIGNE PRECURSEUR 
+Mieux vaut un remplacement préventif qu'une perte totale de transmission en vol. 
+ 
+   Mesurer systématiquement l'allongement : toute élongation, selon AMM, impose le 
+remplacement immédiat, même si la chaîne semble visuellement correcte 
+   Aucune tolérance sur les défauts critiques  
+   Privilégier le remplacement en cas de doute  
+   Ne jamais tenter de réparation par remplacement de composants individuels  
+   Vérifier la traçabilité et certification : utiliser uniquement des chaînes conformes IPC avec 
+certificat FAA/EASA (EASA Form 1 ou équivalent), refuser toute pièce d'origine douteuse 
+   Inspecter simultanément les roues dentées associées  
+   Contrôler systématiquement le maillon de jonction  
+   Vérifier la lubrification à chaque inspection  
+   Contrôler l'alignement des roues dentées  
+   Respecter impérativement la durée de vie constructeur : calendaire ET en heures de 
+fonctionnement 
+ 
+ 
+(Exemple de montage de chaine et roues dentées sur trim profondeur Kodiak 900) 
+  
+
+===== PAGE 40 =====
+Module 7.12 V06   Page 40 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• ALLONGEMENT (ÉLONGATION) EXCESSIF   C’est une usure des axes et des douilles 
+provoquant l'allongement de la chaîne. 
+ 
+Peut apparaître pour plusieurs raisons : 
+• Usure normale progressive : fonctionnement prolongé au-delà de durée de vie (>5000-
+10000h selon type)  
+• Défaut ou lubrification insuffisante : frottement sec accélérant l'usure des axes et 
+douilles  
+• Contamination abrasive : sable, poussières métalliques agissant comme abrasif  
+• Surcharge chronique : couple transmis supérieur aux spécifications  
+• Désalignement des roues dentées : charge latérale excessive sur les maillons  
+• Environnement hostile : températures extrêmes, vibrations excessives 
+ 
+ 
+ 
+  DEFAUT MAJEUR à CRITIQUE selon taux d’allongement donné par l’AMM. 
+Il faudra mesurer la longueur de la chaine et comparer avec la longueur de référence donnée 
+sur la documentation du constructeur. 
+Si allongement dans les tolérances, il faudra mettre en place une surveillance régulière. 
+Si hors tolérance, il faudra procéder au changement de la chaine et au contrôle du système 
+de transmission (roue dentées, liaisons etc.) 
+ 
+• MAILLONS GRIPPÉS / RAIDES   Les maillons ne s'articulent pas librement. 
+ 
+Peut apparaître pour plusieurs raisons : 
+• Lubrification insuffisante chronique : axes et douilles secs, oxydation interne  
+• Corrosion interne : infiltration d'eau, oxydation des axes et douilles  
+• Contamination par débris : particules bloquant l'articulation  
+• Surchauffe localisée : grippage par dilatation thermique  
+• Défaut de fabrication : assemblage trop serré, jeu insuffisant  
+• Fluide hydraulique polymérisé : contamination Skydrol durci entre axes et douilles 
+ 
+ 
+ 
+  DEFAUT MAJEUR à CRITIQUE. 
+Il faut tester la flexibilité de la chaine maillon par maillon. 
+La documentation peut autoriser un certain nombre de maillons grippés.  
+Si nombre inférieur à la limite imposée et/ou qu’ils sont grippés légèrement on pourra 
+procéder au nettoyage et à la lubrification de la chaine.  
+Il faudra déterminer l’origine du problème et mettre en place une surveillance. 
+Si nombre de maillons est supérieur ou égal à la limite, et/ ou qu’ils sont totalement grippés il 
+faudra procéder au changement de la chaine.  
+  
+
+===== PAGE 41 =====
+Module 7.12 V06   Page 41 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• ROULEAUX FISSURÉS OU MANQUANTS   On observera un ou des rouleaux cassés, 
+fendus ou absents 
+ 
+Peut apparaître pour plusieurs raisons : 
+• Fatigue du matériau : cycles de charge répétés, particulièrement en environnement 
+vibratoire  
+• Choc avec roue dentée : engrènement brutal, corps étranger, dent cassée  
+• Défaut de fabrication  
+• Surcharge brutale : couple de choc dépassant la résistance du rouleau  
+• Désalignement chaîne/roues dentées : charge latérale excessive  
+• Usure extrême : rouleau aminci au-delà de la limite, rupture par fatigue  
+• Corrosion profonde : piqûres affaiblissant la structure du rouleau 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! Il y a risque de rupture de chaine et d’endommagement des 
+roues dentées.  
+Il faut procéder au remplacement immédiat de la chaine et au contrôle du système de 
+transmission pour recherche d’autre défauts et identifier les causes racines. 
+ 
+ 
+• AXES / GOUPILLES SORTIS   L’axe/la goupille est désengagé(e) ou partiellement sorti 
+des maillons 
+ 
+Peut apparaître pour plusieurs raisons : 
+• Maillon de jonction mal installé : clip de sécurité absent, mal positionné ou défectueux  
+• Vibrations excessives : desserrage progressif des axes par vibrations  
+• Usure excessive des plaques : trous d'axes ovalisés, permettant migration  
+• Défaut de fabrication  
+• Choc latéral violent : impact déplaçant l'axe hors de sa position  
+• Corrosion des ajustements : oxydation modifiant les jeux 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! Il y a risque imminent de rupture de chaine avec projections 
+possibles dans le compartiment de la transmission. 
+Il faut immédiatement immobiliser la chaine et identifier les causes du défaut. 
+Si défaut constaté avant éjection de l’axe, et si autorisé à l’AMM, on pourra procéder à son 
+remplacement.  
+Sinon il faut la remplacer.  
+  
+
+===== PAGE 42 =====
+Module 7.12 V06   Page 42 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+➔ USURE LATÉRALE DES PLAQUES 
+C’est un amincissement des plaques latérales 
+ 
+➔ Peut apparaître pour plusieurs raisons : 
+-Désalignement chronique chaîne/roues dentées : contact latéral permanent des plaques  
+-Guidage de chaîne défectueux : guides chaîne usés, mal positionnés ou absents  
+-Tension excessive de la chaîne : pression latérale accrue sur les plaques  
+-Défaut de parallélisme des roues dentées : axes non parallèles provoquant frottement latéral  
+-Usure normale prolongée : fonctionnement au-delà de la durée de vie  
+-Contamination abrasive : sable, particules métalliques accélérant l'abrasion 
+ 
+ 
+ 
+➔  DEFAUT     MAJEUR à   CRITIQUE. 
+Il faudra effectuer des mesures des plaques, selon l’AMM, et déterminer leur usure. 
+Il faudra également contrôler les guides de chaine, l’ajustement des éléments et 
+effectuer les corrections nécessaires.  
+Si les mesures sont tolérées par l’AMM, on devra effectuer une surveillance 
+rapprochée. 
+Si hors tolérance, il faudra procéder au changement de la chaine. 
+ 
+➔  CORROSION / OXYDATION 
+Présence de rouille, oxydation, corrosion sur axes, rouleaux ou plaques 
+ 
+➔ Elle peut apparaître pour plusieurs raisons : 
+-Exposition environnement marin : aéronefs côtiers, hélicoptères offshores, zones humides  
+-Infiltration d'eau : étanchéité carter défaillante, condensation  
+-Stockage prolongé non protégé  
+-Contamination : liquide de dégivrage  
+-Défaut de lubrification : absence ou utilisation du mauvais lubrifiant  
+ 
+ 
+ 
+➔ DEFAUT     MINEUR à   CRITIQUE selon son étendue. 
+Si la corrosion est superficielle, on pourra selon l’AMM, procéder à un nettoyage et une 
+lubrification. Il faudra également contrôler les autres éléments constituant la 
+transmission et déterminer l’origine du problème. 
+Si celle-ci est étendue et importante, il faudra procéder au changement de la chaine.  
+  
+
+===== PAGE 43 =====
+Module 7.12 V06   Page 43 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• LUBRIFICATION INSUFFISANTE / CONTAMINATION 
+La chaîne est sèche ou contaminée par des débris, de l’eau, des solvants etc. 
+ 
+Elle peut apparaître pour plusieurs raisons : 
+• Système de lubrification défaillant (si présent) : pompe HS, niveau huile bas  
+• Fuites d'huile non compensées : perte de lubrifiant sans reprise de graissage 
+• Fréquence de lubrification insuffisante : non-respect des intervalles de l’AMM  
+• Contamination par eau, débris, solvant : infiltration, limaille, nettoyage éliminant 
+lubrification  
+• Lubrifiant inadapté : viscosité insuffisante, évaporation rapide 
+ 
+ 
+ 
+  DEFAUT MAJEUR 
+On verra apparaître une usure accélérée des axes, douilles et rouleaux avec un 
+potentiel grippage des maillons.  
+Le défaut de lubrification accélèrera la corrosion 
+Il faut, selon l’AMM, procéder au nettoyage complet du système de transmission, le 
+sécher et le relubrifier. 
+Si la lubrification est automatique, il faut contrôler son bon fonctionnement. 
+Il faut identifier la source de la contamination en cas de présence d’eau, de solvant ou 
+de limaille. 
+ 
+• MAILLON D'ATTACHE/DE JONCTION DÉFECTUEUX 
+L’attache rapide est mal installée, déformée ou cassée. 
+ 
+On peut observer cela pour plusieurs raisons : 
+• Erreur de montage : clip mal positionné lors de l'installation  
+• Clip absent : oubli lors du montage, perte en service (vibrations)   
+• Déformation par choc : impact pendant maintenance ou en service  
+• Fatigue du maillon : fissuration par cycles de contrainte (point de jonction = point 
+faible)  
+• Vibrations extrêmes : desserrage/perte du clip de sécurité 
+ 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! Il y a risque de rupture car les maillons de jonction sont des points 
+sensibles des chaines. 
+Si autorisé à l’AMM, on pourra procéder au remplacement du maillon.  
+Si non, ce sera le changement immédiat avec recherche de causes racines.  
+
+===== PAGE 44 =====
+Module 7.12 V06   Page 44 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• DÉFORMATION / VRILLAGE   La chaîne tordue, vrillée ou gauchie 
+ 
+On peut observer cela pour plusieurs raisons : 
+• Désalignement sévère des roues dentées : axes non parallèles forçant torsion  
+• Blocage brutal du système : arrêt instantané sous couple provoquant déformation  
+• Choc mécanique : impact latéral, chaîne pincée/écrasée pendant maintenance  
+• Montage forcé : chaîne trop courte ou installée sous contrainte de torsion  
+• Défaut de fabrication  
+• Guides de chaîne mal positionnés : guidage forçant la chaîne hors de son plan  
+• Surchauffe extrême : déformation thermoplastique sous charge 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! Il y a risque de déraillement, sortie des roues dentées et de mise en 
+contrainte des maillons avec rupture potentielle. 
+Il faut procéder à l’immobilisation du système de transmission, changer la chaine, selon 
+l’AMM, et investiguer pour déterminer l’origine du problème. 
+  
+
+===== PAGE 45 =====
+Module 7.12 V06   Page 45 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.4 INSPECTION DES ROUES DENTEES ; 
+L'inspection des roues dentées est indissociable de celle des chaînes car elles forment un 
+système interdépendant par engrènement mécanique positif. 
+ 
+Contrairement aux poulies de courroies, les roues dentées ne tolèrent pratiquement aucun 
+compromis : la nature même de l'engrènement (contact métal/métal sous charge élevée) et la 
+criticité des systèmes aéronautiques imposent des critères d'acceptation stricts.  
+ 
+En revanche tout défaut structurel (fissure, dent cassée, déformation, surchauffe) impose 
+le remplacement immédiat sans possibilité de réparation. 
+ 
+ 
+  
+
+===== PAGE 46 =====
+Module 7.12 V06   Page 46 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.4.1 Logique d'inspection du technicien de maintenance ; 
+➔ Le technicien B1B2 doit systématiquement inspecter le profil de denture, l'intégrité 
+structurelle, l'état de surface, les dimensions critiques, et l'alésage central de la roue 
+dentée. 
+ 
+Démarche méthodique d’inspection des roues dentées : 
+ 
+1. Préparation  
+o Consultation AMM pour caractéristiques de la roue dentée (module, nombre de dents, 
+matériau) 
+o Identification du type (chaîne, courroie crantée) 
+o Préparation outillage : jauge d'usure dents, palmer, comparateur, lampe, endoscope si 
+nécessaire 
+ 
+2. Inspection visuelle systématique  
+o Examen de l'ensemble des dents (sur 360°) 
+o Contrôle des flancs de denture 
+o Inspection du corps de roue 
+o Vérification de l'alésage et clavette 
+ 
+3. Contrôles dimensionnels  
+o Profil de denture (gabarit ou jauge spécifique) 
+o Hauteur de dent 
+o Largeur de denture 
+o Faux-rond (voile radial et axial)  
+o Diamètre primitif 
+ 
+4. Contrôles fonctionnels  
+o Rotation libre 
+o Absence de jeu excessif sur l'arbre 
+o Alignement avec roue menée/menante 
+ 
+5. Documentation  
+o Relevé des mesures critiques 
+o Photos des défauts 
+o Mise à jour fiche de suivi 
+  
+
+===== PAGE 47 =====
+Module 7.12 V06   Page 47 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+2.4.2 Défauts des roues dentées ; 
+ 
+Une roue dentée usée, fissurée ou présentant un désalignement provoquera systématiquement 
+une dégradation accélérée de la chaîne (usure latérale des plaques, allongement prématuré, 
+rupture de rouleaux), tandis qu'une chaîne défaillante témoigne souvent d'une anomalie au 
+niveau des roues dentées.  
+ 
+Une roue dentée fissurée ou excessivement usée peut rompre brutalement en service ou 
+détruire rapidement une chaîne neuve, d'où l'importance d'une inspection rigoureuse et 
+d'une décision conservatrice. 
+ 
+L’étude des différents types de défaut ci-après permettra une meilleure compréhension de ces 
+usures. Un résumé est disponible en ANNEXE 7. 
+ 
+Conduite à tenir pour l’inspection de roues dentées par un technicien B1 
+ 
+   Respecter impérativement les limites dimensionnelles des documents  
+   Aucune tolérance sur les défauts structurels  
+   Privilégier le remplacement en cas de doute  
+   Ne jamais tenter de réparation non autorisée  
+   Vérifier la traçabilité et certification : utiliser uniquement des roues dentées conformes 
+IPC avec certificat FAA/EASA (EASA Form 1), refuser toute pièce d'origine douteuse 
+   Inspecter simultanément la chaîne associée  
+   Contrôler systématiquement l'alignement  
+   Remplacer par paires si possible : roue dentée neuve avec chaîne usée ou roue usée 
+avec chaîne neuve = usure rapide du composant neuf 
+   Vérifier arbre, clavette et roulements 
+ 
+ 
+  
+  
+
+===== PAGE 48 =====
+Module 7.12 V06   Page 48 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• USURE DES FLANCS DE DENTS 
+Il s’agit de l’amincissement progressif du profil de denture. 
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Usure normale progressive : fonctionnement prolongé au-delà de durée de vie  
+-Lubrification insuffisante de la chaîne : frottement sec accélérant l'abrasion des dents  
+-Chaîne allongée hors limites : mauvais engrènement créant usure concentrée  
+-Contamination abrasive : sable, poussières métalliques dans la transmission  
+-Désalignement chronique : contact asymétrique sur un flanc uniquement  
+-Chaîne surdimensionnée ou sous-dimensionnée 
+-Surcharge continue : couple transmis supérieur aux spécifications 
+ 
+ 
+ 
+    MAJEUR à   CRITIQUE selon le degré 
+Il faudra, si autorisé par la documentation, prendre les mesures sur les dents et comparer avec 
+les données du fabricant. 
+Si les mesures sont acceptables, on pourra laisser l’élément en place en échange d’une 
+surveillance accrue et d’un contrôle du système de transmission pour déterminer l’origine du 
+défaut. 
+Si non acceptable, il faudra procéder au changement de la roue dentée ET de la chaîne de 
+transmission. 
+ 
+• DENTS CASSÉES OU FISSURÉES 
+La roue dentée est partiellement ou totalement manquante, fissurée à la base 
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Surcharge brutale : blocage du système entraîné, couple excessif  
+-Fatigue du matériau : cycles de charge répétés  
+-Chaîne avec rouleaux cassés : contact métal/métal (axe chaîne) contre dent  
+-Corps étranger : objet métallique coincé entre chaîne et roue dentée  
+-Défaut de fabrication  
+-Survitesse : contraintes centrifuges excessives sur dents  
+-Maillon de chaîne sorti : axe ou rouleau frappant les dents de manière répétée 
+ 
+ 
+ 
+  CRITIQUE ! il y a risque de rupture avec perte de la transmission. 
+Il faut immobiliser la transmission, prévoir le remplacement de la roue dentée et de sa chaine, 
+procéder à des investigations en profondeur sur la transmission globale et déterminer l’origine du 
+défaut AVANT le remplacement. 
+  
+
+===== PAGE 49 =====
+Module 7.12 V06   Page 49 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• ÉCAILLAGE (PITTING) DES DENTS 
+Apparition de petits cratères, piqûres sur les flancs de denture 
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Fatigue de contact : cycles répétés créant microfissures de surface  
+-Lubrification insuffisante : contact métal/métal créant des pressions de contact excessives  
+-Surcharge modérée continue : pression de contact supérieure à limite d'endurance  
+-Contamination lubrifiant : particules abrasives créant l’écaillage  
+-Défaut de traitement de surface  
+-Corrosion : oxydation localisée  
+ 
+ 
+ 
+    MINEUR à     MAJEUR selon son étendue. 
+Selon les critères d’acceptabilité de l’AMM, on pourra en fonction de l’écaillage : 
+-localisé si < 20% de la surface : Surveillance 
+-moyen si 20-40% de la surface : Remplacement à planifier 
+-étendu si > 40% de la surface ou en évolution rapide : Remplacement 
+ 
+• DÉFORMATION DES DENTS (Crochetage) 
+Les dents se courbent, se déforment plastiquement. 
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Surcharge brutale extrême : couple de choc dépassant limite élastique du matériau  
+-Blocage complet du système : arrêt instantané sous charge (grippage, corps étranger)  
+-Chaîne grippée : maillons bloqués forçant sur les dents lors de la rotation  
+-Montage forcé de chaîne : chaîne trop courte déformant les dents au montage  
+-Choc mécanique : impact pendant manipulation, chute de composant  
+-Matériau inadapté : roue dentée en alliage trop tendre pour l'application 
+ 
+ 
+  CRITIQUE ! Il y a risque de rupture imminente. 
+Il faut, selon l’AMM, immobiliser la transmission, déterminer l’origine du défaut et procéder au 
+remplacement de la roue dentée et de la chaine de transmission. 
+  
+
+===== PAGE 50 =====
+Module 7.12 V06   Page 50 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• FISSURES RADIALES SUR LE CORPS DE LA ROUE DENTEE 
+Apparition de fissures partant du moyeu vers la périphérie de la roue dentée.  
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Fatigue du matériau : cycles de charge/contraintes répétés 
+-Montage forcé sur arbre : alésage trop serré créant des contraintes de traction  
+-Choc thermique : échauffement localisé suivi de refroidissement brutal  
+-Surcharge brutale : couple créant des contraintes et dépassant la résistance du matériau  
+-Défaut matériau  
+-Corrosion sous contrainte : propagation de fissure depuis zone corrodée  
+-Survitesse : contraintes centrifuges excessives  
+ 
+ 
+ 
+  CRITIQUE ! Il y a risque de rupture imminente. 
+Il faut, selon l’AMM, immobiliser la transmission, déterminer l’origine du défaut et procéder au 
+remplacement de la roue dentée et de la chaine de transmission. 
+ 
+• CORROSION 
+Apparition d’oxydation, rouille, et de corrosion des dents et du corps. 
+ 
+➔ On peut observer son apparition pour plusieurs raisons : 
+-Exposition environnement marin : aéronefs côtiers, hélicoptères offshores  
+-Infiltration d'eau  
+-Stockage prolongé non protégé : roue dentée non graissée en environnement humide  
+-Contamination : produits de nettoyage inadaptés, produits de dégivrage  
+-Défaut de lubrification  
+-Contact galvanique  
+ 
+ 
+    MINEUR à   CRITIQUE selon la profondeur. 
+Il faudra faire une inspection globale de la transmission pour trouver l’origine. 
+Selon les critères d’acceptabilité de l’AMM, on pourra en fonction de la corrosion : 
+-Corrosion superficielle : Traitement anticorrosion 
+-Corrosion avec piqûres profondes : Remplacement à prévoir et surveillance de 
+l’évolution.  
+-Corrosion généralisée : Remplacement immédiat 
+  
+
+===== PAGE 51 =====
+Module 7.12 V06   Page 51 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• VOILE (FAUX-ROND) 
+On observe une déformation radiale ou axiale de la roue. 
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Choc/déformation mécanique : impact pendant manipulation, chute de la roue dentée  
+-Montage incorrect : serrage asymétrique, roue montée de travers sur arbre  
+-Arbre support voilé : l'arbre lui-même est déformé ou désaligné  
+-Roulement défectueux : jeu excessif permettant déplacement radial/axial  
+-Surchauffe localisée : déformation thermique asymétrique (blocage, friction)  
+-Défaut de fabrication  
+-Surcharge brutale : déformation plastique du corps de roue 
+ 
+ 
+ 
+ 
+ 
+(Principe de mesure de faux rond) 
+ 
+    MAJEUR à   CRITIQUE. 
+Il faudra contrôler l’arbre de transmission et vérifier les jeux correspondants. 
+Selon la documentation et en fonction du fabricant le défaut pourra être :  
+-Voile radial ou axial < 0,1mm : Acceptable 
+-Voile 0,1-0,2mm : Surveillance 
+-Voile > 0,2mm : Remplacement 
+ 
+  
+
+===== PAGE 52 =====
+Module 7.12 V06   Page 52 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+• USURE OU OVALISATION DE L'ALÉSAGE 
+L’alésage central de la roue dentée est agrandi ou ovalisé. 
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Usure normale progressive : charge radiale créant usure asymétrique  
+-Montage serré excessif : arbre surdimensionné déformant l'alésage au montage  
+-Déformation plastique : surcharge brutale déformant l'alésage de manière permanente  
+-Usure de la clavette et rainure : jeu excessif créant martelage, élargissement rainure  
+-Corrosion localisée : piqûres profondes dans alésage modifiant géométrie  
+-Défaut de fabrication  
+ 
+ 
+  CRITIQUE ! Il y a un jeu excessif sur l’arbre.  
+Selon la documentation du fabricant il faudra procéder à des mesures de l’alésage et identifier 
+l’origine du défaut.  
+Certains fabricants peuvent autoriser une tolérance sur l’alésage.  
+Si celles-ci sont trop importantes, il faudra procéder au remplacement de la roue dentée. 
+ 
+• USURE OU RUPTURE DE LA CLAVETTE / RAINURE 
+On peut observer que la rainure de clavette est élargie, déformée ou cisaillée. 
+ 
+ 
+ 
+  CRITIQUE !  
+Il y a perte de transmission de couple et risque d’endommagements en cascade sur la 
+transmission. 
+Il faut immobiliser la transmission, investiguer et déterminer l’origine du défaut mais aussi 
+contrôler les abords directs pour s’assurer de l’absence d’autres problèmes. 
+Il faudra remplacer la roue dentée et la chaine associée. 
+  
+
+===== PAGE 53 =====
+Module 7.12 V06   Page 53 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+• TRACES DE SURCHAUFFE 
+On observera une décoloration et des zones brûlées, d’aspect "bleui" du métal. 
+ 
+➔ On peut observer cela pour plusieurs raisons : 
+-Lubrification insuffisante chaîne : friction excessive chaîne/roue dentée  
+-Blocage partiel ou complet : roue dentée continuant à tourner alors que chaîne bloquée  
+-Surcharge continue extrême : échauffement par dissipation d'énergie excessive  
+-Friction anormale : désalignement sévère, chaîne trop tendue  
+-Incendie compartiment : exposition à flammes ou chaleur intense  
+-Défaut de ventilation/refroidissement  
+ 
+ 
+ 
+Zones décolorées : 
+- Jaune paille : ~200°C 
+- Bleu : ~300°C 
+- Noir : >400°C 
+ 
+  CRITIQUE ! Il y a eu modification des propriétés métallurgiques de la roue. 
+Il y a risque de rupture.  
+Il faut déterminer l’origine du défaut et le résoudre.  
+Vérifier l’ensemble de la transmission. 
+Il faut changer la roue dentée et la chaine associée. 
+  
+
+===== PAGE 54 =====
+Module 7.12 V06   Page 54 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3 Inspection des vérins à vis, des dispositifs à levier et des 
+biellettes à double effet. 
+ 
+ 
+ 
+Rappel des objectifs : connaissance générale des inspections des vérins à 
+vis, des dispositifs à levier et des biellettes à double effet. Capacité à 
+appliquer cette connaissance. [Niveau 2] 
+3.1 Inspection des vérins à vis ; 
+Les vérins à vis peuvent être assimilés à des systèmes de roues et vis sans fin 
+On notera la particularité liée au traitement de surface de l’axe, généralement chromé pour de 
+meilleures performances de glissement. 
+ 
+Une vis sans fin est un cylindre comportant une cannelure hélicoïdale (parfois plusieurs), la 
+faisant ressembler à une tige filetée. 
+Associée à un pignon, elle constitue un engrenage gauche (les deux axes ne sont pas dans le 
+même plan), dans lequel elle se comporte comme une roue à une dent (ou plus, selon le nombre 
+de cannelures).  
+ 
+ 
+La vis est généralement solidaire de l'axe qui la supporte, c’est une liaison complète, la cannelure 
+étant parfois réalisé sur l'arbre même.  
+ 
+ 
+(Exemple : Actionneur de compensation de PHR) 
+  
+
+===== PAGE 55 =====
+Module 7.12 V06   Page 55 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+L'engrenage formé est généralement irréversible (la vis peut entraîner le pignon, mais pas le 
+contraire). 
+Contrairement à la majorité des autres systèmes d'engrenage où l'entraînement s'obtient par 
+roulement d'un profil de dent sur l'autre, ici, l'entraînement est obtenu par glissement, ce qui 
+se traduit par des caractéristiques de rendement et d'usure particulières à ce système. 
+ 
+ 
+ 
+Ce système est très utilisé dans les cas où on cherche une très grande démultiplication, ou 
+quand l'irréversibilité du système assure un fonctionnement correct. 
+Certains systèmes utilisent parfois l'irréversibilité pour produire une translation sur l'axe de la vis 
+à partir de la rotation du pignon ; la vis se comporte alors comme une crémaillère.  
+ 
+ 
+3.1.1 Logique d’inspection des vérins à vis ; 
+Le technicien B1B2 doit inspecter l'usure des filets de la vis (particulièrement sollicités par 
+glissement), l'état de la roue hélicoïdale (usure des dents, jeu de denture), le jeu axial et radial de 
+la vis, la lubrification (critique car fort glissement), et l'alignement du système.  
+ 
+Une vis sans fin usée ou mal lubrifiée génère échauffement excessif, usure accélérée et risque 
+de grippage, compromettant la fonction du système avec des conséquences potentiellement 
+graves. 
+  
+
+===== PAGE 56 =====
+Module 7.12 V06   Page 56 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+Démarche méthodique du technicien B1B2 : 
+1. Préparation  
+o Consultation AMM  
+o Vérification IPC pour dimensions et tolérances  
+o Préparation outillage : comparateur, cales d'épaisseur (jeu), palmer, jauge de 
+profondeur, lampe d'inspection 
+ 
+2. Inspection visuelle systématique  
+o Examen des filets de la vis (usure, rayures, piqûres) 
+o Contrôle des dents de la roue hélicoïdale 
+o Inspection des paliers et roulements (vis et roue) 
+ 
+3. Contrôles dimensionnels et fonctionnels  
+o Jeu axial de la vis  
+o Jeu radial sur paliers 
+o Jeu de denture entre vis et roue 
+o Usure des filets et profondeur de dent 
+o Rotation manuelle : effort normal, absence de point dur 
+ 
+4. Contrôles de lubrification  
+o Présence et état du lubrifiant (niveau, viscosité, contamination) 
+o Traces d'échauffement (décoloration huile, dépôts) 
+o Système de lubrification (si automatique) 
+ 
+5. Documentation  
+o Enregistrement des mesures de jeu 
+o Photographies si défaut détecté 
+o Mise à jour documentation équipement  
+ 
+ 
+  
+
+===== PAGE 57 =====
+Module 7.12 V06   Page 57 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.1.2 Défauts et inspection des vérins à vis 
+Les causes des défaillances des systèmes « roue et vis sans fin » sont similaires à celles des 
+engrenages. 
+Pour cette raison, nous ne détaillerons pas les principaux défauts de ceux-ci.  
+ 
+Il conviendra de se reporter au chapitre 1.1.2.2 Usures anormales . 
+Un résumé est disponible en ANNEXE 8. 
+ 
+La géométrie de ce système de réduction étant plus complexe, il convient cependant d'être 
+particulièrement vigilant. 
+ 
+➔ L'organe le plus faible est la roue : c'est elle qui verra l'apparition des symptômes. 
+ 
+Conduite à tenir pour l’inspection des vérins à vis par un technicien B1B2 
+ 
+   Toujours remplacer vis ET roue ensemble :  
+Usures couplées : vis neuve avec roue usée (ou inverse) = usure rapide du composant neuf 
+   Lubrification critique : la vis sans fin fonctionne par glissement,  
+Si lubrification insuffisante = échauffement, grippage, destruction rapide 
+   Aucune tolérance sur défauts structurels : Si filet cassé/fissuré, déformation, etc. 
+Surchauffe = remplacement obligatoire sans exception 
+   Mesurer systématiquement les jeux : jeu axial et de denture sont des critères primaires 
+d'acceptation, particulièrement pour les commandes de vol/trim 
+   Privilégier remplacement en cas de doute : coût vis + roue dérisoire comparé au risque de 
+grippage/rupture sur système critique 
+   Vérifier traçabilité et matériaux : vis typiquement acier trempé, roue bronze/laiton, utiliser 
+uniquement pièces conformes IPC avec certificat EASA 
+   Contrôler alignement et paliers : désalignement = cause principale d'usure prématurée, 
+roulements défectueux = jeu excessif 
+   Surveiller température et lubrification en service : échauffement anormal = signe précoce de 
+problème (lubrification, surcharge, désalignement) 
+   Principe : une vis sans fin grippée bloque le système sans préavis : surveillance rigoureuse 
+de la lubrification et remplacement préventif garantissent la sécurité 
+ 
+ 
+  
+
+===== PAGE 58 =====
+Module 7.12 V06   Page 58 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2 Dispositifs à levier ; 
+Les dispositifs à levier constituent des éléments mécaniques de transmission d'effort et de 
+mouvement par rotation autour d'un ou plusieurs points fixes (articulations).  
+ 
+Les leviers peuvent être simples (1 point de rotation) ou composés (leviers coudés, leviers à 
+rotule, systèmes articulés complexes), et sont généralement réalisés en alliages d'aluminium, 
+acier, ou titane. 
+ 
+Utilisés dans de nombreux systèmes aéronautiques critiques, ils peuvent par exemple 
+assurer la transmission des commandes de vol primaires (gouvernes de profondeur, direction, 
+gauchissement), des commandes secondaires (volets, aérofreins, trim tabs), les mécanismes de 
+trains d'atterrissage (relevage, verrouillage), les systèmes de freinage, les actionneurs de portes 
+et trappes, et divers mécanismes de verrouillage etc. 
+ 
+ 
+ 
+  
+
+===== PAGE 59 =====
+Module 7.12 V06   Page 59 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2.1 Logique d’inspection des dispositifs à levier ; 
+Le technicien B1B2 doit inspecter l'intégrité structurelle du levier (fissures, déformation), l'état des 
+articulations (usure axes, bagues, roulements), les jeux fonctionnels (jeu axial, jeu radial), l'état 
+des fixations (boulons, goupilles de sécurité), et la liberté de mouvement (absence de grippage, 
+course complète).  
+ 
+Un levier usé, fissuré ou présentant un jeu excessif à ses articulations provoquera 
+systématiquement une dégradation de la précision du système (course imprécise, perte de 
+démultiplication, jeu mort), une transmission d'effort dégradée, et des risques de rupture 
+catastrophique. 
+ 
+Démarche méthodique : 
+1. Préparation  
+o Consultation AMM pour type de levier, matériau, points d'inspection critiques 
+o Vérification IPC pour dimensions, tolérances de jeu, références pièces 
+o Préparation outillage  
+ 
+2. Inspection visuelle systématique  
+o Examen complet du corps du levier (fissures, déformation, corrosion) 
+o Contrôle des zones critiques (raccordements, changements de section, trous 
+d'articulation) 
+o Inspection des articulations (axes, bagues, roulements) 
+o Vérification des fixations (boulons, écrous, goupilles de sécurité, freins) 
+ 
+3. Contrôles dimensionnels et fonctionnels  
+o Jeu radial aux articulations (mouvement perpendiculaire à l'axe) 
+o Jeu axial aux articulations (déplacement le long de l'axe) 
+o Déformation/voile du levier (rectitude, planéité) 
+o Usure des alésages d'articulation (ovalisation, agrandissement) 
+o Course complète du levier (butées, limitations) 
+ 
+4. Contrôles non destructifs (si requis AMM ou suspicion défaut)  
+o Ressuage (PT) pour alliages légers : détection fissures de surface 
+o Magnétoscopie (MT) pour acier : détection fissures de surface et en profondeur 
+o Contrôle par ultrasons si défaut interne suspecté  
+ 
+5. Documentation  
+o Enregistrement des mesures de jeu 
+o Photographies de tout défaut détecté 
+o Mise à jour doc. 
+ 
+ 
+ 
+ 
+ 
+ 
+(Exemple : contre fiche sur MLG) 
+  
+
+===== PAGE 60 =====
+Module 7.12 V06   Page 60 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.2.2 Défauts des dispositifs à levier ; 
+ 
+L'inspection des dispositifs à levier est indissociable de celle de leurs points d'articulation, 
+biellettes et éléments de liaison car ils forment un système cinématique interdépendant de 
+transmission et de démultiplication d'effort. 
+ 
+Un levier fissuré peut rompre sans préavis avec perte totale de contrôle, et un jeu excessif 
+d'articulation dégrade la précision des commandes. 
+ 
+Un résumé est disponible en ANNEXE 9. 
+ 
+Conduite à tenir inspection dispositifs à levier technicien B1B2 
+ 
+   Aucune tolérance sur fissures : toute fissure détectée ou suspectée = remplacement obligatoire 
+après CND de confirmation, aucune réparation par soudage 
+   Contrôle non destructif obligatoire : ressuage (PT) systématique après traitement corrosion, 
+polissage, ou si suspicion de fissure sur zones critiques 
+   Jeu d'articulation = critère primaire : mesurer systématiquement, comparer avec limites AMM, 
+criticité fonction de l'application (commandes primaires vs secondaires) 
+   Vérifier systématiquement les fixations : présence et état de toutes goupilles de sécurité, freins, 
+couple de serrage, à chaque inspection 
+   Zones critiques = attention maximale : pourtour alésages, raccordements, changements de 
+section = concentrateurs de contrainte, inspection visuelle minutieuse + CND si doute 
+   Matériaux et traitements spécifiques : vérifier conformité IPC (alu, acier, titane), traitement de 
+surface (anodisation, cadmiage), certificats matière obligatoires 
+   Lubrification critique : articulations sèches = usure rapide + grippage, appliquer lubrifiant spécifié 
+AMM lors de chaque démontage/remontage 
+   Remplacer composants par ensembles : si axe usé, vérifier/remplacer bagues, si bagues usées, 
+vérifier axe, écrous auto-freinés = usage unique 
+   Traçabilité absolue : leviers de commandes critiques avec numéro de série, historique complet 
+(heures, cycles, événements), respect durée de vie calendaire et cycles 
+   Principe : un levier fissuré rompt sans préavis avec perte totale de contrôle - inspection 
+rigoureuse, CND systématique si doute, remplacement conservateur garantissent la sécurité 
+ 
+ 
+  
+
+===== PAGE 61 =====
+Module 7.12 V06   Page 61 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• RAYURES / FISSURES SUR LE CORPS DU LEVIER 
+Des rayures et/ ou des fissures apparaissent dans les zones de concentration de contrainte 
+(trous d'articulation, raccordements, changements de section etc.) 
+ 
+Cas d'apparition typiques : 
+-Fatigue du matériau : cycles de charge répétés au-delà de durée de vie 
+-Surcharge brutale : manœuvre brusque, atterrissage dur, rafale sévère 
+-Défaut de fabrication : traitement thermique incorrect, inclusion, défaut d'usinage 
+-Corrosion sous contrainte : propagation de fissure depuis piqûre de corrosion en zone 
+contrainte 
+-Défaut de conception : concentration de contrainte excessive (rayon de congé insuffisant) 
+-Usure/jeu excessif d'articulation : charges dynamiques amplifiées créant fatigue accélérée 
+ 
+ 
+ 
+❌ DEFAUT CRITIQUE ! Il y a risque de rupture.  
+Il n’y aura aucun signe précurseur pour les fissures internes. 
+A cause de l’exploitation de l’aéronef, les rayures peuvent rapidement évoluer en fissure 
+profondes et dangereuses. 
+Il n’y a donc aucune tolérance. 
+ 
+Il faut immobiliser l’aéronef et procéder au remplacement du levier. 
+Il faut également inspecter tous les leviers d’un même système et vérifier les fixations des 
+articulations associées. 
+En cas de suspicion de rayure/fissure, il faudra se référer à l’AMM et suivre la procédure 
+du fabricant. 
+ 
+ 
+  
+
+===== PAGE 62 =====
+Module 7.12 V06   Page 62 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• DÉFORMATION / VRILLAGE DU LEVIER 
+Le levier est courbé, vrillé, ou gauchi hors de son plan de fonctionnement normal. 
+ 
+Cas d'apparition typiques : 
+-Surcharge brutale extrême : déformation plastique dépassant limite élastique 
+-Choc/impact : collision au sol, FOD, outil tombé, chute du levier 
+-Montage forcé : installation avec contrainte de déformation  
+-Surchauffe : déformation thermique (incendie, surchauffe système) 
+-Défaut de fabrication  
+ 
+ 
+ 
+❌ DEFAUT CRITIQUE !  
+Il y a modification du bras de levier pouvant entrainer des désalignements et des contraintes non 
+prévues sur le système de transmission. 
+Il peut également y avoir risque d’interférences ou de contact avec les systèmes ou la structure 
+autour. 
+Il faut procéder au remplacement du levier. 
+Aucune tentative de redressage n’est autorisée ! 
+On devra mener une investigation pour déterminer l’origine du défaut et effectuer la vérification 
+de tous les éléments adjacents au levier ainsi que la géométrie globale du système (courses, 
+alignements etc.) 
+  
+
+===== PAGE 63 =====
+Module 7.12 V06   Page 63 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• JEU EXCESSIF AUX ARTICULATIONS 
+Apparition d’un jeu radial ou axial excessif entre axe d'articulation et alésage du levier, ou usure 
+des bagues/roulements 
+ 
+Cas d'apparition typiques : 
+-Usure normale progressive : frottement répété axe/bague sur durée de vie 
+-Lubrification insuffisante : usure accélérée par frottement sec 
+-Usure des bagues : matériau bague (bronze, nylon) s'usant plus vite que axe acier 
+-Corrosion : piqûres dans alésage ou sur axe créant jeu 
+-Ovalisation de l'alésage : usure asymétrique créant forme ovale 
+-Usure de l'axe : réduction diamètre par abrasion (rare si acier trempé) 
+-Cycles excessifs : nombre de cycles dépassant durée de vie (articulations haute fréquence) 
+ 
+ 
+ 
+    DEFAUT MINEUR à ❌ CRITIQUE selon amplitude et application 
+En fonction de l’AMM et des zones concernées pour ce type de défaut, il pourra y avoir des 
+tolérances avec surveillance 
+Si : 
+• Défaut sur levier de commandes de vol primaires : tout jeu est CRITIQUE  
+• Défaut sur levier de commandes autre : jeu modéré tolérable temporairement avec 
+surveillance et selon les limites définies par l’AMM. 
+Si mesures hors limite ou doute, le remplacement est obligatoire. 
+Il faudra, au besoin et selon l’AMM, procéder au remplacement des éléments d’assemblage 
+du levier : bagues, axes etc. etc. etc.  
+ 
+ 
+  
+
+===== PAGE 64 =====
+Module 7.12 V06   Page 64 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• USURE / OVALISATION DES ALÉSAGES D'ARTICULATION 
+Les alésages des articulations sont agrandis, ovalisés. 
+ 
+Cas d'apparition typiques : 
+-Usure asymétrique : charge unidirectionnelle créant usure  
+-Matériau tendre : alliage d'aluminium s'usant plus vite que l’axe  
+-Absence de bague de protection : contact direct alu/acier (usure rapide alu) 
+-Lubrification insuffisante : abrasion accélérée 
+-Cycles élevés : articulations haute fréquence (volets, aérofreins) 
+ 
+    DEFAUT MAJEUR à   CRITIQUE selon le degré. 
+Si autorisé par l’AMM, des mesures devront être prises pour déterminer la criticité du défaut. 
+Si mesures hors tolérance, ou non tolérées, il faudra remplacer le levier, les bagues et les 
+axes associés. 
+ 
+ 
+ 
+• CORROSION 
+Présence d’oxydation, de rouille ou de piqûres de corrosion sur le levier, les axes ou dans les 
+alésages. 
+ 
+Cas d'apparition typiques : 
+-Exposition environnement marin/humide : aéronefs côtiers, opérations maritimes 
+-Rétention d'humidité : eau stagnante dans alésages, zones confinées 
+-Corrosion galvanique : contact alu/acier sans isolation  
+-Protection dégradée : peinture/anodisation endommagée, écaillée 
+-Stockage prolongé  
+-Fluides corrosifs : Skydrol, produits de dégivrage 
+ 
+ 
+ 
+    DEFAUT MINEUR à   CRITIQUE selon sa profondeur et sa localisation. 
+En fonction des critères de l’AMM, on pourra selon la contamination : 
+• Corrosion superficielle hors zones critiques : Traitement possible 
+• Corrosion modérée avec piqûres : Surveillance ou remplacement selon AMM et SRM. 
+• Piqûres profondes en zone de concentration de contrainte : Remplacement obligatoire 
+• Corrosion généralisée structurelle : Remplacement immédiat 
+ 
+Il faudra contrôler les alentours directs de la contamination et déterminer son origine. 
+ 
+ 
+ 
+  
+
+===== PAGE 65 =====
+Module 7.12 V06   Page 65 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• AXES D'ARTICULATION USÉS / ENDOMMAGÉS 
+Les axes de fixation du levier présentent des usures, rayures ou des chocs.  
+ 
+Cas d'apparition typiques : 
+• Usure normale progressive : frottement répété 
+• Lubrification insuffisante : usure accélérée par frottement sec 
+• Contamination abrasive : particules agissant comme abrasif entre axe et bague 
+• Corrosion : piqûres sur axe 
+• Choc/rayure : impact, manipulation incorrecte, coup d'outil 
+• Montage/démontage répété : usure par manipulation excessive 
+ 
+    DEFAUT MINEUR à   CRITIQUE selon le degré. 
+En fonction des tolérances et des consignes de l’AMM on pourra selon les 
+défauts suivants : 
+• Rayures superficielles : Polissage possible 
+• Usure diamétrale hors tolérances IPC : Remplacement 
+• Corrosion avec piqûres : Remplacement 
+• Déformation (courbure) : Remplacement 
+ 
+ 
+ 
+• FIXATIONS DESSERRÉES / GOUPILLES MANQUANTES 
+L’axe est desserré, l’écrous auto-freiné ou la goupille de sécurité sont manquants ou cassés 
+ 
+Cas d'apparition typiques : 
+• Vibrations : desserrage progressif malgré freinage 
+• Écrou auto-freiné usé : perte d'efficacité du dispositif de freinage (nylon, déformation) 
+• Goupille cassée : fatigue du matériau (goupille fendue cycles répétés) 
+• Erreur de maintenance : oubli de goupille, serrage insuffisant, écrou non freiné 
+• Surcharge : déformation écrasant le freinage de l'écrou 
+ 
+  
+ 
+Missing Cotter Pin Causes Fatal S-61N Accident - Aerossurance 
+ 
+  DEFAUT CRITIQUE ! 
+Il y a risque de sortie de l’axe de son logement, modification de la géométrie de la 
+transmission due au jeu induit. 
+Il faudra, selon l’AMM, procéder aux contrôles de serrage sur le levier et ses axes, identifier les 
+causes racines. 
+ 
+Missing Cotter Pin Causes Fatal S-61N Accident - Aerossurance 
+  
+
+===== PAGE 66 =====
+Module 7.12 V06   Page 66 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• GRIPPAGE / FRICTION EXCESSIVE 
+L’articulation du levier est grippée, sa rotation est difficile ou impossible, et on détecte un effort 
+anormal pour déplacer le levier. 
+ 
+Test manuel de liberté de mouvement : 
+- Déconnecter biellettes/câbles si possible 
+- Tester rotation manuelle du levier 
+- Effort doit être faible, fluide, sans point dur 
+ 
+Normal : Rotation fluide ↻ effort léger 
+Grippé : Rotation difficile/impossible, échauffement 
+ 
+ 
+ 
+Cas d'apparition typiques : 
+-Lubrification insuffisante : assèchement des surfaces de frottement 
+-Corrosion dans articulation : oxydation bloquant le mouvement 
+-Contamination : débris, terre, sable dans articulation 
+-Déformation : levier ou axe courbé créant frottement 
+-Bague grippée : bague ayant tourné dans alésage, soudée par friction 
+-Surchauffe : dilatation bloquant l'articulation 
+-Montage incorrect : serrage excessif écrasant l'articulation 
+ 
+  DEFAUT CRITIQUE ! 
+Il y a perte de la fonction du système par blocage. 
+Il y a risque de surcharge sur les actionneurs et les moteurs d’entrainement. 
+Il faut immobiliser l’aéronef et procéder, selon l’AMM, aux opérations suivantes selon le défaut : 
+o Manque de lubrification ? → Nettoyage + lubrification 
+o Corrosion ? → Traitement ou remplacement selon le niveau  
+o Contamination ? → Nettoyage, lubrification 
+o Déformation ? → Remplacement levier/axe 
+o Bague grippée ? → Remplacement bague + contrôle alésage 
+o Montage incorrect ? → remise en conformité 
+  
+
+===== PAGE 67 =====
+Module 7.12 V06   Page 67 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• USURE / ENDOMMAGEMENT DES BUTÉES 
+Les butées mécaniques sont usées, déformées ou cassées limitant ou perdant leur fonction 
+d'arrêt de course. 
+ 
+Cas d'apparition typiques : 
+• Chocs répétés : levier butant violemment (surcharge, manœuvre brusque) 
+• Déformation plastique : butée en matériau tendre écrasée progressivement 
+• Rupture de butée : fatigue, défaut matériau, surcharge 
+• Usure normale : abrasion progressive (butées caoutchouc, élastomère) 
+ 
+ 
+ 
+    DEFAUT MAJEUR à   CRITIQUE selon la fonction 
+• Butée non critique (simple amortissement) : Surveillance acceptable 
+• Butée définissant course critique : Remplacement obligatoire 
+• Butée de verrouillage sécurité : Remplacement immédiat 
+Il faudra vérifier la course du levier selon l’AMM. 
+Identifier les causes racine du défaut, effectué des tests après remplacement. 
+ 
+  
+
+===== PAGE 68 =====
+Module 7.12 V06   Page 68 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.3 Inspection des biellettes à double effet ; 
+ 
+Les biellettes à double effet (push-pull rods) constituent des éléments de transmission 
+d'effort linéaires capables de transmettre à la fois des efforts de traction (pull) et de 
+compression (push).  
+Composées d'une tige tubulaire ou pleine et d'embouts articulés filetés à chaque extrémité (rod 
+ends avec rotules à rotule sphérique ou palier lisse), elles assurent la liaison rigide entre 
+composants mobiles tout en permettant les désalignements angulaires. 
+ 
+ 
+ 
+3.3.1 Logique d’inspection des biellettes double effet ; 
+Le technicien B1B2 doit inspecter l'intégrité structurelle du corps de la bielle (fissures, 
+déformation, corrosion), l'état des embouts (usure rotule, jeu, fissures), le freinage des embouts 
+filetés (contre-écrous, freins fils, goupilles), la longueur de la biellette (réglage critique), et la 
+liberté d'articulation des embouts. 
+ 
+ 
+ 
+Une biellette usée, fissurée ou présentant un jeu excessif à ses embouts articulés 
+provoquera systématiquement une dégradation de la précision du système (course imprécise, 
+jeu mort dans la transmission, réponse floue des commandes), une transmission d'effort 
+compromise, et des risques de rupture catastrophique. 
+ 
+Un système défaillant (blocage, jeu excessif, friction anormale, vibrations) témoigne souvent 
+d'une anomalie au niveau des biellettes (embouts usés, désalignement, déformation de tige, 
+fissure, longueur incorrecte). 
+  
+
+===== PAGE 69 =====
+Module 7.12 V06   Page 69 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ 
+Démarche méthodique du B1B2 : 
+1. Préparation  
+o Consultation AMM pour type de biellette, matériau, points critiques d'inspection 
+o Vérification IPC pour longueur nominale, tolérances de jeu, références embouts 
+o Préparation outillage : comparateur, cales d'épaisseur, réglet/pied à coulisse 
+(longueur), lampe d'inspection, miroir, produits CND (ressuage si applicable) 
+ 
+2. Inspection visuelle systématique  
+o Examen complet de la tige (fissures, déformation, corrosion, chocs) 
+o Contrôle des embouts articulés (usure, fissures, corrosion) 
+o Inspection des filetages et freinages (contre-écrous, freins fils, goupilles) 
+o Vérification des rotules/paliers (usure, jeu, lubrification) 
+ 
+3. Contrôles dimensionnels et fonctionnels  
+o Longueur hors-tout de la biellette  
+o Jeu aux embouts articulés (radial et axial) 
+o Rectitude de la tige (voile, courbure) 
+o Rotation libre des embouts (absence de grippage, points durs) 
+o Serrage des embouts filetés (vérification couple si accessible) 
+ 
+4. Contrôles non destructifs (si requis AMM ou suspicion défaut)  
+o Ressuage (PT) pour alliages légers : détection fissures tige et embouts 
+o Magnétoscopie (MT) pour acier : détection fissures 
+o Inspection particulière des zones de transition (tige/embout, congés) 
+ 
+5. Documentation  
+o Enregistrement longueur hors-tout (traçabilité réglage) 
+o Mesures de jeu aux embouts 
+o Photographies de tout défaut 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 70 =====
+Module 7.12 V06   Page 70 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+3.3.2 Défauts des biellettes à double effet ; 
+L'inspection des biellettes à double effet est indissociable de celle de leurs embouts articulés, 
+systèmes de verrouillage et éléments de liaison car elles forment un système de transmission 
+d'effort bidirectionnel interdépendant. 
+ 
+Une biellette fissurée peut rompre sans préavis avec perte totale de contrôle, une tête de 
+bielle desserrée peut causer un jeu excessif en vol et dégradera la précision des 
+commandes. 
+Il faudra faire une inspection rigoureuse, méthodique et conservatrice. 
+Un résumé est disponible en ANNEXE 10. 
+ 
+Conduite à tenir inspection biellettes à double effet technicien B1B2 
+ 
+   Aucune tolérance sur fissures : toute fissure tige ou embout = remplacement obligatoire après 
+CND de confirmation, aucune réparation 
+   Contrôle non destructif systématique : ressuage après traitement corrosion, polissage, ou si 
+suspicion fissure sur zones critiques (raccordements tige/embouts) 
+   Mesurer systématiquement de la longueur hors-tout : après tout réglage/remplacement, 
+respecter tolérances AMM strictes 
+   Jeu tête de bielle = critère primaire : mesurer avec précision, comparer limites AMM, criticité 
+en fonction de l’application  
+   Vérifier systématiquement les freinages  
+   Zones critiques = attention maximale : inspection visuelle minutieuse + CND si doute 
+   Déformation = remplacement sans exception 
+   Lubrification critique embouts : lubrifier selon spécification AMM lors remontage 
+   Traçabilité absolue : biellettes commandes critiques avec N/S, , longueur documentée 
+   Flambage en compression : biellettes longues sensibles au flambage, vérifier l’absence de 
+déformation permanente 
+   Principe : une biellette fissurée rompt sans préavis avec perte totale de contrôle  
+→ Inspection rigoureuse, CND systématique si doute, et remplacement conservateur 
+garantissent la sécurité. 
+ 
+ 
+ 
+In-Flight Flying Control Failure: Indonesian Sikorsky S-76C+ PK-FUP - Aerossurance 
+  
+
+===== PAGE 71 =====
+Module 7.12 V06   Page 71 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• FISSURES  
+Des fissures apparaissant dans les zones de concentration de contrainte (raccordements 
+embouts/tige, trous de passage, zones de compression/flexion) 
+ 
+Cas d'apparition typiques : 
+-Fatigue du matériau : cycles compression/traction répétés au-delà de durée de vie 
+-Flambage répété : biellette longue en compression créant micro-flexions cycliques 
+-Surcharge brutale : manœuvre violente, atterrissage dur, rafale sévère 
+-Défaut de fabrication  
+-Corrosion sous contrainte : propagation de fissure depuis piqûre en zone contrainte 
+-Choc/impact : FOD, collision au sol, chute pendant maintenance 
+ 
+ 
+ 
+❌ DEFAUT CRITIQUE ! Il y a risque de rupture catastrophique en vol (perte de contrôle 
+total) 
+Aucun signe précurseur si fissure interne ou non détectée 
+ 
+Il faudra immobiliser immédiatement l'aéronef et procéder au remplacement de la 
+biellette - aucune réparation autorisée 
+Si suspicion de fissure (marque suspecte, décoloration, trace linéaire) :  
+o Contrôle non destructif obligatoire selon AMM  
+ 
+Il faudra faire une inspection de toutes les biellettes du même système (défaut généralisé 
+possible si fatigue), vérifier tous les embouts associés et déterminer la cause racine : 
+o Durée de vie dépassée ?  
+o Surcharge ? 
+o Flambage ? 
+o Défaut matériau ?  
+ 
+  
+
+===== PAGE 72 =====
+Module 7.12 V06   Page 72 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• DÉFORMATION / COURBURE DE LA TIGE 
+La tige est courbée, vrillée, déformée plastiquement hors de son axe rectiligne normal 
+ 
+Contrôle rectitude : 
+Méthode 1 - Règle rectifiée : 
+- Poser règle le long de la tige 
+- Mesurer écart max avec cales d'épaisseur 
+- Limite typique : < 0,5mm sur longueur totale 
+ 
+Méthode 2 - Roulement sur marbre : 
+- Poser biellette sur marbre de référence 
+- Rotation lente 360° 
+- Mesure variation hauteur au comparateur 
+ 
+Méthode 3 - Mesure optique (si équipement disponible) : 
+- Alignement laser le long de la tige 
+- Mesure déviation 
+ 
+Cas d'apparition typiques : 
+-Surcharge brutale en compression : dépassement charge critique de flambage → 
+déformation plastique permanente 
+-Choc/impact latéral : collision, FOD, coup pendant manipulation/maintenance 
+-Montage forcé : installation avec contrainte  
+-Surchauffe : déformation thermique  
+-Défaut de fabrication  
+-Atterrissage dur : biellettes de train d'atterrissage particulièrement exposées 
+ 
+ 
+ 
+❌ DEFAUT CRITIQUE 
+Il faut remplacer la biellette, et ne surtout pas tenter de redressage. 
+Il faudra déterminer l’origine du défaut et procéder à des inspections minutieuses alentours. Il 
+faut également contrôler la géométrie des autres biellettes du système. 
+  
+
+===== PAGE 73 =====
+Module 7.12 V06   Page 73 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• JEU EXCESSIF AUX EMBOUTS ARTICULÉS (ROD ENDS) 
+On observe un jeu radial ou axial excessif au niveau des embouts articulés à rotule sphérique ou 
+palier lisse. 
+ 
+Cas d'apparition typiques : 
+-Usure normale progressive : frottement répété sur durée de vie 
+-Usure de la rotule sphérique  
+-Cycles élevés : nombre de mouvements articulaires dépassant durée de vie 
+-Lubrification insuffisante : usure accélérée par frottement sec 
+-Contamination : sable, poussières agissant comme abrasif 
+-Corrosion : piqûres dans surfaces de frottement créant jeu 
+ 
+ 
+ 
+    DEFAUT MINEUR à   CRITIQUE selon amplitude et application 
+Il faudra respecter les limites typiques à l’AMM. 
+En fonction des tolérances, et si celles-ci sont non conformes, il faudra en fonction de 
+l’AMM, soit changer la biellette, soit changer uniquement la partie rotulée.  
+ 
+Exemple : 
+-Commandes de vol primaires : jeu radial max 0,20-0,40mm (très strict) 
+-Commandes secondaires : jeu radial max 0,50-1,00mm 
+-Applications non critiques : jeu radial jusqu'à 1,50mm parfois tolérable 
+ 
+  
+
+===== PAGE 74 =====
+Module 7.12 V06   Page 74 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• EMBOUTS FILETÉS DESSERRÉS 
+Les embouts filetés vissés dans la tige se desserrent, perte d'efficacité du freinage. 
+ 
+Cas d'apparition typiques : 
+-Vibrations : desserrage progressif malgré freinage 
+-Contre-écrou usé  
+-Fil frein cassé : fatigue du fil, corrosion, surtension initiale du fil 
+-Erreur de maintenance : contre-écrou oublié, fil frein omis, couple insuffisant 
+-Cycles thermiques : dilatation/contraction répétées desserrant progressivement 
+ 
+ 
+ 
+  DEFAUT CRITIQUE ! il y a risque de déconnexion de la biellette. 
+Il faut immobiliser l’aéronef, changer la biellette et contrôler TOUTES les biellettes du 
+système pour vérifier la géométrie de l’ensemble. 
+ 
+  
+
+===== PAGE 75 =====
+Module 7.12 V06   Page 75 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• CORROSION 
+Apparition d’oxydation, de rouille ou de piqûres de corrosion sur la tige, les embouts ou les 
+filetages. 
+ 
+Cas d'apparition typiques : 
+-Exposition environnement marin/humide : aéronefs côtiers, opérations maritimes 
+-Rétention d'humidité : eau stagnante dans filetages, cavités 
+-Corrosion galvanique : contact alu/acier sans isolation 
+-Protection dégradée : peinture/anodisation écaillée, cadmiage détérioré 
+-Stockage prolongé : aéronef immobilisé sans protection 
+-Fluides corrosifs : contamination Skydrol, produits dégivrage, eaux de lavage 
+ 
+ 
+ 
+    DEFAUT MINEUR à   CRITIQUE selon la profondeur et la localisation. 
+Il faudra déterminer la criticité de la contamination en fonction des critères de l’AMM. 
+ 
+• Sur tige :  
+o Corrosion superficielle (<0,15mm) : Traitement possible selon SRM 
+o Piqûres profondes (>0,3mm) :   Remplacement obligatoire 
+o Corrosion au raccordement tige/embout :   Remplacement obligatoire  
+ 
+• Sur filetages :  
+o Corrosion légère : Nettoyage possible, vérification fonctionnelle 
+o Corrosion modérée :   Remplacement obligatoire 
+ 
+• Dans rotules/paliers embouts :  
+o Corrosion avec grippage :   Remplacement à minima de l’embout obligatoire 
+ 
+  
+
+===== PAGE 76 =====
+Module 7.12 V06   Page 76 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• LONGUEUR HORS-TOUT INCORRECTE 
+La longueur totale de la biellette (embout à embout, centres d'articulation) est différente de la 
+valeur spécifiée AMM 
+ 
+Conséquences longueur incorrecte : 
+-Trop courte :  
+o Course réduite des surfaces commandées 
+o Risque de non-atteinte positions extrêmes (plein débattement) 
+o Précharge excessive du système 
+ 
+-Trop longue :  
+o Course excessive possible (dépassement butées) 
+o Mou dans la commande 
+o Risque d'interférence structure 
+ 
+Cas d'apparition typiques : 
+-Erreur de réglage maintenance : embouts mal ajustés lors remplacement 
+-Embout desserré : dévissage modifiant longueur 
+-Remplacement incorrect : biellette de longueur inadaptée installée (erreur P/N) 
+-Déformation plastique : allongement permanent de tige par traction excessive (rare) 
+-Usure extrême embouts : jeu créant "allongement fonctionnel" 
+ 
+ 
+ 
+    DEFAUT MAJEUR à   CRITIQUE selon écart et application 
+-Commandes de vol primaires : tout écart > tolérance AMM = 🔴 CRITIQUE 
+-Autres systèmes : écart modéré parfois tolérable selon AMM 
+-Écart > ±5mm (ordre de grandeur) : généralement inacceptable 
+ 
+Il faudra mesurer systématiquement la longueur hors-tout de la biellette à chaque inspection, 
+après remplacement ou en cas de course anormale.  
+Il faudra comparer à la valeur nominale de l’AMM, et en cas d’écart : 
+- Hors tolérance ajuster si autorisé avec contrôle complet de la géométrie,  
+- Vérifier le P/N et remplacer la biellette si non réglable ou déformée. 
+ 
+  
+
+===== PAGE 77 =====
+Module 7.12 V06   Page 77 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• GRIPPAGE / FRICTION EXCESSIVE  
+Les embouts articulés sont grippés, la rotation est difficile ou impossible, l’effort est anormal 
+ 
+Test manuel liberté de mouvement : 
+- Déconnecter la biellette d'un côté 
+- Tester la rotation manuelle de l’embout 
+- L’effort doit être faible, fluide, sans point dur 
+ 
+Normal : Rotation fluide ↻ effort léger 
+Grippé : Rotation difficile/impossible, échauffement 
+ 
+Cas d'apparition typiques : 
+-Lubrification insuffisante  
+-Corrosion : oxydation bloquant mouvement 
+-Contamination : sable, débris dans rotule 
+-Déformation : embout ou axe courbé créant coincement 
+-Surchauffe : dilatation bloquante 
+-Montage incorrect : serrage excessif écrasant rotule 
+ 
+ 
+ 
+  DEFAUT CRITIQUE 
+Il y a perte de la fonction du système de transmission et risque de rupture par effort 
+excessif. 
+Il faudra immobiliser l’aéronef, identifier l’origine du défaut et changer les éléments grippés selon 
+l’AMM. Un contrôle de géométrie et de bon fonctionnement sera aussi obligatoire. 
+  
+
+===== PAGE 78 =====
+Module 7.12 V06   Page 78 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• USURE / ENDOMMAGEMENT DES EMBOUTS PROTECTEURS 
+Les caoutchoucs/silicones protégeant les embouts sont déchirés, absents, ou durcis. 
+ 
+Fonction des caoutchoucs : 
+-Protection contre infiltration eau, poussières, débris 
+-Rétention lubrification à l'intérieur 
+-Protection contre corrosion 
+ 
+Cas d'apparition typiques : 
+-Vieillissement caoutchouc : durcissement, fissuration (UV, ozone, cycles thermiques) 
+-Déchirure mécanique : frottement, accrochage lors de la maintenance  
+-Perte/oubli : embouts non reposés après maintenance 
+ 
+ 
+ 
+    DEFAUT MINEUR à   MAJEUR selon exposition 
+Si environnement protégé : dégradation lente acceptable temporairement 
+Si environnement exposé (train atterrissage, extérieur) : ⚠️ Remplacement 
+recommandé 
+Il faudra selon l’AMM, remplacer l’embout endommagé et déterminer l’origine du défaut. 
+Il vaudra mieux anticiper un remplacement plutôt que d’attendre avec le risque 
+d’endommagements annexes. (Vibrations, fatigue, jeux etc .) 
+ 
+  
+
+===== PAGE 79 =====
+Module 7.12 V06   Page 79 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+• RAYURES / CHOCS SUR TIGE 
+Trace de rayures, éraflures, impacts sur surface de la tige 
+ 
+ 
+ 
+    DEFAUT MINEUR à   CRITIQUE selon la profondeur et la localisation 
+-Rayures superficielles (<0,2mm) et zone non critique : Polissage possible 
+-Rayures profondes (>0,4mm) ou zone critique : CND, évaluation et remplacement au 
+besoin. 
+ 
+Il faudra mesurer les défauts et se référer à l’AMM pour connaître les critères d’acceptabilité. 
+En règle générale, une biellette critique (commandes de vols, trains etc.) ne tolèrera aucun 
+défaut. 
+  
+
+===== PAGE 80 =====
+Module 7.12 V06   Page 80 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXES 
+ANNEXE 1 : TABLEAU GENERIQUE DES USURES DES ENGRENAGES ; 
+ 
+USURE CARACTERISATION DECISION MAINTENANCE 
+Grippage à chaud Arrachements profonds, 
+colorations thermiques   Remplacement obligatoire 
+Grippage à froid Arrachements superficiels sans 
+coloration     Selon étendue / AMM 
+Écaillage (spalling) Décollement de matière sous-
+surface   Remplacement obligatoire 
+Piqûres (pitting) Micro-cratères par fatigue de 
+contact 
+    Acceptable selon AMM, sinon 
+remplacement 
+Fissuration Fissures visibles sur dent ou 
+pied   Remplacement obligatoire 
+Criques Microfissures ouvertes ou 
+détectées NDT   Remplacement obligatoire 
+Tapures de trempe Fissures dues au traitement 
+thermique   Remplacement obligatoire 
+Rupture par fatigue Rupture progressive de dent   Remplacement obligatoire 
+Rupture fragile Rupture brutale sans 
+déformation   Remplacement obligatoire 
+Fluage Déformation permanente du 
+profil     Remplacement selon AMM  
+Refoulement Déplacement plastique de 
+matière     Selon sévérité, voir AMM 
+Abrasion Rayures, perte de matière 
+progressive 
+    Remplacement si perte excessive 
+selon AMM 
+Interférence Contact hors zone théorique     Remplacement si profil modifié selon 
+AMM  
+Brunissage Polissage superficiel brillant   Acceptable 
+Usure normale Polissage uniforme sans 
+arrachement   Acceptable 
+Faïençage Réseau de microfissures 
+superficielles 
+    Selon AMM : Surveillance / 
+remplacement si évolutif 
+Oxydation Oxydes superficiels sans 
+piqûres   Nettoyage / protection 
+Corrosion de 
+surface  Attaque superficielle     Selon AMM : Traitement / surveillance 
+Corrosion 
+profonde Piqûres marquées   Remplacement obligatoire 
+➔ Retour  
+  
+===== PAGE 81 =====
+Module 7.12 V06   Page 81 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 2 : TABLEAU GENERIQUE CRITERES ET MATERIAUX DES 
+COURROIES ; 
+ 
+Critères de sélection des courroies : 
+ 
+Critère V-Belt 
+trapézoïdale 
+Timing belt 
+trapézoïdale 
+HTD curvilinéaire Poly-V 
+Synchronisation 
+précise   Non    Excellente    Excellente     Moyenne 
+Capacité de 
+couple     Moyenne    Bonne      Excellente    Bonne 
+Résistance 
+glissement     Friction seule    Engrènement 
+positif 
+   Engrènement 
+positif     Friction 
+Niveau sonore    Faible     Modéré    Faible    Faible 
+Compacité     Moyenne    Bonne    Bonne      
+Excellente 
+Durée de vie     Moyenne 
+(3000-5000h) 
+   Bonne (5000-
+7000h) 
+     Excellente 
+(7000-10000h)    Bonne 
+Maintenance    Simple    Simple    Simple     Inspection 
+complexe 
+Coût      Faible    Moyen     Élevé    Moyen 
+ 
+ 
+Spécifications matériaux selon environnement : 
+ 
+Matériau courroie Température de 
+service 
+Résistance chimique Applications typiques 
+Néoprène 
+(Chloroprène) -40°C à +100°C Bonne résistance huiles 
+minérales, carburants 
+Alternateurs avions légers, 
+APU standard 
+HNBR (Nitrile 
+hydrogéné) -40°C à +150°C Excellente résistance 
+huiles, carburants, Skydrol 
+APU haute température, 
+moteurs turbines 
+Polyuréthane -30°C à +90°C Résistance modérée, 
+sensible aux esters 
+Timing belts précision, 
+faible puissance 
+EPDM -55°C à +130°C Excellente résistance 
+ozone, intempéries 
+Poly-V modernes, 
+environnements extrêmes 
+➔ Retour  
+ 
+  
+===== PAGE 82 =====
+Module 7.12 V06   Page 82 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 3 : TABLEAU GENERIQUE DES DEFAUTS DES COURROIES ; 
+ 
+DEFAUT CAS D'APPARITION 
+PRINCIPAL 
+CRITICITE ACTION 
+IMMEDIATE 
+DOC 
+Fissures 
+longitudinales <20% 
+Vieillissement, cycles 
+thermiques    Majeure Surveillance AMM + 
+SRM 
+Fissures 
+longitudinales >20% 
+Vieillissement avancé, 
+ozone   Critique Remplacement AMM 
+Fissures 
+transversales 
+Choc thermique, flexion 
+excessive   Critique 
+Remplacement 
++ correction 
+source 
+AMM 
+Usure flancs hors 
+limites 
+Tension faible, 
+désalignement   Critique Remplacement AMM + 
+IPC 
+Effilochage, 
+délaminage 
+Contamination fluides, 
+surchauffe   Critique Remplacement  AMM 
+Traces de glissement Tension insuffisante, 
+surcharge    Majeure Vérif. Tension, 
+Remplacement AMM 
+Craquelures 
+superficielles 
+Vieillissement calendaire, 
+ozone     Mineure Surveillance AMM 
+Déformation Désalignement, stockage 
+inadéquat   Critique Remplacement  AMM 
+Contamination Fuites huile, hydraulique, 
+carburant   Critique 
+Remplacement 
++ correction 
+source 
+AMM 
+➔ Retour  
+  
+===== PAGE 83 =====
+Module 7.12 V06   Page 83 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 4 : CHECK-LIST GENERIQUE CONTROLE POST-MONTAGE DE 
+COURROIES ; 
+   Contrôle immédiat post-montage (avant remise en service) 
+N° Actions Critères d'acceptation 
+1 Vérification propreté zone de 
+travail 
+Aucun outil, débris ou corps étranger dans le 
+compartiment ☐ 
+2 Contrôle visuel position courroie Courroie correctement engagée dans toutes les 
+gorges de poulies, aucun vrillage visible ☐ 
+3 Vérification sens de rotation 
+(courroies crantées uniquement) 
+Flèche de direction conforme au sens de rotation 
+effectif du système ☐ 
+4 Test de rotation manuelle 2-3 tours complets en rotation lente, aucun point 
+dur, aucun bruit anormal, rotation fluide ☐ 
+5 Contrôle absence d'interférences Aucun contact avec structure, câblage, 
+tuyauteries, autres composants ☐ 
+6 Vérification dégagement minimum Clearance ≥ spécification AMM (typiquement 5-
+10mm) avec éléments adjacents ☐ 
+7 
+Contrôle fixations équipements 
+Tous boulons/écrous serrés au couple spécifié 
+AMM, freinage effectif (écrous auto-freinés, 
+goupilles, frein filet) 
+☐ 
+8 
+Mesure tension courroie 
+Tension dans les limites AMM (déflexion, 
+fréquence sonore, ou dynamomètre selon 
+méthode applicable) 
+☐ 
+9 Contrôle alignement poulies (si 
+applicable/accessible) 
+Alignement visuel ou instrumental conforme 
+(tolérance typique ±0,2mm) ☐ 
+10 Vérification galet tendeur (si 
+équipé) 
+Galet en position médiane de sa course, rotation 
+libre sans jeu excessif ☐ 
+11 Repose capots/protections Tous capots, carters de protection, grillages de 
+sécurité reposés et fixés ☐ 
+12 Vérification absence d'outils 
+oubliés 
+FOD check complet du compartiment (Foreign 
+Object Debris) ☐ 
+ 
+         Documentation immédiate 
+N° Action  
+13 Complétion worksheet/fiche 
+d'intervention 
+P/N courroie, S/N si applicable, date installation, 
+mesure tension initiale 
+☐ 
+14 Mise à jour dossier technique 
+aéronef 
+Heures cellule/moteur au remplacement, raison du 
+changement (usure/durée vie/défaut) 
+☐ 
+15 Signature CRS (Certificate of 
+Release to Service) 
+Référence AMM task card, signature technicien 
+certifié B1/B2, N° licence 
+☐ 
+ 
+    Test fonctionnel (selon type d'installation) 
+N° Actions Critères d'acceptation 
+16 Ground run / Test au sol (si 
+applicable) 
+Fonctionnement normal du système entraîné, 
+absence vibration/bruit anormal, températures 
+normales 
+☐ 
+17 Contrôle charge électrique (si 
+alternateur/générateur) 
+Tension/ampérage générés conformes aux 
+spécifications, aucun défaut système électrique 
+☐ 
+18 Contrôle pression/débit (si pompe 
+hydraulique/pneumatique) 
+Paramètres hydrauliques/pneumatiques dans les 
+limites normales 
+☐ 
+19 Inspection visuelle post-test Aucune trace d'échauffement, fumée, odeur 
+anormale, déplacement de courroie 
+☐ 
+  
+===== PAGE 84 =====
+Module 7.12 V06   Page 84 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+       Contrôle après rodage (5-25h selon amm) 
+IMPORTANT : Les courroies neuves subissent un "tassement" initial nécessitant un contrôle de 
+tension après rodage. 
+N° Action Critère d'acceptation 
+20 Vérification intervalle de 
+rodage atteint 
+Intervalle conforme AMM (typiquement 5h pour 
+alternateur léger, 10-25h pour APU/compresseur) 
+☐ 
+21 Réinspection visuelle 
+complète 
+Absence fissures, effilochage, traces glissement, 
+déformation apparue depuis montage 
+☐ 
+22 Contrôle position courroie 
+dans gorges 
+Courroie toujours correctement positionnée, pas de 
+déplacement latéral 
+☐ 
+23 Remesure tension courroie Mesure selon même méthode qu'au montage initial ☐ 
+24 Comparaison tension 
+initiale/après rodage 
+Si perte de tension >10%, procéder au réajustement 
+selon AMM 
+☐ 
+25 Réajustement tension si 
+nécessaire 
+Ajustement selon procédure AMM, remesure pour 
+confirmation 
+☐ 
+26 Contrôle serrage fixations Vérification couple de serrage, aucun desserrage détecté ☐ 
+27 Inspection poulies et 
+roulements 
+Aucune trace d'usure anormale apparue, rotation libre, 
+pas de bruit roulement 
+☐ 
+28 Documentation contrôle 
+rodage 
+Enregistrement mesures, ajustements effectués, 
+signature mécanicien 
+☐ 
+29 Signature CRS post-rodage 
+(si requis AMM) 
+Release to service après contrôle rodage, référence 
+AMM 
+☐ 
+➔ Retour  
+ 
+  
+===== PAGE 85 =====
+Module 7.12 V06   Page 85 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 5 : TABLEAU GENERIQUE DES DEFAUTS DE POULIES ; 
+ 
+Défaut Cas d'apparition 
+principal 
+Criticité Action Référence 
+doc 
+Usure gorge hors 
+limites 
+Usure normale 
+prolongée, tension 
+excessive 
+  Critique Remplacement AMM + IPC 
+Rayures profondes 
+(>0,5mm) 
+Corps étranger, 
+courroie délaminée 
+  Critique Remplacement SRM + 
+AMM 
+Rayures 
+superficielles 
+(<0,3mm) 
+Contact occasionnel, 
+léger impact    Mineure Polissage si 
+autorisé SRM 
+SRM 
+Fissures (toutes) Fatigue, surcharge, 
+défaut matériau 
+  Critique Remplacement 
+immédiat 
+AMM 
+Voile >0,3mm Choc, arbre voilé, 
+roulement défectueux 
+  Critique Remplacement 
++ investigation 
+AMM 
+Voile 0,1-0,3mm Déformation légère, 
+usure roulement 
+    Majeure Surveillance, 
+investigation 
+AMM 
+Corrosion 
+profonde/étendue 
+Environnement marin, 
+stockage humide 
+  Critique Remplacement SRM 
+Corrosion 
+superficielle 
+localisée 
+Exposition 
+environnement, 
+protection dégradée 
+    Mineure Traitement 
+anticorrosion 
+SRM 
+Ovalisation alésage 
+hors limites 
+Usure asymétrique, 
+montage forcé 
+  Critique Remplacement IPC + AMM 
+Flasques 
+cassés/déformés 
+Choc, courroie sortie 
+gorge, survitesse 
+  Critique Remplacement 
+immédiat 
+AMM 
+État de surface 
+dégradé sévère 
+Glissement courroie, 
+contamination 
+profonde 
+    Majeure Remplacement SRM + 
+AMM 
+État de surface 
+dégradé léger 
+Contamination 
+superficielle, début 
+usure 
+   Mineure Nettoyage + 
+polissage 
+SRM 
+Désalignement >3° 
+ou >3mm 
+Montage incorrect, 
+déformation structure 
+  Critique Correction 
+alignement 
+obligatoire 
+AMM 
+Désalignement 1-3° 
+ou 1-3mm 
+Usure supports, 
+desserrage fixations 
+    Majeure Correction 
+recommandée 
+AMM 
+➔ Retour  
+  
+===== PAGE 86 =====
+Module 7.12 V06   Page 86 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 6 : TABLEAU GENERIQUE DES DEFAUTS DE CHAINES ; 
+ 
+Défaut Criticité Action Référence 
+doc 
+Allongement >2%   Critique Remplacement immédiat AMM 
+Allongement 1,5-2%     Majeure Remplacement planifié AMM 
+Maillons grippés (>2)   Critique Remplacement AMM 
+Rouleaux 
+fissurés/manquants   Critique Remplacement immédiat AMM 
+Axes sortis   Critique Remplacement immédiat AMM 
+Usure plaques >20%   Critique Remplacement IPC + AMM 
+Corrosion avec piqûres   Critique Remplacement AMM 
+Corrosion superficielle    Mineure Nettoyage + lubrification AMM 
+Lubrification insuffisante     Majeure Lubrification AMM 
+Maillon attache défectueux   Critique Remplacement maillon ou chaîne AMM 
+Déformation/vrillage   Critique Remplacement AMM 
+➔ Retour  
+  
+===== PAGE 87 =====
+Module 7.12 V06   Page 87 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 7 : TABLEAU GENERIQUE DES DEFAUTS DE ROUES DENTEES ; 
+ 
+Défaut Cas d'apparition 
+principal Criticité Action Référence 
+doc 
+Usure flancs >25% Usure normale 
+prolongée, lubrification 
+insuffisante 
+  Critique Remplacement AMM + IPC 
+Usure flancs 10-
+25% 
+Usure modérée, 
+chaîne allongée 
+    Majeure Surveillance 
+rapprochée + 
+planifier 
+remplacement 
+AMM 
+Dent 
+cassée/fissurée 
+Surcharge brutale, 
+fatigue, chaîne 
+défaillante 
+  Critique Remplacement 
+immédiat + 
+inspection chaîne 
+AMM 
+Pitting >40% 
+surface 
+Fatigue contact, 
+lubrification insuffisante 
+  Critique Remplacement AMM 
+Pitting 20-40% 
+surface 
+Fatigue contact 
+modérée 
+    Majeure Remplacement à 
+planifier 
+AMM 
+Pitting <20% 
+surface 
+Début fatigue contact     Mineure Surveillance 
+rapprochée + photos 
+suivi 
+AMM 
+Déformation dents Surcharge extrême, 
+blocage système 
+  Critique Remplacement + 
+investigation cause 
+AMM 
+Fissures radiales Fatigue, surcharge, 
+défaut matériau, 
+montage forcé 
+  Critique Remplacement 
+immédiat + CND si 
+doute 
+AMM 
+Corrosion 
+profonde (>0,5mm) 
+Environnement 
+marin/humide, 
+infiltration eau 
+  Critique Remplacement SRM 
+Corrosion 
+superficielle 
+(<0,3mm) 
+Exposition humidité, 
+protection insuffisante 
+    Mineure Traitement 
+anticorrosion + 
+surveillance 
+SRM 
+Voile radial 
+>0,30mm 
+Choc, arbre voilé, 
+roulement défectueux 
+  Critique Remplacement + 
+investigation 
+arbre/roulement 
+AMM 
+Voile radial 0,15-
+0,30mm 
+Déformation légère, 
+usure roulement 
+    Majeure Surveillance + 
+vérification arbre 
+AMM 
+Voile axial 
+>0,20mm 
+Montage incorrect, 
+déformation 
+  Critique Remplacement AMM 
+Ovalisation 
+alésage hors 
+limites 
+Usure asymétrique, 
+montage forcé 
+  Critique Remplacement IPC + AMM 
+Rainure clavette 
+usée/cassée 
+Usure normale, 
+surcharge, jeu excessif 
+  Critique Remplacement roue 
++ clavette 
+AMM + IPC 
+Traces surchauffe Lubrification 
+insuffisante, blocage, 
+incendie 
+  Critique Remplacement 
+immédiat roue + 
+chaîne + 
+investigation 
+AMM 
+➔ Retour  
+  
+===== PAGE 88 =====
+Module 7.12 V06   Page 88 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 8 : TABLEAU GENERIQUE DES DEFAUTS DES VERINS A VIS ; 
+ 
+Défaut Cas d'apparition 
+principal Criticité Action Référence 
+doc 
+Usure filets >30% Usure normale 
+prolongée, 
+lubrification 
+insuffisante 
+❌ 
+Critique 
+Remplacement vis + 
+roue 
+AMM + IPC 
+Usure filets 15-30% Usure modérée ⚠️ 
+Majeure 
+Surveillance 
+rapprochée + planifier 
+remplacement 
+AMM 
+Filet cassé/fissuré Surcharge brutale, 
+fatigue, corps 
+étranger 
+❌ 
+Critique 
+Remplacement 
+immédiat vis + roue 
+AMM 
+Pitting >30% surface Fatigue contact, 
+lubrification 
+insuffisante 
+❌ 
+Critique 
+Remplacement vis + 
+roue 
+AMM 
+Pitting 15-30% Fatigue contact 
+modérée 
+⚠️ 
+Majeure 
+Remplacement à 
+planifier 
+AMM 
+Pitting <15% Début fatigue 🔍 
+Mineure 
+Surveillance + 
+amélioration 
+lubrification 
+AMM 
+Rayures profondes 
+(>0,5mm) 
+Corps étranger, 
+grippage 
+❌ 
+Critique 
+Remplacement vis + 
+inspection roue 
+AMM 
+Rayures superficielles 
+(<0,2mm) 
+Contamination légère 🔍 
+Mineure 
+Polissage si autorisé 
+SRM 
+SRM 
+Jeu axial >+50% limite Usure roulements 
+butée, usure filets 
+❌ 
+Critique 
+Ajustement ou 
+remplacement 
+AMM 
+Jeu axial +20-50% 
+limite 
+Usure modérée ⚠️ 
+Majeure 
+Ajustement 
+recommandé + 
+surveillance 
+AMM 
+Backlash excessif 
+(commandes vol) 
+Usure vis + roue, 
+désalignement 
+❌ 
+Critique 
+Remplacement vis + 
+roue 
+AMM 
+Backlash excessif 
+(systèmes non 
+critiques) 
+Usure couplée ⚠️ 
+Majeure 
+Surveillance + 
+planifier 
+remplacement 
+AMM 
+Corrosion profonde 
+(>0,5mm) 
+Infiltration eau, 
+stockage humide 
+❌ 
+Critique 
+Remplacement vis + 
+roue 
+AMM 
+Corrosion superficielle Humidité, protection 
+insuffisante 
+🔍 
+Mineure 
+Traitement + 
+amélioration 
+protection 
+SRM 
+Traces surchauffe Lubrification 
+insuffisante, 
+surcharge 
+❌ 
+Critique 
+Remplacement vis + 
+roue + roulements 
+AMM 
+Déformation/voile Choc, surcharge, 
+montage forcé 
+❌ 
+Critique 
+Remplacement vis AMM 
+Usure roue >40% Usure couplée avec 
+vis 
+❌ 
+Critique 
+Remplacement vis + 
+roue (ensemble) 
+AMM + IPC 
+➔ Retour  
+ 
+  
+===== PAGE 89 =====
+Module 7.12 V06   Page 89 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 9 : TABLEAU GENERIQUE DES DEFAUTS DES DISPOSITIF A 
+LEVIER ; 
+Défaut Cas d'apparition 
+principal Criticité Action Référence 
+doc 
+Fissure (toute 
+localisation) 
+Fatigue, surcharge, 
+défaut matériau, 
+corrosion sous 
+contrainte 
+❌ 
+Critique 
+Remplacement 
+immédiat + CND si 
+suspicion 
+AMM 
+Déformation/vrillage Surcharge extrême, 
+choc, montage forcé 
+❌ 
+Critique 
+Remplacement 
+(aucun redressage) 
+AMM 
+Jeu articulation hors 
+limites (commandes 
+primaires) 
+Usure bagues/axes, 
+ovalisation, cycles 
+élevés 
+❌ 
+Critique 
+Remplacement 
+composants usés 
+AMM + 
+IPC 
+Jeu articulation hors 
+limites (commandes 
+secondaires) 
+Usure progressive     
+Majeure 
+Remplacement ou 
+surveillance selon 
+AMM 
+AMM 
+Ovalisation alésages 
+hors tolérances 
+Usure asymétrique, 
+absence bagues 
+protection 
+❌ 
+Critique 
+Remplacement 
+levier ou réalésage 
+si SRM autorise 
+AMM + 
+IPC 
+Corrosion profonde 
+(>0,5mm) zones critiques 
+Environnement 
+marin, protection 
+dégradée, rétention 
+humidité 
+❌ 
+Critique 
+Remplacement + 
+CND 
+AMM + 
+SRM 
+Corrosion superficielle 
+(<0,2mm) hors zones 
+critiques 
+Exposition humidité, 
+protection 
+insuffisante 
+🔍 
+Mineure 
+Traitement + 
+protection + CND 
+post-traitement 
+SRM 
+Axes usés hors 
+tolérances 
+Lubrification 
+insuffisante, cycles 
+élevés 
+❌ 
+Critique 
+Remplacement axe IPC + 
+AMM 
+Rayures axes 
+superficielles 
+Manipulation, 
+montage 
+🔍 
+Mineure 
+Polissage si autorisé SRM 
+Fixations desserrées / 
+goupilles manquantes 
+Vibrations, erreur 
+maintenance, écrous 
+usés 
+❌ 
+Critique 
+Re-serrage + 
+remplacement 
+écrous/goupilles 
+AMM 
+Grippage articulation Pb lubrification, 
+corrosion, 
+contamination, 
+déformation 
+❌ 
+Critique 
+Démontage, 
+nettoyage, 
+remplacement  
+AMM 
+Butées 
+usées/endommagées 
+(critiques) 
+Chocs répétés, 
+surcharge, usure 
+❌ 
+Critique 
+Remplacement AMM 
+Butées usées (non 
+critiques) 
+Usure normale 🔍 
+Mineure 
+Surveillance + 
+remplacement 
+préventif 
+AMM 
+Rayures profondes 
+(>0,5mm) zones critiques 
+Choc, FOD, 
+manipulation 
+❌ 
+Critique 
+CND puis 
+remplacement ou 
+évaluation ingénierie 
+AMM + 
+SRM 
+Rayures superficielles 
+(<0,3mm) hors zones 
+critiques 
+Manipulation 🔍 
+Mineure 
+Polissage si autorisé 
++ CND post-
+polissage 
+SRM 
+➔ Retour  
+  
+===== PAGE 90 =====
+Module 7.12 V06   Page 90 sur 90 
+ 
+ 
+   
+ AIR FORMATION CFM 66 © 2026 
+ANNEXE 10 : TABLEAU GENERIQUE DES DEFAUTS DES BIELLETTES A 
+DOUBLE EFFET ; 
+ 
+Défaut Cas d'apparition 
+principal Criticité Action Référence 
+doc 
+Fissure tige Fatigue, flambage 
+répété, surcharge, 
+défaut matériau 
+❌ Critique Remplacement 
+immédiat + CND 
+si suspicion 
+AMM 
+Déformation/courbure 
+tige 
+Flambage, choc, 
+montage forcé, 
+atterrissage dur 
+❌ Critique Remplacement 
+(aucun 
+redressage) 
+AMM 
+Jeu hors limites 
+(commande primaire) 
+Usure rotule/palier, 
+cycles élevés, 
+lubrification 
+insuffisante 
+❌ Critique Remplacement 
+embout ou 
+biellette 
+AMM + 
+IPC 
+Jeu hors limites 
+(commande secondaire) 
+Usure progressive     Majeure Remplacement 
+ou surveillance 
+selon AMM 
+AMM 
+Embout fileté desserré Vibrations, freinage 
+défaillant, erreur 
+maintenance 
+❌ Critique Re-serrage + 
+remplacement 
+contre-
+écrou/freinage + 
+vérif. longueur 
+AMM 
+Corrosion profonde 
+(>0,3mm) tige 
+Environnement 
+marin, protection 
+dégradée, rétention 
+humidité 
+❌ Critique Remplacement + 
+CND 
+AMM + 
+SRM 
+Corrosion superficielle 
+(<0,15mm) hors zones 
+critiques 
+Exposition humidité, 
+protection 
+insuffisante 
+    Mineure Traitement + 
+protection + CND 
+post-traitement 
+SRM 
+Longueur incorrecte 
+(commande primaire) 
+Erreur réglage, 
+embout desserré, 
+erreur P/N 
+❌ Critique Ajustement 
+immédiat à 
+valeur AMM 
+AMM 
+Longueur incorrecte 
+(autres systèmes) 
+Erreur réglage     Majeure Ajustement selon 
+tolérances AMM 
+AMM 
+Fissure embout Fatigue, surcharge, 
+corrosion sous 
+contrainte 
+❌ Critique Remplacement 
+embout + CND si 
+suspicion 
+AMM 
+Grippage embout Lubrification 
+insuffisante, 
+corrosion, 
+contamination, 
+déformation 
+❌ Critique Démontage, 
+nettoyage, 
+remplacement si 
+endommagé 
+AMM 
+Filetages endommagés Corrosion, montage 
+forcé, sur-serrage 
+❌ Critique Remplacement 
+embout ou 
+biellette 
+AMM + 
+IPC 
+Rayures profondes 
+(>0,4mm) tige 
+Choc, FOD, 
+manipulation 
+❌ Critique CND puis 
+remplacement ou 
+évaluation 
+AMM + 
+SRM 
+Rayures superficielles 
+(<0,2mm) 
+Manipulation 🔍 Mineure Polissage si 
+autorisé + CND 
+SRM 
+➔ Retour  
+ 

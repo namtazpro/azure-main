@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "question": "Selon le livret, le pliage à chaud s'effectue à une température moyenne de 300 °C ; quel est alors le rayon de pliage minimal admissible ?",
+      "options": {
+        "A": "0,5 fois l'épaisseur de la tôle",
+        "B": "1 fois l'épaisseur de la tôle",
+        "C": "1,5 fois l'épaisseur de la tôle"
+      },
+      "correct": "C",
+      "explication": "Le livret précise qu'à chaud, à une température moyenne de 300 °C, le rayon de pliage minimal est de l'ordre de 1 fois et demie l'épaisseur de la tôle.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour une tôle d'alliage 2024 plaqué T3 d'épaisseur comprise entre 1,6 et 3,2 mm pliée à froid, quel rayon minimum de pliage faut-il respecter ?",
+      "options": {
+        "A": "2,5e",
+        "B": "3e",
+        "C": "4e"
+      },
+      "correct": "B",
+      "explication": "Le tableau des alliages d'aluminium du livret donne, pour le 2024 ou 2024 plaqué à l'état T3 et une épaisseur de 1,6 à 3,2 mm, un rayon minimum de pliage de 3e.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Une tôle 7075 livrée à l'état F ou O reçoit une trempe fraîche, puis doit être formée à l'état W. Quelle contrainte temporelle s'applique au formage ?",
+      "options": {
+        "A": "Le formage doit être effectué dans les 2 heures suivant la trempe fraîche",
+        "B": "Le formage doit être effectué dans les 24 heures suivant la trempe fraîche",
+        "C": "Aucune contrainte temporelle n'est imposée"
+      },
+      "correct": "A",
+      "explication": "Le tableau des alliages d'aluminium indique pour le 7075 à l'état W que la tôle doit être « formée dans les 2 heures suivant la trempe fraîche ».",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Quel est le but principal de l'opération de soyage couramment pratiquée en tôlerie aéronautique ?",
+      "options": {
+        "A": "Préparer la surface de la tôle avant traitement thermique",
+        "B": "Augmenter localement l'épaisseur de la tôle pour renforcer une zone sollicitée",
+        "C": "Assurer la continuité aérodynamique au niveau de la jonction entre cadres et lisses"
+      },
+      "correct": "C",
+      "explication": "Le livret indique que le soyage est nécessaire afin d'assurer une continuité aérodynamique au niveau de la jonction entre cadres et lisses par exemple.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "La technique du pliage « en l'air », par opposition au pliage en frappe, se caractérise par :",
+      "options": {
+        "A": "Un matériau plié sans être totalement soutenu par une matrice",
+        "B": "Un matériau plié en fond de matrice sous forte pression",
+        "C": "Un pliage réalisé sans poinçon, uniquement à l'aide d'un serre-flan"
+      },
+      "correct": "A",
+      "explication": "Le livret définit le pliage « en l'air » comme une technique de formage où le matériau est plié sans être totalement soutenu par une matrice, ce qui offre une grande flexibilité d'angles sans changer d'outillage.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon la méthode d'adaptation donnée dans le livret, si le pliage en l'air d'un acier de résistance 40 DaN/mm² nécessite 10 tonnes, quelle force faut-il prévoir pour le même pliage sur un inox de résistance 60 DaN/mm² ?",
+      "options": {
+        "A": "6,7 tonnes",
+        "B": "10 tonnes",
+        "C": "15 tonnes"
+      },
+      "correct": "C",
+      "explication": "Le livret donne le calcul explicite : force pour inox = 10 × (60/40) = 15 tonnes, la force étant adaptée au matériau par le rapport des résistances.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Pour vérifier le rayon interne d'un pliage rectiligne réalisé à la plieuse manuelle, quel outil le livret recommande-t-il d'utiliser comme gabarit ?",
+      "options": {
+        "A": "Une jauge d'épaisseur",
+        "B": "Un foret (outil cylindrique)",
+        "C": "Une bille calibrée"
+      },
+      "correct": "B",
+      "explication": "Le livret précise que la vérification du rayon interne se fait en utilisant un outil de précision, comme un forêt (outil cylindrique), placé dans le rayon de pliage ; la bille est réservée aux pliages non rectilignes.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Un adhésif est qualifié de « structural » au sens du livret lorsqu'il est conçu pour résister, à température ambiante, à des contraintes supérieures à :",
+      "options": {
+        "A": "1 MPa",
+        "B": "7 MPa",
+        "C": "30 MPa"
+      },
+      "correct": "B",
+      "explication": "Les adhésifs structuraux sont définis comme conçus pour résister à des contraintes supérieures à 7 MPa à température ambiante, soit environ 70 kgf/cm².",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Parmi les contraintes que peut subir un assemblage collé, le clivage se caractérise par le fait qu'il :",
+      "options": {
+        "A": "Concerne les supports souples et s'exerce progressivement sur une petite partie du joint",
+        "B": "S'exerce parallèlement au plan de collage et sollicite tout l'assemblage",
+        "C": "Concerne les supports rigides et s'exerce en levier sur un bord du plan de collage"
+      },
+      "correct": "C",
+      "explication": "Le livret précise que le clivage concerne les supports rigides et s'exerce en levier sur un bord du plan de collage, ne sollicitant qu'une partie de l'assemblage ; le pelage concerne en revanche les supports souples.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Lors d'un essai de sonorité métallique (Tap Test) sur une structure en nid d'abeilles, quel son indique un délaminage entre l'âme et le revêtement ?",
+      "options": {
+        "A": "Un son métallique clair",
+        "B": "Un bruit sourd",
+        "C": "Un sifflement aigu"
+      },
+      "correct": "B",
+      "explication": "Le livret indique qu'un son métallique clair correspond à une structure pleine, alors qu'un bruit sourd traduit la présence de délaminage ; un marteau en aluminium de 28 grammes constitue un excellent outil pour cet essai.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    },
+    {
+      "question": "Selon les conditions d'environnement imposées pour le collage de matériaux composites, la présence d'humidité dans l'atmosphère :",
+      "options": {
+        "A": "Empêche une bonne adhérence des colles et résines sans en gêner la polymérisation",
+        "B": "Accélère la polymérisation tout en améliorant l'adhérence",
+        "C": "N'a aucune influence sur la qualité du collage à condition que la température soit supérieure à 20 °C"
+      },
+      "correct": "A",
+      "explication": "Le livret indique que la présence d'humidité peut empêcher une bonne adhérence des colles et résines sans en gêner la polymérisation, ce qui fait que le collage semble bon mais n'adhère pas aux pièces.",
+      "source": "M 7.14.pdf",
+      "chapter": "Module 7.14 - Mise en œuvre des matériaux - tôlerie et composite",
+      "date": "2026-06-21"
+    }
+  ]
+}
