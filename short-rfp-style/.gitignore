@@ -1,4 +1,12 @@
 # Private / obfuscation source-of-truth — never commit
 .private/
-Prison Framework.xlsx
-Prison_Cost_Model_Combined.xlsx
+
+# Excel workbooks — never commit
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.xltm
+~$*.xls*
