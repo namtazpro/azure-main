@@ -1,0 +1,447 @@
+/* Kier-inspired look & feel. Palette lifted from kier.co.uk:
+   navy #00263a, teal #007b86, red #da242a, section gray #f4f4f4. */
+:root {
+  --navy: #00263a;
+  --navy-2: #003d5c;
+  --teal: #007b86;
+  --teal-2: #006169;
+  --red: #da242a;
+  --red-2: #b31e23;
+  --ink: #3d4543;
+  --muted: #6c757d;
+  --bg: #ffffff;
+  --section: #f4f4f4;
+  --card: #ffffff;
+  --border: #dee2e6;
+  --border-strong: #c8cdd3;
+  --danger: #da242a;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 16px;
+  color: var(--ink);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Poppins', 'Segoe UI', sans-serif;
+  font-weight: 500;
+  color: var(--navy);
+  letter-spacing: -0.01em;
+}
+
+/* Layout */
+.page {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 24px 80px;
+}
+
+/* Header — dark navy band, mirrors Kier's site chrome */
+.topbar {
+  margin: 0 -24px 32px;
+  padding: 20px 40px;
+  background: var(--navy);
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 4px solid var(--teal);
+}
+.brand { display: flex; align-items: center; gap: 16px; }
+.brand-name {
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  color: #fff;
+}
+.brand-tag {
+  font-family: 'Poppins', sans-serif;
+  font-size: 11px;
+  color: #7fd0d9;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 2px;
+}
+.meta {
+  font-size: 13px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 1.6;
+}
+.meta strong { color: #fff; font-weight: 500; }
+.demo-only {
+  color: var(--red);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+/* Hero-style input card */
+.input-card {
+  background: var(--card);
+  padding: 40px 44px;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  border-left: 6px solid var(--teal);
+}
+.input-card h1 {
+  margin: 0 0 12px;
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--navy);
+}
+.lead {
+  margin: 0 0 28px;
+  color: var(--ink);
+  font-size: 17px;
+  line-height: 1.55;
+  max-width: 720px;
+}
+
+.input-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+.input-row .field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 200px;
+}
+.input-row .actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-left: auto;
+}
+.input-row label {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  color: var(--navy);
+  font-size: 15px;
+}
+.input-row input,
+.input-row select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 7px 10px;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  border: 1px solid var(--border-strong);
+  border-radius: 4px;
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  color: var(--navy);
+  background: #fff;
+}
+.input-row select {
+  cursor: pointer;
+}
+.input-row input:focus,
+.input-row select:focus {
+  border-color: var(--teal);
+  box-shadow: 0 0 0 3px rgba(0, 123, 134, 0.2);
+}
+
+/* Buttons — Kier uses solid red primary CTAs */
+button {
+  padding: 12px 26px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+button.primary {
+  background: var(--red);
+  color: #fff;
+  border-color: var(--red);
+}
+button.primary:hover { background: var(--red-2); border-color: var(--red-2); }
+button.secondary {
+  background: transparent;
+  color: var(--navy);
+  border-color: var(--navy);
+}
+button.secondary:hover { background: var(--navy); color: #fff; }
+
+.error {
+  margin-top: 16px;
+  padding: 12px 16px;
+  background: #fdecea;
+  color: var(--danger);
+  border-left: 4px solid var(--danger);
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+/* KPI strip — flat cells with teal underline on the highlight */
+.kpis {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+}
+.kpi {
+  background: var(--card);
+  padding: 22px 20px;
+}
+.kpi-highlight {
+  background: var(--navy);
+  color: #fff;
+  position: relative;
+}
+.kpi-highlight::after {
+  content: '';
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 4px;
+  background: var(--teal);
+}
+.kpi-label {
+  font-family: 'Poppins', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--muted);
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+.kpi-highlight .kpi-label { color: #7fd0d9; }
+.kpi-value {
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--navy);
+  line-height: 1.2;
+}
+.kpi-highlight .kpi-value { color: #fff; font-size: 24px; }
+
+/* Tables */
+.tables {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  gap: 32px;
+}
+.table-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  padding: 24px 28px;
+}
+.table-card h2 {
+  margin: 0 0 18px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--navy);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid var(--teal);
+}
+.table-card .table-note {
+  margin: -6px 0 16px;
+  font-size: 12.5px;
+  color: #555;
+  line-height: 1.5;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+th, td {
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+thead th {
+  font-family: 'Poppins', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--muted);
+  font-weight: 500;
+  background: var(--section);
+  border-bottom: 1px solid var(--border-strong);
+}
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+tbody tr:hover { background: #fafbfc; }
+tfoot th {
+  padding-top: 14px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--navy);
+  background: var(--section);
+  border-top: 2px solid var(--teal);
+  border-bottom: none;
+}
+
+/* Site visualisation panel */
+.site-visual {
+  margin-top: 40px;
+  background: var(--section);
+  padding: 32px 36px;
+  border-left: 6px solid var(--teal);
+}
+.site-visual h2 {
+  margin: 0 0 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--navy);
+}
+.site-visual img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  border: 1px solid var(--border);
+}
+.visual-note {
+  margin: 16px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+  font-style: italic;
+  text-align: center;
+}
+
+/* Footer — dark navy band, matches Kier site chrome */
+.footnote {
+  margin: 48px -24px 0;
+  padding: 24px 40px;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.75);
+  background: var(--navy);
+  text-align: center;
+  border-top: 4px solid var(--teal);
+}
+
+/* Responsive */
+@media (max-width: 1000px) {
+  .kpis { grid-template-columns: repeat(3, 1fr); }
+  .tables { grid-template-columns: 1fr; }
+}
+@media (max-width: 640px) {
+  .page { padding: 0 16px 60px; }
+  .topbar { margin: 0 -16px 24px; padding: 16px 20px; flex-direction: column; align-items: flex-start; gap: 14px; }
+  .meta { text-align: left; }
+  .input-card { padding: 28px 24px; }
+  .input-card h1 { font-size: 26px; }
+  .kpis { grid-template-columns: repeat(2, 1fr); }
+  .site-visual { padding: 24px; }
+  .footnote { margin: 40px -16px 0; padding: 20px; }
+}
+
+/* Print */
+@media print {
+  body { background: #fff; }
+  .topbar { margin: 0 0 16pt; padding: 12pt; }
+  .input-card button, .footnote { display: none; }
+  .kpi-highlight { background: #00263a !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .topbar { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+
+/* Passcode gate */
+.gate {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    linear-gradient(135deg, rgba(0,38,58,0.92), rgba(0,123,134,0.92)),
+    var(--navy);
+  padding: 24px;
+}
+.gate-card {
+  background: #fff;
+  border-left: 6px solid var(--teal);
+  padding: 40px 44px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+  text-align: left;
+}
+.gate-card svg { display: block; margin: 0 0 12px; }
+
+/* Kier logo wrapper */
+.kier-mark img {
+  display: block;
+  height: 44px;
+  width: auto;
+}
+.kier-mark--dark {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 8px;
+  background: #ffffff;
+  border-radius: 2px;
+}
+.kier-mark--light {
+  display: inline-block;
+  margin-bottom: 12px;
+}
+.kier-mark--light img {
+  height: 40px;
+}
+.gate-card h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--navy);
+  margin: 0;
+}
+.gate-tag {
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin: 4px 0 20px;
+}
+.gate-lead {
+  font-size: 14px;
+  color: var(--muted);
+  margin: 0 0 20px;
+}
+.gate-card input {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 16px;
+  border: 1px solid var(--border-strong);
+  border-radius: 2px;
+  margin-bottom: 16px;
+  font-family: inherit;
+}
+.gate-card input:focus {
+  outline: none;
+  border-color: var(--teal);
+  box-shadow: 0 0 0 3px rgba(0,123,134,0.15);
+}
+.gate-card button.primary {
+  width: 100%;
+}
+.gate-card .error {
+  margin-top: 16px;
+}

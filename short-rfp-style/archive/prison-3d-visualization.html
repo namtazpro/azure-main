@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kier Prison Concept - 3D Visualization</title>
+  <script>
+    (() => {
+      const param = new URLSearchParams(window.location.search).get("scoutTheme");
+      const theme =
+        param || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", theme);
+    })();
+  </script>
+  <style>
+    :root {
+      color-scheme: light;
+      --cp-bg: #f7f4ef;
+      --cp-bg-elevated: #fcfbf8;
+      --cp-surface: #ffffff;
+      --cp-surface-soft: #f5f5f5;
+      --cp-border: #dedede;
+      --cp-border-strong: #919191;
+      --cp-text: #242424;
+      --cp-text-muted: #5c5c5c;
+      --cp-text-soft: #6f6f6f;
+      --cp-accent: #b11f4b;
+      --cp-accent-hover: #9a1a41;
+      --cp-accent-soft: rgba(177, 31, 75, 0.08);
+      --cp-accent-fg: #ffffff;
+      --cp-success: #16a34a;
+      --cp-danger: #dc2626;
+      --cp-warning: #f59e0b;
+      --cp-link: #0078d4;
+      --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.12);
+      --cp-overlay: rgba(255, 255, 255, 0.8);
+      --cp-panel: rgba(255, 255, 255, 0.86);
+      --cp-panel-strong: rgba(255, 255, 255, 0.96);
+      --cp-sheen: rgba(255, 255, 255, 0.55);
+      --cp-highlight: rgba(177, 31, 75, 0.12);
+    }
+    html[data-theme="dark"] {
+      color-scheme: dark;
+      --cp-bg: #3d3b3a;
+      --cp-bg-elevated: #343231;
+      --cp-surface: #292929;
+      --cp-surface-soft: #2e2e2e;
+      --cp-border: #474747;
+      --cp-border-strong: #5f5f5f;
+      --cp-text: #dedede;
+      --cp-text-muted: #919191;
+      --cp-text-soft: #b0b0b0;
+      --cp-accent: #fd8ea1;
+      --cp-accent-hover: #fb7b91;
+      --cp-accent-soft: rgba(253, 142, 161, 0.14);
+      --cp-accent-fg: #1a1a1a;
+      --cp-success: #4ade80;
+      --cp-danger: #f87171;
+      --cp-warning: #fbbf24;
+      --cp-link: #4da6ff;
+      --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+      --cp-overlay: rgba(41, 41, 41, 0.88);
+      --cp-panel: rgba(41, 41, 41, 0.72);
+      --cp-panel-strong: rgba(41, 41, 41, 0.96);
+      --cp-sheen: rgba(255, 255, 255, 0.04);
+      --cp-highlight: rgba(253, 142, 161, 0.12);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      background: var(--cp-bg);
+      color: var(--cp-text);
+      font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    #container {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    canvas {
+      display: block;
+      width: 100%;
+      height: calc(100% - 80px);
+    }
+
+    .info-panel {
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      background: var(--cp-panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--cp-border);
+      border-radius: 10px;
+      padding: 16px;
+      max-width: 320px;
+      box-shadow: 0 0 2px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.14);
+      z-index: 10;
+    }
+
+    .info-panel h3 {
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 12px;
+      color: var(--cp-text);
+    }
+
+    .info-panel p {
+      font-size: 13px;
+      line-height: 1.5;
+      color: var(--cp-text-soft);
+      margin-bottom: 8px;
+    }
+
+    .info-panel ul {
+      list-style: none;
+      font-size: 12px;
+      color: var(--cp-text-muted);
+    }
+
+    .info-panel li {
+      margin-bottom: 4px;
+      padding-left: 12px;
+      position: relative;
+    }
+
+    .info-panel li:before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: var(--cp-accent);
+    }
+
+    .controls-panel {
+      position: absolute;
+      bottom: 16px;
+      right: 16px;
+      background: var(--cp-panel-strong);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--cp-border);
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-size: 12px;
+      color: var(--cp-text-muted);
+      box-shadow: 0 0 2px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.14);
+      z-index: 10;
+    }
+
+    .legend {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: var(--cp-panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--cp-border);
+      border-radius: 10px;
+      padding: 12px;
+      font-size: 11px;
+      color: var(--cp-text-soft);
+      max-width: 160px;
+      box-shadow: 0 0 2px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.14);
+      z-index: 10;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 6px;
+    }
+
+    .legend-color {
+      width: 12px;
+      height: 12px;
+      border-radius: 2px;
+    }
+
+    .footer-bar {
+      background: var(--cp-surface-soft);
+      border-top: 1px solid var(--cp-border);
+      padding: 12px 16px;
+      font-size: 12px;
+      color: var(--cp-text-muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-bar span {
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <canvas id="canvas"></canvas>
+
+    <div class="info-panel">
+      <h3>Kier Prison Concept</h3>
+      <p><strong>2,000 inmate capacity</strong></p>
+      <ul>
+        <li>4 Houseblocks (A-D)</li>
+        <li>Admin & Control Hub</li>
+        <li>Healthcare Centre</li>
+        <li>Education & Workshops</li>
+        <li>Visits Centre</li>
+        <li>Segregation Unit</li>
+        <li>Utilities & Plant</li>
+      </ul>
+    </div>
+
+    <div class="legend">
+      <div class="legend-item">
+        <div class="legend-color" style="background: #4ba3e3;"></div>
+        <span>Houseblocks</span>
+      </div>
+      <div class="legend-item">
+        <div class="legend-color" style="background: #70ad47;"></div>
+        <span>Support Services</span>
+      </div>
+      <div class="legend-item">
+        <div class="legend-color" style="background: #c55a11;"></div>
+        <span>Healthcare</span>
+      </div>
+      <div class="legend-item">
+        <div class="legend-color" style="background: #997300;"></div>
+        <span>Utilities</span>
+      </div>
+      <div class="legend-item">
+        <div class="legend-color" style="background: #a64d79;"></div>
+        <span>Segregation</span>
+      </div>
+    </div>
+
+    <div class="controls-panel">
+      🖱️ Drag to rotate | Scroll to zoom<br />
+      Double-click to reset view
+    </div>
+
+    <div class="footer-bar">
+      <span>Kier Group - HM Prison Concept Design (Indicative)</span>
+      <span id="fps">FPS: --</span>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script>
+    // Three.js Scene Setup
+    const canvas = document.getElementById("canvas");
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, canvas.clientWidth / canvas.clientHeight, 0.1, 10000);
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
+
+    // Get computed background color from CSS variable
+    const computedStyle = getComputedStyle(document.documentElement);
+    const bgColor = computedStyle.getPropertyValue("--cp-bg").trim();
+    const bgRgb = bgColor.match(/\d+/g) || [247, 244, 239];
+    renderer.setClearColor(`rgb(${bgRgb[0]}, ${bgRgb[1]}, ${bgRgb[2]})`, 1);
+    renderer.setPixelRatio(window.devicePixelRatio);
+
+    // Resize handler
+    window.addEventListener("resize", () => {
+      const w = canvas.clientWidth;
+      const h = canvas.clientHeight;
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+      renderer.setSize(w, h);
+    });
+
+    // Set initial size
+    renderer.setSize(canvas.clientWidth, canvas.clientHeight);
+
+    // Camera positioning - 45 degree angle
+    camera.position.set(80, 60, 80);
+    camera.lookAt(0, 0, 0);
+
+    // Lighting
+    const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
+    scene.add(ambientLight);
+
+    const sunLight = new THREE.DirectionalLight(0xffffff, 0.8);
+    sunLight.position.set(100, 80, 50);
+    sunLight.castShadow = true;
+    sunLight.shadow.mapSize.width = 2048;
+    sunLight.shadow.mapSize.height = 2048;
+    sunLight.shadow.camera.left = -150;
+    sunLight.shadow.camera.right = 150;
+    sunLight.shadow.camera.top = 150;
+    sunLight.shadow.camera.bottom = -150;
+    scene.add(sunLight);
+
+    const fillLight = new THREE.DirectionalLight(0x87ceeb, 0.3);
+    fillLight.position.set(-80, 40, -100);
+    scene.add(fillLight);
+
+    renderer.shadowMap.enabled = true;
+
+    // Ground plane
+    const groundGeometry = new THREE.PlaneGeometry(300, 300);
+    const groundMaterial = new THREE.MeshLambertMaterial({ color: 0x8b9d6f });
+    const ground = new THREE.Mesh(groundGeometry, groundMaterial);
+    ground.rotation.x = -Math.PI / 2;
+    ground.receiveShadow = true;
+    scene.add(ground);
+
+    // Utility function to create realistic building with windows and roof
+    function createBuilding(x, z, width, depth, height, color, name) {
+      const group = new THREE.Group();
+      group.position.set(x, 0, z);
+
+      // Main building walls
+      const wallGeometry = new THREE.BoxGeometry(width, height, depth);
+      const wallMaterial = new THREE.MeshStandardMaterial({
+        color,
+        roughness: 0.6,
+        metalness: 0.05,
+      });
+      const walls = new THREE.Mesh(wallGeometry, wallMaterial);
+      walls.position.y = height / 2;
+      walls.castShadow = true;
+      walls.receiveShadow = true;
+      group.add(walls);
+
+      // Add windows - front face
+      const windowSize = Math.min(width / 4, 3);
+      const windowHeight = Math.min(height / 5, 2.5);
+      const windowsPerRow = Math.floor(width / 4);
+      const windowRows = Math.floor((height * 0.7) / 4);
+
+      const windowGeometry = new THREE.PlaneGeometry(windowSize, windowHeight);
+      const windowMaterial = new THREE.MeshStandardMaterial({
+        color: 0x4a90e2,
+        roughness: 0.1,
+        metalness: 0.6,
+        emissive: 0x1a3a5c,
+        emissiveIntensity: 0.3,
+      });
+
+      for (let row = 0; row < windowRows; row++) {
+        for (let col = 0; col < windowsPerRow; col++) {
+          const window = new THREE.Mesh(windowGeometry, windowMaterial);
+          window.position.set(
+            -width / 2 + windowSize * 1.5 + col * 4,
+            height * 0.15 + row * 4,
+            depth / 2 + 0.05
+          );
+          group.add(window);
+        }
+      }
+
+      // Side windows
+      const sideWindowsPerRow = Math.floor(depth / 5);
+      for (let row = 0; row < Math.floor(height * 0.6 / 4); row++) {
+        for (let col = 0; col < sideWindowsPerRow; col++) {
+          const sideWindow = new THREE.Mesh(windowGeometry, windowMaterial);
+          sideWindow.rotation.y = Math.PI / 2;
+          sideWindow.position.set(
+            width / 2 + 0.05,
+            height * 0.2 + row * 4,
+            -depth / 2 + depth / sideWindowsPerRow * col + 2
+          );
+          group.add(sideWindow);
+        }
+      }
+
+      // Flat roof with parapet
+      const roofGeometry = new THREE.BoxGeometry(width + 1, 0.4, depth + 1);
+      const roofMaterial = new THREE.MeshStandardMaterial({
+        color: 0x3a3a3a,
+        roughness: 0.8,
+        metalness: 0.1,
+      });
+      const roof = new THREE.Mesh(roofGeometry, roofMaterial);
+      roof.position.y = height + 0.2;
+      roof.castShadow = true;
+      roof.receiveShadow = true;
+      group.add(roof);
+
+      // Parapet walls (low walls around roof edge)
+      const parapetHeight = 0.8;
+      const parapetMaterial = new THREE.MeshStandardMaterial({
+        color: 0x4a4a4a,
+        roughness: 0.7,
+      });
+
+      // Front parapet
+      const frontParapet = new THREE.Mesh(
+        new THREE.BoxGeometry(width + 1, parapetHeight, 0.3),
+        parapetMaterial
+      );
+      frontParapet.position.set(0, height + 0.6, depth / 2 + 0.5);
+      frontParapet.castShadow = true;
+      group.add(frontParapet);
+
+      // Back parapet
+      const backParapet = new THREE.Mesh(
+        new THREE.BoxGeometry(width + 1, parapetHeight, 0.3),
+        parapetMaterial
+      );
+      backParapet.position.set(0, height + 0.6, -depth / 2 - 0.5);
+      backParapet.castShadow = true;
+      group.add(backParapet);
+
+      // Door opening on front
+      const doorWidth = 2;
+      const doorHeight = 3;
+      const doorFrameGeometry = new THREE.BoxGeometry(doorWidth, doorHeight, 0.2);
+      const doorFrameMaterial = new THREE.MeshStandardMaterial({
+        color: 0x2a2a2a,
+        roughness: 0.8,
+      });
+      const doorFrame = new THREE.Mesh(doorFrameGeometry, doorFrameMaterial);
+      doorFrame.position.set(width / 3, doorHeight / 2, depth / 2 + 0.05);
+      group.add(doorFrame);
+
+      // Door handles/details
+      const handleGeometry = new THREE.CylinderGeometry(0.1, 0.1, 0.05, 8);
+      const metalMaterial = new THREE.MeshStandardMaterial({
+        color: 0xd4af37,
+        roughness: 0.3,
+        metalness: 0.8,
+      });
+      const handle = new THREE.Mesh(handleGeometry, metalMaterial);
+      handle.rotation.z = Math.PI / 2;
+      handle.position.set(width / 3 + doorWidth / 2 - 0.3, doorHeight / 2, depth / 2 + 0.15);
+      group.add(handle);
+
+      // Air vents on roof
+      const ventCount = Math.floor(width / 8);
+      for (let i = 0; i < ventCount; i++) {
+        const ventGeometry = new THREE.BoxGeometry(1.2, 1.2, 0.6);
+        const ventMaterial = new THREE.MeshStandardMaterial({
+          color: 0x555555,
+          roughness: 0.9,
+        });
+        const vent = new THREE.Mesh(ventGeometry, ventMaterial);
+        vent.position.set(-width / 2 + 4 + i * 8, height + 1, 0);
+        vent.castShadow = true;
+        group.add(vent);
+      }
+
+      scene.add(group);
+      return group;
+    }
+
+    // Houseblocks (4 main blocks) - Blue
+    createBuilding(-40, -40, 20, 35, 20, 0x4ba3e3, "Houseblock A");
+    createBuilding(0, -40, 20, 35, 20, 0x4ba3e3, "Houseblock B");
+    createBuilding(-40, 0, 20, 35, 20, 0x4ba3e3, "Houseblock C");
+    createBuilding(0, 0, 20, 35, 20, 0x4ba3e3, "Houseblock D");
+
+    // Admin & Control - Purple
+    createBuilding(50, -20, 25, 20, 16, 0x5c4d7d, "Admin & Control");
+
+    // Healthcare - Orange
+    createBuilding(50, 10, 20, 18, 14, 0xc55a11, "Healthcare Centre");
+
+    // Education & Workshops - Green
+    createBuilding(-20, 60, 25, 30, 15, 0x70ad47, "Education & Workshops");
+
+    // Visits Centre - Teal
+    createBuilding(20, 60, 20, 25, 12, 0x20a39e, "Visits Centre");
+
+    // Segregation - Rose
+    createBuilding(70, 50, 15, 15, 12, 0xa64d79, "Segregation Unit");
+
+    // Utilities Plant - Brown
+    createBuilding(-60, 40, 18, 20, 10, 0x997300, "Utilities Plant");
+
+    // Kitchen - Gray
+    createBuilding(-60, -10, 18, 15, 11, 0x8b8b8b, "Kitchen/Laundry");
+
+    // Gatehouse - Blue accent
+    createBuilding(-80, -60, 12, 10, 8, 0x0078d4, "Gatehouse");
+
+    // Secure perimeter fence
+    const fenceGeometry = new THREE.BoxGeometry(200, 8, 1);
+    const fenceMaterial = new THREE.MeshStandardMaterial({
+      color: 0x555555,
+      roughness: 0.8,
+    });
+
+    const fenceTop = new THREE.Mesh(fenceGeometry, fenceMaterial);
+    fenceTop.position.set(0, 4, -75);
+    fenceTop.castShadow = true;
+    scene.add(fenceTop);
+
+    const fenceBottom = new THREE.Mesh(fenceGeometry, fenceMaterial);
+    fenceBottom.position.set(0, 4, 75);
+    fenceBottom.castShadow = true;
+    scene.add(fenceBottom);
+
+    const fenceSideGeometry = new THREE.BoxGeometry(1, 8, 150);
+    const fenceLeft = new THREE.Mesh(fenceSideGeometry, fenceMaterial);
+    fenceLeft.position.set(-75, 4, 0);
+    fenceLeft.castShadow = true;
+    scene.add(fenceLeft);
+
+    const fenceRight = new THREE.Mesh(fenceSideGeometry, fenceMaterial);
+    fenceRight.position.set(75, 4, 0);
+    fenceRight.castShadow = true;
+    scene.add(fenceRight);
+
+    // Exercise yard (circular lawn area)
+    const yardGeometry = new THREE.CylinderGeometry(35, 35, 0.5, 32);
+    const yardMaterial = new THREE.MeshLambertMaterial({ color: 0x7cb342 });
+    const yard = new THREE.Mesh(yardGeometry, yardMaterial);
+    yard.position.set(-40, 0.25, 45);
+    yard.receiveShadow = true;
+    scene.add(yard);
+
+    // Add some trees for landscape
+    function addTree(x, z) {
+      const trunkGeometry = new THREE.CylinderGeometry(2, 2.5, 12, 8);
+      const trunkMaterial = new THREE.MeshStandardMaterial({
+        color: 0x6b4423,
+        roughness: 0.8,
+      });
+      const trunk = new THREE.Mesh(trunkGeometry, trunkMaterial);
+      trunk.position.set(x, 6, z);
+      trunk.castShadow = true;
+      scene.add(trunk);
+
+      const foliageGeometry = new THREE.SphereGeometry(12, 8, 8);
+      const foliageMaterial = new THREE.MeshLambertMaterial({ color: 0x2d5016 });
+      const foliage = new THREE.Mesh(foliageGeometry, foliageMaterial);
+      foliage.position.set(x, 18, z);
+      foliage.castShadow = true;
+      scene.add(foliage);
+    }
+
+    // Add scattered trees around perimeter
+    addTree(-100, -80);
+    addTree(-100, 0);
+    addTree(-100, 80);
+    addTree(100, -80);
+    addTree(100, 0);
+    addTree(100, 80);
+    addTree(-40, -100);
+    addTree(40, 100);
+
+    // Mouse controls
+    let isDragging = false;
+    let previousMousePosition = { x: 0, y: 0 };
+
+    canvas.addEventListener("mousedown", (e) => {
+      isDragging = true;
+      previousMousePosition = { x: e.clientX, y: e.clientY };
+    });
+
+    canvas.addEventListener("mousemove", (e) => {
+      if (isDragging) {
+        const deltaX = e.clientX - previousMousePosition.x;
+        const deltaY = e.clientY - previousMousePosition.y;
+
+        const radius = Math.sqrt(
+          camera.position.x ** 2 + camera.position.y ** 2 + camera.position.z ** 2
+        );
+        let theta = Math.atan2(camera.position.z, camera.position.x);
+        let phi = Math.acos(camera.position.y / radius);
+
+        theta -= deltaX * 0.005;
+        phi += deltaY * 0.005;
+
+        phi = Math.max(0.1, Math.min(Math.PI - 0.1, phi));
+
+        camera.position.x = radius * Math.sin(phi) * Math.cos(theta);
+        camera.position.y = radius * Math.cos(phi);
+        camera.position.z = radius * Math.sin(phi) * Math.sin(theta);
+
+        camera.lookAt(0, 0, 0);
+        previousMousePosition = { x: e.clientX, y: e.clientY };
+      }
+    });
+
+    canvas.addEventListener("mouseup", () => {
+      isDragging = false;
+    });
+
+    canvas.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      const direction = new THREE.Vector3();
+      camera.getWorldDirection(direction);
+      const currentDistance = camera.position.length();
+      const newDistance = currentDistance + (e.deltaY > 0 ? 5 : -5);
+      const clampedDistance = Math.max(50, Math.min(200, newDistance));
+      const factor = clampedDistance / currentDistance;
+
+      camera.position.multiplyScalar(factor);
+      camera.lookAt(0, 0, 0);
+    });
+
+    canvas.addEventListener("dblclick", () => {
+      camera.position.set(80, 60, 80);
+      camera.lookAt(0, 0, 0);
+    });
+
+    // FPS Counter
+    let frameCount = 0;
+    let lastTime = Date.now();
+    const fpsDisplay = document.getElementById("fps");
+
+    // Animation loop
+    function animate() {
+      requestAnimationFrame(animate);
+
+      frameCount++;
+      const currentTime = Date.now();
+      if (currentTime >= lastTime + 1000) {
+        fpsDisplay.textContent = `FPS: ${frameCount}`;
+        frameCount = 0;
+        lastTime = currentTime;
+      }
+
+      renderer.render(scene, camera);
+    }
+
+    animate();
+  </script>
+</body>
+</html>

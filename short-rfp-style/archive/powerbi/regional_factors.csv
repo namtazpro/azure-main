@@ -1,0 +1,4 @@
+RegionFactor,RegionMultiplier,Notes,Source
+north_england,0.96,Lower cost assumption for northern England,"Source: model assumption calibrated to UK prison concept demo"
+midlands,1.00,Baseline reference region,"Source: model assumption calibrated to UK prison concept demo"
+south_england_london_weighted,1.12,Higher cost assumption for South England and London weighting,"Source: model assumption calibrated to UK prison concept demo"

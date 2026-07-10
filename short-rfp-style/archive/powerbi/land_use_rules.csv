@@ -1,0 +1,4 @@
+PrisonType,LandRequiredHaPer1000Inmates,ExpansionReserveHa,TypicalHouseblocks,TypicalStoreys,Notes,Source
+local_remand,8.0,4.0,4,4,"Indicative land use for a large remand prison concept","Source: concept assumption for Power BI demo"
+training_category_c,7.5,3.5,4,3,"Indicative land use for a training prison concept","Source: concept assumption for Power BI demo"
+high_security_category_b,9.5,5.0,4,4,"Indicative land use for a higher-security concept","Source: concept assumption for Power BI demo"

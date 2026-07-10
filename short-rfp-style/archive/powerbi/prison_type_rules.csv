@@ -1,0 +1,4 @@
+PrisonType,Description,BaseAreaPerInmateM2,CostRatePerM2GBP,BaselineBuildMonths,ComplexityMultiplier,StaffPer100Inmates,Source
+local_remand,Higher intake and movement complexity,42,11400,54,1.05,38,"Source: NAO prison capacity report and MoJ strategy, calibrated for demo use"
+training_category_c,Rehabilitation and work/education focused baseline,38,10800,48,1.00,30,"Source: NAO prison capacity report and MoJ strategy, calibrated for demo use"
+high_security_category_b,Enhanced security systems and control infrastructure,48,11000,66,1.18,45,"Source: NAO prison capacity report and MoJ strategy, calibrated for demo use"

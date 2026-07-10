@@ -1,0 +1,24 @@
+{
+  "name": "contoso-prison-cost-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Contoso Constructions - Prison capital cost feasibility estimator",
+  "scripts": {
+    "dev": "npm run encrypt-rates && vite",
+    "build": "npm run encrypt-rates && tsc -b && vite build",
+    "preview": "vite preview",
+    "encrypt-rates": "node scripts/encrypt-rates.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

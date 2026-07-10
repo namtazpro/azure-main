@@ -1,0 +1,4 @@
+ScenarioId,ScenarioName,InmateCapacity,PrisonType,RegionFactor,SingleCellRatio,ExpansionAllowanceRatio,EffectiveCapacity,BaseCapexGBP,LowCapexGBP,HighCapexGBP,ProgrammeMonths,LandRequiredHa,Houseblocks,Notes
+S-2000-TC,2000 inmates - Training Category C,2000,training_category_c,midlands,0.7,0.1,2200,1138531680,1024678512,1309311432,94,18.5,4,"Sample calibrated output for Power BI demo"
+S-2000-LR,2000 inmates - Local Remand,2000,local_remand,midlands,0.7,0.1,2200,1394701308,1255231177,1603906504,100,20.0,4,"Sample calibrated output for Power BI demo"
+S-2000-HS,2000 inmates - High Security Category B,2000,high_security_category_b,midlands,0.7,0.1,2200,1728437568,1555593811,1987703203,112,24.0,4,"Sample calibrated output for Power BI demo"

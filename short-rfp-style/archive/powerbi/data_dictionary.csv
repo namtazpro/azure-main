@@ -1,0 +1,18 @@
+TableName,ColumnName,DataType,Description,Example
+prison_scenarios,ScenarioId,text,Unique scenario key,S-2000-TC
+prison_scenarios,InmateCapacity,whole number,Base inmate capacity requested,2000
+prison_scenarios,PrisonType,text,Operational prison archetype,training_category_c
+prison_scenarios,RegionFactor,text,Regional cost multiplier key,midlands
+prison_scenarios,SingleCellRatio,decimal,Share of accommodation targeted as single cells,0.7
+prison_scenarios,ExpansionAllowanceRatio,decimal,Capacity buffer for future growth,0.1
+prison_scenarios,EffectiveCapacity,whole number,Capacity after applying expansion allowance,2200
+prison_scenarios,BaseCapexGBP,whole number,Indicative base capital cost in GBP,1138531680
+prison_scenarios,LowCapexGBP,whole number,Indicative low case capital cost in GBP,1024678512
+prison_scenarios,HighCapexGBP,whole number,Indicative high case capital cost in GBP,1309311432
+prison_scenarios,ProgrammeMonths,whole number,Indicative delivery programme in months,94
+prison_scenarios,LandRequiredHa,decimal,Indicative site land requirement in hectares,18.5
+prison_type_rules,BaseAreaPerInmateM2,decimal,Indicative gross internal area per inmate,38
+prison_type_rules,CostRatePerM2GBP,whole number,Indicative build cost rate per m2 in GBP,10800
+regional_factors,RegionMultiplier,decimal,Cost adjustment by region,1.00
+land_use_rules,LandRequiredHaPer1000Inmates,decimal,Land requirement baseline per 1000 inmates,7.5
+land_use_rules,ExpansionReserveHa,decimal,Reserved land for future expansion,3.5

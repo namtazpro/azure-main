@@ -1,0 +1,265 @@
+{
+  "model": "uk_prison_concept_estimator",
+  "version": "0.2.0-public-calibrated",
+  "currency": "GBP",
+  "units": {
+    "area": "m2_gifa",
+    "cost": "GBP_nominal_2026_q3",
+    "time": "months"
+  },
+  "disclaimer": "For early CEO-level response only. Uses public benchmark calibration plus explicit assumptions; not suitable for tender pricing or contract commitments.",
+  "public_references": [
+    {
+      "id": "nao_prison_expansion_2024_press",
+      "source": "National Audit Office",
+      "url": "https://www.nao.org.uk/press-releases/prison-expansion-plan-was-unrealistic-and-not-prioritised-nao/",
+      "facts_used": [
+        "Programme cost now expected between 9.4bn and 10.1bn GBP",
+        "20,000 additional places commitment",
+        "Construction sector prices rose by 40 percent",
+        "Delivery completion moved to 2031 (around five years later)"
+      ]
+    },
+    {
+      "id": "nao_prison_expansion_2024_report",
+      "source": "National Audit Office",
+      "url": "https://www.nao.org.uk/reports/increasing-the-capacity-of-the-prison-estate-to-meet-demand/",
+      "facts_used": [
+        "Context and delivery model: mix of new build, expansion, refurbishment and temporary accommodation",
+        "Capacity pressure context for programme risk and schedule sensitivity"
+      ]
+    },
+    {
+      "id": "moj_prison_performance_2023_2024",
+      "source": "Ministry of Justice / HMPPS",
+      "url": "https://www.gov.uk/government/publications/prison-performance-data-2023-to-2024",
+      "facts_used": [
+        "Official publication for prison unit costs (cost per place and cost per prisoner)",
+        "2023-24 unit-cost files linked for operating-cost calibration"
+      ]
+    },
+    {
+      "id": "moj_costs_summary_pdf_2023_2024",
+      "source": "Ministry of Justice / HMPPS",
+      "url": "https://assets.publishing.service.gov.uk/media/67e51acfba11d0060f606d68/costs-per-place-costs-per-prisoner-2023-2024-summary.pdf",
+      "facts_used": [
+        "Reference file for operating-cost assumptions and sensitivity testing"
+      ]
+    },
+    {
+      "id": "moj_10_year_capacity_strategy_2024",
+      "source": "Ministry of Justice",
+      "url": "https://www.gov.uk/government/publications/10-year-prison-capacity-strategy",
+      "facts_used": [
+        "Strategic capacity context and pipeline framing for long-range planning"
+      ]
+    }
+  ],
+  "benchmark_calibration": {
+    "nao_programme_cost_range_gbp": {
+      "min": 9400000000,
+      "max": 10100000000
+    },
+    "nao_target_places": 20000,
+    "implied_programme_cost_per_place_gbp": {
+      "min": 470000,
+      "max": 505000,
+      "midpoint": 487500,
+      "formula": "programme_cost / target_places"
+    },
+    "market_inflation_signal_since_2021": {
+      "construction_price_rise_percent": 0.4,
+      "source_id": "nao_prison_expansion_2024_press"
+    },
+    "calibration_note": "Model is tuned so baseline Training Category C outputs sit close to the NAO implied cost-per-place range after allowances."
+  },
+  "primary_inputs": {
+    "inmate_capacity": {
+      "type": "integer",
+      "min": 100,
+      "max": 2500
+    },
+    "prison_type": {
+      "type": "enum",
+      "allowed": [
+        "local_remand",
+        "training_category_c",
+        "high_security_category_b"
+      ]
+    },
+    "region_factor": {
+      "type": "enum",
+      "allowed": [
+        "north_england",
+        "midlands",
+        "south_england_london_weighted"
+      ]
+    },
+    "single_cell_ratio": {
+      "type": "number",
+      "min": 0.3,
+      "max": 1.0,
+      "default": 0.7
+    },
+    "expansion_allowance_ratio": {
+      "type": "number",
+      "min": 0.0,
+      "max": 0.3,
+      "default": 0.1
+    }
+  },
+  "decision_factors": [
+    "Operational category and security profile required by commissioning authority",
+    "Capacity (required places plus expansion allowance)",
+    "Cell policy (single/double occupancy) and operational regime",
+    "Mandatory functional spaces (healthcare, visits, education, segregation, workshops)",
+    "Planning, utilities, access, and site abnormal conditions",
+    "Programme urgency, phasing, and delivery route constraints",
+    "Whole-life operating affordability (staffing and service model)",
+    "Compliance constraints (fire, custodial standards, accessibility, sustainability)"
+  ],
+  "archetypes": {
+    "local_remand": {
+      "description": "Higher intake/turnover with stronger reception, court-link and movement complexity.",
+      "base_area_per_inmate_m2": 42,
+      "cost_rate_per_m2_gbp": 11400,
+      "baseline_build_months": 54,
+      "complexity_multiplier": 1.05,
+      "assumption_confidence": "medium"
+    },
+    "training_category_c": {
+      "description": "Rehabilitation and work/education focused baseline benchmark type.",
+      "base_area_per_inmate_m2": 38,
+      "cost_rate_per_m2_gbp": 10800,
+      "baseline_build_months": 48,
+      "complexity_multiplier": 1.0,
+      "assumption_confidence": "high"
+    },
+    "high_security_category_b": {
+      "description": "Enhanced security systems, control infrastructure and higher hardening requirements.",
+      "base_area_per_inmate_m2": 48,
+      "cost_rate_per_m2_gbp": 11000,
+      "baseline_build_months": 66,
+      "complexity_multiplier": 1.18,
+      "assumption_confidence": "medium"
+    }
+  },
+  "scale_bands": [
+    {
+      "min_capacity": 100,
+      "max_capacity": 399,
+      "cost_scale_multiplier": 1.1,
+      "schedule_scale_months": 0
+    },
+    {
+      "min_capacity": 400,
+      "max_capacity": 799,
+      "cost_scale_multiplier": 1.05,
+      "schedule_scale_months": 6
+    },
+    {
+      "min_capacity": 800,
+      "max_capacity": 1499,
+      "cost_scale_multiplier": 1.0,
+      "schedule_scale_months": 12
+    },
+    {
+      "min_capacity": 1500,
+      "max_capacity": 2500,
+      "cost_scale_multiplier": 0.97,
+      "schedule_scale_months": 18
+    }
+  ],
+  "regional_factors": {
+    "north_england": 0.96,
+    "midlands": 1.0,
+    "south_england_london_weighted": 1.12
+  },
+  "facility_rules": {
+    "accommodation": {
+      "cells_required_formula": "ceil(inmate_capacity * (0.5 + 0.5 * single_cell_ratio))",
+      "typical_net_cell_area_m2": {
+        "single": 8.5,
+        "double": 12.5
+      }
+    },
+    "healthcare": {
+      "minimum_rooms": 8,
+      "additional_rooms_per_250_inmates": 4
+    },
+    "education_training": {
+      "classrooms_per_200_inmates": 3,
+      "workshop_m2_per_inmate": 1.6
+    },
+    "visits": {
+      "visit_hall_m2_per_100_inmates": 65,
+      "family_rooms_per_500_inmates": 3
+    },
+    "segregation": {
+      "segregation_cells_ratio": 0.02
+    },
+    "staff_facilities": {
+      "staff_count_per_100_inmates": {
+        "local_remand": 38,
+        "training_category_c": 30,
+        "high_security_category_b": 45
+      },
+      "staff_support_m2_per_staff": 9
+    },
+    "external_works": {
+      "yards_and_secure_external_m2_per_inmate": 12
+    }
+  },
+  "cost_build_up": {
+    "construction_core_formula": "effective_capacity * base_area_per_inmate_m2 * cost_rate_per_m2_gbp * cost_scale_multiplier * complexity_multiplier * regional_factor",
+    "allowances": {
+      "security_systems_percent": 0.04,
+      "site_abnormals_percent": 0.05,
+      "professional_fees_percent": 0.09,
+      "inflation_and_market_risk_percent": 0.04,
+      "client_contingency_percent": 0.08
+    },
+    "totex_formula": "construction_core * (1 + security_systems + site_abnormals + professional_fees + inflation_and_market_risk + client_contingency)",
+    "range_factors": {
+      "low_case_multiplier": 0.9,
+      "high_case_multiplier": 1.15
+    }
+  },
+  "schedule_model": {
+    "concept_to_business_case_months": 6,
+    "planning_and_permissions_months": 12,
+    "design_and_procurement_months": 10,
+    "construction_and_commissioning_formula": "baseline_build_months + schedule_scale_months",
+    "total_programme_formula": "concept_to_business_case + planning_and_permissions + design_and_procurement + construction_and_commissioning",
+    "schedule_risk_note": "Public evidence indicates multi-year delays are common; use +12 months scenario for stressed planning approvals."
+  },
+  "decision_logic": [
+    "Select prison_type from required operational purpose and security profile.",
+    "Set inmate_capacity and expansion_allowance_ratio.",
+    "Calculate effective_capacity = inmate_capacity * (1 + expansion_allowance_ratio).",
+    "Apply archetype rates and scale/regional multipliers.",
+    "Compute functional space quantities from facility_rules.",
+    "Build indicative CAPEX with cost_build_up formula and allowances.",
+    "Compute indicative programme using schedule_model.",
+    "Return low/base/high CAPEX range from range_factors."
+  ],
+  "output_template": {
+    "headline": {
+      "effective_capacity": 0,
+      "estimated_capex_base_gbp": 0,
+      "estimated_capex_low_gbp": 0,
+      "estimated_capex_high_gbp": 0,
+      "indicative_total_programme_months": 0
+    },
+    "derived_facilities": {
+      "cells_required": 0,
+      "healthcare_rooms": 0,
+      "classrooms": 0,
+      "workshop_area_m2": 0,
+      "visit_hall_area_m2": 0,
+      "segregation_cells": 0,
+      "staff_count": 0,
+      "staff_support_area_m2": 0
+    }
+  }
+}

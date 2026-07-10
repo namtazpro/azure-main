@@ -1,0 +1,19 @@
+
+Welcome to Azure Static Web Apps CLI (2.0.9)
+
+Deploying front-end files from folder:
+  C:\Users\virouet\source\repos\azure-main\short-rfp-style\prison-cost-app\dist
+
+Consider providing api-language and version using --api-language and --api-version flags,
+    otherwise default values apiLanguage: node and apiVersion: 16 will apply
+
+Deploying to environment: production
+
+
+Found configuration file:
+  C:\Users\virouet\source\repos\azure-main\short-rfp-style\prison-cost-app\public\staticwebapp.config.json
+
+Deploying project to Azure Static Web Apps...
+- Preparing deployment. Please wait...
+Ô£ö Project deployed to https://icy-meadow-0df8d5603.7.azurestaticapps.net ­ƒÜÇ
+
