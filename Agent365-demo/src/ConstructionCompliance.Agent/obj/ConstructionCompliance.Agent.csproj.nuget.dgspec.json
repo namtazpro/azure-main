@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\virouet\\source\\repos\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj": {}
+    "C:\\Users\\virouet\\source\\repos\\personal\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\virouet\\source\\repos\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj": {
+    "C:\\Users\\virouet\\source\\repos\\personal\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\virouet\\source\\repos\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj",
+        "projectUniqueName": "C:\\Users\\virouet\\source\\repos\\personal\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj",
         "projectName": "ConstructionCompliance.Agent",
-        "projectPath": "C:\\Users\\virouet\\source\\repos\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj",
+        "projectPath": "C:\\Users\\virouet\\source\\repos\\personal\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\ConstructionCompliance.Agent.csproj",
         "packagesPath": "C:\\Users\\virouet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\virouet\\source\\repos\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\obj\\",
+        "outputPath": "C:\\Users\\virouet\\source\\repos\\personal\\azure-main\\Agent365-demo\\src\\ConstructionCompliance.Agent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
