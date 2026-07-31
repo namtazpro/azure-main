@@ -41,8 +41,8 @@ Because the message is forwarded **from LetAI**, the business-user loses importa
 | ID | Requirement | Status |
 |----|-------------|--------|
 | R1 | A non-automated or unknown message must return to the business-user mailbox from which it originated. | Supported today through forwarding |
-| R2 | The business-user must be able to reply to the original requester without manually reconstructing the recipient. | Not met |
-| R3 | The returned item must preserve enough original message and thread context to distinguish messages with the same requester, subject, or reference ID. | Not met |
+| R2 | The business-user must be able to reply to the original requester without manually reconstructing the recipient. | Addressed by Option 3; production validation required |
+| R3 | The returned item must preserve enough original message and thread context to distinguish messages with the same requester, subject, or reference ID. | Addressed by Option 3; production validation required |
 | R4 | The workflow must remain efficient at approximately 80 to 100 emails per business-user per day in a browser-based Citrix environment. | Not met |
 | R5 | The change must preserve the current Logic App fields, attachment processing, conditional Service Bus flows, and existing automated scenarios. | Required for any option |
 | R6 | Internal LetAI processing or audit content must not be exposed in a response to the external requester. | Required for any option |
@@ -73,17 +73,42 @@ The feasibility is unresolved. Microsoft Graph does not appear to support redire
 
 Create a new contextual email to the business-user and attach the original message. The business-user can open the attachment and work from the original sender and content, while the covering email can explain why LetAI could not automate it.
 
-Two implementation paths require investigation:
+#### Microsoft investigation result
 
-1. Use the stored original message ID with Microsoft Graph to create a new message and add the original message as an attachment. This may avoid Blob Storage entirely, but it must be proved with a working prototype.
-2. Archive every incoming email in its raw `.eml` or `.msg` form in Blob Storage, keyed by a unique identifier, and retrieve it only when a non-automated message must be returned. This adds traceability but requires retention, purge, and storage design.
+The investigation confirms that Microsoft Graph can retrieve the original message as raw MIME and attach it to a new email as an `.eml` file. This path uses the existing Graph message ID and does not require the original message to be archived in Blob Storage first.
 
-The attachment approach is promising, but either path must remain additive so that the current extracted fields and automated processing continue unchanged.
+The implementation flow is:
+
+1. Retrieve the original message metadata using `GET /users/{mailbox}/messages/{message-id}`.
+2. Download the complete original message as MIME using `GET /users/{mailbox}/messages/{message-id}/$value`.
+3. Base64-encode the MIME bytes and add them to a new message as a `#microsoft.graph.fileAttachment` with content type `message/rfc822` and an `.eml` filename.
+4. Send the contextual email and attachment using `POST /users/{mailbox}/sendMail`.
+
+The [demo implementation](assets/demo-email.zip) contains two PowerShell scripts that demonstrate the flow against the signed-in user's mailbox:
+
+- `Find-EmailMessageId.ps1` searches by subject, previews matching messages, and returns the selected Graph message ID.
+- `Send-EmailWithAttachment.ps1` retrieves the selected message as MIME, attaches it to a new email, previews the outgoing message, and sends it after confirmation.
+
+The demo uses the Microsoft Graph PowerShell SDK for authentication and `Invoke-MgGraphRequest` for the mailbox operations. It requests delegated `User.Read`, `Mail.Read`, and `Mail.Send` permissions through an interactive login. Production implementation must instead use the existing LetAI identity and least-privilege application access scoped to the required mailbox or mailboxes; it must not embed credentials.
+
+This result addresses the functional design for R2 and R3, but it is not yet a production validation. The following constraints remain:
+
+- A file attachment added in one Graph request must be under 3 MB. Larger original messages need a separately designed and tested approach.
+- `sendMail` returns `202 Accepted`, which confirms acceptance but not final delivery. Existing monitoring and failure handling must continue.
+- The `.eml` must be tested in the browser-based Citrix mail client to confirm that opening it and replying targets the original requester as expected.
+- The implementation must use the Graph message ID for the exact request, rather than subject-only search, to avoid ambiguity.
+- The new attachment step must remain additive and preserve the existing Logic App fields, attachment processing, Service Bus flows, and automated scenarios.
+
+The Graph behavior is documented in [Get MIME content of an Outlook message](https://learn.microsoft.com/graph/outlook-get-mime-message), [Send mail](https://learn.microsoft.com/graph/api/user-sendmail), and [Add attachment](https://learn.microsoft.com/graph/api/message-post-attachments).
+
+Archiving every incoming message as raw `.eml` in Blob Storage remains an optional traceability design, not a prerequisite for Option 3.
 
 ## Status and next steps
 
-- Prototype creating a new email with the original message attached directly through Microsoft Graph using the existing message ID.
-- Investigate whether Logic Apps can archive the complete raw email in Blob Storage while retaining all existing extracted attributes and processing behavior.
+- Validate the Graph MIME attachment flow from `demo-email.zip` with the LetAI mailbox identity and a representative Contoso business-user mailbox.
+- Test messages below and above 3 MB, including messages with existing attachments and non-ASCII content.
+- Confirm the `.eml` open-and-reply experience in the browser-based Citrix environment.
+- Decide whether raw email archiving in Blob Storage is required independently for audit and retention purposes.
 - Ask Exchange Online SMEs whether a supported dynamic redirect is possible after LetAI classification.
 - Validate the selected option against requirements R1 through R6 and confirm that the nine live automated scenarios do not regress.
 
