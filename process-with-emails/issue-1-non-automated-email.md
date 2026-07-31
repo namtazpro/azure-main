@@ -43,7 +43,7 @@ Because the message is forwarded **from LetAI**, the business-user loses importa
 | R1 | A non-automated or unknown message must return to the business-user mailbox from which it originated. | Supported today through forwarding |
 | R2 | The business-user must be able to reply to the original requester without manually reconstructing the recipient. | Addressed by Option 3; production validation required |
 | R3 | The returned item must preserve enough original message and thread context to distinguish messages with the same requester, subject, or reference ID. | Addressed by Option 3; production validation required |
-| R4 | The workflow must remain efficient at approximately 80 to 100 emails per business-user per day in a browser-based Citrix environment. | Not met |
+| R4 | The workflow must remain efficient at approximately 80 to 100 emails per business-user per day in a browser-based Citrix environment. | Delivery team to check if requirement is met with Option 3 |
 | R5 | The change must preserve the current Logic App fields, attachment processing, conditional Service Bus flows, and existing automated scenarios. | Required for any option |
 | R6 | Internal LetAI processing or audit content must not be exposed in a response to the external requester. | Required for any option |
 
