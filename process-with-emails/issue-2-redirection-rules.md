@@ -28,6 +28,17 @@ Each business-user mailbox carries a **centralised redirection rule** that forwa
 
 The ask, in short: enable **centralised management or automated publishing** of redirection rules, improve **consistency**, and reduce **administrative overhead**, with selective redirection of only the mail that should reach the bot.
 
+### Requirements
+
+| ID | Requirement | Proposed solution coverage | Status |
+|----|-------------|----------------------------|--------|
+| R1 | Rules must be configured and managed centrally rather than in each business-user mailbox. | Use an Exchange server-side mail flow rule managed by tenant administrators. | Addressed by proposal |
+| R2 | Only relevant messages must be routed to LetAI. | Match approved words, phrases, or text patterns in the subject or body. | Requires pilot validation |
+| R3 | Administrators must be able to control which Unilever recipients are in scope. | Use an explicit recipient list or a mail-enabled group. | Addressed by proposal |
+| R4 | Matching messages must be redirected to the LetAI mailbox. | Configure the transport rule with the **Redirect the message to** action. | Addressed by proposal |
+| R5 | The routing configuration must prevent message loops. | Exclude messages whose sender is the LetAI mailbox. | Requires pilot validation |
+| R6 | The solution should avoid unnecessary application access to user mailboxes. | Process routing in Exchange without Microsoft Graph API permissions or credentials. | Addressed by proposal |
+
 ## Why this is a tenant-governance question
 
 This is about the **configuration of the mail tenant**, not the application logic:
