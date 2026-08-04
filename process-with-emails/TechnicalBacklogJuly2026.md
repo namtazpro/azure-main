@@ -73,7 +73,7 @@ This item has two sub-issues, documented in the **[Item 4 overview](issue-4-kpis
 - **[4.a - Scenario classification](issue-4-kpis/4a-scenario-classification.md)** - accuracy of the classification module and how to widen catchment. *(Documented)*
 - **[4.b - Response correctness](issue-4-kpis/4b-response-correctness.md)** - how correctly the response template is selected and filled. *(Documented)*
 
-Supporting guidance already produced: [evaluation strategy with Foundry Evaluations](issue-4-kpis/evaluation-strategy-foundry.md) and [building the evaluation dataset](issue-4-kpis/dataset-guidance.md).
+Supporting guidance already produced: [evaluation strategy with Foundry Evaluations](issue-4-kpis/evaluation-strategy-foundry.md) and [building the evaluation dataset](issue-4-kpis/dataset-guidance.md). Microsoft documentation: [Inspection of telemetry data with Application Insights](https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/telemetry-with-app-insights?tabs=Powershell&pivots=programming-language-csharp) and [Index and Query Vector Data in .NET](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-dotnet-vector-index-query).
 
 ### Item 5 - Self-learning capabilities
 
