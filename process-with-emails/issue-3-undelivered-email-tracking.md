@@ -48,6 +48,43 @@ The Graph message resource ID, Graph conversation ID, RFC `Message-ID`, and Exch
 
 ## Recommended architecture
 
+```mermaid
+flowchart LR
+  Source[Upstream logistics system] --> Validate{Recipient valid?}
+  Directory[Directory and approved address register] --> Validate
+
+  Validate -- No --> DataException[Business-data exception]
+  DataException --> DeadLetter[Dead-letter process]
+
+  Validate -- Yes --> Attempt[Create per-recipient delivery attempt]
+  Attempt --> Draft[Create Graph draft with X-LetAI attempt ID]
+  Draft --> Store[Store Graph ID and RFC Message-ID]
+  Store --> Send[Send draft through Microsoft Graph]
+  Send --> Exchange[Exchange Online transport]
+  Exchange --> Recipient[External recipient system]
+
+  Exchange -- NDR --> Mailbox[LetAI sender mailbox]
+  Mailbox --> Monitor[Graph notification and delta-query worker]
+  Monitor --> Parse[Parse NDR MIME and enhanced status code]
+  Parse --> Correlate{Exact identifier match?}
+  Correlate -- Yes --> Classify[Classify failure and update attempt]
+  Correlate -- No --> DeadLetter
+
+  Classify --> Remediate{Retry permitted?}
+  Remediate -- Yes --> Retry[Create a new linked attempt]
+  Retry --> Draft
+  Remediate -- No --> DeadLetter
+
+  Store --> Reconcile[Scheduled unresolved-attempt reconciliation]
+  Reconcile --> Trace[Exchange Online message trace]
+  Trace --> Outcome{Transport outcome}
+  Outcome -- Delivered or sent --> Complete[Record reconciled outcome]
+  Outcome -- Failed --> Classify
+  Outcome -- Unresolved --> DeadLetter
+```
+
+The delivery-attempt record is the system of record throughout this flow. The RFC `Message-ID` is the primary transport correlation key, and `X-LetAI-Delivery-Attempt-Id` is the secondary application key. Subject, timestamp, and NDR sender are never used to update a request automatically.
+
 ### 1. Validate before sending
 
 Apply the following checks before creating an outbound message:
