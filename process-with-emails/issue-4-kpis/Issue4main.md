@@ -32,7 +32,7 @@ The **North Star is maximum automation**: reduce both incorrect initial classifi
 
 Improving these KPIs requires measuring changes objectively:
 
-- [Evaluation strategy with Foundry Evaluations](evaluation-strategy-foundry.md) - code-first evaluation woven into the agent development lifecycle.
+- [Foundry Evaluations](../foundry-evaluations.md) - code-first evaluation woven into the agent development lifecycle.
 - [Building the evaluation dataset](dataset-guidance.md) - how to build the golden / ground-truth dataset the evaluation depends on.
 
 ## Related context

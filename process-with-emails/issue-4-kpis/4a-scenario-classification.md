@@ -84,12 +84,12 @@ Actions raised during the call, roughly in priority order:
 
 ## Related guidance
 
-- [Evaluation strategy with Foundry Evaluations](evaluation-strategy-foundry.md) - code-first evaluation as part of the agent development lifecycle.
+- [Foundry Evaluations](../foundry-evaluations.md) - code-first evaluation as part of the agent development lifecycle.
 - [Building the evaluation dataset](dataset-guidance.md) - how to build the golden / ground-truth dataset this strategy depends on.
 
 ## Next steps
 
 - Agree the golden dataset scope and cadence with Contoso / the SME - see [dataset guidance](dataset-guidance.md).
-- Stand up automated evaluation on Microsoft Foundry against that dataset - see [evaluation strategy](evaluation-strategy-foundry.md).
+- Stand up automated evaluation on Microsoft Foundry against that dataset - see [evaluation strategy](../foundry-evaluations.md).
 - Prototype giving the agent access to email history for added context.
 - Continue with sub-issue [4.b - response correctness](4b-response-correctness.md).

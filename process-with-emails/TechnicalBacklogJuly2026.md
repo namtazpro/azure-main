@@ -31,9 +31,9 @@ Each item gets its own page (or set of pages) as it is documented. Detailed page
 
 | # | Item | Support requested | Documentation |
 |---|------|-------------------|---------------|
-| 1 | Handling non-automated email | Feasibility | [Item 1 detail](../external/issue-1-non-automated-email.md) |
-| 2 | Centralized Outlook re-direction rules | Feasibility | [Item 2 detail](../external/issue-2-redirection-rules.md) |
-| 3 | CR: undelivered email tracking | Technical feasibility review | [Item 3 detail](../external/issue-3-undelivered-email-tracking.md) |
+| 1 | Handling non-automated email | Feasibility | [Item 1 detail](issue-1-non-automated-email.md) |
+| 2 | Centralized Outlook re-direction rules | Feasibility | [Item 2 detail](issue-2-redirection-rules.md) |
+| 3 | CR: undelivered email tracking | Technical feasibility review | [Item 3 detail](issue-3-undelivered-email-tracking.md) |
 | 4 | Response correctness & scenario classification | Architecture / methodology review | [Item 4 overview](issue-4-kpis/Issue4main.md) |
 | 5 | Self-learning capabilities | Architecture / methodology review | Detail to follow |
 | 6 | Evals | Architecture / methodology review | Detail to follow |
@@ -46,7 +46,7 @@ When \*\*\* AI cannot automate an email it returns it to the specialist as a **f
 
 *Ideas discussed:* convert the forward into a **redirect** to preserve the original sender; make redirection **dynamic** (back to the originating specialist); a Microsoft Graph "reply-to" workaround ZC already explored; replacing mail rules with Power Automate / Logic Apps, or shifting away from email toward tickets or Teams notifications.
 
-Full detail: **[Item 1 - Handling non-automated email](../external/issue-1-non-automated-email.md)**.
+Full detail: **[Item 1 - Handling non-automated email](issue-1-non-automated-email.md)**.
 
 ### Item 2 - Centralized Outlook re-direction rules
 
@@ -54,7 +54,7 @@ Each of the ~60-67 specialist mailboxes carries redirection rules that forward m
 
 *Ideas discussed:* a rule-governance / master-data layer that checks each mailbox against controlled mapping data; Power Automate / Logic Apps instead of Outlook rules. **Key dependency:** whether the solution has a Microsoft Graph identity with sufficient permission to read/write individual mailboxes - flagged as doubtful and potentially blocking pending a SecOps / data-protection decision. This layer sits **upstream** of the current architecture, which starts at the \*\*\* AI mailbox.
 
-Full detail: **[Item 2 - Centralized Outlook re-direction rules](../external/issue-2-redirection-rules.md)**.
+Full detail: **[Item 2 - Centralized Outlook re-direction rules](issue-2-redirection-rules.md)**.
 
 ### Item 3 - CR: undelivered email tracking
 
@@ -62,7 +62,7 @@ The bot sends outbound emails when it needs more information from a requester, T
 
 *Ideas discussed:* a self-managed technical acknowledgement (detect a missing expected response); validate the recipient address via Graph before sending and route invalids to a **dead-letter queue** with a defined business process; review the earlier support-ticket trace. Owner: ZC's web-app team (Shalini / Rohit).
 
-Full detail: **[Item 3 - CR: undelivered email tracking](../external/issue-3-undelivered-email-tracking.md)**.
+Full detail: **[Item 3 - CR: undelivered email tracking](issue-3-undelivered-email-tracking.md)**.
 
 ### Item 4 - Response correctness & scenario classification
 
@@ -73,7 +73,7 @@ This item has two sub-issues, documented in the **[Item 4 overview](issue-4-kpis
 - **[4.a - Scenario classification](issue-4-kpis/4a-scenario-classification.md)** - accuracy of the classification module and how to widen catchment. *(Documented)*
 - **[4.b - Response correctness](issue-4-kpis/4b-response-correctness.md)** - how correctly the response template is selected and filled. *(Documented)*
 
-Supporting guidance already produced: [evaluation strategy with Foundry Evaluations](issue-4-kpis/evaluation-strategy-foundry.md) and [building the evaluation dataset](issue-4-kpis/dataset-guidance.md). Microsoft documentation: [Inspection of telemetry data with Application Insights](https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/telemetry-with-app-insights?tabs=Powershell&pivots=programming-language-csharp) and [Index and Query Vector Data in .NET](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-dotnet-vector-index-query).
+Supporting guidance already produced: [Foundry Evaluations](foundry-evaluations.md) and [building the evaluation dataset](issue-4-kpis/dataset-guidance.md). Microsoft documentation: [Inspection of telemetry data with Application Insights](https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/telemetry-with-app-insights?tabs=Powershell&pivots=programming-language-csharp) and [Index and Query Vector Data in .NET](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-dotnet-vector-index-query).
 
 ### Item 5 - Self-learning capabilities
 

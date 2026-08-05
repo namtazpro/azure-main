@@ -16,7 +16,7 @@ estimated_reading_time: 11
 
 ## Building the evaluation dataset
 
-The evaluation strategy in [Evaluation strategy with Foundry Evaluations](evaluation-strategy-foundry.md) depends on a **golden (ground-truth) dataset**: a curated, versioned set of real logistics emails, each labelled with the **correct scenario**. This page explains how to build that dataset for the [scenario classification](4a-scenario-classification.md) use case.
+The evaluation strategy in [Foundry Evaluations](../foundry-evaluations.md) depends on a **golden (ground-truth) dataset**: a curated, versioned set of real logistics emails, each labelled with the **correct scenario**. This page explains how to build that dataset for the [scenario classification](4a-scenario-classification.md) use case.
 
 The dataset is the **single source of truth** for measuring whether a prompt or model change improves or regresses classification. Without it, no meaningful evaluation is possible.
 
@@ -111,7 +111,7 @@ dataset = project_client.datasets.upload_file(
 )
 ```
 
-Then follow [Evaluation strategy with Foundry Evaluations](evaluation-strategy-foundry.md) to run the evaluation against it.
+Then follow [Foundry Evaluations](../foundry-evaluations.md) to run the evaluation against it.
 
 ## Checklist
 
