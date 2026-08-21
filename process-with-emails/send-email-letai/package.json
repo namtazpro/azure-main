@@ -1,0 +1,14 @@
+{
+  "name": "send-email-letai",
+  "version": "1.0.0",
+  "description": "Minimal sample that sends an email with the custom X-LetAI-Request-Id header via Microsoft Graph.",
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "check-ndr": "node src/check-ndr.js"
+  }
+}
