@@ -1,0 +1,208 @@
+# Sales Order Activity Definition
+# Defines the business activity tracked by Agentic BAM
+# Owner: Sales Operations team
+
+activity: SalesOrder
+version: "1.0"
+description: >
+  End-to-end sales order lifecycle from receipt through to invoicing.
+  Tracks a sales order as it flows through intake, validation, credit check,
+  approval, fulfilment, and invoicing — regardless of which agents handle each step.
+
+owner: "Sales Operations"
+
+# Correlation token configuration
+correlation:
+  division_source: "output.region_code"    # Extracted from first agent output
+  object_type: "SO"                         # Fixed: Sales Order
+  object_id_source: "output.order_id"      # Extracted from first agent output
+
+# Business milestones (in expected order)
+milestones:
+  - name: Received
+    description: "Sales order received and parsed from source (email, API, portal)"
+    sla:
+      max_duration_from_previous: null  # First milestone, no prior
+
+  - name: Validated
+    description: "Order data validated against product catalog and customer master"
+    sla:
+      max_duration_from_previous: "PT2M"   # Should validate within 2 minutes
+
+  - name: CreditChecked
+    description: "Customer credit score verified and limit confirmed"
+    sla:
+      max_duration_from_previous: "PT5M"   # Credit check within 5 minutes
+
+  - name: Approved
+    description: "Order approved for fulfilment (may require manual approval if above threshold)"
+    sla:
+      max_duration_from_previous: "PT30M"  # Approval within 30 minutes
+      max_duration_from_start: "PT1H"      # Total time from Received < 1 hour
+
+  - name: Dispatched
+    description: "Order picked, packed, and handed to carrier"
+    sla:
+      max_duration_from_previous: "PT4H"   # Dispatch within 4 hours of approval
+
+  - name: Invoiced
+    description: "Invoice generated and sent to customer"
+    terminal: true                          # Archives the activity on completion
+    sla:
+      max_duration_from_previous: "PT1H"   # Invoice within 1 hour of dispatch
+
+# Business data captured at milestones
+data_items:
+  - name: OrderID
+    type: string
+    captured_at: Received
+    description: "Sales order number"
+
+  - name: CustomerName
+    type: string
+    captured_at: Received
+    description: "Customer display name"
+
+  - name: CustomerID
+    type: string
+    captured_at: Received
+    description: "Customer master record ID"
+
+  - name: OrderAmount
+    type: decimal
+    captured_at: Received
+    description: "Total order value in local currency"
+
+  - name: Currency
+    type: string
+    captured_at: Received
+    description: "ISO 4217 currency code"
+
+  - name: Region
+    type: string
+    captured_at: Received
+    description: "Business region (EMEA, APAC, AMER)"
+
+  - name: LineItemCount
+    type: integer
+    captured_at: Validated
+    description: "Number of validated line items"
+
+  - name: CreditScore
+    type: integer
+    captured_at: CreditChecked
+    description: "Customer credit score at time of check"
+
+  - name: CreditLimit
+    type: decimal
+    captured_at: CreditChecked
+    description: "Customer credit limit"
+
+  - name: ApprovedBy
+    type: string
+    captured_at: Approved
+    description: "Approver identity (agent name or human user)"
+
+  - name: ApprovalType
+    type: string
+    captured_at: Approved
+    description: "Auto or Manual"
+
+  - name: CarrierName
+    type: string
+    captured_at: Dispatched
+    description: "Shipping carrier"
+
+  - name: TrackingNumber
+    type: string
+    captured_at: Dispatched
+    description: "Carrier tracking reference"
+
+  - name: InvoiceNumber
+    type: string
+    captured_at: Invoiced
+    description: "Generated invoice number"
+
+# Views for different stakeholders
+views:
+  - name: OperationsView
+    description: "For the sales operations team — full pipeline visibility"
+    visible_milestones:
+      - Received
+      - Validated
+      - CreditChecked
+      - Approved
+      - Dispatched
+      - Invoiced
+    visible_data:
+      - OrderID
+      - CustomerName
+      - OrderAmount
+      - Currency
+      - Region
+      - TrackingNumber
+    aggregations:
+      - name: OrdersToday
+        type: count
+        field: Received
+        description: "Total orders received today"
+      - name: AvgTimeToApproval
+        type: avg_duration
+        field: "Received→Approved"
+        description: "Average time from receipt to approval"
+      - name: StuckInValidation
+        type: count
+        field: "Validated IS NULL AND Received > PT10M ago"
+        description: "Orders stuck in validation longer than 10 minutes"
+
+  - name: FinanceView
+    description: "For finance team — credit and invoicing focus"
+    visible_milestones:
+      - CreditChecked
+      - Approved
+      - Invoiced
+    visible_data:
+      - OrderID
+      - CustomerName
+      - OrderAmount
+      - Currency
+      - CreditScore
+      - CreditLimit
+      - InvoiceNumber
+    aggregations:
+      - name: TotalOrderValue
+        type: sum
+        field: OrderAmount
+        description: "Total order value today"
+      - name: AvgCreditScore
+        type: avg_duration
+        field: CreditScore
+        description: "Average credit score of today's orders"
+
+  - name: FulfilmentView
+    description: "For warehouse/logistics team"
+    visible_milestones:
+      - Approved
+      - Dispatched
+      - Invoiced
+    visible_data:
+      - OrderID
+      - CustomerName
+      - Region
+      - CarrierName
+      - TrackingNumber
+      - LineItemCount
+    aggregations:
+      - name: PendingDispatch
+        type: count
+        field: "Approved IS NOT NULL AND Dispatched IS NULL"
+        description: "Orders approved but not yet dispatched"
+
+# Related activities (cross-activity correlation)
+related_activities:
+  - activity: Shipment
+    relationship: spawns
+    link_field: OrderID
+  - activity: ReturnOrder
+    relationship: references
+    link_field: OrderID
