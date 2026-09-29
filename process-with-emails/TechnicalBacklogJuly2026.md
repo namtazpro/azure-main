@@ -35,7 +35,7 @@ Each item gets its own page (or set of pages) as it is documented. Detailed page
 | 2 | Centralized Outlook re-direction rules | Feasibility | [Item 2 detail](issue-2-redirection-rules.md) |
 | 3 | CR: undelivered email tracking | Technical feasibility review | [Item 3 detail](issue-3-undelivered-email-tracking.md) |
 | 4 | Response correctness & scenario classification | Architecture / methodology review | [Item 4 overview](issue-4-kpis/Issue4main.md) |
-| 5 | Self-learning capabilities | Architecture / methodology review | Detail to follow |
+| 5 | Self-learning capabilities | Architecture / methodology review | [Item 5 detail](issue-5-self-learning-capabilities.md) |
 | 6 | Evals | Architecture / methodology review | Detail to follow |
 
 ## Item summaries
@@ -80,6 +80,8 @@ Supporting guidance already produced: [Foundry Evaluations](foundry-evaluations.
 There is no built-in feedback loop; improvement today is manual labelling with the business - slow and effort-heavy. The only "ground truth" is small and biased (reclassified requests reviewed by a single business SME), and where the bot is wrong the true label is unknown, so it is **not a golden dataset**. Unknowns are never tracked once forwarded to specialists, so no signal returns that "this should not have been unknown."
 
 *Ideas discussed:* treat self-learning as a **multi-phase discipline** (collect data, evaluate, then improve prompts / split agents / use skills, then roll to production) rather than an out-of-the-box feature; a labelled dataset (~100-150 emails) as the foundation with Foundry evaluations on it; a prompt optimizer as the learning loop; exploring agent-with-instructions vs. an agent-loop-with-skills approach.
+
+Full detail: **[Item 5 - Self-learning capabilities](issue-5-self-learning-capabilities.md)**.
 
 ### Item 6 - Evals
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConstructionCompliance.Agent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754f621cbdf5e5944ccfe5985c8dda4a4f663df7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d680afed114ba592be1da6d196f099538c63d2c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConstructionCompliance.Agent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConstructionCompliance.Agent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

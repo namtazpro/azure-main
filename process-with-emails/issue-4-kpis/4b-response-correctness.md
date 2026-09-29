@@ -80,7 +80,7 @@ Ideas raised during the call (not commitments):
 
 ## Dependencies and next steps
 
-- Building any judge/eval agent needs a **validation layer / ground truth**, which response correctness currently lacks - see [self-learning (Item 5)](../TechnicalBacklogJuly2026.md#item-5---self-learning-capabilities) and the [evaluation strategy](../foundry-evaluations.md).
+- Building any judge/eval agent needs a **validation layer / ground truth**, which response correctness currently lacks - see [self-learning (Item 5)](../issue-5-self-learning-capabilities.md) and the [evaluation strategy](../foundry-evaluations.md).
 - Agreed direction: take a **small sample** and pilot both the in-flight judge agent and the nightly batch agent to test the hypothesis before widening scope.
 - The architecture advisor will research vectorization options for the Cosmos data.
 
