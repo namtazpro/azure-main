@@ -1,8 +1,8 @@
 ---
 title: "Contoso *** AI Solution - Technical Backlog"
-description: "Overview of the six technical backlog items for the Contoso *** AI logistics email automation solution, with detailed documentation added per item over time."
+description: "Overview of the seven technical backlog items for the Contoso *** AI logistics email automation solution, with detailed documentation added per item over time."
 author: Vincent Rouet
-ms.date: 2026-07-29
+ms.date: 2026-09-30
 ms.topic: overview
 keywords:
   - supply chain
@@ -17,7 +17,7 @@ estimated_reading_time: 8
 
 This documentation tracks the improvement work on the **Contoso \*\*\* AI** logistics email automation solution. Inbound logistics emails are redirected from ~60-67 specialist mailboxes into the application, where an AI classification agent (Semantic Kernel + Azure OpenAI) identifies the scenario, extracts entities, calls Oracle Transportation Management (OTM) and SAP, selects and fills a response template, and returns it to a specialist for review. Emails it cannot handle are routed back to the specialist mailbox.
 
-The backlog is a set of **six items** that ZC carved out of a larger turnaround plan - specifically the asks where they need Microsoft's support. It was compiled from two Microsoft - Contoso / ZC discovery sessions:
+The backlog is a set of **seven items** that ZC carved out of a larger turnaround plan - specifically the asks where they need Microsoft's support. It was compiled from two Microsoft - Contoso / ZC discovery sessions:
 
 - **23 July 2026** - issue walkthrough.
 - **24 July 2026** - architecture and UI walkthrough.
@@ -27,7 +27,7 @@ The backlog is a set of **six items** that ZC carved out of a larger turnaround 
 
 Each item gets its own page (or set of pages) as it is documented. Detailed pages are linked below as they are produced.
 
-## The six items
+## The seven items
 
 | # | Item | Support requested | Documentation |
 |---|------|-------------------|---------------|
@@ -37,6 +37,7 @@ Each item gets its own page (or set of pages) as it is documented. Detailed page
 | 4 | Response correctness & scenario classification | Architecture / methodology review | [Item 4 overview](issue-4-kpis/Issue4main.md) |
 | 5 | Self-learning capabilities | Architecture / methodology review | [Item 5 detail](issue-5-self-learning-capabilities.md) |
 | 6 | Evals | Architecture / methodology review | Detail to follow |
+| 7 | Proposed email handling design | Architecture / design review | [Item 7 detail](issue-7-proposed-email-handling-design.md) |
 
 ## Item summaries
 
@@ -90,6 +91,13 @@ Current evaluations focus on precision and response correctness, giving limited 
 *Ideas discussed:* instrument every call now (App Insights / Azure Monitor / Log Analytics, configurable via Foundry) capturing agent input and output - the foundation for both evals and self-learning; run Foundry evaluations on a dataset at every change/publish; pivot to recall using the stratified, business-labelled sample.
 
 Microsoft reference: [Observability and evaluations in Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/concepts/observability).
+
+### Item 7 - Proposed email handling design
+
+This item proposes a new email handling design that addresses the challenges
+captured in **Item 1** and **Item 2**.
+
+Full detail: **[Item 7 - Proposed email handling design](issue-7-proposed-email-handling-design.md)**.
 
 ## Cross-cutting theme
 
