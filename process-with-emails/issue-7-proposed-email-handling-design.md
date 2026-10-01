@@ -16,15 +16,12 @@ estimated_reading_time: 1
 
 Questions
 
-# ***-AI Architecture Revision: Microsoft Guidance on the Seven Questions
+# ***-AI Architecture Revision for email handling: Microsoft Guidance
 
 **Date:** 30 September 2026  
-**Scope:** Consolidated guidance from the two architecture calls on 30 September 2026, the written questions in the email thread, and Microsoft documentation.  
+**Scope:** This page is based on the responses and options discussed in the two call transcripts.  
 **Business requirement confirmed:** ***-AI must send automated follow-up questions and responses **from the dedicated Bot mailbox** to the requester. The reply must remain associated with the existing business conversation as far as the mail clients allow. Sending as the Specialist mailbox is not the target design.
 
-# ***-AI Architecture Questions: Responses from the Two Calls
-
-> **Scope:** This page is based only on the responses and options discussed in the two call transcripts. It deliberately excludes subsequent Microsoft documentation research and additional technical conclusions.
 
 ## Context agreed during the calls
 
@@ -121,6 +118,24 @@ The options discussed were:
 
    For every step, the application would append the incoming or outgoing message information to its Cosmos DB mail-history array.
 
+### Further guidance about correlation attribute (post calls):
+
+The correlation can be an envelope for every message containing at least:
+
+- ***-AI request/case ID.
+- Tenant and mailbox identifier.
+- Graph message ID, requested with `Prefer: IdType="ImmutableId"`.
+- `internetMessageId`.
+- `conversationId`.
+- Parent `internetMessageId` derived from `In-Reply-To`, where available.
+- `References`, where available.
+- Sender, recipients, normalised subject and `receivedDateTime`.
+- Processing state and idempotency status.
+
+Microsoft documents that normal Outlook item IDs can change when items move. Immutable IDs remain stable while the item remains in the same mailbox, although they are not cross-mailbox identifiers. This makes the immutable Graph ID appropriate for locating a message within one mailbox, while `internetMessageId` and RFC reply headers are stronger evidence for relationships between copies crossing mailboxes.
+
+The custom ***-AI ID is valuable for application observability and orphan-message investigation, but the team should test whether it survives every external mail hop and reply path. It must therefore complement, not replace, native message identifiers.
+
 ### Transcript-based guidance
 
 The most complete option discussed was to:
@@ -162,9 +177,20 @@ The following options were discussed:
 
    Regardless of Outlook's presentation, ***-AI would associate the original Specialist message, Bot follow-up and requester response in its Cosmos DB conversation record.
 
+### Further guidance for this questions (post calls)
+
+Microsoft Graph does support sending mail from another user, but this depends on the Graph permission model and Exchange `Send As` or `Send on Behalf` permissions. That feature is intended to make mail appear from another mailbox; it does not change the fact that a reply action is anchored to the mailbox/message addressed by the API call.
+
+For ***-AI, the business requirement is explicitly to send from the Bot mailbox. The possible implementation is therefore:
+
+1. Read the original message and correlation metadata from the Specialist mailbox.
+2. Build the response as a new Bot-mailbox draft or MIME message.
+3. Address the requester and preserve the required Specialist recipients according to the business rule.
+4. Preserve RFC reply relationships where possible and maintain the authoritative ***-AI link in Cosmos DB.
+5. Send through the Bot mailbox.
+
 ### Transcript-based guidance
 
-The calls did not technically prove that Graph can issue a cross-mailbox `reply` or `replyAll` exactly as described.
 
 The development team's selected option was to:
 
@@ -213,9 +239,106 @@ The proposed production behaviour was:
 4. Use a stored hash, conversation identifier or composite key for duplicate detection.
 5. Skip or mark duplicate events rather than processing them again.
 
-The call did **not** establish a formal SLA or absolute delivery guarantee. That was explicitly identified as something that still needed checking.
 
-**Status:** Retry and acknowledgement behaviour discussed; formal guarantee remained unanswered.
+### Further guidance on reliability and SLA (post calls)
+
+
+Microsoft Graph does **not** provide a documented delivery SLA or guaranteed delivery model for Outlook Change Notifications.
+
+Microsoft documentation explicitly states that:
+
+- Notifications may be delayed, retried, or dropped.
+- Slow or unresponsive endpoints can be throttled.
+- Notifications can be permanently dropped if delivery conditions are not met.
+- Dropped notifications cannot be recovered through the webhook channel itself.
+
+Microsoft provides lifecycle events specifically because notification loss is a recognised scenario. These lifecycle events include:
+
+- `reauthorizationRequired`
+- `subscriptionRemoved`
+- `missed`
+
+For Outlook messages, a `missed` lifecycle event indicates that notifications may have been lost and that the application should perform a full resynchronisation of the mailbox state, for example using a delta query https://learn.microsoft.com/en-us/graph/change-notifications-delivery-webhooks?tabs=http
+
+
+
+Microsoft's guidance architecture should be viewed as:
+
+```text
+Change Notification
+        +
+Delta Query
+```
+
+rather than:
+
+```text
+Change Notification
+        only
+```
+
+Notifications should be treated as a low-latency signal that a mailbox may have changed, while Delta Queries provide authoritative reconciliation and recovery.
+
+---
+
+Delta Query Recovery:
+
+Each Specialist Mailbox should maintain:
+
+- Subscription ID
+- Subscription Expiry Time
+- Last Successful Notification Timestamp
+- Delta Token (`deltaLink`)
+- Last Reconciliation Timestamp
+
+If:
+
+- A notification is not received
+- A subscription is removed
+- A `missed` lifecycle event is received
+
+then ***-AI should:
+
+1. Recreate or renew the subscription if required.
+2. Execute a Delta Query from the last stored `deltaLink`.
+3. Process any newly discovered messages.
+4. Update the stored checkpoint.
+
+Microsoft documentation specifically recommends performing a full data resynchronisation (such as via Delta Query) when a `missed` lifecycle notification is received.
+
+---
+
+Design Recommendation :
+
+The ***-AI design should assume:
+
+- Notifications can be duplicated.
+- Notifications can be delayed.
+- Notifications can be delivered out of order.
+- Notifications can be missed.
+
+Therefore:
+
+> Graph Change Notifications provide latency optimisation, while Delta Queries provide completeness and recovery.
+
+The authoritative source of mailbox state should be Microsoft Graph message retrieval and Delta Query reconciliation, not the notification stream itself.
+
+---
+
+Conclusion
+
+Microsoft Graph Change Notifications should be treated as a **best-effort notification mechanism**, not a guaranteed delivery service.
+
+For production-grade processing of approximately 40–60 Specialist Mailboxes, Microsoft documentation recommends combining:
+
+- Graph Change Notifications for fast detection
+- Delta Queries for recovery and reconciliation
+- Lifecycle Notifications for subscription health monitoring
+- Idempotent processing to handle duplicates and retries
+
+This approach provides a resilient and recoverable architecture even when notifications are delayed, duplicated, or missed. 
+
+**Status:** Retry and acknowledgement behaviour discussed;
 
 ---
 
@@ -253,7 +376,11 @@ The only concrete direction from the call was to:
 - verify what timestamp attributes are returned by Graph;
 - perform additional checking on subscription monitoring and lifecycle behaviour.
 
-**Status:** Largely unanswered in the transcripts and left as a follow-up action.
+### Further guidance (post calls)
+
+Refer to "Further Guidance" in response to question 4
+
+**Status:** Refer to "Further Guidance" in response to question 4.
 
 ---
 
@@ -294,6 +421,31 @@ The resulting direction was to:
 - optionally use a stored hash for duplicate-processing detection;
 - keep the duplicate check in the application and Cosmos DB;
 - mark an identified duplicate or skip further processing.
+
+### Further Guidance (Post calls)
+
+`internetMessageId` is the strongest native candidate for recognising copies of the same Internet email across mailboxes, but the implementation should not use it as an unqualified global primary key.
+
+Use two levels of identity:
+
+1. **Physical mailbox item:** mailbox ID + immutable Graph message ID.
+2. **Logical email event:** normalised `internetMessageId`, supported by sender, sent/received time, subject and recipient information where needed.
+
+For retry duplicates affecting the same mailbox item, prefer the mailbox ID plus immutable message ID. For the same original email delivered independently to two Specialist mailboxes, use `internetMessageId` as the first cross-mailbox deduplication signal and verify the business rule before suppressing processing.
+
+This distinction matters because two Specialist mailboxes may legitimately represent different operational responsibilities. Technical duplication does not automatically mean that one business work item should be discarded. The deduplication record should therefore retain all mailbox deliveries and elect one canonical ***-AI case only when the routing rules say they represent the same work.
+
+A content hash can be used as a fallback diagnostic signal, but it is weaker than native IDs because transport systems can modify headers, body formatting or signatures. A hash should not replace `internetMessageId` and mailbox-specific identity.
+
+**Relevant Microsoft documentation**
+
+- [Microsoft Graph message resource](https://learn.microsoft.com/en-us/graph/api/resources/message?view=graph-rest-1.0)
+- [Obtain immutable identifiers for Outlook resources](https://learn.microsoft.com/en-us/graph/outlook-immutable-id)
+
+---
+Suggested implementation action:
+
+Test one message addressed simultaneously to two or more Specialist mailboxes and capture `internetMessageId`, `conversationId`, immutable Graph ID and headers in each mailbox. Define whether ***-AI creates one case with multiple mailbox deliveries or separate cases based on the business routing model.
 
 **Status:** General direction agreed; actual equality of identifiers across the targeted mailboxes still needed testing.
 
@@ -364,7 +516,8 @@ The agreed recommendation was to:
 - Build an application-owned cross-mailbox correlation model.
 - Use several attributes rather than relying on `conversationId` alone.
 - Use `InternetMessageId` as the strongest candidate for recognising the same message across mailboxes.
-- Implement duplicate detection in ***-AI.
+- Implement duplicate detection in ***-AI. Idempotent processing.
+- Implement a reliability mechanism for Delta Queries, management of Lifecycle Notifications of subscriptions.
 - Start with EP1 and benchmark the realistic workload.
 
 ## Options to validate through a POC
@@ -379,15 +532,15 @@ The agreed recommendation was to:
 
 ## Items not answered by the transcripts
 
-- Formal Graph Change Notification delivery SLA.
-- Full subscription creation, renewal and recovery design.
-- Exact monitoring capabilities for subscription health.
-- Definitive Graph support for the proposed cross-mailbox reply behaviour.
 - Confirmed timestamp fields available in the notification or retrieved message.
-- A documented requests-per-second capacity for EP1.
-- A prescribed Graph retry/backoff algorithm for message and attachment retrieval.
 
-## Transcript sources
+The `receivedDateTime` and `sentDateTime` field in the email are important because the send datetime is when the email was sent. The received datetime is when the email was received. It is the datetime when it entered the Specialist mailbox and therefore when ***-AI became responsible for it.
 
-- `RE_ ***-AI Architecture Revision - Removing Mailbox Redirection Rules.docx`
-- `RE_ ***-AI Architecture Revision - Removing Mailbox Redirection Rules part2.docx`
+```
+{
+  "internetMessageId": "<abc123@customer.com>",
+  "sentDateTime": "2026-10-01T09:01:00Z",
+  "receivedDateTime": "2026-10-01T09:02:17Z"
+}
+```
+
