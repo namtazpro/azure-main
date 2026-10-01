@@ -16,26 +16,27 @@ estimated_reading_time: 1
 
 Questions
 
-# LET-AI Architecture Revision: Microsoft Guidance on the Seven Questions
+# ***-AI Architecture Revision: Microsoft Guidance on the Seven Questions
 
 **Date:** 30 September 2026  
 **Scope:** Consolidated guidance from the two architecture calls on 30 September 2026, the written questions in the email thread, and Microsoft documentation.  
-**Business requirement confirmed:** LET-AI must send automated follow-up questions and responses **from the dedicated Bot mailbox** to the requester. The reply must remain associated with the existing business conversation as far as the mail clients allow. Sending as the Specialist mailbox is not the target design.
+**Business requirement confirmed:** ***-AI must send automated follow-up questions and responses **from the dedicated Bot mailbox** to the requester. The reply must remain associated with the existing business conversation as far as the mail clients allow. Sending as the Specialist mailbox is not the target design.
 
-> **Important design distinction:** Outlook's visual conversation grouping, message-level correlation, and LET-AI's own business-case correlation are related but are not the same thing. The implementation should not rely on a single Outlook property to provide all three.
+# ***-AI Architecture Questions: Responses from the Two Calls
 
-## Executive recommendation
+> **Scope:** This page is based only on the responses and options discussed in the two call transcripts. It deliberately excludes subsequent Microsoft documentation research and additional technical conclusions.
 
-Use a **Bot-mailbox-owned outbound message**, a **LET-AI correlation model in Cosmos DB**, and a resilient event-ingestion pattern:
+## Context agreed during the calls
 
-1. Subscribe to new messages in each Specialist mailbox through Microsoft Graph using application permissions scoped to the required mailboxes.
-2. Receive each notification through a lightweight webhook that validates and durably queues the event, then returns `202 Accepted` within three seconds.
-3. Fetch or process message content asynchronously from the queue.
-4. Store mailbox ID, Graph message ID using immutable IDs, `internetMessageId`, `conversationId`, timestamps, participants and a LET-AI request/correlation ID in Cosmos DB.
-5. Send requests for more information and automated responses **from the Bot mailbox**.
-6. Treat `internetMessageId` plus mailbox/message context as correlation evidence, not as the only database key.
-7. Make processing idempotent and use Outlook message delta queries as the reconciliation mechanism for missed notifications.
-8. Manage subscription renewal and lifecycle notifications as a first-class production workload.
+The proposed architecture removes mailbox redirection rules and the existing Logic App ingestion step. A common Microsoft Graph notification mechanism and Azure Function would identify the affected Specialist mailbox, retrieve message metadata, store or update the conversation history in Cosmos DB, and place the result on Service Bus for downstream processing.
+
+The second call confirmed the key business requirement:
+
+- The customer initially sends the email to a Specialist mailbox.
+- ***-AI processes the email.
+- If more information is needed, the follow-up must be sent **from the Bot mailbox**.
+- The business wants this exchange to remain in the same visible email thread.
+- Specialists normally interact through the ***-AI web application rather than replying directly from their mailbox.
 
 ---
 
@@ -43,31 +44,39 @@ Use a **Bot-mailbox-owned outbound message**, a **LET-AI correlation model in Co
 
 ### Question
 
-The initial customer email is received in a Specialist mailbox, while LET-AI sends automated responses using a dedicated Bot mailbox. What is the Microsoft-recommended approach to preserve the same Outlook conversation/thread when the source message and the automated response are handled by different mailboxes?
+Our initial customer email is received in a Specialist mailbox, while ***-AI may send automated responses using a dedicated Bot mailbox. What is the Microsoft-recommended approach to preserve the same Outlook conversation/thread when the source message and subsequent automated response are handled by different mailboxes?
 
-### Guidance
+### Responses and options discussed
 
-The revised requirement means the outbound response must originate from the Bot mailbox. Therefore, the implementation should **not** call `reply` or `replyAll` against the copy stored in the Specialist mailbox and then attempt to replace the sender with the Bot mailbox. A Graph reply operation is executed in the mailbox identified by the reply endpoint, and the resulting message is saved in that mailbox's Sent Items.
+The first conclusion was that an email sent directly from the Bot mailbox would ordinarily be coming from a different mailbox and could therefore appear as a different thread. Simply copying the Specialist mailbox on the Bot response was not considered sufficient by itself to establish that the Bot message was part of the original thread.
 
-The recommended LET-AI pattern is:
+Three options were discussed:
 
-- Keep the user-visible subject unchanged, including the existing `Re:` convention where applicable.
-- Send the outbound message from the Bot mailbox.
-- Preserve the original RFC message relationship where technically possible by using MIME-formatted mail with the original message's `Message-ID` represented through `In-Reply-To` and `References`.
-- Maintain an authoritative LET-AI conversation record in Cosmos DB, independent of Outlook's visual grouping.
-- Include an internal LET-AI correlation identifier in Cosmos DB and, where the chosen sending path supports it, an `x-` custom Internet header. Custom Internet headers must be added when the message is created and must start with `x-`.
+1. **Programmatically add the Bot mailbox to the stored incoming message**
 
-Outlook conversation grouping can depend on client and Exchange conversation behaviour. Consequently, same-thread visual presentation across different sender mailboxes should be validated through a focused POC using Outlook desktop, Outlook on the web and the actual external recipient domains. It should not be the sole correlation mechanism.
+   The development team proposed modifying the message metadata associated with the incoming Specialist-mailbox message to add the Bot address to CC. The intention was to make the Bot appear to be part of the exchange before it sends the follow-up. The team believed this was achievable using the message ID and planned to store the updated From, To and CC information in Cosmos DB.
 
-**Relevant Microsoft documentation**
+2. **Send the Bot response to the requester and copy the Specialist mailbox**
 
-- [Reply to an Outlook message with Microsoft Graph](https://learn.microsoft.com/en-us/graph/api/message-reply?view=graph-rest-1.0)
-- [Send Outlook messages from another user](https://learn.microsoft.com/en-us/graph/outlook-send-mail-from-other-user)
-- [Microsoft Graph message resource and custom Internet headers](https://learn.microsoft.com/en-us/graph/api/resources/message?view=graph-rest-1.0)
+   Under the proposed sequence, the outgoing message would be sent from the Bot mailbox to the requester, with the Specialist mailbox copied. The team expected that subsequent replies from the requester would then include the Bot and reduce the need for additional mailbox mapping.
 
-### Agreed implementation action
+3. **Maintain an application-owned conversation in Cosmos DB**
 
-EY/Unilever should run a POC in which the Bot mailbox sends a MIME response referencing the original message, and verify conversation grouping across the supported Outlook clients. Regardless of the result, Cosmos DB remains the system of record for the LET-AI business conversation.
+   The stronger agreement was that ***-AI should maintain its own complete mail history. The initial Specialist message, the Bot response and subsequent requester replies would all be appended to the corresponding Cosmos DB record. This was described during the call as creating ***-AI's "own graph" of the conversation.
+
+### Transcript-based guidance
+
+The calls did **not conclusively establish** that adding the Bot to the stored message's CC field would preserve the Outlook thread. That remained a proposal from the development team.
+
+The agreed direction was to:
+
+- test the CC/Bot participation approach;
+- keep the subject unchanged;
+- maintain the authoritative conversation history in Cosmos DB;
+- supplement the mail conversation with a ***-AI correlation mechanism;
+- perform a POC covering several back-and-forth messages.
+
+**Status:** Proposed approach requiring validation.
 
 ---
 
@@ -75,37 +84,53 @@ EY/Unilever should run a POC in which the Bot mailbox sends a MIME response refe
 
 ### Question
 
-Can `conversationId` be reliably used when one conversation involves the Specialist mailbox, Bot mailbox and customer? If not, which Microsoft Graph properties or RFC headers should be used?
+Can `conversationId` be reliably used to correlate messages when the same conversation involves multiple mailboxes, for example, Specialist mailbox, Bot mailbox and Customer? If not, which combination of Microsoft Graph properties or RFC email headers, such as `InternetMessageId`, `In-Reply-To` and `References`, is recommended for reliable cross-mailbox thread correlation?
 
-### Guidance
+### Responses and options discussed
 
-Do **not** use `conversationId` as the sole cross-mailbox key. Treat it as mailbox/Exchange conversation context. The two calls correctly converged on building a LET-AI-owned mapping in Cosmos DB.
+The first call did not produce a definitive answer about whether `conversationId` alone would remain reliable across the Specialist, Bot and requester mailboxes. The initial suggestion was that Graph's built-in correlation might not be sufficient and that ***-AI would probably need its own tracking mechanism.
 
-Store a correlation envelope for every message containing at least:
+The options discussed were:
 
-- LET-AI request/case ID.
-- Tenant and mailbox identifier.
-- Graph message ID, requested with `Prefer: IdType="ImmutableId"`.
-- `internetMessageId`.
-- `conversationId`.
-- Parent `internetMessageId` derived from `In-Reply-To`, where available.
-- `References`, where available.
-- Sender, recipients, normalised subject and `receivedDateTime`.
-- Processing state and idempotency status.
+1. **Use an application-owned correlation ID**
 
-Microsoft documents that normal Outlook item IDs can change when items move. Immutable IDs remain stable while the item remains in the same mailbox, although they are not cross-mailbox identifiers. This makes the immutable Graph ID appropriate for locating a message within one mailbox, while `internetMessageId` and RFC reply headers are stronger evidence for relationships between copies crossing mailboxes.
+   A ***-AI identifier could be included in the email, allowing subsequent messages to be mapped back to the same request. A visible identifier in the subject was compared with a Microsoft Support case number.
 
-The custom LET-AI ID is valuable for application observability and orphan-message investigation, but the team should test whether it survives every external mail hop and reply path. It must therefore complement, not replace, native message identifiers.
+2. **Create a composite key**
 
-**Relevant Microsoft documentation**
+   The development team proposed combining:
 
-- [Obtain immutable identifiers for Outlook resources](https://learn.microsoft.com/en-us/graph/outlook-immutable-id)
-- [Microsoft Graph message resource](https://learn.microsoft.com/en-us/graph/api/resources/message?view=graph-rest-1.0)
-- [Use the Outlook mail REST API](https://learn.microsoft.com/en-us/graph/api/resources/mail-api-overview?view=graph-rest-1.0)
+   - Graph `conversationId`; and
+   - the existing auto-generated ***-AI request ID.
 
-### Agreed implementation action
+   The proposed structure was:
 
-Create and document the Cosmos DB correlation schema and test it against: normal reply; reply-all; multiple back-and-forth messages; subject edits; message moves; multiple Specialist recipients; delayed notifications; and external recipients.
+   `conversationId + requestId`
+
+   This composite value would be stored in Cosmos DB and used as the ***-AI correlation ID.
+
+3. **Use multiple mail attributes**
+
+   The guidance during the second call was not to depend on one property alone. The team should use as many relevant message attributes as possible when composing the correlation key, including `conversationId` and information identifying where the message came from.
+
+4. **Add a custom identifier to the email header**
+
+   A custom email-header attribute had previously been considered for NDR correlation. The same option was raised here because it would not be visible to the user and could help diagnose an orphan email by inspecting its headers. It was positioned as an additional or nice-to-have safeguard rather than the primary mechanism.
+
+5. **Keep the full message sequence in Cosmos DB**
+
+   For every step, the application would append the incoming or outgoing message information to its Cosmos DB mail-history array.
+
+### Transcript-based guidance
+
+The most complete option discussed was to:
+
+- maintain a custom conversation model in Cosmos DB;
+- use a composite key based on `conversationId`, the ***-AI request ID and other available message attributes;
+- optionally add a custom correlation attribute to the email header;
+- not assume that `conversationId` alone is sufficient until the multi-mailbox behaviour has been tested.
+
+**Status:** Direction agreed, but the exact property combination still requires a POC.
 
 ---
 
@@ -113,31 +138,44 @@ Create and document the Cosmos DB correlation schema and test it against: normal
 
 ### Question
 
-Can an application reply to a message residing in a Specialist mailbox while sending the response from the Bot mailbox?
+Can an application use Microsoft Graph to reply to a message residing in a Specialist mailbox while sending the response using a different Bot mailbox? If not, what is the Microsoft-recommended implementation pattern for maintaining reply and conversation continuity in this scenario?
 
-### Guidance
+### Responses and options discussed
 
-Not through a straightforward cross-mailbox use of the `reply` or `replyAll` action. The endpoint identifies the mailbox containing the original message, and the reply operation runs in that mailbox context. Microsoft Graph does support sending mail from another user, but this depends on the Graph permission model and Exchange `Send As` or `Send on Behalf` permissions. That feature is intended to make mail appear from another mailbox; it does not change the fact that a reply action is anchored to the mailbox/message addressed by the API call.
+The scenario was initially interpreted as sending on behalf of the Specialist mailbox. The team clarified that this was not the requirement: the reply must be sent **from the Bot mailbox**, while appearing in the same exchange initiated through the Specialist mailbox.
 
-For LET-AI, the business requirement is explicitly to send from the Bot mailbox. The recommended implementation is therefore:
+The following options were discussed:
 
-1. Read the original message and correlation metadata from the Specialist mailbox.
-2. Build the response as a new Bot-mailbox draft or MIME message.
-3. Address the requester and preserve the required Specialist recipients according to the business rule.
-4. Preserve RFC reply relationships where possible and maintain the authoritative LET-AI link in Cosmos DB.
-5. Send through the Bot mailbox.
+1. **Send on behalf of the Specialist mailbox**
 
-Adding the Bot address into the stored metadata or CC list of the Specialist mailbox's copy does not retroactively make the Bot a participant in the original delivered message. If the application updates a message in a mailbox, that is a change to that mailbox's stored item, not a redelivery of the changed message to the original recipients. The CC technique should not be used as the primary threading or correlation mechanism.
+   This was raised as a technical alternative, but it did not satisfy the stated business requirement because the team wanted the response to come from the Bot mailbox.
 
-**Relevant Microsoft documentation**
+2. **Send directly from the Bot mailbox**
 
-- [Reply to an Outlook message](https://learn.microsoft.com/en-us/graph/api/message-reply?view=graph-rest-1.0)
-- [Send Outlook messages from another user](https://learn.microsoft.com/en-us/graph/outlook-send-mail-from-other-user)
-- [Microsoft Graph mail API overview](https://learn.microsoft.com/en-us/graph/api/resources/mail-api-overview?view=graph-rest-1.0)
+   This satisfies the sender requirement, but the concern raised in the calls was that it could create a separate mail thread unless ***-AI establishes some form of correlation.
 
-### Agreed implementation action
+3. **Add the Bot address to the original message's CC metadata**
 
-Prototype the Bot-owned MIME send pattern. Confirm the expected To/CC behaviour with the business, particularly whether the Specialist mailbox must receive every Bot follow-up and whether requester replies should include both the Bot and Specialist.
+   The development team proposed adding the Bot mailbox programmatically when ***-AI first processes the Specialist message. The Bot would then send the follow-up to the requester, while the Specialist mailbox would remain copied. The development team considered this to resolve question three, subject to validation that the Bot address is added only when it is not already present.
+
+4. **Maintain continuity inside Cosmos DB**
+
+   Regardless of Outlook's presentation, ***-AI would associate the original Specialist message, Bot follow-up and requester response in its Cosmos DB conversation record.
+
+### Transcript-based guidance
+
+The calls did not technically prove that Graph can issue a cross-mailbox `reply` or `replyAll` exactly as described.
+
+The development team's selected option was to:
+
+- detect the incoming message in the Specialist mailbox;
+- add or represent the Bot address in the CC information;
+- send the follow-up from the Bot mailbox to the requester;
+- copy the Specialist mailbox;
+- preserve the subject;
+- use ***-AI's Cosmos DB correlation to maintain application-level continuity.
+
+**Status:** Development-team proposal judged worth pursuing, but not technically validated during the calls.
 
 ---
 
@@ -145,34 +183,39 @@ Prototype the Bot-owned MIME send pattern. Confirm the expected To/CC behaviour 
 
 ### Question
 
-For approximately 40–60 Specialist mailboxes, what delivery behaviour should be expected, and how should missed, delayed or duplicate notifications be handled?
+For approximately 40–60 Specialist mailboxes monitored through Microsoft Graph Change Notifications, what are the expected delivery guarantees for notifications? How should missed, delayed or duplicate notifications be handled in a production-grade implementation?
 
-### Guidance
+### Responses and options discussed
 
-Design the endpoint for **at-least-once-style processing**, meaning duplicates are possible and the consumer must be idempotent. Microsoft Graph considers a notification delivered when the endpoint returns a `2xx` response within three seconds. If processing can complete within that period, return `200 OK`. Otherwise, validate and persist the notification to a queue and return `202 Accepted` within three seconds.
+The discussion identified the following behaviours:
 
-If Graph receives a non-2xx response or no response within three seconds, it retries delivery for up to four hours using exponential backoff. Microsoft also warns that an endpoint which does not respond reliably may have notifications dropped, and dropped notifications cannot be recovered from the webhook itself.
+- Graph considers the notification delivered when the webhook returns a successful response within three seconds.
+- If Graph does not receive the acknowledgement, it retries the notification.
+- The retry period discussed was up to four hours.
+- The webhook listener was expected to be an Azure Function.
+- The retry of the webhook notification was described as Graph behaviour, not something the development team had to reproduce as its own webhook-delivery mechanism.
 
-Therefore:
+For duplicate delivery, the guidance was that ***-AI must check whether the notification or message has already been handled. Options discussed included:
 
-- Keep the HTTP-triggered Azure Function thin.
-- Validate `clientState` and notification authenticity.
-- Persist the notification to Service Bus or another durable queue before acknowledging it.
-- Use an idempotency key and conditional insert/update in Cosmos DB.
-- Process attachments and Graph lookups asynchronously, after acknowledgement.
-- Implement lifecycle notifications, including `missed`, `subscriptionRemoved` and `reauthorizationRequired` where supported.
-- Use message delta query per monitored folder as the recovery/reconciliation path when a gap is suspected or a lifecycle `missed` event is received.
+- creating a hash from the email or notification information;
+- storing that hash and its acknowledgement or processing state in the database;
+- checking Cosmos DB before processing;
+- marking an event as duplicate or skipping it when it has already been processed;
+- checking whether the corresponding `conversationId` or composite key already exists.
 
-**Relevant Microsoft documentation**
+### Transcript-based guidance
 
-- [Receive Microsoft Graph change notifications through webhooks](https://learn.microsoft.com/en-us/graph/change-notifications-delivery-webhooks)
-- [Reduce missing subscriptions and change notifications](https://learn.microsoft.com/en-us/graph/change-notifications-lifecycle-events)
-- [Use delta query to track changes](https://learn.microsoft.com/en-us/graph/delta-query-overview)
-- [Use message delta query](https://learn.microsoft.com/en-us/graph/api/message-delta?view=graph-rest-1.0)
+The proposed production behaviour was:
 
-### Agreed implementation action
+1. Receive the notification through the Azure Function webhook.
+2. Return the expected acknowledgement quickly.
+3. Track whether the notification or message has already been handled.
+4. Use a stored hash, conversation identifier or composite key for duplicate detection.
+5. Skip or mark duplicate events rather than processing them again.
 
-Implement durable queueing, idempotency and delta reconciliation before production. Monitor webhook response latency, non-2xx responses, queue depth, notification age, duplicate rate and reconciliation discoveries.
+The call did **not** establish a formal SLA or absolute delivery guarantee. That was explicitly identified as something that still needed checking.
+
+**Status:** Retry and acknowledgement behaviour discussed; formal guarantee remained unanswered.
 
 ---
 
@@ -180,34 +223,37 @@ Implement durable queueing, idempotency and delta reconciliation before producti
 
 ### Question
 
-What is the recommended production approach for creating, renewing, monitoring and recovering Graph subscriptions for approximately 40–60 mailboxes through one Entra application?
+What is the Microsoft-recommended production approach for creating, renewing, monitoring and recovering Microsoft Graph Change Notification subscriptions for approximately 40–60 mailboxes using a single Entra application?
 
-### Guidance
+### Responses and options discussed
 
-Use a subscription registry and renewal service rather than treating subscription creation as a deployment-time activity.
+This question was not fully resolved during the calls.
 
-The registry should store subscription ID, mailbox/resource, change type, expiration, notification URL, lifecycle URL, client-state reference, status, last renewal attempt and last successful notification. A scheduled process should renew subscriptions ahead of expiry, retry transient failures and recreate subscriptions that are removed or cannot be renewed.
+The discussion focused mainly on delayed notifications and preserving the original email time:
 
-When creating the subscriptions:
+- The team wanted to know whether a notification received later would still expose the actual time the email arrived in the Specialist mailbox.
+- The existing solution generated its own timestamp using Python date/time and timezone modules.
+- The suggestion was to use the message metadata or message headers to obtain the date/time associated with the email landing in the mailbox, instead of relying only on the time ***-AI processed the notification.
+- It was assumed that the mailbox-received time would be available, but this was explicitly marked as something requiring verification.
 
-- Use application permissions for subscribing to other users' mailboxes. Delegated Outlook permissions only support folders in the signed-in user's mailbox.
-- Apply least privilege and scope the application to the required mailboxes through the organisation's Exchange/identity controls.
-- Supply a `lifecycleNotificationUrl` at creation time. Microsoft states that it cannot be added later by updating an existing subscription; the subscription must be recreated.
-- Use the immutable-ID preference when creating subscriptions if downstream processing stores Graph IDs.
-- Maintain a delta token per monitored mail folder so that a removed or missed subscription can be reconciled.
+No detailed process was agreed for:
 
-The documented limit is 1,000 active Outlook-resource subscriptions per mailbox across all applications. The proposed one-subscription-per-mailbox pattern for 40–60 mailboxes is not close to that per-mailbox limit, but the application must still manage each subscription's expiry and health.
+- creating subscriptions;
+- renewing subscriptions before expiration;
+- monitoring subscription health;
+- recreating failed or expired subscriptions;
+- recovering a gap after subscription failure.
 
-**Relevant Microsoft documentation**
+### Transcript-based guidance
 
-- [Outlook change notifications overview](https://learn.microsoft.com/en-us/graph/outlook-change-notifications-overview)
-- [Manage change notification subscriptions](https://learn.microsoft.com/en-us/graph/change-notifications-overview)
-- [Lifecycle notifications](https://learn.microsoft.com/en-us/graph/change-notifications-lifecycle-events)
-- [Immutable IDs with change notifications](https://learn.microsoft.com/en-us/graph/outlook-immutable-id)
+The only concrete direction from the call was to:
 
-### Agreed implementation action
+- preserve the email's actual mailbox arrival timestamp in Cosmos DB;
+- not rely solely on a timestamp created when ***-AI processes the notification;
+- verify what timestamp attributes are returned by Graph;
+- perform additional checking on subscription monitoring and lifecycle behaviour.
 
-Build the subscription registry, automated renewal/recreation process and operational alerts. Run an expiry-and-recovery test before go-live rather than validating only steady-state delivery.
+**Status:** Largely unanswered in the transcripts and left as a follow-up action.
 
 ---
 
@@ -215,31 +261,41 @@ Build the subscription registry, automated renewal/recreation process and operat
 
 ### Question
 
-If the same email is delivered to multiple Specialist mailboxes, how should LET-AI identify and deduplicate the underlying email event? Can `internetMessageId` be used across mailboxes?
+If the same email is delivered to multiple Specialist mailboxes, how does Microsoft recommend identifying and deduplicating the underlying email event? Can `InternetMessageId` be reliably used as the message-level correlation key across different mailboxes?
 
-### Guidance
+### Responses and options discussed
 
-`internetMessageId` is the strongest native candidate for recognising copies of the same Internet email across mailboxes, but the implementation should not use it as an unqualified global primary key.
+The development team described a case in which a requester includes two Specialist mailboxes on the same email. This generates separate processing paths that ***-AI must recognise as copies of the same underlying message.
 
-Use two levels of identity:
+The options discussed were:
 
-1. **Physical mailbox item:** mailbox ID + immutable Graph message ID.
-2. **Logical email event:** normalised `internetMessageId`, supported by sender, sent/received time, subject and recipient information where needed.
+1. **Use `InternetMessageId`**
 
-For retry duplicates affecting the same mailbox item, prefer the mailbox ID plus immutable message ID. For the same original email delivered independently to two Specialist mailboxes, use `internetMessageId` as the first cross-mailbox deduplication signal and verify the business rule before suppressing processing.
+   During the call, `InternetMessageId` was described as the strongest cross-mailbox candidate for identifying copies of the same message.
 
-This distinction matters because two Specialist mailboxes may legitimately represent different operational responsibilities. Technical duplication does not automatically mean that one business work item should be discarded. The deduplication record should therefore retain all mailbox deliveries and elect one canonical LET-AI case only when the routing rules say they represent the same work.
+2. **Use a hash**
 
-A content hash can be used as a fallback diagnostic signal, but it is weaker than native IDs because transport systems can modify headers, body formatting or signatures. A hash should not replace `internetMessageId` and mailbox-specific identity.
+   A hash of the email or notification information could be generated and stored in Cosmos DB. Each new event would be checked against the stored hash, and an existing match would be marked as duplicate or not processed.
 
-**Relevant Microsoft documentation**
+3. **Check `conversationId` or the composite correlation key**
 
-- [Microsoft Graph message resource](https://learn.microsoft.com/en-us/graph/api/resources/message?view=graph-rest-1.0)
-- [Obtain immutable identifiers for Outlook resources](https://learn.microsoft.com/en-us/graph/outlook-immutable-id)
+   The application could check whether a corresponding conversation or composite key already exists before inserting or processing the event. However, the conversation explicitly noted uncertainty about whether copies received in different Specialist mailboxes would have the same `conversationId`.
 
-### Agreed implementation action
+4. **Add a custom correlation ID**
 
-Test one message addressed simultaneously to two or more Specialist mailboxes and capture `internetMessageId`, `conversationId`, immutable Graph ID and headers in each mailbox. Define whether LET-AI creates one case with multiple mailbox deliveries or separate cases based on the business routing model.
+   A ***-AI-owned correlation identifier could provide an additional check alongside `InternetMessageId`.
+
+### Transcript-based guidance
+
+The resulting direction was to:
+
+- use `InternetMessageId` as the primary cross-mailbox candidate;
+- add a ***-AI correlation ID or composite key as an additional verification mechanism;
+- optionally use a stored hash for duplicate-processing detection;
+- keep the duplicate check in the application and Cosmos DB;
+- mark an identified duplicate or skip further processing.
+
+**Status:** General direction agreed; actual equality of identifiers across the targeted mailboxes still needed testing.
 
 ---
 
@@ -247,81 +303,91 @@ Test one message addressed simultaneously to two or more Specialist mailboxes an
 
 ### Question
 
-For messages and attachments across approximately 40–60 mailboxes, what throttling, concurrency and retry behaviour should be implemented, and is EP1 sufficient?
+For an application processing messages and attachments across approximately 40–60 mailboxes, what Graph throttling, concurrency and retry considerations should be accounted for, and what retry/backoff pattern is recommended for this scenario?
 
-### Guidance
+### Responses and options discussed
 
-Microsoft Graph throttling limits vary by workload and request type; there is no single supported requests-per-second number for this design. When throttled, Graph returns `429 Too Many Requests` and normally supplies `Retry-After`. The application should wait for that duration before retrying. If no `Retry-After` value is present, use capped exponential backoff with jitter. Immediate repeated retries increase throttling pressure.
+The key architectural guidance from the second call was to separate rapid notification ingestion from later processing:
 
-Separate notification acceptance from message processing:
+1. The Azure Function receiving the notification must be able to scale.
+2. It should ingest the incoming notification promptly.
+3. The event should then be placed onto a queue.
+4. Message and attachment processing can be performed asynchronously by pulling from that queue.
+5. The design should avoid slow processing in the webhook path because failure to respond within the expected interval would cause Graph to retry.
 
-- **Ingress Function:** validate, enqueue, acknowledge within three seconds.
-- **Queue-triggered workers:** retrieve message metadata, body and attachments from Graph.
-- **Concurrency control:** set worker concurrency according to Graph response behaviour, attachment sizes, Service Bus capacity and downstream systems.
-- **Per-mailbox fairness:** prevent a busy mailbox from consuming all worker capacity.
-- **Retry policy:** distinguish `429`, transient `5xx`, permanent `4xx`, expired/missing messages and poison events.
-- **Telemetry:** record Graph request duration, status, `Retry-After`, mailbox, operation type, queue age and end-to-end processing latency.
+The existing Function App was described as using Elastic Premium EP1. The response was that EP1 should scale, but the team needed to perform its own benchmarking.
 
-EP1 is an Elastic Premium Azure Functions size that can scale out, but Microsoft does not publish a universal "messages per second" throughput for an EP1 workload. Capacity depends on execution time, memory/CPU use, language worker, attachment processing, concurrency and dependencies. The call's estimate of roughly 40–60 simultaneous arrivals is not sufficient evidence to prescribe EP1 or EP2. Start with EP1 only as a measured baseline, configure scale-out appropriately, and load-test the actual two-stage pipeline. Scaling the Function will not remove Microsoft Graph throttling, so downstream concurrency must remain controlled.
+The workload examples discussed were:
 
-**Relevant Microsoft documentation**
+- approximately 40–60 Specialist mailboxes;
+- potentially 40–60 emails arriving at the same time;
+- prior observations of roughly 2–13 emails per minute for one or two mailboxes;
+- larger attachments increasing processing time.
 
-- [Microsoft Graph throttling guidance](https://learn.microsoft.com/en-us/graph/throttling)
-- [Azure Functions Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan)
-- [Concurrency in Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-concurrency)
-- [Receive Graph notifications through webhooks](https://learn.microsoft.com/en-us/graph/change-notifications-delivery-webhooks)
+The sizing options discussed were:
 
-### Agreed implementation action
+- begin with EP1;
+- measure how many Function executions can be completed per second;
+- observe whether throttling occurs;
+- scale higher if required;
+- avoid assuming that Graph retries are a substitute for sufficient Function capacity;
+- use the queue to absorb bursts and process the backlog asynchronously.
 
-Run load tests at expected average, peak and burst rates, including realistic attachment sizes and Graph latency. Success criteria should cover webhook acknowledgement under three seconds, zero unreconciled message loss, controlled duplicate processing, bounded queue age, acceptable end-to-end latency and stable Graph `429` rates.
+The transcript also contains an informal statement that 60 requests per second on EP1 "seems reasonable", but this was not based on a demonstrated benchmark or formal documentation during the call. It should therefore be treated as an initial sizing hypothesis rather than a confirmed capacity figure.
 
----
+### Transcript-based guidance
 
-## Required actions and ownership
+The agreed recommendation was to:
 
-### EY / Unilever development team
+- start with EP1;
+- ensure the notification receiver can scale;
+- acknowledge notifications quickly;
+- queue work for asynchronous processing;
+- benchmark the actual workload;
+- include realistic attachment sizes and burst scenarios;
+- scale beyond EP1 if the benchmark shows throttling or insufficient throughput.
 
-- Implement the Bot-mailbox-owned outbound pattern and prove conversation behaviour with real clients.
-- Define the Cosmos DB correlation and idempotency schema.
-- Add immutable-ID preferences to relevant Graph requests and subscriptions.
-- Implement durable webhook queueing and return `202` after persistence.
-- Build subscription registry, automatic renewal/recreation and lifecycle handling.
-- Implement delta-query reconciliation per monitored folder.
-- Implement retry handling based on `Retry-After`, with capped exponential backoff and jitter as fallback.
-- Load-test EP1 with realistic messages, attachments and downstream processing.
-- Confirm the business deduplication rule when one customer message reaches multiple Specialist mailboxes.
-
-### Microsoft guidance completed in this note
-
-- Clarified that Graph does not expose a fixed EP1 messages-per-second guarantee.
-- Confirmed documented webhook acknowledgement and retry behaviour.
-- Confirmed lifecycle notification and delta-query recovery patterns.
-- Confirmed that immutable Graph IDs are mailbox-scoped and that normal IDs can change after moves.
-- Clarified the distinction between replying in the Specialist mailbox and sending from the Bot mailbox.
-- Confirmed Graph throttling handling through `429` and `Retry-After`.
-
-### Open business decisions
-
-- Should every Bot response copy the originating Specialist mailbox?
-- When the requester replies, must both Bot and Specialist remain recipients?
-- If one message is delivered to multiple Specialist mailboxes, should LET-AI create one shared case or separate operational cases?
-- Which Outlook clients and external recipient domains are in the supported conversation-preservation test matrix?
-- What are the acceptable recovery point, recovery time and end-to-end processing latency objectives?
+**Status:** Architectural pattern agreed; final sizing requires benchmark results.
 
 ---
 
-## Evidence from the calls
+# Consolidated outcome from the calls
 
-The first call established that the proposed architecture replaces mailbox redirection and Logic App ingestion with Microsoft Graph change notifications, a common webhook, Cosmos DB correlation data and Service Bus. The second call clarified that sending responses through the Bot mailbox is a business requirement, that LET-AI already maintains message history in Cosmos DB, and that the team needs guidance on change-notification reliability, subscription management, deduplication and scaling.
+## Agreed direction
 
-The two calls also identified the following implementation principles: maintain a LET-AI-owned conversation model; test a custom correlation header as a secondary diagnostic mechanism; make notification processing idempotent; acknowledge notifications quickly and process asynchronously; and benchmark the actual EP1 workload rather than assuming a fixed throughput.
+- Remove Specialist-mailbox redirection rules.
+- Use Graph notifications and an Azure Function for ingestion.
+- Store message metadata and conversation history in Cosmos DB.
+- Pass work to Service Bus for downstream asynchronous processing.
+- Send additional questions and final communications from the Bot mailbox.
+- Keep the subject unchanged.
+- Build an application-owned cross-mailbox correlation model.
+- Use several attributes rather than relying on `conversationId` alone.
+- Use `InternetMessageId` as the strongest candidate for recognising the same message across mailboxes.
+- Implement duplicate detection in ***-AI.
+- Start with EP1 and benchmark the realistic workload.
 
-## Source material
+## Options to validate through a POC
 
-- First call: `RE_ LET-AI Architecture Revision - Removing Mailbox Redirection Rules.docx`, 30 September 2026.
-- Second call: `RE_ LET-AI Architecture Revision - Removing Mailbox Redirection Rules part2.docx`, 30 September 2026.
-- Email thread: `RE: LET-AI Architecture Revision - Removing Mailbox Redirection Rules`, containing the seven written questions.
-- Microsoft Learn documentation linked under each question.
+- Programmatically adding the Bot address to CC on the Specialist-mailbox message.
+- Whether this addition actually helps preserve the visible Outlook thread.
+- A composite correlation key based on `conversationId` and the ***-AI request ID.
+- A hidden custom correlation attribute in the email header.
+- Whether that custom attribute survives repeated back-and-forth messages.
+- Whether `conversationId` remains the same across copies in different Specialist mailboxes.
+- Whether `InternetMessageId` remains the same in all targeted duplication scenarios.
 
+## Items not answered by the transcripts
 
+- Formal Graph Change Notification delivery SLA.
+- Full subscription creation, renewal and recovery design.
+- Exact monitoring capabilities for subscription health.
+- Definitive Graph support for the proposed cross-mailbox reply behaviour.
+- Confirmed timestamp fields available in the notification or retrieved message.
+- A documented requests-per-second capacity for EP1.
+- A prescribed Graph retry/backoff algorithm for message and attachment retrieval.
 
+## Transcript sources
+
+- `RE_ ***-AI Architecture Revision - Removing Mailbox Redirection Rules.docx`
+- `RE_ ***-AI Architecture Revision - Removing Mailbox Redirection Rules part2.docx`
