@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+name: mcs-mcp-sql
+metadata:
+  template: mcs-mcp-sql@0.0.1
+infra:
+  provider: bicep
+  path: infra
+services:
+  api:
+    project: ./src/ItsmApi
+    language: dotnet
+    host: function
+hooks:
+  postprovision:
+    shell: pwsh
+    run: ./database/deploy-db.ps1
+    interactive: true
+    continueOnError: false

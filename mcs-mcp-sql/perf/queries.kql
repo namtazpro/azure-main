@@ -1,0 +1,28 @@
+// Application Insights (workspace-based) queries for the demo. Paste into Logs on the appi-* resource.
+
+// 1) API latency per operation (server-side, last hour)
+requests
+| where timestamp > ago(1h) and operation_Name !in ("RenderOpenApiDocument", "RenderSwaggerDocument")
+| summarize calls = count(), failures = countif(success == false),
+            p50 = percentile(duration, 50), p95 = percentile(duration, 95), p99 = percentile(duration, 99)
+    by operation_Name
+| order by p95 desc
+
+// 2) SQL time vs total function time per operation (dependency = the stored procedure call)
+let reqs = requests | where timestamp > ago(1h) | project operation_Id, operation_Name, apiMs = duration;
+let sql = dependencies | where timestamp > ago(1h) and type == "SQL" | summarize sqlMs = sum(duration) by operation_Id;
+reqs | join kind=leftouter sql on operation_Id
+| summarize apiP50 = percentile(apiMs, 50), sqlP50 = percentile(sqlMs, 50),
+            apiP95 = percentile(apiMs, 95), sqlP95 = percentile(sqlMs, 95) by operation_Name
+
+// 3) Throughput and errors over time
+requests
+| where timestamp > ago(1h)
+| summarize calls = count(), failures = countif(success == false), p95 = percentile(duration, 95) by bin(timestamp, 1m)
+| render timechart
+
+// 4) Slowest individual calls
+requests
+| where timestamp > ago(1h)
+| top 20 by duration desc
+| project timestamp, operation_Name, duration, resultCode, url
