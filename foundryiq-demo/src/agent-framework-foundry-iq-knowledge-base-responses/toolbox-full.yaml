@@ -1,0 +1,14 @@
+description: Travel policy knowledge and Work IQ Mail
+tools:
+  - type: mcp
+    name: travel_policy_knowledge
+    server_label: travel_policy
+    server_url: ${KB_MCP_ENDPOINT}
+    project_connection_id: knowledge-base-mcp
+    require_approval: never
+  - type: mcp
+    name: workiq_mail
+    server_label: workiq_mail
+    server_url: https://workiq.svc.cloud.microsoft/mcp
+    project_connection_id: workiq-mail-mcp
+    require_approval: never

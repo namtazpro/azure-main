@@ -1,0 +1,5 @@
+{"query":"What is the maximum domestic hotel rate?","required_facts":["$250/night","director approval"],"category":"Hotels"}
+{"query":"Who approves a $3,500 domestic trip?","required_facts":["director approval"],"category":"Approvals"}
+{"query":"When is an expense report due?","required_facts":["10 business days","30 days","VP approval"],"category":"Expenses"}
+{"query":"Can I fly business class on an eight-hour flight?","required_facts":["Premium economy","Business class requires VP approval","over 10 hours"],"category":"Airlines"}
+{"query":"What must I do before international travel?","required_facts":["visa requirements","30 days","Security Awareness Briefing"],"category":"International"}
